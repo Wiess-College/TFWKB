@@ -1,13 +1,13 @@
 ---
-title: Crest, colours and symbols
+title: Crest, colors and symbols
 status: draft
 last_reviewed: 2026-10-05
 reviewed_by: unreviewed
 ---
 
-# Crest, colours and symbols
+# Crest, colors and symbols
 
-Wiess's coat of arms is the Wiess family's own, altered. In 1997 the college's first website explained that when the residential colleges began in 1957, each of the original four took a coat of arms to tell "four relatively identical dormitories" apart, and that Wiess adopted "the crest of the Wiess family for which the college is named", changing its colours "from blue and white (???) to black and gold" and "replacing a goose on top of the knight's helmet with a Rice Owl" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. The crest was on the blazers the first Magister required at Sunday dinner, and it hangs in Sparky's today [@oweek-2006 p.37] [@oweek-2014 p.46]. The college's colours have moved further than its arms. The O-Week histories say Wiess began with brown and green, or with "gold", and arrived at **goldenrod** in the 1980s; the 1994 handbook gives "Black and Gold" as the official colours; every glossary from 2003 has "Goldenrod. The official Wiess color", with "Remember it's not yellow!" from 2014 [@oweek-2006 p.38] [@oweek-2010 p.38] [@handbook-1994] [@oweek-2003 p.4] [@oweek-2014 p.103]. The War Pig, the college's mascot, has [its own page](warpig.md); TFW, its abbreviation, is on [Team Wiess](team-wiess.md).
+Wiess's coat of arms is the Wiess family's own, altered. In 1997 the college's first website explained that when the residential colleges began in 1957, each of the original four took a coat of arms to tell "four relatively identical dormitories" apart, and that Wiess adopted "the crest of the Wiess family for which the college is named", changing its colors "from blue and white (???) to black and gold" and "replacing a goose on top of the knight's helmet with a Rice Owl" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. The crest was on the blazers the first Magister required at Sunday dinner, and it hangs in Sparky's today [@oweek-2006 p.37] [@oweek-2014 p.46]. The college's colors have moved further than its arms. The O-Week histories say Wiess began with brown and green, or with "gold", and arrived at **goldenrod** in the 1980s; the 1994 handbook gives "Black and Gold" as the official colors; every glossary from 2003 has "Goldenrod. The official Wiess color", with "Remember it's not yellow!" from 2014 [@oweek-2006 p.38] [@oweek-2010 p.38] [@handbook-1994] [@oweek-2003 p.4] [@oweek-2014 p.103]. The War Pig, the college's mascot, has [its own page](warpig.md); TFW, its abbreviation, is on [Team Wiess](team-wiess.md).
 
 ## The arms
 
@@ -23,10 +23,10 @@ The images the college has published since 2014 (below) show a shield divided bl
 | 1980s | "Wiess also made the switch from brown and green college colors to our infamous goldenrod, which more accurately reflects the boldness and energy of Wiess", in the 2006 history's paragraph on the 1980s [@oweek-2006 p.38] | [R] |
 | 1970s | The Commons "really was decorated in purple and lime green" (memories of two alumni; see [The Commons](../places/commons.md)) [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016] | [T] |
 | 1994 | "**Black and Gold.** Official Wiess colors (also the main reason for the color scheme in the Commons)"; the basement game room "Recently repainted and rededcorated in black and gold"; the Acatramp "purple and black" [@handbook-1994] | [P] |
-| 1997-08-11 | The crest page on the first website (David Cunningham), with the "(???)" over the family's original colours [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]; unchanged under Ray Wagner to 2000 [@wb 20001207044500 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html] | [P] |
+| 1997-08-11 | The crest page on the first website (David Cunningham), with the "(???)" over the family's original colors [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]; unchanged under Ray Wagner to 2000 [@wb 20001207044500 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html] | [P] |
 | 1999-10-05 | About two hundred students "in gold T-shirts" at the New Wiess groundbreaking [@rice-news-1999-10-14-groundbreaking] | [P] |
 | 2003 | "**Goldenrod.** The official Wiess color. It will soon dominate your wardrobe" [@oweek-2003 p.4]; freshmen greeted by "a sea of goldenrod T-shirts" [@oweek-2003 conclusions p.9] | [P] |
-| 2014 | "Remember it's not yellow!" added to the glossary [@oweek-2014 p.103]; Sparky's has "goldenrod paint… and of course, the Wiess crest" [@oweek-2014 p.46]; the shield in colour on the college website [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png] | [P] |
+| 2014 | "Remember it's not yellow!" added to the glossary [@oweek-2014 p.103]; Sparky's has "goldenrod paint… and of course, the Wiess crest" [@oweek-2014 p.46]; the shield in color on the college website [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png] | [P] |
 | 2015-06 | A black-and-white crest on the website [@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif] | [P] |
 | 2017 | The 60th-anniversary crest and banner: "Wiess College 60th Anniversary 1957–2017" [@wb 20170602224644 http://teamwiess.com/60/Wiess60-crest-with-date-small.png] [@wb 20170602224639 http://teamwiess.com/60/Wiess60-banner.png] | [P] |
 | 2019–2025 | Glossary, every book: "**Goldenrod** The official Wiess color. It will soon dominate your wardrobe. Remember, it's not yellow!"; history: "gold (which became the goldenrod we know and love today in the '80s)"; Sparky's "emblazoned with a massive Wiess crest" (2019, 2021 glossaries) [@oweek-2019 p.14] [@oweek-2019 p.12] [@oweek-2019 p.15] [@oweek-2025 p.26] | [P] |
@@ -39,8 +39,8 @@ The images the college has published since 2014 (below) show a shield divided bl
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.](../assets/photos/graphics/wiessshield1.jpg){ loading=lazy data-title="The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top." data-description="teamwiess.com, 2014 · by 2014" data-gallery="symbols" }
-  <figcaption>The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top. <small>teamwiess.com, 2014 [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]</small></figcaption>
+  ![The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.](../assets/photos/graphics/wiessshield1.jpg){ loading=lazy data-title="The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top." data-description="teamwiess.com, 2014 · by 2014" data-gallery="symbols" }
+  <figcaption>The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top. <small>teamwiess.com, 2014 [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -71,9 +71,9 @@ The images the college has published since 2014 (below) show a shield divided bl
 
 ## Variants & disputes
 
-- **Which colours?** The record gives four answers. Brown and green, then goldenrod in the 1980s (2006) [@oweek-2006 p.38]. Gold from "the early days", turning goldenrod "probably through a joke of a Wiessman of the '80s" (2010) [@oweek-2010 p.38]. Black and gold, official in 1994 [@handbook-1994]. Goldenrod, official from 2003 [@oweek-2003 p.4]. They fit if the arms were black and gold from 1957, the college colour was gold or goldenrod by the 1980s, and "black and gold" in 1994 named the pair. Brown and green has no source but the 2006 book, and its successor rewrote the passage four years later. The 1970s purple-and-green Commons is decoration, not a college colour.
-- **The beanies.** Freshmen of the 1950s wore "green beanies" (2006), later "goldenrod and navy beanies" (2010) [@oweek-2006 p.37] [@oweek-2010 p.38]. One book or the other is wrong. Green fits the 2006 book's brown-and-green colours, but the books are not independent.
-- **Blue and white?** The 1997 webmaster could not confirm the Wiess family's original colours and said so, "(???)" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Nothing since has settled it.
+- **Which colors?** The record gives four answers. Brown and green, then goldenrod in the 1980s (2006) [@oweek-2006 p.38]. Gold from "the early days", turning goldenrod "probably through a joke of a Wiessman of the '80s" (2010) [@oweek-2010 p.38]. Black and gold, official in 1994 [@handbook-1994]. Goldenrod, official from 2003 [@oweek-2003 p.4]. They fit if the arms were black and gold from 1957, the college color was gold or goldenrod by the 1980s, and "black and gold" in 1994 named the pair. Brown and green has no source but the 2006 book, and its successor rewrote the passage four years later. The 1970s purple-and-green Commons is decoration, not a college color.
+- **The beanies.** Freshmen of the 1950s wore "green beanies" (2006), later "goldenrod and navy beanies" (2010) [@oweek-2006 p.37] [@oweek-2010 p.38]. One book or the other is wrong. Green fits the 2006 book's brown-and-green colors, but the books are not independent.
+- **Blue and white?** The 1997 webmaster could not confirm the Wiess family's original colors and said so, "(???)" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Nothing since has settled it.
 - **Is the beast a griffin?** It is drawn with an eagle's head, wings and forelegs and a lion's hindquarters, which is a griffin. No college source names it.
 
 ## Open questions

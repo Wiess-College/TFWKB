@@ -88,8 +88,8 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 </figure>
 
 <figure markdown="span">
-  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
-  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -103,8 +103,8 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 </figure>
 
 <figure markdown="span">
-  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
-  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -122,7 +122,7 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 - **The dedication date.** The December 2001 plan names Saturday 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Kean dates the dedication photograph to 2002 [@rhc 2014-11-19 wiess-college-luminaries], though the image file she posted is named "…2006". No source confirms the September date was kept.
 - **"The first new dormitory in 25 years."** Kirksey's phrase [@kirksey-wiess] echoes the 1994 handbook's "first new dormitory in thirty-two years" for the 1949 building [@riceinfo-history]. Both are the kind of claim a brochure makes; neither is checked here.
 - **Spelling.** Kirksey's page is titled "Rice University New Weiss College" and refers to "Hanson College" [@kirksey-wiess]. Kean's editor once changed every "Wiess" in her book to "Weiss" [@rhc 2016-05-24 hanging-out-at-wiess]. The college has fought this since at least 1997, when a spam mailing's "Weiss (note the misspelling)" made the homepage [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-- **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; the Historian says "large vines" [@testimony-mullen-2026-10-05c vines]. Neither is a botanical identification.
+- **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; the maintainer says "large vines" [@testimony-mullen-2026-10-05c vines]. Neither is a botanical identification.
 - **Hanszen and the terrace.** "The terrace behind the Commons that we unfortunately have to share with Hanszen" from 2003 to 2011 [@oweek-2003 p.3] [@oweek-2011 p.92]; "that we share with Hanszen" from 2014 [@oweek-2014 p.102]. See [Hanszen (the rivalry)](../traditions/hanszen-rivalry.md).
 
 ## Open questions
@@ -133,7 +133,7 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 - Was the new commons in fact used by Hanszen in 2000–01 while theirs was rebuilt, as Lundin said it would be [@riceinfo-news-2000-lundin]?
 - The 2014–17 teamwiess.com had "Old Wiess" and "New Wiess" pages under About, but both were rendered by JavaScript and are empty in every capture [@wb 20140627224504 http://teamwiess.com/]. Whoever wrote them may still have the text.
 - The vines: what species they were (the architects say ivy; a creeping fig would also be usual in Houston), whether Facilities removed the dead growth or let it fall, and whether replanting was ever proposed. A dated photograph of the façade from 2021–22 would show the vines dead or gone.
-- The architects' renderings of the vine-covered screens, which the Historian has seen: the Machado and Silvetti images held in the corpus include a full west-façade elevation [@machado-silvetti-wiess]; the renderings themselves should be found and cited.
+- The architects' renderings of the vine-covered screens, which the maintainer has seen: the Machado and Silvetti images held in the corpus include a full west-façade elevation [@machado-silvetti-wiess]; the renderings themselves should be found and cited.
 - The 2014–15 public budget and Cabinet minutes would date the Acaglider, Acagrill and later additions more exactly than "2008" [@oweek-2010 p.39].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

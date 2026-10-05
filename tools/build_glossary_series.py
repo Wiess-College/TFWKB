@@ -57,7 +57,7 @@ ALIASES = {
     "passfail": "pf", "rice village": "village", "leebron": "leebron and ping",
     "bc lindsay": "bc", "doward christie": "doward", "mike denise": "mike",
     "ironmanironwoman": "ironmanironwoman",
-    # 2019–2025 books (Historian's collection)
+    # 2019–2025 books (maintainer's collection)
     "acagliders": "acaglider", "acagrills": "acagrill", "afellows": "affiliates",
     "wilson house wiess magister house": "wiess master house",
     "the bookstore": "bookstore", "coffeehouse chaus": "coffeehouse", "fondren fondy": "fondren",

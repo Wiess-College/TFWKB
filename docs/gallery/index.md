@@ -7,9 +7,9 @@ reviewed_by: unreviewed
 
 # Photographs
 
-Every photograph and graphic placed on a Record page, 97 in all, grouped by the page it illustrates. Click any image to enlarge it; the caption under each says what it shows, where it came from and how we know the date. Where the source is a capture of a college website, the citation opens that capture in the Wayback Machine. Where a caption says *source not recorded*, the image reached the Historian's collection without a note of where it was first published, and its date comes from its file name or its content; treat those dates as provisional.
+Every photograph and graphic placed on a Record page, 97 in all, grouped by the page it illustrates. Click any image to enlarge it; the caption under each says what it shows, where it came from and how we know the date. Where the source is a capture of a college website, the citation opens that capture in the Wayback Machine. Where a caption says *source not recorded*, the image reached the maintainer's collection without a note of where it was first published, and its date comes from its file name or its content; treat those dates as provisional.
 
-**Preservation.** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. The originals, at full size, are kept by the Historian, and an Internet Archive collection of them is planned so that every photograph here has a permanent public home that does not depend on this site. The list of files, with sizes, checksums and these captions, is `docs/assets/photos/manifest.tsv`. Photographs are chosen to show places and customs; students are not named in captions unless the [Core Team](../people/core-team.md) table or a public record names them as office-holders, and nothing revealing from Night of Decadence is shown. See [Rights](../contributing/rights.md).
+**Preservation.** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. The originals, at full size, are kept by the maintainer, and an Internet Archive collection of them is planned so that every photograph here has a permanent public home that does not depend on this site. The list of files, with sizes, checksums and these captions, is `docs/assets/photos/manifest.tsv`. Photographs are chosen to show places and customs; students are not named in captions unless the [Core Team](../people/core-team.md) table or a public record names them as office-holders, and nothing revealing from Night of Decadence is shown. See [Rights](../contributing/rights.md).
 
 ## Old Wiess
 
@@ -53,18 +53,18 @@ On [Old Wiess](../places/old-wiess.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name).](../assets/photos/photos-outside/thumbs/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg){ loading=lazy data-title="Wiess and West Halls from above, 2 November 1950 (date and &#x27;gift of Pender Turnbull&#x27; from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1950-11-02" data-gallery="index-oldwiess" }
-  <figcaption>Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name).](../assets/photos/photos-outside/thumbs/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg){ loading=lazy data-title="Wiess and West Halls from above, 2 November 1950 (date and &#x27;gift of Pender Turnbull&#x27; from the file name)." data-description="maintainer&#x27;s photo collection; source not recorded · 1950-11-02" data-gallery="index-oldwiess" }
+  <figcaption>Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name). <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Old Wiess College across an open field, September 1969 (date from the file name).](../assets/photos/photos-outside/thumbs/oldwiesscollege-9-69.jpg){ loading=lazy data-title="Old Wiess College across an open field, September 1969 (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1969-09" data-gallery="index-oldwiess" }
-  <figcaption>Old Wiess College across an open field, September 1969 (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Old Wiess College across an open field, September 1969 (date from the file name).](../assets/photos/photos-outside/thumbs/oldwiesscollege-9-69.jpg){ loading=lazy data-title="Old Wiess College across an open field, September 1969 (date from the file name)." data-description="maintainer&#x27;s photo collection; source not recorded · 1969-09" data-gallery="index-oldwiess" }
+  <figcaption>Old Wiess College across an open field, September 1969 (date from the file name). <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym.](../assets/photos/photos-outside/thumbs/aerialviewgymnasium-1969.jpg){ loading=lazy data-title="Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess&#x27;s west wing stood next to the gym." data-description="Historian&#x27;s photo collection; source not recorded · 1969" data-gallery="index-oldwiess" }
-  <figcaption>Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym. <small>Historian&#x27;s photo collection; source not recorded [@riceinfo-history]</small></figcaption>
+  ![Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym.](../assets/photos/photos-outside/thumbs/aerialviewgymnasium-1969.jpg){ loading=lazy data-title="Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess&#x27;s west wing stood next to the gym." data-description="maintainer&#x27;s photo collection; source not recorded · 1969" data-gallery="index-oldwiess" }
+  <figcaption>Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym. <small>maintainer&#x27;s photo collection; source not recorded [@riceinfo-history]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -179,8 +179,8 @@ On [The Commons and UpCo](../places/commons.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).](../assets/photos/photos-old-wiess/thumbs/jello-night-weiss-college-c1996-3-008-commons.jpg){ loading=lazy data-title="Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · c.1996" data-gallery="index-commons" }
-  <figcaption>Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).](../assets/photos/photos-old-wiess/thumbs/jello-night-weiss-college-c1996-3-008-commons.jpg){ loading=lazy data-title="Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name)." data-description="maintainer&#x27;s photo collection; source not recorded · c.1996" data-gallery="index-commons" }
+  <figcaption>Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name). <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -194,8 +194,8 @@ On [The Commons and UpCo](../places/commons.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front.](../assets/photos/photos-outside/thumbs/commons-2.jpg){ loading=lazy data-title="The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front." data-description="Historian&#x27;s photo collection; source not recorded · undated (after 2002)" data-gallery="index-commons" }
-  <figcaption>The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front.](../assets/photos/photos-outside/thumbs/commons-2.jpg){ loading=lazy data-title="The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front." data-description="maintainer&#x27;s photo collection; source not recorded · undated (after 2002)" data-gallery="index-commons" }
+  <figcaption>The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front. <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>
@@ -217,8 +217,8 @@ On [New Wiess](../places/new-wiess.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/thumbs/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-newwiess" }
-  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/thumbs/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="maintainer&#x27;s photo collection; source not recorded · undated" data-gallery="index-newwiess" }
+  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -232,8 +232,8 @@ On [New Wiess](../places/new-wiess.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/thumbs/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-newwiess" }
-  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/thumbs/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="maintainer&#x27;s photo collection; source not recorded · undated" data-gallery="index-newwiess" }
+  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>maintainer&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -250,8 +250,8 @@ On [The Acabowl](../places/acabowl.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.](../assets/photos/photos-outside/thumbs/wiess-four-square-1991.jpg){ loading=lazy data-title="Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind." data-description="Historian&#x27;s photo collection; source not recorded · 1991" data-gallery="index-acabowl" }
-  <figcaption>Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind. <small>Historian&#x27;s photo collection; source not recorded [@handbook-1994]</small></figcaption>
+  ![Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.](../assets/photos/photos-outside/thumbs/wiess-four-square-1991.jpg){ loading=lazy data-title="Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind." data-description="maintainer&#x27;s photo collection; source not recorded · 1991" data-gallery="index-acabowl" }
+  <figcaption>Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind. <small>maintainer&#x27;s photo collection; source not recorded [@handbook-1994]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -260,8 +260,8 @@ On [The Acabowl](../places/acabowl.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-acabowl" }
-  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>Historian&#x27;s photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
+  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="index-acabowl" }
+  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>maintainers&#x27;s photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
 </figure>
 
 </div>
@@ -273,18 +273,18 @@ On [The terraces and Toke](../places/terraces.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace', Hanszen's name for it in 2026.](../assets/photos/photos-outside/thumbs/bacaterrace.jpg){ loading=lazy data-title="The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named &#x27;bacaterrace&#x27;, Hanszen&#x27;s name for it in 2026." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
-  <figcaption>The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace', Hanszen's name for it in 2026. <small>Historian&#x27;s photo collection; source not recorded [@testimony-mullen-2026-10-05b terraces]</small></figcaption>
+  ![The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace', Hanszen's name for it in 2026.](../assets/photos/photos-outside/thumbs/bacaterrace.jpg){ loading=lazy data-title="The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named &#x27;bacaterrace&#x27;, Hanszen&#x27;s name for it in 2026." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
+  <figcaption>The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace', Hanszen's name for it in 2026. <small>maintainers&#x27;s photo collection; source not recorded [@testimony-mullen-2026-10-05b terraces]</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond.](../assets/photos/photos-outside/thumbs/fourthterrace.jpg){ loading=lazy data-title="The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
-  <figcaption>The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond. <small>Historian&#x27;s photo collection; source not recorded [@testimony-mullen-2026-10-05b Toke]</small></figcaption>
+  ![The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond.](../assets/photos/photos-outside/thumbs/fourthterrace.jpg){ loading=lazy data-title="The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
+  <figcaption>The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond. <small>maintainers&#x27;s photo collection; source not recorded [@testimony-mullen-2026-10-05b Toke]</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony.](../assets/photos/photos-outside/thumbs/terrace-sky.jpg){ loading=lazy data-title="Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
-  <figcaption>Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony.](../assets/photos/photos-outside/thumbs/terrace-sky.jpg){ loading=lazy data-title="Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="index-terraces" }
+  <figcaption>Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -365,15 +365,15 @@ On [Team Wiess and TFW](../traditions/team-wiess.md#photographs).
 
 </div>
 
-## Crest, colours and symbols
+## Crest, colors and symbols
 
-On [Crest, colours and symbols](../traditions/symbols.md#photographs).
+On [Crest, colors and symbols](../traditions/symbols.md#photographs).
 
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.](../assets/photos/graphics/thumbs/wiessshield1.jpg){ loading=lazy data-title="The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top." data-description="teamwiess.com, 2014 · by 2014" data-gallery="index-symbols" }
-  <figcaption>The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top. <small>teamwiess.com, 2014 [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]</small></figcaption>
+  ![The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.](../assets/photos/graphics/thumbs/wiessshield1.jpg){ loading=lazy data-title="The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top." data-description="teamwiess.com, 2014 · by 2014" data-gallery="index-symbols" }
+  <figcaption>The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top. <small>teamwiess.com, 2014 [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -400,8 +400,8 @@ On [Night of Decadence](../traditions/night-of-decadence.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/thumbs/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the Historian&#x27;s NOD images · c.2011–12" data-gallery="index-nod" }
-  <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the Historian&#x27;s NOD images</small></figcaption>
+  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/thumbs/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the maintainer&#x27;s NOD images · c.2011–12" data-gallery="index-nod" }
+  <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the maintainer&#x27;s NOD images</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -410,13 +410,13 @@ On [Night of Decadence](../traditions/night-of-decadence.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/thumbs/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · c.1983" data-gallery="index-nod" }
-  <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/thumbs/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · c.1983" data-gallery="index-nod" }
+  <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/thumbs/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1998" data-gallery="index-nod" }
-  <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/thumbs/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 1998" data-gallery="index-nod" }
+  <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>
@@ -451,8 +451,8 @@ On [The War Pig](../traditions/warpig.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/thumbs/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="Historian&#x27;s photo collection; source not recorded · 2002–04" data-gallery="index-warpig" }
-  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>Historian&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
+  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/thumbs/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="maintainers&#x27;s photo collection; source not recorded · 2002–04" data-gallery="index-warpig" }
+  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>maintainers&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
 </figure>
 
 </div>
@@ -544,8 +544,8 @@ On [Summit](../traditions/summit.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/thumbs/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 2024" data-gallery="index-summit" }
-  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/thumbs/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 2024" data-gallery="index-summit" }
+  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>

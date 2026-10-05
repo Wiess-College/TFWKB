@@ -36,7 +36,7 @@ reviewed_by: unreviewed
 | 2021 | The 2021 Head Fellows sign "Team Family Wiess, Your Head Fellows"; the thanks call the college "your (Team) Family (Wiess)" [@oweek-2021 p.2] [@oweek-2021 p.73] | [P] |
 | 2024 | Glossary: "Our **one and only** cheer"; the Head Fellows: "Team Family Wiess is our motto, and, at Wiess, we support and celebrate each other"; the President: "Our motto of 'Team Family Wiess' encapsulates our culture of care, inclusion, and respect" [@oweek-2024 p.25] [@oweek-2024 p.2] [@oweek-2024 p.36] | [P] |
 | 2025 | "Team Family Wiess is our motto that we live by"; the President: "our motto is Team Family Wiess (often abbreviated TFW)"; the neon "Team Family Wiess" sign in UpCo, a Proxy Cab prize [@oweek-2025 p.2] [@oweek-2025 p.37] [@oweek-2025 p.38] | [P] |
-| 2026-10-05 | The Historian on the banners on the Commons stairs and the "Family" banner's back [@testimony-mullen-2026-10-05b banners] | [T] |
+| 2026-10-05 | The maintainer on the banners on the Commons stairs and the "Family" banner's back [@testimony-mullen-2026-10-05b banners] | [T] |
 
 ## The banners
 

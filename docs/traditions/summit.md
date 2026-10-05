@@ -57,8 +57,8 @@ The glossary line: "Weekend retreat to discuss Wiess issues and bond far away fr
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 2024" data-gallery="summit" }
-  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 2024" data-gallery="summit" }
+  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>

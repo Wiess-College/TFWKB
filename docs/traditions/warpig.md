@@ -109,8 +109,8 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 </figure>
 
 <figure markdown="span">
-  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="Historian&#x27;s photo collection; source not recorded · 2002–04" data-gallery="warpig" }
-  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>Historian&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
+  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="maintainers&#x27;s photo collection; source not recorded · 2002–04" data-gallery="warpig" }
+  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>maintainers&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
 </figure>
 
 </div>

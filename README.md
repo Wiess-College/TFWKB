@@ -22,7 +22,7 @@ docs/                     markdown pages following a fixed template with every c
 sources/
   bibliography/*.yaml      every source the pages cite (key, permalink, corpus path, evidence class, notes)  
   glossaries/<year>.tsv    1,288 definitions from 12 O-Week glossaries, 1994–2017  
-  manifests/               what the Historian's 2 GB corpus contains and how to rebuild it from the Wayback Machine  
+  manifests/               what the maintainer's 2 GB corpus contains and how to rebuild it from the Wayback Machine  
   governance-versions.md   generated from the governance repo's tags  
 hooks/citations.py         turns [@key p.N] into links at build time; unknown keys fail the build  
 tools/                     stdlib-only helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  

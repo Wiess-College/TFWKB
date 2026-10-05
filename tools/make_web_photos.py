@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Make web-size copies and thumbnails of the Historian's photo folders.
+"""Make web-size copies and thumbnails of the maintainer's photo folders.
 
     python3 tools/make_web_photos.py <source-root> [--out docs/assets/photos]
 

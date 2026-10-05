@@ -41,7 +41,7 @@ What was added: the conduct preamble; a clause that anyone using "a Wiess facili
 
 ## Housing Rules, 2008 (posted 2010 and 2011)
 
-The Historian's collection holds "WiessHousingRulesND.pdf", a two-page scan with no text layer, created on 31 October 2008 [@housing-rules-2008]. It is byte for byte the file posted on teamwiess.com as "Wiess Housing Rules.pdf" and captured on 26 August 2010, and again as "WiessHousingRules.pdf" on 29 July 2011, so the text in force when New Wiess was six years old stood unchanged on the website until at least 2011 [@housing-rules-2010]. Read by OCR in October 2026, it has eleven Roman-numbered sections and ends with the initials "MMM, BVA, LMH" [@housing-rules-2008]:
+The maintainer's collection holds "WiessHousingRulesND.pdf", a two-page scan with no text layer, created on 31 October 2008 [@housing-rules-2008]. It is byte for byte the file posted on teamwiess.com as "Wiess Housing Rules.pdf" and captured on 26 August 2010, and again as "WiessHousingRules.pdf" on 29 July 2011, so the text in force when New Wiess was six years old stood unchanged on the website until at least 2011 [@housing-rules-2010]. Read by OCR in October 2026, it has eleven Roman-numbered sections and ends with the initials "MMM, BVA, LMH" [@housing-rules-2008]:
 
 1. **Housing pecking order**—the same seven tiers as in 2013, from "Those guaranteed beds by the athletic department, University, and/or by the Wiess Constitution" through incoming freshmen, rising seniors and juniors, fifth-years with fewer than three years on campus, rising sophomores, and fifth-years with three or more; tiers 1–4 "are usually guaranteed housing", and if Wiess cannot hold them all the housing committee runs a jack among rising juniors [@housing-rules-2008 §I].
 2. **The freshmen jack**—freshmen not otherwise guaranteed declare their intent and are drawn at random by the housing coordinator, "The first name selected goes at the bottom of the waiting list", males and females drawn separately; nothing yet about service hours [@housing-rules-2008 §II].
@@ -55,7 +55,7 @@ The Historian's collection holds "WiessHousingRulesND.pdf", a two-page scan with
 10. **Appeals**—in writing to the housing committee "through the College Master" [@housing-rules-2008 §X].
 11. **Housing Committee**—"a Masters' Committee, consisting of one Resident Associate, the current Wiess president, and three additional students (one from each class)", appointed at the end of freshman year for three years [@housing-rules-2008 §XI].
 
-Against 2013 the differences are small but telling: by 2013 the freshman jack has a separate upper drawing for those with "at least four freshman service hours", 2-man suites join the 3- and 5-man jack, leases are signed online "on Esther", the coed-suite section is gone, the President no longer sits on the Housing Committee, and a Parking Procedures section is added [@housing-rules-2013 §§II, VI, VIII–XI]. The OCR text is in the Historian's collection; it is not yet a tagged version in the governance repository [@gov-repo CHANGES.md].
+Against 2013 the differences are small but telling: by 2013 the freshman jack has a separate upper drawing for those with "at least four freshman service hours", 2-man suites join the 3- and 5-man jack, leases are signed online "on Esther", the coed-suite section is gone, the President no longer sits on the Housing Committee, and a Parking Procedures section is added [@housing-rules-2013 §§II, VI, VIII–XI]. The OCR text is in the maintainer's collection; it is not yet a tagged version in the governance repository [@gov-repo CHANGES.md].
 
 ## Housing Rules, 2013
 
@@ -96,7 +96,7 @@ The 2026 Constitution keeps the Rules as a distinct thing it does not reproduce.
 ## Variants & disputes
 
 - **When did Freshman Waiting end?** Required by the 1991 Rules [@rules-1991 §VI] and still a Sophomore Rep duty in 1998 [@riceinfo-cabinet-1998]; replaced by service points in the 2006 glossary and the 2007 Constitution [@oweek-2006 p.84] [@constitution-2007 Art. III §4 I]. The O-Week books of 2003 do not mention either; the end lies between 1998 and 2006, and the Rules were not amended to say so until 2012.
-- **How many Housing Rules versions?** The 2010 and 2011 PDFs have different filenames but are the same file, and both are the Historian's 2008 PDF [@housing-rules-2010] [@housing-rules-2008]. So there are two known texts, fall 2008 and February 2013. The 2008 document carries no date of its own; 31 October 2008 is when the scan was saved, so the rules may be somewhat older.
+- **How many Housing Rules versions?** The 2010 and 2011 PDFs have different filenames but are the same file, and both are the maintainer's 2008 PDF [@housing-rules-2010] [@housing-rules-2008]. So there are two known texts, fall 2008 and February 2013. The 2008 document carries no date of its own; 31 October 2008 is when the scan was saved, so the rules may be somewhat older.
 
 ## Open questions
 

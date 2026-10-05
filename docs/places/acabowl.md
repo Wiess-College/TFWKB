@@ -62,8 +62,8 @@ The full run of Aca- entries, year by year, is in [How we described ourselves, b
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.](../assets/photos/photos-outside/wiess-four-square-1991.jpg){ loading=lazy data-title="Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind." data-description="Historian&#x27;s photo collection; source not recorded · 1991" data-gallery="acabowl" }
-  <figcaption>Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind. <small>Historian&#x27;s photo collection; source not recorded [@handbook-1994]</small></figcaption>
+  ![Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.](../assets/photos/photos-outside/wiess-four-square-1991.jpg){ loading=lazy data-title="Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind." data-description="maintainers&#x27;s photo collection; source not recorded · 1991" data-gallery="acabowl" }
+  <figcaption>Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind. <small>maintainers&#x27;s photo collection; source not recorded [@handbook-1994]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -72,8 +72,8 @@ The full run of Aca- entries, year by year, is in [How we described ourselves, b
 </figure>
 
 <figure markdown="span">
-  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="acabowl" }
-  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>Historian&#x27;s photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
+  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="acabowl" }
+  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>maintainers&#x27;s photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
 </figure>
 
 </div>
@@ -85,7 +85,7 @@ The full run of Aca- entries, year by year, is in [How we described ourselves, b
 - **Backabowl or Bacabowl.** The 1994 glossary spells it Backabowl [@handbook-1994]; the 1999 photo page is headed "The Bacabowl Ledge" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. In the new building the back terrace is "Backaterrace" in 2003 [@oweek-2003 p.3], "Acaterrace" from 2006 [@oweek-2006 p.83], and "Bacaterrace" (the fourth-floor balcony) from 2014 [@oweek-2014 p.102]. In 2026 usage the fourth-floor balcony is "Toke", the Acaterrace a small terrace by UpCo, and "Bacaterrace" Hanszen's name for the servery roof [@testimony-mullen-2026-10-05b terraces]. The names are sorted out year by year, with what the Bacabowl is now, on [The terraces and the Bacabowl](terraces.md).
 - **What was played there.** Four-square (1994, 1997, 1999); soccer (2003–2014); frisbee or football (2015–17) [@handbook-1994] [@oweek-2003 p.3] [@oweek-2015 p.118]. The 1994 glossarist admits never having seen four-square played; the 1997 and 1999 webmasters still listed it as a tradition worth keeping [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
 - **The Acahammock.** In the glossary from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90], absent in 2011 and 2014, then "most recently, the Acahammock" in the 2015 history [@oweek-2015 p.10] and still in 2019, dropped in 2021 [@oweek-2019 p.13] [@oweek-2021 p.17]—a replacement, not a first.
-- **Trampoline colours.** "Purple and black" in 1994 [@handbook-1994]; no later source gives a colour.
+- **Trampoline colors.** "Purple and black" in 1994 [@handbook-1994]; no later source gives a color.
 
 ## Open questions
 

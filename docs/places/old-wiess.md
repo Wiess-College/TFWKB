@@ -179,18 +179,18 @@ Two features of New Wiess that residents treat as its own customs were already h
 </figure>
 
 <figure markdown="span">
-  ![Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name).](../assets/photos/photos-outside/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg){ loading=lazy data-title="Wiess and West Halls from above, 2 November 1950 (date and &#x27;gift of Pender Turnbull&#x27; from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1950-11-02" data-gallery="oldwiess" }
-  <figcaption>Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name).](../assets/photos/photos-outside/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg){ loading=lazy data-title="Wiess and West Halls from above, 2 November 1950 (date and &#x27;gift of Pender Turnbull&#x27; from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 1950-11-02" data-gallery="oldwiess" }
+  <figcaption>Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Old Wiess College across an open field, September 1969 (date from the file name).](../assets/photos/photos-outside/oldwiesscollege-9-69.jpg){ loading=lazy data-title="Old Wiess College across an open field, September 1969 (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1969-09" data-gallery="oldwiess" }
-  <figcaption>Old Wiess College across an open field, September 1969 (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Old Wiess College across an open field, September 1969 (date from the file name).](../assets/photos/photos-outside/oldwiesscollege-9-69.jpg){ loading=lazy data-title="Old Wiess College across an open field, September 1969 (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 1969-09" data-gallery="oldwiess" }
+  <figcaption>Old Wiess College across an open field, September 1969 (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym.](../assets/photos/photos-outside/aerialviewgymnasium-1969.jpg){ loading=lazy data-title="Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess&#x27;s west wing stood next to the gym." data-description="Historian&#x27;s photo collection; source not recorded · 1969" data-gallery="oldwiess" }
-  <figcaption>Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym. <small>Historian&#x27;s photo collection; source not recorded [@riceinfo-history]</small></figcaption>
+  ![Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym.](../assets/photos/photos-outside/aerialviewgymnasium-1969.jpg){ loading=lazy data-title="Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess&#x27;s west wing stood next to the gym." data-description="maintainers&#x27;s photo collection; source not recorded · 1969" data-gallery="oldwiess" }
+  <figcaption>Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym. <small>maintainers&#x27;s photo collection; source not recorded [@riceinfo-history]</small></figcaption>
 </figure>
 
 <figure markdown="span">

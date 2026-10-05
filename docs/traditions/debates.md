@@ -7,19 +7,19 @@ reviewed_by: unreviewed
 
 # Senior and Freshman Debates
 
-The Debates are Wiess events in the Commons at which a panel from one class sits before the college and answers questions put to it—pointed, personal and funny ones. Senior Debates puts the seniors on the panel; Freshman Debates, in the same format, puts the first-years there [@testimony-mullen-2026-10-05 Debates] [T]. Senior Debates is a late-night, alcohol-adjacent evening with a reputation, in the Historian's account, for getting messy and for hurting feelings. Both are known to this site only from the Historian's account of current college life (2023–26): no O-Week book, college website, Cabinet record or Thresher article in our corpus mentions either, so their age is unknown.
+The Debates are Wiess events in the Commons at which a panel from one class sits before the college and answers questions put to it—pointed, personal and funny ones. Senior Debates puts the seniors on the panel; Freshman Debates, in the same format, puts the first-years there [@testimony-mullen-2026-10-05 Debates] [T]. Senior Debates is a late-night, alcohol-adjacent evening with a reputation, in the maintainer's account, for getting messy and for hurting feelings. Both are known to this site only from the maintainer's account of current college life (2023–26): no O-Week book, college website, Cabinet record or Thresher article in our corpus mentions either, so their age is unknown.
 
 ## Senior Debates
 
 | When | What | Evidence |
 |---|---|---|
-| 2026-10-05 | The Historian: a panel of seniors in the Commons answers spicy and fun questions; a late-night event that "gets messy", in which feelings get hurt [@testimony-mullen-2026-10-05 Debates] | [T] |
+| 2026-10-05 | The maintainer: a panel of seniors in the Commons answers spicy and fun questions; a late-night event that "gets messy", in which feelings get hurt [@testimony-mullen-2026-10-05 Debates] | [T] |
 
 ## Freshman Debates
 
 | When | What | Evidence |
 |---|---|---|
-| 2026-10-05 | The Historian: the same format, with first-years on the panel [@testimony-mullen-2026-10-05 Debates] | [T] |
+| 2026-10-05 | The maintainer: the same format, with first-years on the panel [@testimony-mullen-2026-10-05 Debates] | [T] |
 
 ## As the college described it
 
@@ -27,8 +27,8 @@ Nothing in the corpus. The only "Debates" in the O-Week books are the **Beer Deb
 
 ## Variants & disputes
 
-- **When in the year?** The Historian does not date either event within the year. Neither do any written sources.
-- **The tone.** The Historian's account is candid that Senior Debates can hurt [@testimony-mullen-2026-10-05 Debates] [T]. This page records the event's character without the questions or the answers; it is not the place for either.
+- **When in the year?** The maintainer does not date either event within the year. Neither do any written sources.
+- **The tone.** The maintainer's account is candid that Senior Debates can hurt [@testimony-mullen-2026-10-05 Debates] [T]. This page records the event's character without the questions or the answers; it is not the place for either.
 
 ## Open questions
 

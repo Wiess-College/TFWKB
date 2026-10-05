@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Building lore
 
-Both Wiess buildings have accumulated stories, habits and named oddities that are not traditions in the calendar sense, and that the O-Week books mostly leave out. This page collects them, one item each: what it is, when it is first attested, and the sources. Four come only from the Historian's 2026 notes: a horned owl laid into the dark brick of the utility stack on the South Servery roof; the habit of pressing "1" in the elevator to "send it down" [@testimony-mullen-2026-10-05 lore]; the story that Old Wiess was built "crooked" because students moved the surveyors' stakes; and the TEAM / FAMILY / WIESS banners on the Commons stairs, one of which had something else on its back [@testimony-mullen-2026-10-05b lore]. Others are as old as the 1990s websites. Customs that have their own pages, such as the Dangle and the Acatramp, are linked rather than retold. A search of every glossary in the corpus (1994–2017) for *elevator*, *roof*, *tunnel*, *ledge*, *tower* and *wall* found no entry about a Wiess building. The only hits are campus entries: the Campanile ("A bell tower of any kind"), the Steam Tunnels and Anderson Hall's Frog Wall [@oweek-2003 p.5] [@owlmanac-2016 p.56] [@oweek-2015 p.121].
+Both Wiess buildings have accumulated stories, habits and named oddities that are not traditions in the calendar sense, and that the O-Week books mostly leave out. This page collects them, one item each: what it is, when it is first attested, and the sources. Four come only from the maintainer's 2026 notes: a horned owl laid into the dark brick of the utility stack on the South Servery roof; the habit of pressing "1" in the elevator to "send it down" [@testimony-mullen-2026-10-05 lore]; the story that Old Wiess was built "crooked" because students moved the surveyors' stakes; and the TEAM / FAMILY / WIESS banners on the Commons stairs, one of which had something else on its back [@testimony-mullen-2026-10-05b lore]. Others are as old as the 1990s websites. Customs that have their own pages, such as the Dangle and the Acatramp, are linked rather than retold. A search of every glossary in the corpus (1994–2017) for *elevator*, *roof*, *tunnel*, *ledge*, *tower* and *wall* found no entry about a Wiess building. The only hits are campus entries: the Campanile ("A bell tower of any kind"), the Steam Tunnels and Anderson Hall's Frog Wall [@oweek-2003 p.5] [@owlmanac-2016 p.56] [@oweek-2015 p.121].
 
 ## Timeline
 
@@ -30,15 +30,15 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 
 ### The owl in the brick
 
-**What.** The utility stack on the roof of South Servery—the large terrace shared with Hanszen, printed as the Backaterrace in 2003 and the Acaterrace from 2006 to 2017, and called the "Bacaterrace" by Hanszen today (see [The terraces](terraces.md))—"has multi-coloured brick; the darker brick is an intentional pattern of a horned owl" [@testimony-mullen-2026-10-05 owl]. The owl is Rice's mascot.
+**What.** The utility stack on the roof of South Servery—the large terrace shared with Hanszen, printed as the Backaterrace in 2003 and the Acaterrace from 2006 to 2017, and called the "Bacaterrace" by Hanszen today (see [The terraces](terraces.md))—"has multi-colored brick; the darker brick is an intentional pattern of a horned owl" [@testimony-mullen-2026-10-05 owl]. The owl is Rice's mascot.
 
-**First attested.** 5 October 2026, in the Historian's notes [T]. No earlier source mentions it.
+**First attested.** 5 October 2026, in the maintainer's notes [T]. No earlier source mentions it.
 
 **Sources checked.** Machado and Silvetti's project page and Kirksey's portfolio page [@machado-silvetti-wiess] [@kirksey-wiess] do not mention it. Neither do Rice Facilities' building history [@rice-facilities-first-100-years], the 1999 Rice News report of the groundbreaking [@rice-news-1999-10-14-groundbreaking], Lundin's 2000 construction account [@riceinfo-news-2000-lundin], the O-Week books 2003–2017, or the teamwiess.com captures. The architects' page carries a full west-façade elevation drawing that was not readable from here. Not to be confused with the South Plant of 2009, the brick utility building "behind our very own Wiess" whose glass tower "actually is an exhaust flue" [@oweek-2009 part 4 p.12].
 
 ### Sending the elevator down
 
-**What.** "Wiessmen always press '1' in the elevator to 'send it down'". The Historian calls it "nonsensical": the reason given is "to keep it from getting stuck" [@testimony-mullen-2026-10-05 elevator].
+**What.** "Wiessmen always press '1' in the elevator to 'send it down'". The maintainer calls it "nonsensical": the reason given is "to keep it from getting stuck" [@testimony-mullen-2026-10-05 elevator].
 
 **First attested.** 2026, testimony only [T]. The elevator is on every O-Week map from 2006, next to the fourth-floor TV room / Movie Room and Sparky's [@oweek-2006 p.15] [@oweek-2015 p.19]. The 2006 college president's welcome letter gives directions by it: "it's pretty easy since the elevator is right next to us" [@oweek-2006 p.11]. The Movie Room is "located on the fourth floor by the elevator" [@wb 20150116224809 http://teamwiess.com/amenities.html]. Old Wiess had at most three storeys [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html], so the custom can be no older than the 2002 building.
 
@@ -88,7 +88,7 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 
 ### Old Wiess, built crooked
 
-**What.** A rumour that while Old Wiess was being built, students moved the stakes for the foundation forms at night; the workers poured the foundations before noticing that the building was no longer aligned with the campus's north–south orientation, and finished it "crooked" [@testimony-mullen-2026-10-05b crooked]. The Historian has never seen evidence for it. It is told here as an unverified legend.
+**What.** A rumour that while Old Wiess was being built, students moved the stakes for the foundation forms at night; the workers poured the foundations before noticing that the building was no longer aligned with the campus's north–south orientation, and finished it "crooked" [@testimony-mullen-2026-10-05b crooked]. The maintainer has never seen evidence for it. It is told here as an unverified legend.
 
 **First attested.** 5 October 2026, testimony only [T].
 
@@ -129,7 +129,7 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 
 **First attested.** The name is older than the building it is now used for. Old Wiess was "in the best motel tradition" in the 1972 Freshman Handbook [@handbook-1972]; Hanszen called it "Early Motel 6" in the early 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012] [T]; Night of Decadence took "Wiess Palms Motel 6: Sanitized for your protection" as its theme in 1977 and "Motel Wiess" in 1988 (both from the undated "Themes through the decades" graphic; see [Night of Decadence](../traditions/night-of-decadence.md#themes-year-by-year)); an RA of 1998 was in "his sixth year living at Motel Wiess" [@riceinfo-associates]; a Wiessman of 1975 remembered the building as "Kinda Motel Sexy" [@rhc 2016-05-24 hanging-out-at-wiess comment by Buddy Chuoke '75, 25 May 2016] [T]; Colin Delany '91 wrote that it "had more in common with contemporary motel design than it did with the rest of the Rice campus" [@delany-about-wiess-2002] [R]. The O-Week histories have called the old building's design "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" every year from 2006 to 2025 [@oweek-2006 p.37] [@oweek-2025 p.24] [P].
 
-**Old and New.** New Wiess was designed to keep what earned the name: single-loaded open-air corridors and external balconies [@machado-silvetti-wiess]. The nickname crossed with them. That the books apply it only to the old building, while other colleges apply it to the new one, is the one thing the written record does not yet show: no source in the corpus calls *New* Wiess "Motel 6" before the Historian's notes.
+**Old and New.** New Wiess was designed to keep what earned the name: single-loaded open-air corridors and external balconies [@machado-silvetti-wiess]. The nickname crossed with them. That the books apply it only to the old building, while other colleges apply it to the new one, is the one thing the written record does not yet show: no source in the corpus calls *New* Wiess "Motel 6" before the maintainer's notes.
 
 ### Tunnels
 
@@ -138,7 +138,7 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 ## Variants & disputes
 
 - **The owl: intentional or seen?** The testimony says the pattern is "intentional" [@testimony-mullen-2026-10-05 owl]. No design source confirms it. Until an architect's drawing, a Facilities record or a photograph is found, the page treats the owl as college lore: something Wiessmen point out, whose intent is asserted but not documented.
-- **Why "send it down"?** The only reason recorded is the one the Historian calls nonsensical, "to keep it from getting stuck" [@testimony-mullen-2026-10-05 elevator]. No source records an elevator breakdown or entrapment at Wiess.
+- **Why "send it down"?** The only reason recorded is the one the maintainer calls nonsensical, "to keep it from getting stuck" [@testimony-mullen-2026-10-05 elevator]. No source records an elevator breakdown or entrapment at Wiess.
 - **The crooked building.** Testimony that the story is told; no evidence that it happened, and the descriptions of the building treat it as aligned with its neighbours (see above). The uneven settling of the foundations is documented and may be what the story explains.
 - **The cornerstone.** The 1999 promise is explicit [@rice-news-1999-10-14-groundbreaking], but Rice Facilities says the old building was "completely demolished in 2002" [@rice-facilities-first-100-years] and says nothing of salvage.
 
@@ -152,6 +152,6 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 - Whether the "Family" banner still has its other side, and when the banners were first made.
 - Stairwell C: when the stairwells were lettered, by whom (Facilities signage, or students), and when the story of the hidden C began. A photograph of a stairwell sign would date the letters.
 - Whether any written source calls New Wiess (as opposed to Old) "Motel 6", and whether "prison" is a name other colleges use for it too.
-- More lore. The Historian is collecting: the Thresher, and the Rice History Corner comment threads on Wiess posts, are the likeliest written sources.
+- More lore. The maintainer is collecting: the Thresher, and the Rice History Corner comment threads on Wiess posts, are the likeliest written sources.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

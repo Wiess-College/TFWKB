@@ -8,7 +8,7 @@ Markdown citation shown under the image. Run apply_photos.py to fill the galleri
 RHC_CONS = "[@rhc 2012-12-04 wiess-hall-construction-1949]"
 CONS = "Rice University, Woodson Research Center, via Rice History Corner"
 DELANY = "Colin Delany '91, 'wiess college | abandoned', August 2002"
-UNREC = "Historian's photo collection; source not recorded"
+UNREC = "maintainer's photo collection; source not recorded"
 
 P = [
     # --- Old Wiess: construction (1949-50)
@@ -163,21 +163,21 @@ P = [
      "teamwiess.com, new students, 2019", "[@wb 20190802225456 http://teamwiess.com/newstudents/thumbnails/daa.jpg]", "by 2019", "Team Wiess"),
     # --- Symbols
     ("graphics/wiessshield1.jpg", "symbols",
-     "The Wiess arms in colour: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.",
-     "teamwiess.com, 2014", "[@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]", "by 2014", "Crest and colours"),
+     "The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with mantling, an owl on top.",
+     "teamwiess.com, 2014", "[@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]", "by 2014", "Crest and colors"),
     ("graphics/crestbw.jpg", "symbols",
      "The crest in black and white.",
-     "teamwiess.com, 2015", "[@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif]", "by 2015", "Crest and colours"),
+     "teamwiess.com, 2015", "[@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif]", "by 2015", "Crest and colors"),
     ("graphics/wiess60-crest.jpg", "symbols",
      "The 60th-anniversary crest, 'Wiess College 60th Anniversary 1957–2017'.",
-     "teamwiess.com/60, 2017", "[@wb 20170602224644 http://teamwiess.com/60/Wiess60-crest-with-date-small.png]", "2017", "Crest and colours"),
+     "teamwiess.com/60, 2017", "[@wb 20170602224644 http://teamwiess.com/60/Wiess60-crest-with-date-small.png]", "2017", "Crest and colors"),
     ("graphics/wiess60-banner.jpg", "symbols",
      "The 60th-anniversary banner.",
-     "teamwiess.com/60, 2017", "[@wb 20170602224639 http://teamwiess.com/60/Wiess60-banner.png]", "2017", "Crest and colours"),
+     "teamwiess.com/60, 2017", "[@wb 20170602224639 http://teamwiess.com/60/Wiess60-banner.png]", "2017", "Crest and colors"),
     # --- NOD
     ("nod/themes-graphic.jpg", "nod",
      "'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.",
-     "Image of unknown origin, in the Historian's NOD images", "", "c.2011–12", "Night of Decadence"),
+     "Image of unknown origin, in the maintainer's NOD images", "", "c.2011–12", "Night of Decadence"),
     ("nod/1985-3.jpg", "nod",
      "NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left.",
      "The Campanile 1985, p.283", "[@campanile-1985]", "1984-10-26", "Night of Decadence"),
@@ -334,7 +334,7 @@ PAGES = {
     "terraces": ("places/terraces.md", "The terraces and Toke"),
     "rooms": ("places/rooms-and-spaces.md", "Rooms and spaces of New Wiess"),
     "teamwiess": ("traditions/team-wiess.md", "Team Wiess and TFW"),
-    "symbols": ("traditions/symbols.md", "Crest, colours and symbols"),
+    "symbols": ("traditions/symbols.md", "Crest, colors and symbols"),
     "nod": ("traditions/night-of-decadence.md", "Night of Decadence"),
     "gazilchers": ("traditions/retired/gazilchers.md", "Gazilchers"),
     "warpig": ("traditions/warpig.md", "The War Pig"),
