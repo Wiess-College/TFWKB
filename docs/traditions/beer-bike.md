@@ -1,7 +1,7 @@
 ---
 title: Beer Bike
 status: draft
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 reviewed_by: unreviewed
 ---
 
@@ -66,6 +66,34 @@ Beer Bike is Rice's spring relay of chuggers and bikers, run since 1957 between 
 
 The pig is Beer Bike's Wiess-shaped shadow and has its own page: [The War Pig](warpig.md). In one paragraph: the first balloon floated off in 1986; the black "TEAM WIESS" pigs of 1987–96 were carried, attacked, repaired and, once, flown on helium (1991); the garbage-bag pig was still being inflated at 4:30 a.m. in 1999; mylar pig heads and a commercial balloon followed in 2000–2004 until the balloon's cord was cut; the Class of 2012 built the wooden pig and the chant became "the pig will roll"; an inflatable was "resurrected" in 2024 [@maxham-pig-document] [@campanile-1991] [@campanile-1999 p.238] [@thresher-2004-03-26 p.9] [@campanile-2012] [@thresher-2024-04-10]. Cunningham's 1997 complaint about "those freaks who tried to tear the Pig's legs off a few years back" sits between the 1993 attacks and the 1997–98 mylar rebuild [@riceinfo-beerbike].
 
+## Beer Bike hair
+
+**What.** Beer Bike is a day for hair. First-years shave their heads, or shave **TFW**, or a single **T**, **F** or **W**, into their hair; others bleach their hair goldenrod, some only the tips; and someone usually gets the "grandpa cut", bald on top with a ring of hair left round the sides [@testimony-mullen-2026-10-05c Beer Bike hair] [T].
+
+**Written record.** The O-Week books never describe the custom, but their Fellow profiles assume it. 2009: a Co-Fellow recognisable by "a 'sidewalk' shaved through his head", a style he "once sported" [@oweek-2009 part 2 p.6]. 2014 and 2016: Fellows known by their "bright goldenrod hair" and the "sunshine from his goldenrod hair" [@oweek-2014 p.10] [@oweek-2016 p.54]. 2017: a Fellow who "used to have purple hair (and not just for Beer Bike – it was a much more serious relationship than that)", which takes coloured Beer Bike hair for granted [@oweek-2017 p.41]. 2024: "for the newcomers to Rice, ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54]. The college has had a Haircutting representative (2020–21), renamed Hair (2023) [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [P]; the list does not say what the job involves. Goldenrod is the college colour (see [Crest, colours and symbols](symbols.md)). The shaved letters, the bleached tips and the grandpa cut are testimony only.
+
+An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair grow until Thanksgiving" as part of Freshman Guidance [@rhc 2020-04-20 not-hamman-hall-at-night-circa-1970 comment by Galloway Hudson. Wiess '60, 20 Apr 2020] [T].
+
+## Screen printing: YEAH WIESS, YEAH BEER, YEAH WATER
+
+**What.** Wiess prints its own T-shirts. Screen printing was once an O-Week activity and later became a study break; the old screens are still in the basement, in the area of the former photographic darkroom. The most famous designs are "YEAH WIESS", "YEAH BEER" and "YEAH WATER", printed for Beer Bike [@testimony-mullen-2026-10-05c screen printing] [T].
+
+| When | What | Evidence |
+|---|---|---|
+| c.1983–84 | The "Team Wiess" Beer Bike shirts were "silkscreened … in-house" [@rhc 2018-02-02 friday-follies-bananas comment by Ann Peterson '86, 5 Feb 2018] | [T] |
+| c.1997–2000 | The RA Dr. Bill Wilson "is involved in almost every aspect of the college, from theater to t-shirt screening to taking pictures of almost every Wiess event" [@riceinfo-associates] | [P] |
+| 1999–2011 | The Bylaws list "dark room equipment" among the college equipment held by committee chairs [@wb 19990220014631 http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html] [@bylaws-2010 Art. III §2] | [P] |
+| 2010–2012 | A representative called "YEAH WIESS" [@wb 20100826015923 http://teamwiess.com/reps.php] [@wb 20120817225627 http://teamwiess.com/people.php?who=reps] | [P] |
+| 2014 | "Yeah Wiess Representative (T-Shirt Screening Representative)" [@wb 20140627224604 http://teamwiess.com/representatives.html]; glossary: "**Basement.** The area under the Commons used for storage and shirt screen making"; "**Dr. Bill.** … Ex-Wiess RA who started… shirt screening"; an RA is "a shirt-screening expert!" [@oweek-2014 p.102] [@oweek-2014 p.103] | [P] |
+| 2015–2019 | "**Basement.** The area under the Commons used for storage and shirt screening" [@oweek-2015 p.118] [@oweek-2017 p.14] [@oweek-2019 p.14]; Yeah Wiess Reps 2015 [@wb 20150612230047 http://teamwiess.com/reps.html] | [P] |
+| 2017-04 | The Yeah Wiess Reps plan "T-shirt design contest (one each semester)", to "Make screen-printing T-shirts more accessible for Wiessmen in Wiess-related activities" and a "More efficient system for drying T-shirts"; their first act is "Learning the process of screen printing T-shirts" [@wb 20170421224822 http://teamwiess.com/reps.html] | [P] |
+| 2020-02-12 | The Bylaws' equipment list now reads "shirt-screening equipment" where "dark room equipment" stood [@bylaws-2020 Art. III §2] | [P] |
+| 2021 | The O-Week coordinators photographed in YEAH WIESS shirts [@wb 20210619003837 http://teamwiess.com/images/oweek2021/coords.jpg] (see [O-Week](o-week.md#photographs)) | [P] |
+| 2021– | No Yeah Wiess or screening representative on the lists of 2020–2023; no "shirt screening" in the 2021–2025 glossaries [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [@oweek-2021 p.18] | [P] |
+| 2026-10-05 | Once an O-Week activity, later a study break; old screens in the basement darkroom area; YEAH WIESS, YEAH BEER, YEAH WATER for Beer Bike [@testimony-mullen-2026-10-05c screen printing] | [T] |
+
+**What the corpus confirms.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020, which fits the Historian's screens in the old darkroom. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). "YEAH BEER" and "YEAH WATER", screen printing as an O-Week activity and as a study break are testimony only. YEAH WATER fits the chuggers, who have drunk water "of course" since at least 2006 [@oweek-2006 p.51] [@oweek-2024 p.39]. The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); screen printing as a study break is on [Study breaks](study-breaks.md#screen-printing).
+
 ## Photographs
 
 <!-- GALLERY:beerbike -->
@@ -99,6 +127,8 @@ The pig is Beer Bike's Wiess-shaped shadow and has its own page: [The War Pig](w
 
 ## Open questions
 
+- Beer Bike hair: when first-years began shaving TFW or its letters, and when goldenrod bleach became usual. Photographs of Beer Bike mornings are the likeliest evidence. What the Haircutting / Hair representative (2020–23) does, and whether Beer Bike is part of it.
+- When screen printing stopped being an O-Week activity and became a study break; when YEAH BEER and YEAH WATER were first printed; whether a screen or a shirt survives with a date on it.
 - Wiess's Beer Bike results by year: the Thresher's race reports (Portal to Texas History, every April) would build the table; no source yet.
 - The playlist after 1997, and who "the cruel upperclassman" has been; the 2016 Fellow is the only named music player.
 - The wiess.wordpress.com Beer Bike 2014 post ("Goldenrod Monkey")—the blog is private; the 52 Wayback URLs should be checked for it.
@@ -106,4 +136,4 @@ The pig is Beer Bike's Wiess-shaped shadow and has its own page: [The War Pig](w
 - The Jones bike jack's year ("about five years ago" in 2006) and whether the Thresher reported it.
 - Fort Wiess and the "giant Macy's parade-style balloon" of 2001: were they the same Beer Bike? The Thresher of 6 Apr 2001 and 5 Apr 2002 need to be read side by side; see [Fort Wiess](fort-wiess.md).
 
-<div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
+<div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

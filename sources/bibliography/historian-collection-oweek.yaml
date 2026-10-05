@@ -1,0 +1,62 @@
+# O-Week books from the Historian's own collection (the tfwdb folder), October 2026.
+# These four books have no public copy that we know of, so there is no url: a citation
+# renders as plain text with the corpus path. Text layers are in
+# historian-collection/text/<year>-oweek-book.txt (layout) and text-raw/ (reading order).
+# Pages cite as [@key p.N], N = the PDF page (the printed folio is usually two lower).
+
+- key: oweek-2019
+  title: Wiess O-Week Book 2019
+  type: oweek-book
+  format: pdf
+  date: 2019
+  pages: 73
+  local: historian-collection/oweek-books/2019-oweek-book.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known.
+    Head Fellows Riley, Erica and Olasina; the last book in the corpus with the Schaefers as
+    Magisters, "Willy Week", "the A-Team" and a NOD page (the cover still carries the template's
+    "O-WEEK 2016"). Printed folios run two behind the PDF page.
+
+- key: oweek-2021
+  title: Wiess O-Week Book 2021
+  type: oweek-book
+  format: pdf
+  date: 2021
+  pages: 78
+  local: historian-collection/oweek-books/2021-oweek-book.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known.
+    Head Fellows Serena, Aditi and Chichi; the first book to say "Core Team", "Piggy Week" and
+    "Changeover", the first with affinity letters, and the first with Flavio Cunha and Fabiana
+    Santos as Magisters. The contents page's running head still reads "O-WEEK 2020", and the
+    thanks name 2020's Head Fellows.
+
+- key: oweek-2024
+  title: Wiess O-Week Book 2024
+  type: oweek-book
+  format: pdf
+  date: 2024
+  pages: 61
+  local: historian-collection/oweek-books/2024-oweek-book.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known.
+    Head Fellows Peter, Hannah and Barakat; a redesigned book (Core Team section, Beer Bike page,
+    Rice Speak by category) with no NOD anywhere in it, Lach and Kari Mullen in their "second year
+    as Wiess RAs" and Jenny Toups as College Coordinator.
+
+- key: oweek-2025
+  title: Wiess O-Week Book 2025
+  type: oweek-book
+  format: pdf
+  date: 2025
+  pages: 62
+  local: historian-collection/oweek-books/2025-oweek-book.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known.
+    Head Fellows Aislinn, Caden and Aria; built on the 2024 template (the cover still reads
+    "2024 Wiess College O-Week"), with Community Facilitators in place of Diversity Facilitators
+    and Carissa Zimmerman and Nick Espinosa back for an "eighth (!!) year".

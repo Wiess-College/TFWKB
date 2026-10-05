@@ -25,6 +25,8 @@ A Ubangee is a pile of Wiessmen on top of one Wiessman, grunting, that ends with
 | 2016 | Owlmanac: "Wiess tradition frequently unleashed upon anyone at any time. Think of it as an incredibly intense group hug colliding with a massive dog pile." [@owlmanac-2016 p.57] | [P] |
 | c.2017 | The Wiess Associates' page for new associates carries the 2015 text [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/] | [P] |
 | 2017 | The pile is gone from the description: "the fun of tag… jumping up and down and grunting. Every Ubangee has a 'person of interest,' who lies in the center of a circle of jumping and yelling Wiessmen and one brace" [@oweek-2017 p.31] | [P] |
+| 2019–2025 | The 2017 description, word for word, in all four books—"A Ubangee is, first and foremost, an expression of love… After a satisfactory number of grunts have been emitted, the Ubangee ends with three triumphant, loud, and slow cries of TEAM WIESS"—still "at their most prominent during the Beer Bike water balloon fight"; the history keeps "still proudly practiced in a slightly modified form"; glossary: "A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman" [@oweek-2019 p.31] [@oweek-2021 p.36] [@oweek-2024 p.37] [@oweek-2025 p.38] [@oweek-2019 p.12] [@oweek-2024 p.25] | [P] |
+| 2021 | The President's letter: "we have a long history of traditions, from birthday celebrations, to running around campus for Halloween" [@oweek-2021 p.30]; 2024 President: "Fellows, Core Team, Acabowl, Publics, Beer Bike, Baker 13, Ubangees… the list goes on" among the terms that baffled her as a freshman [@oweek-2024 p.36] | [P] |
 
 ## As the college described it
 
@@ -48,6 +50,9 @@ A Ubangee is a pile of Wiessmen on top of one Wiessman, grunting, that ends with
 
 !!! quote "O-Week Book 2017"
     "The Ubangee combines the fun of tag with your frends simple joy of jumping up and down and grunting. Every Ubangee has a 'person of interest,' who lies in the center of a circle of jumping and yelling Wiessmen and one brace, protecting the person from physical harm. In some more, uh, rambunctious Ubangees, this 'brace' might also serve to 'tackle' the person who is being celebrated." [@oweek-2017 p.31]
+
+!!! quote "O-Week Books 2019–2025"
+    "There are numerous justifications for a Ubangee, ranging from a Wiessman having a birthday to celebrating an accomplishment. … They may sound frightening from this description, but don't worry—they're magnificent and truly beautiful in practice." [@oweek-2019 p.31]—unchanged in 2025 [@oweek-2025 p.38].
 
 ## Variants & disputes
 

@@ -9,69 +9,74 @@ reviewed_by: tools/build_glossary_series.py
 
 Every O-Week book ends with a glossary—"Wiess Speak", "Conclusions", "the Glossary"—written by that year's coordinators for that year's freshmen. Read in sequence, the definitions are the college's own record of what each generation thought mattered, and of drift: the War Pig is "the Wiess mascot" in 1994, "**Former** Wiess mascot" from 2006, and "the giant wooden pig built by the Class of 2012" from 2014.
 
-This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017) by `tools/build_glossary_series.py`; edit the TSVs, not this page. Each definition is cited to its book and page. Terms are grouped when they are plainly the same thing under different spellings.
+This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025) by `tools/build_glossary_series.py`; edit the TSVs, not this page. Each definition is cited to its book and page. Terms are grouped when they are plainly the same thing under different spellings, and when a book renamed the same thing (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture); the later name is shown in italics against its year.
 
 
-## Terms that recur (194)
+## Terms that recur (202)
 
 
 | Term | Years present |
 |---|---|
 | [13th Street](#13th-street) | 2008, 2010 |
-| [45, 90, 180](#45-90-180) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [2FK/3FK](#2fk-3fk) | 2019, 2021 |
+| [45, 90, 180](#45-90-180) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acababy](#acababy) | 2014, 2015, 2016, 2017 |
-| [Acabowl](#acabowl) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Academ](#academ) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Academic Quad](#academic-quad) | 2014, 2015, 2016, 2017 |
-| [Acaglider](#acaglider) | 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Acagrill](#acagrill) | 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Acabowl](#acabowl) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Academ](#academ) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Academic Quad](#academic-quad) | 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Acaglider](#acaglider) | 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Acagrill](#acagrill) | 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acahammock](#acahammock) | 2003, 2006, 2007, 2008, 2010 |
 | [Acatoddler](#acatoddler) | 2015, 2016, 2017 |
-| [Acatramp](#acatramp) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Affiliates](#affiliates) | 2015, 2016, 2017 |
-| [Archi (ar-kee)](#archi-ar-kee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [ASB](#asb) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Associate](#associate) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Associates Night](#associates-night) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Autry](#autry) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Bacaterrace](#bacaterrace) | 2014, 2015, 2016, 2017 |
-| [Backaterrace](#backaterrace) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Acatramp](#acatramp) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
+| [Affiliates](#affiliates) | 2015, 2016, 2017, 2019, 2021 |
+| [Archi (ar-kee)](#archi-ar-kee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [ASB](#asb) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Associate](#associate) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Associates Night](#associates-night) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Autry](#autry) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Bacaterrace](#bacaterrace) | 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Backaterrace](#backaterrace) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Backpage](#backpage) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
 | [Baker](#baker) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [Baker Institute](#baker-institute) | 2015, 2016, 2016-owlmanac, 2017 |
+| [Baker Institute](#baker-institute) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Bakerite](#bakerite) | 2014, 2016-owlmanac |
-| [Basement](#basement) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Basement](#basement) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
 | [Basement auction](#basement-auction) | 2003, 2006 |
-| [Battle Sows](#battle-sows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Battle Sows](#battle-sows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [BC](#bc) | 2010, 2011, 2014 |
-| [Beer-Bike](#beer-bike) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Beer-Bike](#beer-bike) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Benjamin and Jenna](#benjamin-and-jenna) | 2011, 2014 |
-| [Beyond the hedges](#beyond-the-hedges) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Beyond the hedges](#beyond-the-hedges) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Big Bang](#big-bang) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Big three](#big-three) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [BRC](#brc) | 2015, 2016, 2017 |
+| [Big three](#big-three) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Bookstore](#bookstore) | 2016-owlmanac, 2019, 2021 |
+| [BRC](#brc) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Brent](#brent) | 2006, 2007, 2008 |
-| [Brochstein](#brochstein) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Brochstein](#brochstein) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Brown](#brown) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Brownie](#brownie) | 2014, 2016-owlmanac |
-| [Cabinet](#cabinet) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Campanile](#campanile) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Cabinet](#cabinet) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Campanile](#campanile) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [CCA](#cca) | 2003, 2006, 2007 |
-| [ChBE (“Chubby”)](#chbe-chubby) | 2015, 2016, 2017 |
+| [CDOD](#cdod) | 2024, 2025 |
+| [ChBE (“Chubby”)](#chbe-chubby) | 2015, 2016, 2017, 2019, 2021 |
 | [Christa](#christa) | 2008, 2010, 2011 |
 | [Christie](#christie) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Cloisters](#cloisters) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Club 13](#club-13) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Coffeehouse](#coffeehouse) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Club 13](#club-13) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024 |
+| [Coffeehouse](#coffeehouse) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Coffeehouse Night](#coffeehouse-night) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [Cohen House](#cohen-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Cohen House](#cohen-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [College Idiot](#college-idiot) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [College night](#college-night) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [College night](#college-night) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [College night [Rice speak]](#college-night-rice-speak) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [Commons](#commons) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Commons](#commons) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Convenience Store](#convenience-store) | 2003, 2006, 2007 |
-| [Corner](#corner) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [D1, D2, D3](#d1-d2-d3) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Corner](#corner) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Cozy Corner](#cozy-corner) | 2019, 2021, 2024, 2025 |
+| [CTIS](#ctis) | 2019, 2021, 2024, 2025 |
+| [D1, D2, D3](#d1-d2-d3) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Delancey and Kelsey](#delancey-and-kelsey) | 2006, 2007, 2008, 2010 |
 | [Denise](#denise) | 2006, 2007, 2008, 2010, 2011 |
 | [DMC](#dmc) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
@@ -81,142 +86,150 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 | [Duncan](#duncan) | 2010, 2011 |
 | [Duncaroo](#duncaroo) | 2014, 2016-owlmanac |
 | [Early ’80s](#early-80s) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Esperanza](#esperanza) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Fellows](#fellows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Esperanza](#esperanza) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Fellows](#fellows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Filmfest](#filmfest) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
 | [Five-man](#five-man) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Fondren](#fondren) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Fondren](#fondren) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Forman](#forman) | 2006, 2007, 2008 |
-| [Freshmen One-Acts](#freshmen-one-acts) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Freshmen Service Points](#freshmen-service-points) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Frog Wall](#frog-wall) | 2015, 2016, 2016-owlmanac, 2017 |
-| [FWIS](#fwis) | 2015, 2016, 2017 |
+| [Freshmen One-Acts](#freshmen-one-acts) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Freshmen Service Points](#freshmen-service-points) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Frog Wall](#frog-wall) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [FWIS](#fwis) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Gofer](#gofer) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Goldenrod](#goldenrod) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [GSA](#gsa) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [H&D](#h-d) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Goldenrod](#goldenrod) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [GSA](#gsa) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [H&D](#h-d) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Hanszen](#hanszen) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Hanszenite](#hanszenite) | 2014, 2016-owlmanac |
-| [Head Fellows](#head-fellows) | 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Head Fellows](#head-fellows) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Hedge-jumping](#hedge-jumping) | 2003, 2006 |
-| [Hedges](#hedges) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Hedges](#hedges) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [House of Pies](#house-of-pies) | 2003, 2006, 2007, 2008, 2010, 2011, 2016-owlmanac |
-| [IM](#im) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Inner Loop](#inner-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Ironman/Ironwoman](#ironman-ironwoman) | 2003, 2006, 2007, 2008, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [IM](#im) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Inner Loop](#inner-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Ironman/Ironwoman](#ironman-ironwoman) | 2003, 2006, 2007, 2008, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Island](#island) | 2021, 2024, 2025 |
 | [Ivy](#ivy) | 2006, 2007, 2008, 2010, 2011 |
-| [Jack](#jack) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Jack](#jack) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Jamfest](#jamfest) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Jones](#jones) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [Jones School](#jones-school) | 2015, 2016, 2016-owlmanac, 2017 |
+| [Jones School](#jones-school) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Jonesian](#jonesian) | 2014, 2016-owlmanac |
-| [KTRU (kat-true)](#ktru-kat-true) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [KTRU (kat-true)](#ktru-kat-true) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Leebron (and Ping)](#leebron-and-ping) | 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
 | [Lenin](#lenin) | 2011, 2014 |
 | [Lindsay](#lindsay) | 2010, 2011 |
 | [Lovett](#lovett) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Lovetteer](#lovetteer) | 2014, 2016-owlmanac |
-| [LPAP](#lpap) | 2015, 2016, 2017 |
+| [LPAP](#lpap) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Martel](#martel) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Martelian](#martelian) | 2014, 2016-owlmanac |
-| [Matriculation](#matriculation) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Matriculation](#matriculation) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [McMurtry](#mcmurtry) | 2010, 2011 |
-| [Media Center](#media-center) | 2015, 2016, 2016-owlmanac, 2017 |
+| [Media Center](#media-center) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Meet Sheet](#meet-sheet) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Mentors](#mentors) | 2015, 2016, 2017 |
+| [Mentors](#mentors) | 2015, 2016, 2017, 2019, 2021 |
 | [Mike](#mike) | 2006, 2007, 2008, 2010, 2011, 2014 |
-| [MOB](#mob) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [MOB](#mob) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Moment of Silence](#moment-of-silence) | 2003, 2006, 2007 |
+| [Movie Room](#movie-room) | 2014, 2021 |
 | [Mrs. Byrd](#mrs-byrd) | 2011, 2014 |
-| [Mudd Lab](#mudd-lab) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Mudd Lab](#mudd-lab) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Murt](#murt) | 2014, 2016-owlmanac |
-| [Musi (Moo-zee)](#musi-moo-zee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Musi (Moo-zee)](#musi-moo-zee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Nancy](#nancy) | 2008, 2010, 2011 |
-| [Night of Decadence](#night-of-decadence) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Night of Decadence](#night-of-decadence) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [O-Week](#o-week) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [OC](#oc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [OC Lounge](#oc-lounge) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Outer Loop](#outer-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [OC](#oc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [OC Lounge](#oc-lounge) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Outer Loop](#outer-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [P/F](#p-f) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
-| [PAA](#paa) | 2015, 2016, 2017 |
+| [PAA](#paa) | 2015, 2016, 2017, 2019, 2021 |
 | [Parish Grants](#parish-grants) | 2010, 2011 |
-| [PCA](#pca) | 2015, 2016, 2017 |
-| [PDR](#pdr) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Powderpuff](#powderpuff) | 2015, 2016, 2016-owlmanac, 2017 |
-| [Pre-Reqs](#pre-reqs) | 2015, 2016, 2017 |
-| [Private Party](#private-party) | 2015, 2016, 2016-owlmanac, 2017 |
-| [Pub](#pub) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Public Party](#public-party) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Pumpkin Caroling](#pumpkin-caroling) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Pumpkin grades](#pumpkin-grades) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Q-Card](#q-card) | 2015, 2016, 2017 |
+| [PCA](#pca) | 2015, 2016, 2017, 2019, 2021 |
+| [PDR](#pdr) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Powderpuff](#powderpuff) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Pre-Reqs](#pre-reqs) | 2015, 2016, 2017, 2019, 2021 |
+| [Private Party](#private-party) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Pub](#pub) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Public Party](#public-party) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Pumpkin Caroling](#pumpkin-caroling) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Pumpkin grades](#pumpkin-grades) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Q-Card](#q-card) | 2015, 2016, 2017, 2019, 2021 |
 | [Quad](#quad) | 2003, 2006, 2007, 2008, 2010, 2011, 2016-owlmanac |
-| [R2 (The Rice Review)](#r2-the-rice-review) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [R2 (The Rice Review)](#r2-the-rice-review) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Recharge U](#recharge-u) | 2014, 2015, 2016 |
-| [REMS](#rems) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [REMS](#rems) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Renata](#renata) | 2011, 2014 |
-| [RHA](#rha) | 2015, 2016, 2017 |
+| [RHA](#rha) | 2015, 2016, 2017, 2019, 2021 |
 | [Rice Players](#rice-players) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
-| [RMC](#rmc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Rondelet](#rondelet) | 2003, 2015, 2016, 2017 |
-| [Room Draw](#room-draw) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [RPC](#rpc) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [RSVP](#rsvp) | 2015, 2016, 2017 |
-| [RUPD](#rupd) | 2015, 2016, 2017 |
-| [Rustication](#rustication) | 2015, 2016, 2016-owlmanac, 2017 |
+| [RMC](#rmc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Rondelet](#rondelet) | 2003, 2015, 2016, 2017, 2019, 2021, 2024 |
+| [Room Draw](#room-draw) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [RPC](#rpc) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [RSVP](#rsvp) | 2015, 2016, 2017, 2019, 2021, 2024 |
+| [RUPD](#rupd) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Rustication](#rustication) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [S/E](#s-e) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
-| [SA](#sa) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Sallyport](#sallyport) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Sammy the Owl](#sammy-the-owl) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [SA](#sa) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Sallyport](#sallyport) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Sammy the Owl](#sammy-the-owl) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Sandy](#sandy) | 2006, 2007, 2008 |
 | [SCC](#scc) | 2008, 2010, 2011 |
-| [Screw-Yer-Roommate](#screw-yer-roommate) | 2015, 2016, 2016-owlmanac, 2017 |
-| [Servery](#servery) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Screw-Yer-Roommate](#screw-yer-roommate) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Servery](#servery) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Sid Rich](#sid-rich) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Sidizen](#sidizen) | 2014, 2016-owlmanac |
-| [Skyspace](#skyspace) | 2015, 2016, 2017 |
-| [SMR](#smr) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Sparky’s](#sparky-s) | 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Skyspace](#skyspace) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [SMR](#smr) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Sparky’s](#sparky-s) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Squirrels](#squirrels) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Stacks](#stacks) | 2014, 2015, 2016, 2017 |
+| [Stacks](#stacks) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Sue](#sue) | 1994, 2003, 2006, 2007, 2008 |
-| [Summit](#summit) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Tabletop](#tabletop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Summit](#summit) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Tabletop](#tabletop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [TC](#tc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
-| [TEAM WIESS](#team-wiess) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Tetra Points](#tetra-points) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [TFW](#tfw) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [The Hoot](#the-hoot) | 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [The Rec](#the-rec) | 2015, 2016, 2017 |
-| [Thresher](#thresher) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [TEAM WIESS](#team-wiess) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Tetra Points](#tetra-points) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [TFFW](#tffw) | 2019, 2021, 2024, 2025 |
+| [TFW](#tfw) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [The Hoot](#the-hoot) | 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [The Rec](#the-rec) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Thresher](#thresher) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Trasher](#trasher) | 2003, 2006, 2007, 2008, 2016-owlmanac |
-| [Turnover](#turnover) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Turnover](#turnover) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [TV room](#tv-room) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [U. Blue](#u-blue) | 2003, 2006, 2007, 2008 |
-| [Ubangee](#ubangee) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Ubangee](#ubangee) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Ultimate](#ultimate) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Upper Commons](#upper-commons) | 2014, 2015, 2016, 2017 |
-| [Valhalla](#valhalla) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Village](#village) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Upper Commons](#upper-commons) | 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Valhalla](#valhalla) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Village](#village) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Virgin’s Walk](#virgin-s-walk) | 2003, 2006, 2007 |
-| [War Pig](#war-pig) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [What to call people from…](#what-to-call-people-from) | 2015, 2016, 2017 |
-| [Whataburger](#whataburger) | 2014, 2015, 2016, 2017 |
-| [Wiess](#wiess) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Wiess Day](#wiess-day) | 2014, 2015, 2016, 2017 |
-| [Wiess House](#wiess-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
-| [Wiessmen](#wiessmen) | 1994, 2003, 2006, 2007, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [War Pig](#war-pig) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [What to call people from…](#what-to-call-people-from) | 2015, 2016, 2017, 2019, 2021 |
+| [Whataburger](#whataburger) | 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Wiess](#wiess) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Wiess Day](#wiess-day) | 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Wiess House](#wiess-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Wiessmen](#wiessmen) | 1994, 2003, 2006, 2007, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Will Rice](#will-rice) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Will Ricer](#will-ricer) | 2014, 2016-owlmanac |
-| [Willy Week](#willy-week) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Willy’s Statue](#willy-s-statue) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017 |
-| [Y’all](#y-all) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
+| [Willy Week](#willy-week) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Willy’s Statue](#willy-s-statue) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019 |
+| [Y’all](#y-all) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 
 
 ### 13th Street
 
 - **2008**—1. Store in the Student Center that sells snacks and drinks late at night. [@oweek-2008 part 7 p.5]
 - **2010**—Store in the Student Center that sells snacks and drinks late at night. [@oweek-2010 p.92]
+
+### 2FK/3FK
+
+- **2019**—The Second Floor Kitchen (newly renovated) and Third Floor Kitchen, respectively. Both are stocked with communal cookware. [@oweek-2019 p.14]
+- **2021**—The Second Floor Kitchen and Third Floor Kitchen, respectively. Both are stocked with communal cookware. [@oweek-2021 p.18]
 
 ### 45, 90, 180
 
@@ -230,6 +243,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The three slabs of granite located in the Engineering Quad, worth three million dollars and modeled after their namesake angles. [@oweek-2015 p.120]
 - **2016**—The three slabs of granite located in the Engineering Quad, worth three million dollars and modeled after their namesake angles. [@oweek-2016 p.15]
 - **2017**—The three slabs of granite located in the Engineering Quad, worth three million dollars and modeled after their namesake angles. [@oweek-2017 p.16]
+- **2019**—The three slabs of granite located in the Engineering Quad, worth three million dollars and modeled after their namesake angles. [@oweek-2019 p.16]
+- **2021**—The three slabs of granite located in the Engineering Quad, worth three million dollars and modeled after their namesake angles. [@oweek-2021 p.20]
 
 ### Acababy
 
@@ -251,6 +266,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The Wiess courtyard/quad. The social epicenter of Wiess, where people commonly hang out, play frisbee or football, and study. [@oweek-2015 p.118]
 - **2016**—The Wiess courtyard/quad. The social epicenter of Wiess, where people commonly hang out, play frisbee or football, and study. [@oweek-2016 p.13]
 - **2017**—The Wiess courtyard/quad. The social epicenter of Wiess, where people commonly hang out, play frisbee or football, and study. [@oweek-2017 p.14]
+- **2019**—The Wiess courtyard/quad. People commonly hang out, play frisbee or football, and study here, especially on nice days. [@oweek-2019 p.14]
+- **2021**—Wiess’ courtyard/quad. People commonly hang out, play Frisbee or football, and study here, especially on nice days. [@oweek-2021 p.18]
 
 ### Academ
 
@@ -265,6 +282,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Humanities or Social Sciences major. Very archaic term. [@oweek-2016 p.15]
 - **2016-owlmanac**—A person who is majoring in the humanities or social sciences. [@owlmanac-2016 p.55]
 - **2017**—Humanities or Social Sciences major. Very archaic term. [@oweek-2017 p.16]
+- **2019**—Humanities or Social Sciences major. Very archaic term. [@oweek-2019 p.16]
+- **2021**—Humanities or Social Sciences major. A very archaic term. [@oweek-2021 p.20]
 
 ### Academic Quad
 
@@ -272,6 +291,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The central academic quadrangle around Willy’s Statue. [@oweek-2015 p.120]
 - **2016**—The central academic quadrangle around Willy’s Statue. [@oweek-2016 p.15]
 - **2017**—The central academic quadrangle around Willy’s Statue. [@oweek-2017 p.16]
+- **2019**—The central academic quadrangle surrounding Willy’s Statue. [@oweek-2019 p.16]
+- **2021**—The central academic quadrangle surrounding Willy’s Statue. [@oweek-2021 p.20]
 
 ### Acaglider
 
@@ -282,6 +303,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Giant covered swinging picnic table of glory, located in the Acabowl. [@oweek-2015 p.118]
 - **2016**—Giant covered swinging picnic table of glory, located in the Acabowl. [@oweek-2016 p.13]
 - **2017**—Giant covered swinging picnic table of glory, located in the Acabowl. [@oweek-2017 p.14]
+- **2019** (*Acagliders*)—The two giant, covered, swinging picnic tables of glory, located in the Acabowl. [@oweek-2019 p.14]
+- **2021** (*Acagliders*)—The two giant, covered, swinging picnic tables of glory, located in the Acabowl. [@oweek-2021 p.18]
 
 ### Acagrill
 
@@ -292,6 +315,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The grill located in the Acabowl. [@oweek-2015 p.118]
 - **2016**—The grill located in the Acabowl. [@oweek-2016 p.13]
 - **2017**—The grill located in the Acabowl. [@oweek-2017 p.14]
+- **2019** (*Acagrills*)—The grills located in the Acabowl. [@oweek-2019 p.14]
+- **2021** (*Acagrills*)—The grills located in the Acabowl. [@oweek-2021 p.18]
 
 ### Acahammock
 
@@ -320,12 +345,15 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The trampoline located in the Acabowl. [@oweek-2015 p.118]
 - **2016**—The trampoline located in the Acabowl. [@oweek-2016 p.13]
 - **2017**—The trampoline located in the Acabowl. [@oweek-2017 p.14]
+- **2019**—The trampoline located in the Acabowl. [@oweek-2019 p.14]
 
 ### Affiliates
 
 - **2015**—Awesome people who are affiliated with your O-Week group. They’re different from Fellows and Co-Fellows, but serve a very important role— not just for your group, but for all the new students. They include your Peer Academic Advisors, Diversity Facilitators, Rice Health Advisor, Gophers, Photographer, and Videographer. [@oweek-2015 p.118]
 - **2016**—Awesome people who are affiliated with your O-Week group. They’re different from Fellows and Co-Fellows, but serve a very important role— not just for your group, but for all the new students. They include your Peer Academic Advisors, Diversity Facilitators, Rice Health Advisor, Gophers, Photographer, and Videographer. [@oweek-2016 p.13]
 - **2017**—Fellows who also serve a specialized role during O-Week and afterwards. They include your Peer Academic Advisors, Diversity Facilitators, Rice Health Advisors, Gophers, Photographer, and Videographer. [@oweek-2017 p.14]
+- **2019** (*A-Fellows*)—Affiliate Fellows. Amazing people who, in addition to serving as an advisor for your O-Week group, serve an extra but very important role for all New Students. They include your Peer Academic Advisors, Diversity Facilitators, Rice Health Advisors, Gophers, Photographer, Videographer, and Athlete Affiliate. [@oweek-2019 p.14]
+- **2021** (*A-Fellows*)—Affiliate Fellows for new Wiessmen. They are different from Fellows and Co-Fellows, and serve a very important role—not just for your group, but for all the new students. They include your Athlete Affiliate, Diversity Facilitators, Gophers, International Student Liaison, Photographers, and Videographer. [@oweek-2021 p.18]
 
 ### Archi (ar-kee)
 
@@ -340,6 +368,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Architecture student. [@oweek-2016 p.15]
 - **2016-owlmanac**—A student majoring in architecture. Find one if you ever need something drawn. [@owlmanac-2016 p.55]
 - **2017**—Architecture student. [@oweek-2017 p.16]
+- **2019**—Architecture student. [@oweek-2019 p.16]
+- **2021**—Architecture student. [@oweek-2021 p.20]
 
 ### ASB
 
@@ -348,6 +378,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Alternative Spring Break; service trip over spring break based on a social issue. [@oweek-2016 p.15]
 - **2016-owlmanac**—Alternative Spring Break; the alternative involves a service project, often in another state. [@owlmanac-2016 p.55]
 - **2017**—Alternative Spring Break; service trip over spring break based on a social issue. [@oweek-2017 p.16]
+- **2019**—Alternative Spring Break; service trip over spring break based on a social issue. [@oweek-2019 p.16]
+- **2021**—Alternative Spring Break; a service trip over spring break based on a social issue. [@oweek-2021 p.20]
+- **2024**—Alternative Spring Break; a service trip over spring break based on a social issue. [@oweek-2024 p.26]
+- **2025**—Alternative Spring Break; a service trip over spring break based on a social issue. [@oweek-2025 p.27]
 
 ### Associate
 
@@ -362,6 +396,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2016 p.15]
 - **2016-owlmanac**—Faculty, staff, and community members associated with a college. They’re good people to get to know. [@owlmanac-2016 p.55]
 - **2017**—Faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2017 p.16]
+- **2019**—Faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2019 p.16]
+- **2021**—Faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2021 p.20]
+- **2024**—A faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2024 p.27]
+- **2025**—A faculty, staff, or community member associated with a college. Good people to get to know. [@oweek-2025 p.28]
 
 ### Associates Night
 
@@ -370,6 +408,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2016 p.13]
 - **2016-owlmanac** (*Associate’s Night*)—A formal dinner held in your college’s commons once a semester to honor its Associates. Dress up and come eat good food with interesting people. [@owlmanac-2016 p.55]
 - **2017**—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2017 p.14]
+- **2019** (*Associates’ Night*)—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2019 p.14]
+- **2021** (*Associates’ Night*)—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2021 p.18]
+- **2024** (*Associates’ Night*)—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2024 p.25]
+- **2025** (*Associates’ Night*)—Formal dinner held in the Commons once a semester to honor our Associates. [@oweek-2025 p.26]
 
 ### Autry
 
@@ -378,6 +420,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Gym in Tudor Fieldhouse where the Rice basketball team plays. [@oweek-2016 p.15]
 - **2016-owlmanac**—The gym where the basketball teams play. [@owlmanac-2016 p.55]
 - **2017**—Gym in Tudor Fieldhouse where the Rice basketball team plays. [@oweek-2017 p.16]
+- **2019**—Gym in Tudor Fieldhouse where the Rice basketball teams play. [@oweek-2019 p.16]
+- **2021**—Gym in Tudor Fieldhouse where the Rice basketball teams play. [@oweek-2021 p.20]
 
 ### Bacaterrace
 
@@ -385,6 +429,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Fourth floor balcony. Great spot to hang out or watch the sunset. [@oweek-2015 p.118]
 - **2016**—Fourth floor balcony. Great spot to hang out or watch the sunset. [@oweek-2016 p.13]
 - **2017**—Fourth floor balcony. Great spot to hang out or watch the sunset. [@oweek-2017 p.14]
+- **2019**—The terrace behind the Upper Commons that we share with Hanszen. [@oweek-2019 p.14]
+- **2021**—The terrace behind the Upper Commons that we share with Hanszen. [@oweek-2021 p.18]
 
 ### Backaterrace
 
@@ -398,6 +444,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015** (*Acaterrace*)—The terrace behind the Upper Commons that we share with Hanszen. [@oweek-2015 p.118]
 - **2016** (*Acaterrace*)—The terrace behind the Upper Commons that we share with Hanszen. [@oweek-2016 p.13]
 - **2017** (*Acaterrace*)—The terrace behind the Upper Commons that we share with Hanszen. [@oweek-2017 p.14]
+- **2019** (*Acaterrace*)—Fourth floor balcony. Great spot to hang out or watch the sunset. [@oweek-2019 p.14]
+- **2021** (*Acaterrace*)—The terrace connecting the second floor and the Upper Commons. [@oweek-2021 p.18]
 
 ### Backpage
 
@@ -425,6 +473,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The James A. Baker III Institute for Public Policy. Holds a lot of interesting talks and events that are typically open to undergraduates. Not to be confused with Baker College. [@oweek-2016 p.15]
 - **2016-owlmanac** (*Baker Institute/Baker Hall*)—The James A. Baker III Institute for Public Policy and the building that houses The Institute. Not to be confused with Baker College. [@owlmanac-2016 p.55]
 - **2017**—The James A. Baker III Institute for Public Policy. Holds a lot of interesting talks and events that are typically open to undergraduates. Not to be confused with Baker College. [@oweek-2017 p.16]
+- **2019**—The James A. Baker III Institute for Public Policy. Holds many interesting talks and events that are typically open to undergraduates. Not to be confused with Baker College. [@oweek-2019 p.16]
+- **2021**—The James A. Baker III Institute for Public Policy. Holds many interesting talks and events that are typically open to undergraduates. Not to be confused with Baker College. [@oweek-2021 p.20]
 
 ### Bakerite
 
@@ -444,6 +494,7 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The area under the Commons used for storage and shirt screening. [@oweek-2015 p.118]
 - **2016**—The area under the Commons used for storage and shirt screening. [@oweek-2016 p.13]
 - **2017**—The area under the Commons used for storage and shirt screening. [@oweek-2017 p.14]
+- **2019**—The area under the Commons used for storage and shirt screening. [@oweek-2019 p.14]
 
 ### Basement auction
 
@@ -463,6 +514,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015** (*Battlesows*)—Affectionate name for the Wiess powderpuff football team. [@oweek-2015 p.118]
 - **2016** (*Battlesows*)—Affectionate name for the Wiess powderpuff football team. [@oweek-2016 p.13]
 - **2017** (*Battlesows*)—Affectionate name for the Wiess powderpuff football team. [@oweek-2017 p.14]
+- **2019** (*Battlesows*)—Affectionate name for the Wiess powderpuff (football) team. [@oweek-2019 p.14]
+- **2021** (*Battlesows*)—An affectionate name for the Wiess powderpuff football team. [@oweek-2021 p.18]
+- **2024** (*Battlesows*)—An affectionate name for the Wiess powderpuff football team. [@oweek-2024 p.25]
+- **2025** (*Battlesows*)—An affectionate name for the Wiess powderpuff football team. [@oweek-2025 p.26]
 
 ### BC
 
@@ -483,6 +538,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, and also includes a water balloon fight and much rejoicing. [@oweek-2016 p.15]
 - **2016-owlmanac** (*Beer Bike*)—A very competitive, inter-college race/event held every spring, in which ten bikers and ten chuggers from each college compete in an epic struggle for personal and college pride. [@owlmanac-2016 p.55]
 - **2017** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, and also includes a water balloon fight and much rejoicing. [@oweek-2017 p.16]
+- **2019** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, it also includes a water balloon fight and much rejoicing. [@oweek-2019 p.16]
+- **2021** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, it also includes a water balloon fight and much rejoicing. [@oweek-2021 p.20]
+- **2024** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, it also includes a water balloon fight and much rejoicing. [@oweek-2024 p.26]
+- **2025** (*Beer Bike*)—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, it also includes a water balloon fight and much rejoicing. [@oweek-2025 p.27]
 
 ### Benjamin and Jenna
 
@@ -502,6 +561,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The “real world” outside of Rice. [@oweek-2016 p.15]
 - **2016-owlmanac**—See: Real World. It’s got a ton of amazing stuff, from food to sports. Get out there and explore it! [@owlmanac-2016 p.55]
 - **2017**—The “real world” outside of Rice. [@oweek-2017 p.16]
+- **2019**—The “real world” outside of Rice. [@oweek-2019 p.16]
+- **2021**—The “real world” outside of Rice. [@oweek-2021 p.20]
+- **2024**—The “real world” outside of Rice. [@oweek-2024 p.27]
+- **2025**—The “real world” outside of Rice. [@oweek-2025 p.28]
 
 ### Big Bang
 
@@ -526,12 +589,24 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Classes frequently taken by Science and Engineering majors: Physics, Chemistry, and Calculus. [@oweek-2016 p.15]
 - **2016-owlmanac**—Specifically, chemistry, calculus, and physics. Almost all science/engineering students take the big three during their freshman year. [@owlmanac-2016 p.55]
 - **2017**—Classes frequently taken by Science and Engineering majors: Physics, Chemistry, and Calculus. [@oweek-2017 p.16]
+- **2019**—Classes frequently taken by Natural Sciences and Engineering majors: Physics, Chemistry, and Calculus. [@oweek-2019 p.16]
+- **2021**—The classes frequently taken by Natural Sciences and Engineering majors: Physics, Chemistry, and Calculus. [@oweek-2021 p.20]
+
+### Bookstore
+
+- **2016-owlmanac**—This is where you can go to get all your textbooks for class, plus lots of nifty Rice paraphernalia. Take your family there so you can all get gear to show off your school pride. Some students opt to purchase used books from their friends or buy books online instead of using the book store. [@owlmanac-2016 p.55]
+- **2019** (*The Bookstore*)—Convenience store located in the RMC. [@oweek-2019 p.18]
+- **2021** (*The Bookstore*)—Convenience store located in the RMC. [@oweek-2021 p.22]
 
 ### BRC
 
 - **2015**—Bioscience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2015 p.120]
 - **2016**—Bioscience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2016 p.15]
 - **2017**—Bioscience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2017 p.16]
+- **2019**—BioScience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2019 p.16]
+- **2021**—BioScience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2021 p.20]
+- **2024**—BioScience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2024 p.26]
+- **2025**—BioScience Research Collaborative, where Rice meets the Texas Medical Center for research. Also where Bioengineers spend most of their time for class starting junior year. [@oweek-2025 p.27]
 
 ### Brent
 
@@ -546,6 +621,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A modernistic glass building located behind Fondren. Home to Salento (a non-student operated coffeeshop) and a great place to relax and sit outside. [@oweek-2016 p.15]
 - **2016-owlmanac** (*Pavillion, The*)—Short for Brochstein Pavillion, a modernistic glass building located behind Fondren. Home to Salento (a non-student-operated coffee shop) and is a great place to relax and sit outside. Also called the peoplequarium because it looks like a human fish tank. [@owlmanac-2016 p.56]
 - **2017**—A modernistic glass building located behind Fondren. Home to Salento (a non-student operated coffeeshop) and a great place to relax and sit outside. [@oweek-2017 p.16]
+- **2019**—A modernistic glass building located behind Fondren. Home to FLO Paris (a non-student operated bakery and café) and a great place to relax and sit outside. [@oweek-2019 p.16]
+- **2021**—A modernistic glass building located behind Fondren. Home to Little Kitchen (a non-student operated bakery and café) and a great place to relax and sit outside. [@oweek-2021 p.20]
+- **2024**—A modernistic glass building located behind Fondren. Home to a non-student operated bakery and café and a great place to relax and sit outside. [@oweek-2024 p.26]
+- **2025**—A modernistic glass building located behind Fondren. Home to a non-student operated bakery and café and a great place to relax and sit outside. [@oweek-2025 p.27]
 
 ### Brown
 
@@ -573,6 +652,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Governing body of Wiess, made up entirely of Wiessmen. Meets every other Wednesday at 10pm in the Upper Commons. There’s always free food. [@oweek-2015 p.118]
 - **2016**—Governing body of Wiess, made up entirely of Wiessmen. Meets every other Wednesday at 10pm in the Upper Commons. There’s always free food. [@oweek-2016 p.13]
 - **2017**—Governing body of Wiess, made up entirely of Wiessmen. Meets every other Wednesday at 10pm in the Upper Commons. There’s always free food. [@oweek-2017 p.14]
+- **2019**—The governing body of Wiess, made up entirely of Wiessmen. Meets every other Wednesday at 9 pm in the Upper Commons. There’s always free food. [@oweek-2019 p.14]
+- **2021**—The governing body of Wiess, made up entirely of Wiessmen. It meets every other Wednesday at 9 pm in the Upper Commons. There’s always free food. [@oweek-2021 p.18]
+- **2024**—The governing body of Wiess, made up entirely of Wiessmen. It meets every other Wednesday at 9 pm in the Upper Commons. There’s always free food. [@oweek-2024 p.25]
+- **2025**—The governing body of Wiess, made up entirely of Wiessmen. It meets every other Wednesday at 9 pm in the Upper Commons. There’s always free food. [@oweek-2025 p.26]
 
 ### Campanile
 
@@ -587,6 +670,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—1. The bell tower in the Engineering Quad, 2. Rice’s yearbook, 3. the undergraduate orchestra for non-music majors [@oweek-2016 p.15]
 - **2016-owlmanac** (*Campanile (kam-pa-neel-ee)*)—1. A bell tower of any kind. 2. The Rice yearbook, a mythical creature, which used to be known only to appear every leap year. For the past few years they’ve been out the fall after the year it covers. The yearbook crew does a great job, so it is well worth the wait. 3. Rice’s undergraduate orchestra for non-music majors. [@owlmanac-2016 p.55]
 - **2017**—1. The bell tower in the Engineering Quad, 2. Rice’s yearbook, 3. the undergraduate orchestra for non-music majors [@oweek-2017 p.16]
+- **2019**—1. The bell tower in the Engineering Quad. 2. Rice’s yearbook. 3. The undergraduate orchestra for non-music majors. [@oweek-2019 p.16]
+- **2021**—1. The bell tower in the Engineering Quad. 2. Rice’s yearbook. 3. The undergraduate orchestra for non-music majors. [@oweek-2021 p.20]
+- **2024**—1. The bell tower in the Engineering Quad. 2. Rice’s yearbook. 3. The undergraduate orchestra for non-music majors. [@oweek-2024 p.27]
+- **2025**—1. The bell tower in the Engineering Quad. 2. Rice’s yearbook. 3. The undergraduate orchestra for non-music majors. [@oweek-2025 p.28]
 
 ### CCA
 
@@ -594,11 +681,18 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2006**—1. College Computing Associates. 2. Friendly people in your college who will help you when your computer acts up. [@oweek-2006 p.85]
 - **2007**—1. College Computing Associates. 2. Friendly people in your college who will help you when your computer acts up. [@oweek-2007 p.85]
 
+### CDOD
+
+- **2024**—Critical Dialogues on Diversity. A required course for new students to embrace diversity at Rice. [@oweek-2024 p.26]
+- **2025**—Critical Dialogues on Diversity. A required course for new students to embrace diversity at Rice. [@oweek-2025 p.27]
+
 ### ChBE (“Chubby”)
 
 - **2015**—An affectionate name for Chemical and Biomolecular Engineering majors. [@oweek-2015 p.120]
 - **2016**—An affectionate name for Chemical and Biomolecular Engineering majors. [@oweek-2016 p.15]
 - **2017**—An affectionate name for Chemical and Biomolecular Engineering majors. [@oweek-2017 p.16]
+- **2019**—An affectionate name for Chemical and Biomolecular Engineering majors. [@oweek-2019 p.16]
+- **2021**—An affectionate name for Chemical and Biomolecular Engineering majors. [@oweek-2021 p.20]
 
 ### Christa
 
@@ -638,6 +732,9 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016** (*Baker 13*)—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate. [@oweek-2016 p.15]
 - **2016-owlmanac** (*Baker 13*)—A tradition where members undress, smear shaving cream on their bodies, and run around campus leaving a trail of body prints. It has been a proud Baker tradition for over thirty years but all undergrads are invited to participate! [@owlmanac-2016 p.55]
 - **2017** (*Baker 13*)—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate. [@oweek-2017 p.16]
+- **2019** (*Baker 13*)—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker tradition for over thirty years; all undergrads are invited to participate. [@oweek-2019 p.16]
+- **2021** (*Baker 13*)—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker tradition for over thirty years; all undergrads are invited to participate. [@oweek-2021 p.20]
+- **2024** (*Baker 13*)—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker tradition for over thirty years; all undergrads are invited to participate. [@oweek-2024 p.27]
 
 ### Coffeehouse
 
@@ -652,6 +749,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2016 p.15]
 - **2016-owlmanac**—A student-run coffee shop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@owlmanac-2016 p.55]
 - **2017**—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2017 p.16]
+- **2019**—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2019 p.16]
+- **2021** (*Coffeehouse (“Chaus”)*)—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2021 p.20]
+- **2024** (*Coffeehouse (“Chaus”)*)—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2024 p.26]
+- **2025** (*Coffeehouse (“Chaus”)*)—Student-run coffeeshop providing the best legal way to artificially increase your study skills on short notice. Located in the RMC. [@oweek-2025 p.27]
 
 ### Coffeehouse Night
 
@@ -675,6 +776,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The faculty dining club near Sewall Hall with really good food. [@oweek-2016 p.15]
 - **2016-owlmanac**—The faculty dining club near Sewall Hall. They make very good food. A few steps above the serveries. If you get the opportunity to eat or work there, take it. [@owlmanac-2016 p.55]
 - **2017**—The faculty dining club near Sewall Hall with really good food. [@oweek-2017 p.16]
+- **2019**—The faculty dining club near Sewall Hall with really good food. [@oweek-2019 p.16]
+- **2021**—The faculty dining club near Sewall Hall with really good food. [@oweek-2021 p.20]
 
 ### College Idiot
 
@@ -700,6 +803,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A day filled with college bonding, hanging out, a nice dinner, and an evening of entertainment. Each college has their own each semester, usually with a different theme. [@oweek-2016 p.13]
 - **2016-owlmanac**—Not just a night, but actually a full day of themed partying held every semester, where your entire college celebrates its awesomeness together. Every college has its own. [@owlmanac-2016 p.55]
 - **2017**—A day filled with college bonding, hanging out, a nice dinner, and an evening of entertainment. Each college has their own each semester, usually with a different theme. [@oweek-2017 p.14]
+- **2019**—A day filled with college bonding, hanging out, a nice dinner, and an evening of entertainment. Each college has their own each semester, usually with a different theme. [@oweek-2019 p.14]
+- **2021**—A day filled with college bonding, good food, and an evening of entertainment. Each college has their own each semester, usually with a different theme. [@oweek-2021 p.18]
 
 ### College night [Rice speak]
 
@@ -723,6 +828,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2015 p.118]
 - **2016**—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2016 p.13]
 - **2017**—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2017 p.14]
+- **2019**—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2019 p.14]
+- **2021**—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2021 p.18]
+- **2024** (*Commons Culture*)—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2024 p.25]
+- **2025** (*Commons Culture*)—The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here. [@oweek-2025 p.26]
 
 ### Convenience Store
 
@@ -742,6 +851,24 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—To pull up an extra chair at the corner of a table. Frequently occurs during meals but not at formal occasions. [@oweek-2015 p.118]
 - **2016**—To pull up an extra chair at the corner of a table. Frequently occurs during meals but not at formal occasions. [@oweek-2016 p.13]
 - **2017**—To pull up an extra chair at the corner of a table. Frequently occurs during meals but not at formal occasions. [@oweek-2017 p.14]
+- **2019**—To pull up an extra chair at the corner of a table. Frequently occurs during meals but not at formal occasions. [@oweek-2019 p.14]
+- **2021**—To pull up an extra chair at the corner of a table. Frequently occurs during meals. [@oweek-2021 p.18]
+- **2024**—To pull up an extra chair at the corner of a table. Frequently occurs during meals. [@oweek-2024 p.25]
+- **2025**—To pull up an extra chair at the corner of a table. Frequently occurs during meals. [@oweek-2025 p.26]
+
+### Cozy Corner
+
+- **2019**—A corner of the commons featuring extremely comfortable couches, a large goldenrod rug, a small table, and several napping OC students. [@oweek-2019 p.14]
+- **2021**—A corner of the commons featuring extremely comfortable couches, a large goldenrod rug, a small table, and several napping OC students. [@oweek-2021 p.18]
+- **2024**—A corner of the commons featuring extremely comfortable couches, a large goldenrod rug, a small table, and several napping OC students. [@oweek-2024 p.25]
+- **2025**—A corner of the commons featuring extremely comfortable couches, a large goldenrod rug, a small table, and several napping OC students. [@oweek-2025 p.26]
+
+### CTIS
+
+- **2019**—Critical Thinking in Sexuality. A required course for New Students to provide information about consent, relationships, and bystander training. [@oweek-2019 p.16]
+- **2021**—Critical Thinking in Sexuality. A required course for new students to provide information about consent, relationships, and bystander training. [@oweek-2021 p.20]
+- **2024**—Critical Thinking in Sexuality. A required course for new students to provide information about consent, relationships, and bystander training. [@oweek-2024 p.26]
+- **2025**—Critical Thinking in Sexuality. A required course for new students to provide information about consent, relationships, and bystander training. [@oweek-2025 p.27]
 
 ### D1, D2, D3
 
@@ -750,6 +877,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need 12 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, D3 = Science and Engineering. [@oweek-2016 p.15]
 - **2016-owlmanac**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. Roughly, D1 = humanities and arts, D2 = social sciences, and D3 = science and engineering. 12 credit hours of each category are required to graduate. [@owlmanac-2016 p.55]
 - **2017**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need 12 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, D3 = Science and Engineering. [@oweek-2017 p.16]
+- **2019**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need at least 9 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, and D3 = Science and Engineering. [@oweek-2019 p.16]
+- **2021**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need at least 9 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, and D3 = Science and Engineering. [@oweek-2021 p.20]
+- **2024**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need at least 9 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, and D3 = Science and Engineering. [@oweek-2024 p.27]
+- **2025**—Refers to distribution credits, Rice’s way of making sure you get a balanced education. You need at least 9 credit hours in each category to graduate. D1 = Humanities, D2 = Social Sciences, and D3 = Science and Engineering. [@oweek-2025 p.28]
 
 ### Delancey and Kelsey
 
@@ -833,6 +964,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2016 p.16]
 - **2016-owlmanac**—A formal dance held sometime in November, hosted by RPC. A major part of homecoming weekend and lots of fun! [@owlmanac-2016 p.55]
 - **2017**—Fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2017 p.17]
+- **2019**—Fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2019 p.17]
+- **2021**—The fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2021 p.21]
+- **2024**—The fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2024 p.27]
+- **2025**—The fall formal hosted by Rice Program Council. A major part of homecoming weekend and lots of fun! [@oweek-2025 p.28]
 
 ### Fellows
 
@@ -847,6 +982,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Advisors for new Wiessmen. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “advisors”—which technically, that is what they are, we just don’t call them that. [@oweek-2015 p.118]
 - **2016**—Advisors for new Wiessmen. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “advisors”—which technically, that is what they are, we just don’t call them that. [@oweek-2016 p.13]
 - **2017**—Advisors for new Wiessmen. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “advisors”—it’s the same position, we just call them something different. [@oweek-2017 p.14]
+- **2019**—Advisors for new Wiessmen. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “advisors”—which technically, that is what they are, we just don’t call them that. [@oweek-2019 p.14]
+- **2021**—Advisors for new Wiessmen. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “Advisors,” but we don’t call them that. [@oweek-2021 p.18]
+- **2024** (*Fellows/Advisors*)—The people who make O-Week possible. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “Advisors,” but we don’t call them that. [@oweek-2024 p.25]
+- **2025** (*Fellows/Advisors*)—The people who make O-Week possible. They are some of the greatest people you will ever meet and care about you so much. Co-Fellows are Fellows from other colleges. These other colleges may confuse you by calling them “Advisors,” but we don’t call them that. [@oweek-2025 p.26]
 
 ### Filmfest
 
@@ -879,6 +1018,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Also known as Fondy or Club Fondy. Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. A great place for productivity or a quick nap between classes, and it’s open 24 hours a day during the week. [@oweek-2016 p.16]
 - **2016-owlmanac** (*Fondren/Fondy*)—The Rice library. It has seminar rooms, study rooms, and classrooms. It’s a great place to study (and take a quick nap between classes). It’s open 24 hours a day during the week. [@owlmanac-2016 p.55]
 - **2017**—Also known as Fondy or Club Fondy. Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. A great place for productivity or a quick nap between classes, and it’s open 24 hours a day during the week. [@oweek-2017 p.17]
+- **2019**—Also known as Fondy or Club Fondy. Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. A great place for productivity or a quick nap between classes, and it’s open 24 hours a day during the week. [@oweek-2019 p.17]
+- **2021** (*Fondren (“Fondy”)*)—Also known as Club Fondy, Fondren is Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. It is a great place for productivity or a quick nap between classes, and it’s open 24 hours a day during the week. [@oweek-2021 p.21]
+- **2024** (*Fondren (“Fondy”)*)—Also known as Club Fondy, Fondren is Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. [@oweek-2024 p.26]
+- **2025** (*Fondren (“Fondy”)*)—Also known as Club Fondy, Fondren is Rice’s library—it has seminar rooms, study rooms, and classrooms that you can reserve. [@oweek-2025 p.27]
 
 ### Forman
 
@@ -898,6 +1041,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015** (*Freshman One-Acts*)—First Tabletop production of the year, which includes—you guessed it—one-acts featuring new students. [@oweek-2015 p.118]
 - **2016** (*Freshman One-Acts*)—First Tabletop production of the year, which includes—you guessed it—one-acts featuring new students. [@oweek-2016 p.13]
 - **2017** (*Freshman One-Acts*)—First Tabletop production of the year, which includes—you guessed it—one-acts featuring new students. [@oweek-2017 p.14]
+- **2019** (*Freshman One-Acts*)—First Tabletop production of the year, which includes, you guessed it, one-acts featuring new students. [@oweek-2019 p.14]
+- **2021** (*Freshman One-Acts*)—First Tabletop production of the year, which includes, you guessed it, one-acts featuring new students. [@oweek-2021 p.18]
 
 ### Freshmen Service Points
 
@@ -910,6 +1055,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015** (*Freshman Service Points*)—Four hours of required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2015 p.119]
 - **2016** (*Freshman Service Points*)—Four hours of required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2016 p.14]
 - **2017** (*Freshman Service Points*)—Four hours of required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2017 p.15]
+- **2019** (*Freshman Service Points*)—Four hours of required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2019 p.14]
+- **2021** (*Freshman Service Points*)—Required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2021 p.18]
+- **2024** (*Freshman Service Points*)—Required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2024 p.25]
+- **2025** (*Freshman Service Points*)—Required service hours. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities throughout the year to get them! [@oweek-2025 p.26]
 
 ### Frog Wall
 
@@ -917,12 +1066,18 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—An architectural quirk of Anderson Hall. Running your hand down the ridges of the wall produces a frog-like noise. Try it out for yourself. [@oweek-2016 p.16]
 - **2016-owlmanac**—An architectural quirk of Anderson Hall, and popular stop for tour groups. Running your hand down the ridges of the wall produces a frog-like noise. Try it out for yourself. [@owlmanac-2016 p.55]
 - **2017**—An architectural quirk of Anderson Hall. Running your hand down the ridges of the wall produces a frog-like noise. Try it out for yourself. [@oweek-2017 p.17]
+- **2019**—An architectural quirk of Anderson Hall. Running your hand down the ridges of the wall produces a frog-like noise. Try it out for yourself. [@oweek-2019 p.17]
+- **2021**—An architectural quirk of Anderson Hall. Running your hand down the ridges of the wall produces a frog-like noise. Try it out for yourself. [@oweek-2021 p.21]
 
 ### FWIS
 
 - **2015**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. When you pronounce it, it rhymes with “swiss.” [@oweek-2015 p.121]
 - **2016**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. When you pronounce it, it rhymes with “swiss.” [@oweek-2016 p.16]
 - **2017**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. When you pronounce it, it rhymes with “swiss.” [@oweek-2017 p.17]
+- **2019**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. When you pronounce it, it rhymes with “swiss.” [@oweek-2019 p.17]
+- **2021**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. Rhymes with “swiss.” [@oweek-2021 p.21]
+- **2024**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. [@oweek-2024 p.26]
+- **2025**—First-Year Writing-Intensive Seminar. Writing course students are required to take in their first year. [@oweek-2025 p.27]
 
 ### Gofer
 
@@ -947,6 +1102,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2015 p.119]
 - **2016**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2016 p.14]
 - **2017**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2017 p.15]
+- **2019**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2019 p.14]
+- **2021**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2021 p.18]
+- **2024**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2024 p.25]
+- **2025**—The official Wiess color. It will soon dominate your wardrobe. Remember, it’s not yellow! [@oweek-2025 p.26]
 
 ### GSA
 
@@ -955,6 +1114,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Graduate Student Association. [@oweek-2016 p.16]
 - **2016-owlmanac** (*GSA (Graduate Student Association)*)—The members of the various graduate programs at Rice. We play them in college sports and take some higher-level classes with them. [@owlmanac-2016 p.55]
 - **2017**—Graduate Student Association. [@oweek-2017 p.17]
+- **2019**—Graduate Student Association. [@oweek-2019 p.17]
+- **2021**—Graduate Student Association. [@oweek-2021 p.21]
+- **2024**—Graduate Student Association. [@oweek-2024 p.26]
+- **2025**—Graduate Student Association. [@oweek-2025 p.27]
 
 ### H&D
 
@@ -963,6 +1126,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Housing and Dining. Administrative office in charge of all food service and residential buildings on campus. [@oweek-2016 p.16]
 - **2016-owlmanac** (*Housing & Dining*)—The administrative office in charge of all food service and residential buildings on campus. Often referred to as H&D for short. Make sure to thank them for all they do! [@owlmanac-2016 p.55]
 - **2017**—Housing and Dining. Administrative office in charge of all food service and residential buildings on campus. [@oweek-2017 p.17]
+- **2019**—Housing and Dining. Administrative office in charge of all food service and residential buildings on campus. [@oweek-2019 p.17]
+- **2021**—Housing and Dining. The Administrative office in charge of all food service and residential buildings on campus. [@oweek-2021 p.21]
+- **2024**—Housing and Dining. The Administrative office in charge of all food service and residential buildings on campus. [@oweek-2024 p.26]
+- **2025**—Housing and Dining. The Administrative office in charge of all food service and residential buildings on campus. [@oweek-2025 p.27]
 
 ### Hanszen
 
@@ -986,6 +1153,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The ones who have been planning O-Week since January. AKA Ryan and Shannon, Ryannon, Shyan, Ry and Shan, R+S—call them what you want, they just want to be your friends. [@oweek-2015 p.119]
 - **2016**—The ones who have been planning O-Week since January. AKA Meagan, Olivia and Yash, Moliviyash, MOY, Yash, Liv and Meg, R+S— call them what you want, they just want to be your friends. [@oweek-2016 p.14]
 - **2017**—The people who have been planning your O-Week since January. AKA Abbey, Eugene, and Richard. Be sure to come and say hi! [@oweek-2017 p.15]
+- **2019**—The ones who have been planning O-Week since January: Riley, Erica, and Olasina. Say hello if you see them around! [@oweek-2019 p.15]
+- **2021**—The ones who have been planning O-Week since January: Serena, Aditi, and Chichi. Say hello if you see them around! [@oweek-2021 p.18]
+- **2024**—The ones who have been planning O-Week since January: Peter, Hannah, and Barakat. Say hello if you see them around! [@oweek-2024 p.25]
+- **2025**—The ones who have been planning O-Week since January: Aislinn, Caden, and Aria. Say hello if you see them around! [@oweek-2025 p.26]
 
 ### Hedge-jumping
 
@@ -1005,6 +1176,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Extensive botanical growth that surrounds campus and the Academic Quad. [@oweek-2016 p.16]
 - **2016-owlmanac**—Extensive botanical growth found surrounding campus and in the quad. “Beyond the Hedges” refers to the world beyond Rice. [@owlmanac-2016 p.55]
 - **2017**—Extensive botanical growth that surrounds campus and the Academic Quad. [@oweek-2017 p.17]
+- **2019**—Extensive botanical growth that surrounds campus and the Academic Quad. [@oweek-2019 p.17]
+- **2021**—Extensive botanical growth that surrounds campus and the Academic Quad. [@oweek-2021 p.21]
 
 ### House of Pies
 
@@ -1023,6 +1196,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Intramural. Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2016 p.16]
 - **2016-owlmanac**—Intramural. Informal, low-stress sports played among students. Not to be confused with college sports which are played between teams representing each of the colleges, with points going towards the President’s Cup. [@owlmanac-2016 p.55]
 - **2017**—Intramural. Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2017 p.17]
+- **2019**—Intramural. Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2019 p.17]
+- **2021**—Intramural. Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2021 p.21]
+- **2024** (*Intramural (IM) Sports*)—Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2024 p.27]
+- **2025** (*Intramural (IM) Sports*)—Informal, low-stress sports played among students. Not to be confused with college sports, which are played between teams representing each of the colleges with points going towards the President’s Cup. [@oweek-2025 p.28]
 
 ### Inner Loop
 
@@ -1036,6 +1213,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—One-way road that loops around the center of campus. [@oweek-2015 p.121]
 - **2016**—One-way road that loops around the center of campus. [@oweek-2016 p.16]
 - **2017**—One-way road that loops around the center of campus. [@oweek-2017 p.17]
+- **2019**—One-way road that loops around the center of campus. [@oweek-2019 p.17]
+- **2021**—The one-way road that loops around the center of campus. [@oweek-2021 p.21]
+- **2024**—The one-way road that loops around the center of campus. [@oweek-2024 p.26]
+- **2025**—The one-way road that loops around the center of campus. [@oweek-2025 p.27]
 
 ### Ironman/Ironwoman
 
@@ -1049,6 +1230,14 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Someone who both bikes and chugs at Beer Bike. [@oweek-2016 p.16]
 - **2016-owlmanac**—Someone who both rides and chugs at Beer Bike (not at the same time). A class act and a real hero. [@owlmanac-2016 p.55]
 - **2017**—Someone who both bikes and chugs at Beer Bike. [@oweek-2017 p.17]
+- **2019**—Someone who both bikes and chugs at Beer Bike. [@oweek-2019 p.17]
+- **2021**—Someone who both bikes and chugs at Beer Bike. [@oweek-2021 p.21]
+
+### Island
+
+- **2021**—The area in the Medical Center with many restaurants that Rice students frequent. [@oweek-2021 p.21]
+- **2024** (*The Island*)—The area in the Medical Center with many restaurants that Rice students frequent. [@oweek-2024 p.27]
+- **2025** (*The Island*)—The area in the Medical Center with many restaurants that Rice students frequent. [@oweek-2025 p.28]
 
 ### Ivy
 
@@ -1071,6 +1260,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A prank pulled on another college. [@oweek-2016 p.16]
 - **2016-owlmanac**—To pull a prank, usually on another college. The more clever and over-the-top (without being destructive/offensive) the better. [@owlmanac-2016 p.55]
 - **2017**—A prank pulled on another college. [@oweek-2017 p.17]
+- **2019**—A prank pulled on another college. [@oweek-2019 p.17]
+- **2021**—A prank pulled on another college. [@oweek-2021 p.21]
+- **2024**—A prank pulled on another college. [@oweek-2024 p.27]
+- **2025**—A prank pulled on another college. [@oweek-2025 p.28]
 
 ### Jamfest
 
@@ -1096,6 +1289,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2016 p.16]
 - **2016-owlmanac**—Rice’s Graduate School of Business. Not to be confused with Jones College. [@owlmanac-2016 p.55]
 - **2017**—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2017 p.17]
+- **2019**—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2019 p.17]
+- **2021**—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2021 p.21]
+- **2024** (*Jones Business School*)—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2024 p.26]
+- **2025** (*Jones Business School*)—Rice’s Graduate School of Business, not to be confused with Jones College. [@oweek-2025 p.27]
 
 ### Jonesian
 
@@ -1115,6 +1312,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2016 p.16]
 - **2016-owlmanac** (*KTRU (kay-true)*)—The campus radio station, whic streams online and over the air, is a student operated radio station that plays everything from jazz, to reggae, to bands you probably didn’t think existed. [@owlmanac-2016 p.55]
 - **2017** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2017 p.17]
+- **2019** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2019 p.17]
+- **2021** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2021 p.21]
+- **2024** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2024 p.26]
+- **2025** (*KTRU (KAY-true)*)—Rice’s student-run radio station, which now streams online. Plays everything from jazz to reggae to bands you probably didn’t even know existed. [@oweek-2025 p.27]
 
 ### Leebron (and Ping)
 
@@ -1155,6 +1356,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Lifetime Physical Activity Program. Required “gym” class that all students must take to graduate. Capoeira, swing dance, disc golf, and fitness swimming are among the different options. [@oweek-2015 p.121]
 - **2016**—Lifetime Physical Activity Program. Required “gym” class that all students must take to graduate. Capoeira, swing dance, disc golf, and fitness swimming are among the different options. [@oweek-2016 p.16]
 - **2017**—Lifetime Physical Activity Program. Required “gym” class that all students must take to graduate. Capoeira, swing dance, disc golf, and fitness swimming are among the different options. [@oweek-2017 p.17]
+- **2019**—Lifetime Physical Activity Program. Required “gym” class that all students must take to graduate. Capoeira, swing dance, fencing, and fitness swimming are among the different options. [@oweek-2019 p.17]
+- **2021**—Lifetime Physical Activity Program. A required “gym” class that all students must take to graduate. Capoeira, swing dance, fencing, and yoga are among the many different options. [@oweek-2021 p.21]
+- **2024**—Lifetime Physical Activity Program. A required “gym” class that all students must take to graduate. [@oweek-2024 p.26]
+- **2025**—Lifetime Physical Activity Program. A required “gym” class that all students must take to graduate. [@oweek-2025 p.27]
 
 ### Martel
 
@@ -1183,6 +1388,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Ceremony held during O-Week to officially welcome you to Rice. [@oweek-2016 p.16]
 - **2016-owlmanac**—Ceremony held during O-Week to officially welcome you to Rice. [@owlmanac-2016 p.56]
 - **2017**—Ceremony held during O-Week to officially welcome you to Rice. [@oweek-2017 p.17]
+- **2019**—Ceremony held during O-Week to officially welcome you to Rice. [@oweek-2019 p.17]
+- **2021**—The ceremony held during O-Week to officially welcome you to Rice. [@oweek-2021 p.21]
+- **2024**—The ceremony held during O-Week to officially welcome you to Rice. [@oweek-2024 p.27]
+- **2025**—The ceremony held during O-Week to officially welcome you to Rice. [@oweek-2025 p.28]
 
 ### McMurtry
 
@@ -1195,6 +1404,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Building near West Lot and RUPD where film and photography classes are held. Also houses a gallery space and theatre with Houston’s only silver screen. [@oweek-2016 p.16]
 - **2016-owlmanac**—Building found near the stadium, where film and photography classes are held. Also houses a gallery space and theater with Houston’s only silver screen. [@owlmanac-2016 p.56]
 - **2017**—Building near West Lot and RUPD where film and photography classes are held. Also houses a gallery space and theatre with Houston’s only silver screen. [@oweek-2017 p.17]
+- **2019**—Building near West Lot and RUPD where film and photography classes are held. Also houses a gallery space and theatre with Houston’s only silver screen. [@oweek-2019 p.17]
+- **2021**—The building near West Lot and RUPD where film and photography classes are held. Also houses a gallery space and theatre with Houston’s only silver screen. [@oweek-2021 p.21]
 
 ### Meet Sheet
 
@@ -1211,6 +1422,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Called Academic Fellows at other colleges, Wiess Mentors are here to help you in your classes through review sessions or individual tutoring sessions. [@oweek-2015 p.119]
 - **2016**—Called Academic Fellows at other colleges, Wiess Mentors are here to help you in your classes through review sessions or individual tutoring sessions. [@oweek-2016 p.14]
 - **2017**—Called Academic Fellows at other colleges, Wiess Mentors are here to help you in your classes through review sessions or individual tutoring sessions. [@oweek-2017 p.15]
+- **2019**—Called Academic Fellows at other colleges, Wiess Mentors are here to help you in your classes through review sessions or individual tutoring sessions. [@oweek-2019 p.15]
+- **2021**—Called Academic Fellows at other colleges, Wiess Mentors are here to help you in your classes through review/tutoring sessions. [@oweek-2021 p.19]
 
 ### Mike
 
@@ -1234,12 +1447,21 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2016 p.16]
 - **2016-owlmanac** (*MOB (The Marching Owl Band)*)—They do not in fact march, nor is any musical ability required for membership, and they’re the only band around with electric violins and kazoos. They always put on an entertaining show during halftime filled with amusing skits, jibes at opposing teams, and zany antics. Permanently banned from A&M. [@owlmanac-2016 p.56]
 - **2017**—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2017 p.17]
+- **2019**—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2019 p.17]
+- **2021**—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2021 p.21]
+- **2024** (*The MOB*)—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2024 p.26]
+- **2025** (*The MOB*)—Marching Owl Band. They don’t actually march. They do, however, always put on an entertaining show during halftime—filled with amusing skits, jibes at opposing teams, and zany antics. [@oweek-2025 p.27]
 
 ### Moment of Silence
 
 - **2003**—1. Honor given to a deserving individual at family style to break the ear-shattering noise of plate banging. “Hi, my name is [insert name here]. May I please have a moment of silence?” [@oweek-2003 p.4]
 - **2006**—1. Honor given to a deserving individual at family style to break the ear-shattering noise of plate banging. “Hi, my name is [insert name here]. May I please have a moment of silence?” [@oweek-2006 p.84]
 - **2007**—1. Honor given to a deserving individual at family style to break the ear-shattering noise of plate banging. “Hi, my name is [insert name here]. May I please have a moment of silence?” [@oweek-2007 p.84]
+
+### Movie Room
+
+- **2014**—1. An awesome room on the fourth floor, featuring a big projector and surround sound. 2. Site of Filmfest and open for use at any time, just make sure you get a room reservation! [@oweek-2014 p.103]
+- **2021**—Wiess’ very own movie theater on the fourth floor. [@oweek-2021 p.19]
 
 ### Mrs. Byrd
 
@@ -1253,6 +1475,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The university computer center. If you have problems with your computer, the IT (Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2016 p.16]
 - **2016-owlmanac**—The university computer center. If you have problems with your computer, the people here are glad to help out. Also, a great place to print large posters or anything in color. [@owlmanac-2016 p.56]
 - **2017**—The university computer center. If you have problems with your computer, the IT (Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2017 p.17]
+- **2019**—The university computer center. If you have problems with your computer, the OIT (Office of Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2019 p.17]
+- **2021**—The university computer center. If you have problems with your computer, the IT (Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2021 p.21]
+- **2024**—The university computer center. If you have problems with your computer, the IT (Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2024 p.26]
+- **2025**—The university computer center. If you have problems with your computer, the IT (Information Technology) people here are glad to help out. Also a great place to print large posters. [@oweek-2025 p.27]
 
 ### Murt
 
@@ -1272,6 +1498,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016** (*Musi (Myoo-zee)*)—Music student. [@oweek-2016 p.16]
 - **2016-owlmanac** (*Musi*)—A student majoring in music. See “Shepherd School.” [@owlmanac-2016 p.56]
 - **2017** (*Musi (Myoo-zee)*)—Music student. [@oweek-2017 p.17]
+- **2019** (*Musi (Myoo-zee)*)—Music student. [@oweek-2019 p.17]
+- **2021** (*Musi (Myoo-zee)*)—Music student. [@oweek-2021 p.21]
 
 ### Nancy
 
@@ -1293,6 +1521,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016** (*NOD*)—Night of Decadence, Rice’s biggest party. Held at Wiess on the last Saturday of October, it features interesting decorations and creative costumes. [@oweek-2016 p.14]
 - **2016-owlmanac** (*NOD (Night of Decadence)*)—A big party near Halloween which features “decadent costumes.” The only college-sponsored party (see “public party) you have to pay money to go to. [@owlmanac-2016 p.56]
 - **2017** (*NOD*)—Night of Decadence, Rice’s biggest party. Held at Wiess in October, featuring interesting decorations and creative costumes. [@oweek-2017 p.15]
+- **2019** (*NOD*)—Night of Decadence, Rice’s biggest party. Held at Wiess on the last Saturday of October, it features interesting decorations and creative costumes. [@oweek-2019 p.15]
+- **2021** (*NOD*)—Night of Decadence; Rice’s biggest party. Held at Wiess on the last Saturday of October, it features interesting decorations and creative costumes. [@oweek-2021 p.19]
 
 ### O-Week
 
@@ -1316,6 +1546,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Off-campus. Typically your second year at Wiess. [@oweek-2016 p.16]
 - **2016-owlmanac** (*O/C (Off Campus)*)—People who live off campus are referred to as “being O/C”. People who live far away from Rice, or seem to spend a lot of time outside the hedges are referred to as “deep O/C.” [@owlmanac-2016 p.56]
 - **2017**—Off-campus. Typically your second year at Wiess. [@oweek-2017 p.17]
+- **2019**—Off-campus. Typically your second year at Wiess. [@oweek-2019 p.17]
+- **2021**—Off-campus. Typically your second year at Wiess. [@oweek-2021 p.21]
+- **2024**—Off-campus. Typically your second year at Wiess. [@oweek-2024 p.26]
+- **2025**—Off-campus. Typically your second year at Wiess. [@oweek-2025 p.27]
 
 ### OC Lounge
 
@@ -1328,6 +1562,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Off-campus Lounge. Room on first floor where off-campus people can hang out. [@oweek-2015 p.119]
 - **2016**—Off-campus Lounge. Room on first floor where people who live off-campus hang out. [@oweek-2016 p.14]
 - **2017**—Off-campus Lounge. Room on first floor where people who live off-campus hang out. [@oweek-2017 p.15]
+- **2019**—Off-campus Lounge. Room on first floor. [@oweek-2019 p.15]
+- **2021**—Off-Campus Lounge; a room on the first floor for Off-Campus students. [@oweek-2021 p.19]
 
 ### Outer Loop
 
@@ -1342,6 +1578,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Three-mile long path that encircles campus, great for a jog. [@oweek-2016 p.16]
 - **2016-owlmanac**—The path that encircles campus. Great for a jog. About 3 miles long. [@owlmanac-2016 p.56]
 - **2017**—Three-mile long path that encircles campus, great for a jog. [@oweek-2017 p.17]
+- **2019**—Three-mile long path that encircles campus, great for a jog. [@oweek-2019 p.17]
+- **2021**—The three-mile long path that encircles [the entry breaks off here in the book] [@oweek-2021 p.21]
+- **2024**—The 5 kilometer loop that surrounds all of Rice University. Students often run along the path surrounding the loop. [@oweek-2024 p.26]
+- **2025**—The 5 kilometer loop that surrounds all of Rice University. Students often run along the path surrounding the loop. [@oweek-2025 p.27]
 
 ### P/F
 
@@ -1359,6 +1599,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Peer Academic Advisors. Students who are trained by the Office of Academic Advising to help you choose your classes and navigate academics at Rice. [@oweek-2015 p.122]
 - **2016**—Peer Academic Advisors. Students who are trained by the Office of Academic Advising to help you choose your classes and navigate academics at Rice. [@oweek-2016 p.17]
 - **2017**—Peer Academic Advisors. Students who are trained by the Office of Academic Advising to help you choose your classes and navigate academics at Rice. [@oweek-2017 p.18]
+- **2019**—Peer Academic Advisors. Students who are trained by the Office of Academic Advising to help you choose your classes and navigate academics at Rice. [@oweek-2019 p.18]
+- **2021**—Peer Academic Advisors. Students who are trained by the Office of Academic Advising to help you choose classes and navigate Rice academics. [@oweek-2021 p.22]
 
 ### Parish Grants
 
@@ -1370,6 +1612,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Peer Career Advisors. Students who are trained by the Center for Career Development. They can help you revise your resume or cover letter, as well as figure out resources to find internships and jobs. [@oweek-2015 p.122]
 - **2016**—Peer Career Advisors. Students who are trained by the Center for Career Development. They can help you revise your resume or cover letter, as well as figure out resources to find internships and jobs. [@oweek-2016 p.17]
 - **2017**—Peer Career Advisors. Students who are trained by the Center for Career Development. They can help you revise your resume or cover letter, as well as figure out resources to find internships and jobs. [@oweek-2017 p.18]
+- **2019**—Peer Career Advisors. Students who are trained by the Center for Career Development. They can help you revise your resume or cover letter, as well as figure out resources to find internships and jobs. [@oweek-2019 p.18]
+- **2021**—Peer Career Advisors. Students who are trained by the Center for Career Development. They can help you revise your resume or cover letter, as well as figure out resources to find internships and jobs. [@oweek-2021 p.22]
 
 ### PDR
 
@@ -1384,6 +1628,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Private dining room, a smaller room attached to the Commons. [@oweek-2015 p.119]
 - **2016**—Private dining room, a smaller room attached to the Commons. [@oweek-2016 p.14]
 - **2017**—Private dining room, a smaller room attached to the Commons. [@oweek-2017 p.15]
+- **2019**—Private dining room, a smaller room attached to the Commons. [@oweek-2019 p.15]
+- **2021**—Private Dining Room; a room attached to the Commons. [@oweek-2021 p.19]
 
 ### Powderpuff
 
@@ -1391,12 +1637,18 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Women’s college flag football. One of the most intense (and fun) of the college sports, as well as a great spectator sport. Played during the fall semester. [@oweek-2016 p.17]
 - **2016-owlmanac**—Women’s college flag football. One of the most intense (and fun) of the college sports, as well as a great spectator sport. Played during the fall semester. [@owlmanac-2016 p.56]
 - **2017**—Women’s college flag football. One of the most intense (and fun) of the college sports, as well as a great spectator sport. Played during the fall semester. [@oweek-2017 p.18]
+- **2019**—Women’s college flag football. One of the most intense (and fun) of the college sports, as well as a great spectator sport. Played during the fall semester. [@oweek-2019 p.18]
+- **2021**—Women’s college flag football. One of the most intense (and fun) college sports, as well as a great spectator sport. Played in the fall semester. [@oweek-2021 p.22]
+- **2024**—Women’s college flag football. One of the most intense (and fun) college sports, as well as a great spectator sport. Played in the fall semester. [@oweek-2024 p.27]
+- **2025**—Women’s college flag football. One of the most intense (and fun) college sports, as well as a great spectator sport. Played in the fall semester. [@oweek-2025 p.28]
 
 ### Pre-Reqs
 
 - **2015**—Courses or credits needed prior to signing up for a course. [@oweek-2015 p.122]
 - **2016**—Courses or credits needed prior to signing up for a course. [@oweek-2016 p.17]
 - **2017**—Courses or credits needed prior to signing up for a course. [@oweek-2017 p.18]
+- **2019**—Courses or credits needed prior to signing up for a course. [@oweek-2019 p.18]
+- **2021**—Courses or credits needed prior to signing up for a course. [@oweek-2021 p.22]
 
 ### Private Party
 
@@ -1404,6 +1656,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A party thrown by a group of people, rather than the whole college. The rules and regulations vary with each college but they’re outlined by the Alcohol Policy. [@oweek-2016 p.17]
 - **2016-owlmanac**—A party thrown by a group of people in a residential college, rather than the whole college. The rules and regulations vary with each college but they’re outlined by the Alcohol Policy. Known as a “private.” [@owlmanac-2016 p.56]
 - **2017**—A party thrown by a group of people, rather than the whole college. The rules and regulations vary with each college but they’re outlined by the Alcohol Policy. [@oweek-2017 p.18]
+- **2019**—A party thrown by a group of people, rather than the whole college. The rules and regulations vary with each college but they’re outlined in the Alcohol Policy. [@oweek-2019 p.18]
+- **2021**—A party thrown by a group of people, rather than the whole college. The rules and regulations vary with each college but they are outlined in the Alcohol Policy. [@oweek-2021 p.22]
 
 ### Pub
 
@@ -1418,6 +1672,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Willy’s Pub, located in the basement of the RMC. Great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2016 p.17]
 - **2016-owlmanac**—“Willy’s Pub” is located in the basement of the RMC. In addition to selling beer and pizza, they also serve wine coolers, subs, sodas, etc. If you want to be somewhere loud and dark, try Pub on Thursday nights, also known as Pub Night. [@owlmanac-2016 p.56]
 - **2017**—Willy’s Pub, located in the basement of the RMC. Great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2017 p.18]
+- **2019**—Willy’s Pub, located in the basement of the RMC. Great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2019 p.18]
+- **2021**—Willy’s Pub, located in the basement of the RMC. A great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2021 p.22]
+- **2024**—Willy’s Pub, located in the basement of the RMC. A great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2024 p.27]
+- **2025**—Willy’s Pub, located in the basement of the RMC. A great place to grab some pizza and hang out with people across campus. Heavily populated on Thursday nights. [@oweek-2025 p.28]
 
 ### Public Party
 
@@ -1426,6 +1684,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Party thrown by a residential college; most throw one a semester. All of them are themed and open to all undergrads. [@oweek-2016 p.17]
 - **2016-owlmanac**—Party thrown by a residential college. Most colleges throw one per semester, some throw one per year. Open to any Rice undergrad. All are themed so dress appropriately! Always features a poppin’ dance floor. Known as a “public.” [@owlmanac-2016 p.56]
 - **2017**—Party thrown by a residential college; most throw one a semester. All of them are themed and open to all undergrads. [@oweek-2017 p.18]
+- **2019**—Party thrown by a residential college; most throw one a semester. All of them are themed and open to all undergrads. [@oweek-2019 p.18]
+- **2021**—A party thrown by a residential college (most throw one a semester). All of them are themed and open to all undergrads. [@oweek-2021 p.22]
 
 ### Pumpkin Caroling
 
@@ -1440,6 +1700,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2015 p.119]
 - **2016**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2016 p.14]
 - **2017**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2017 p.15]
+- **2019**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2019 p.15]
+- **2021**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2021 p.19]
+- **2024**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2024 p.25]
+- **2025**—The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges. [@oweek-2025 p.26]
 
 ### Pumpkin grades
 
@@ -1454,12 +1718,18 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2016 p.17]
 - **2016-owlmanac**—Mid-semester grades given to new students in the fall so that they have an indication of how they are doing. They come out around Halloween. [@owlmanac-2016 p.56]
 - **2017**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2017 p.18]
+- **2019**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2019 p.18]
+- **2021**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2021 p.22]
+- **2024**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2024 p.27]
+- **2025**—Mid-semester grades given to new students in the fall to indicate how they are doing in their classes. They come out around Halloween. [@oweek-2025 p.28]
 
 ### Q-Card
 
 - **2015**—Card that gets you on the lightrail. Works for the Metro Bus system too. [@oweek-2015 p.122]
 - **2016**—Card that gets you on the lightrail. Works for the Metro Bus system too. [@oweek-2016 p.17]
 - **2017**—Card that gets you on the lightrail. Works for the Metro Bus system too. [@oweek-2017 p.18]
+- **2019**—Card that gets you on the lightrail. Works for the Metro Bus system too. [@oweek-2019 p.18]
+- **2021**—The card that gets you on the lightrail. Works for the Metro Bus system too. [@oweek-2021 p.22]
 
 ### Quad
 
@@ -1478,6 +1748,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—An independent literary magazine published entirely by students. [@oweek-2016 p.17]
 - **2016-owlmanac**—An independent literary magazine published entirely by students. [@owlmanac-2016 p.56]
 - **2017**—An independent literary magazine published entirely by students. [@oweek-2017 p.18]
+- **2019**—An independent literary magazine published entirely by students. [@oweek-2019 p.18]
+- **2021**—An independent literary magazine published entirely by students. [@oweek-2021 p.22]
 
 ### Recharge U
 
@@ -1492,6 +1764,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Rice Emergency Medical Service. Rice students that are trained as Emergency Medical Technicians (EMTs). Respond to emergencies on campus. [@oweek-2016 p.17]
 - **2016-owlmanac** (*REMS (Rice Emergency Medical Service)*)—Known as EMT’s, they’re a group of dedicated, trained Rice students that provide medical attention in an emergency. You can join them too by taking the EMS class at Rice. [@owlmanac-2016 p.56]
 - **2017**—Rice Emergency Medical Service. Rice students that are trained as Emergency Medical Technicians (EMTs). Respond to emergencies on campus. [@oweek-2017 p.18]
+- **2019**—Rice University Emergency Medical Services. Rice students that are trained as Emergency Medical Technicians (EMTs). Respond to emergencies on campus. [@oweek-2019 p.18]
+- **2021**—Rice University Emergency Medical Services. Rice students that are trained as Emergency Medical Technicians (EMTs) who respond to emergencies on campus. [@oweek-2021 p.22]
+- **2024**—Rice University Emergency Medical Services. Rice students that are trained as Emergency Medical Technicians (EMTs) who respond to emergencies on campus. [@oweek-2024 p.26]
+- **2025**—Rice University Emergency Medical Services. Rice students that are trained as Emergency Medical Technicians (EMTs) who respond to emergencies on campus. [@oweek-2025 p.27]
 
 ### Renata
 
@@ -1503,6 +1779,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Rice Health Advisor. Students who are passionate about being healthy and keeping their fellow students healthy too! [@oweek-2015 p.122]
 - **2016**—Rice Health Advisor. Students who are passionate about being healthy and keeping their fellow students healthy too! [@oweek-2016 p.17]
 - **2017**—Rice Health Advisor. Students who are passionate about being healthy and keeping their fellow students healthy too! [@oweek-2017 p.18]
+- **2019**—Rice Health Advisor. Students who are passionate about being healthy and keeping their fellow students healthy too! [@oweek-2019 p.18]
+- **2021**—Rice Health Advisor. Students who are passionate about being healthy and keeping their fellow students healthy too! [@oweek-2021 p.22]
 
 ### Rice Players
 
@@ -1528,6 +1806,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Rice Memorial Center, also known as the Student Center. Where you can find the Bookstore, Recharge U, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2016 p.17]
 - **2016-owlmanac** (*RMC (Rice Memorial Center)*)—This is the student center and location of the bookstore, Pub, Sammy’s, Coffeehouse, Rice Bikes, Student Activities, Office of Multicultural Affairs, Student Success Initiatives, Center for Civic Leadership, Student Association, and Rice Program Council. You can use the ATM there, as well as buy stamps at the Info Desk. [@owlmanac-2016 p.56]
 - **2017**—Rice Memorial Center, also known as the Student Center. Where you can find the Bookstore, Recharge U, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2017 p.18]
+- **2019**—Rice Memorial Center, also known as the Student Center. Where you can find the Bookstore, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2019 p.18]
+- **2021**—Rice Memorial Center; where you can find the Bookstore, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2021 p.22]
+- **2024**—Rice Memorial Center; where you can find the Bookstore, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2024 p.26]
+- **2025**—Rice Memorial Center; where you can find the Bookstore, Coffeehouse, Pub, and important offices like Academic Advising. [@oweek-2025 p.27]
 
 ### Rondelet
 
@@ -1535,6 +1817,9 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Spring formal hosted by Rice Program Council. [@oweek-2015 p.122]
 - **2016**—Spring formal hosted by Rice Program Council. [@oweek-2016 p.17]
 - **2017**—Spring formal hosted by Rice Program Council. [@oweek-2017 p.18]
+- **2019**—Spring formal hosted by Rice Program Council. [@oweek-2019 p.18]
+- **2021**—Spring formal hosted by Rice Program Council. [@oweek-2021 p.22]
+- **2024**—Spring formal hosted by Rice Program Council. [@oweek-2024 p.27]
 
 ### Room Draw
 
@@ -1543,6 +1828,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Process used to assign rooms for the next year. [@oweek-2016 p.14]
 - **2016-owlmanac** (*Room Draw (Jack)*)—The process we use to assign rooms for the next year. It’s a little bit complicated, but you’ll figure it out. [@owlmanac-2016 p.56]
 - **2017**—Process used to assign rooms for the next year. [@oweek-2017 p.15]
+- **2019**—Process used to assign rooms for the next year. [@oweek-2019 p.15]
+- **2021** (*Housing Jack*)—The process used to assign rooms for the next year. [@oweek-2021 p.19]
+- **2024** (*Housing Jack*)—The process used to assign rooms for the next year. [@oweek-2024 p.25]
+- **2025** (*Housing Jack*)—The process used to assign rooms for the next year. [@oweek-2025 p.26]
 
 ### RPC
 
@@ -1551,18 +1840,29 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Rice Program Council. The organization in charge of university-wide events, such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2016 p.17]
 - **2016-owlmanac** (*RPC (Rice Program Council)*)—The organization in charge of all university-wide social events. It’s in charge of Beer Bike, Screw Yer Roommate, Esperanza, study breaks, etc. [@owlmanac-2016 p.56]
 - **2017**—Rice Program Council. The organization in charge of university-wide events, such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2017 p.18]
+- **2019**—Rice Program Council. The organization in charge of university-wide events, such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2019 p.18]
+- **2021**—Rice Program Council. The organization in charge of university-wide events such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2021 p.22]
+- **2024**—Rice Program Council. The organization in charge of university-wide events such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2024 p.26]
+- **2025**—Rice Program Council. The organization in charge of university-wide events such as Beer Bike, Screw-Yer-Roommate, Esperanza, and study breaks during finals. [@oweek-2025 p.27]
 
 ### RSVP
 
 - **2015**—Rice Student Volunteer Program. The organization that runs a lot of community service opportunities beyond the hedges. [@oweek-2015 p.122]
 - **2016**—Rice Student Volunteer Program. The organization that runs a lot of community service opportunities beyond the hedges. [@oweek-2016 p.17]
 - **2017**—Rice Student Volunteer Program. The organization that runs a lot of community service opportunities beyond the hedges. [@oweek-2017 p.18]
+- **2019**—Rice Student Volunteer Program. The organization that runs many community service opportunities beyond the hedges. [@oweek-2019 p.18]
+- **2021**—Rice Student Volunteer Program. The organization that runs many community service opportunities beyond the hedges. [@oweek-2021 p.22]
+- **2024**—Rice Student Volunteer Program. The organization that runs many community service opportunities beyond the hedges. [@oweek-2024 p.26]
 
 ### RUPD
 
 - **2015**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2015 p.122]
 - **2016**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2016 p.17]
 - **2017**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2017 p.18]
+- **2019**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2019 p.18]
+- **2021**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2021 p.22]
+- **2024**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2024 p.26]
+- **2025**—Rice University Police Department. Save their number for emergencies: 713-348-6000. [@oweek-2025 p.27]
 
 ### Rustication
 
@@ -1570,6 +1870,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2016 p.17]
 - **2016-owlmanac**—A harsh penalty in which a student is not allowed on campus except for classes and tests. This is very, very bad. [@owlmanac-2016 p.56]
 - **2017**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2017 p.18]
+- **2019**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2019 p.18]
+- **2021**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2021 p.22]
+- **2024**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2024 p.27]
+- **2025**—A harsh penalty banning a student from campus except for attending classes and exams. Basically, don’t get rusticated. [@oweek-2025 p.28]
 
 ### S/E
 
@@ -1589,6 +1893,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2016 p.18]
 - **2016-owlmanac** (*SA (Student Association)*)—The campus-wide body representing students. The SA deals with campus-wide issues and administrative business. Its officials are elected and you’re already a member. [@owlmanac-2016 p.56]
 - **2017**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2017 p.19]
+- **2019**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2019 p.19]
+- **2021**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2021 p.22]
+- **2024**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2024 p.26]
+- **2025**—Student Association. The campus-wide body representing students. Deals with campus-wide issues and administrative business. [@oweek-2025 p.27]
 
 ### Sallyport
 
@@ -1603,6 +1911,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2016 p.18]
 - **2016-owlmanac**—The big archway in the middle of Lovett Hall. Tradition holds that if you walk through it between Matriculation and graduation you won’t graduate. [@owlmanac-2016 p.56]
 - **2017**—Big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2017 p.19]
+- **2019**—Big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2019 p.19]
+- **2021**—The big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2021 p.23]
+- **2024**—The big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2024 p.27]
+- **2025**—The big archway in Lovett Hall. Rumor says that if you walk through it between matriculation and graduation, you won’t graduate. [@oweek-2025 p.28]
 
 ### Sammy the Owl
 
@@ -1616,6 +1928,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The Rice mascot. [@oweek-2015 p.123]
 - **2016**—The Rice mascot. [@oweek-2016 p.18]
 - **2017**—The Rice mascot. [@oweek-2017 p.19]
+- **2019**—The Rice mascot. [@oweek-2019 p.19]
+- **2021**—The Rice mascot. [@oweek-2021 p.23]
+- **2024**—The Rice mascot. [@oweek-2024 p.27]
+- **2025**—The Rice mascot. [@oweek-2025 p.28]
 
 ### Sandy
 
@@ -1635,6 +1951,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2016 p.18]
 - **2016-owlmanac** (*Screw Yer Roommate*)—A Rice tradition held in the fall in which roommates set up blind dates for each other, and then either have a good time, or realize it wasn’t meant to be. [@owlmanac-2016 p.56]
 - **2017**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2017 p.19]
+- **2019**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2019 p.19]
+- **2021**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2021 p.23]
+- **2024**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2024 p.27]
+- **2025**—Also known as Screw. A Rice tradition held in the fall in which roommates set up blind dates for each other. [@oweek-2025 p.28]
 
 ### Servery
 
@@ -1643,6 +1963,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2016 p.14]
 - **2016-owlmanac**—The kitchen where your everyday food is made. Every college either has its own servery or shares one with nearby colleges. [@owlmanac-2016 p.56]
 - **2017**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2017 p.15]
+- **2019**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2019 p.15]
+- **2021**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2021 p.19]
+- **2024**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2024 p.25]
+- **2025**—Where you get your food before you go sit down in the Commons. We share South Servery with Hanszen. [@oweek-2025 p.26]
 
 ### Sid Rich
 
@@ -1663,6 +1987,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Pyramidal installation located next to the Shepherd School of Music. Great place to watch the sunrise and sunset. [@oweek-2015 p.123]
 - **2016**—Pyramidal installation located next to the Shepherd School of Music. Great place to watch the sunrise and sunset. [@oweek-2016 p.18]
 - **2017**—Pyramidal installation located next to the Shepherd School of Music. Great place to watch the sunrise and sunset. [@oweek-2017 p.19]
+- **2019**—Pyramidal installation located next to the Shepherd School of Music. Great place to watch the sunrise and sunset. [@oweek-2019 p.19]
+- **2021**—The pyramidal installation located next to the Shepherd School of Music. A reat place to watch the sunrise and sunset. [@oweek-2021 p.23]
+- **2024**—The pyramidal installation located next to the Shepherd School of Music. A great place to watch the sunrise and sunset. [@oweek-2024 p.27]
+- **2025**—The pyramidal installation located next to the Shepherd School of Music. A great place to watch the sunrise and sunset. [@oweek-2025 p.28]
 
 ### SMR
 
@@ -1677,6 +2005,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Student Maintenance Representative, the liaison between H&D and the students. They can help you change the height of your bed or your lightbulbs. [@oweek-2016 p.18]
 - **2016-owlmanac**—Student Maintenance Representative, one at every college. They are the liaison between Housing & Dining and the students. They can help you change light bulbs, loft your bed, and should be contacted if there are any malfunctions in your room. [@owlmanac-2016 p.56]
 - **2017**—Student Maintenance Representative, the liaison between H&D and the students. They can help you change the height of your bed or your lightbulbs. [@oweek-2017 p.19]
+- **2019**—Student Maintenance Representative, the liaison between H&D and the students. They can help you change the height of your bed or your lightbulbs. [@oweek-2019 p.19]
+- **2021**—Student Maintenance Representative. The liaison between H&D and the students. They can help you change the height of your bed or your lightbulbs. [@oweek-2021 p.23]
 
 ### Sparky’s
 
@@ -1686,6 +2016,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The hidden room on the fourth floor, adorned with goldenrod paint, an air hockey table, and a mini basketball game system. [@oweek-2015 p.119]
 - **2016**—The hidden room on the fourth floor, adorned with goldenrod paint, an air hockey table, and a mini basketball game system. [@oweek-2016 p.14]
 - **2017**—The hidden room on the fourth floor, adorned with goldenrod paint, an air hockey table, and a mini basketball game system. [@oweek-2017 p.15]
+- **2019**—Nestled in a corner on the fourth floor, this goldenrod room emblazoned with a massive Wiess crest features an air hockey table, a mini basketball game system, and some seating. [@oweek-2019 p.15]
+- **2021**—Nestled in a corner on the fourth floor, this goldenrod room emblazoned with a massive Wiess crest features great views and is a fun place to hang out. [@oweek-2021 p.19]
 
 ### Squirrels
 
@@ -1703,6 +2035,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—The loud speakers that can be heard throughout the Acabowl on Friday afternoons or special occasions. [@oweek-2015 p.119]
 - **2016**—The loud speakers that can be heard throughout the Acabowl on Friday afternoons or special occasions. [@oweek-2016 p.14]
 - **2017**—The loud speakers that can be heard throughout the Acabowl on Friday afternoons or special occasions. [@oweek-2017 p.15]
+- **2019**—The loud speakers that can be heard throughout the Acabowl on Friday afternoons or special occasions. [@oweek-2019 p.15]
+- **2021**—The loud speakers that can be heard throughout the Acabowl on Friday afternoons or special occasions. [@oweek-2021 p.19]
 
 ### Sue
 
@@ -1724,6 +2058,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Weekend retreat during the fall semester to discuss Wiess issues and bond with other Wiessmen. [@oweek-2015 p.119]
 - **2016**—Weekend retreat during the fall semester to discuss Wiess issues and bond with other Wiessmen. [@oweek-2016 p.14]
 - **2017**—Weekend retreat during the fall semester to discuss Wiess issues and bond with other Wiessmen. [@oweek-2017 p.15]
+- **2019**—Weekend retreat to a body of water (pool/beach/lake/etc.) during the fall semester to discuss Wiess issues and bond with other Wiessmen. [@oweek-2019 p.15]
+- **2021**—The weekend retreat to Galveston during the fall semester to bond with other Wiessmen. [@oweek-2021 p.19]
+- **2024**—The weekend retreat to Galveston during the fall semester to bond with other Wiessmen. [@oweek-2024 p.25]
+- **2025**—The weekend retreat to Galveston during the fall semester to bond with other Wiessmen. [@oweek-2025 p.26]
 
 ### Tabletop
 
@@ -1737,6 +2075,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Wiess theatre productions, held in the Commons. [@oweek-2015 p.119]
 - **2016**—Wiess theatre productions, held in the Commons. [@oweek-2016 p.14]
 - **2017**—Wiess theatre productions, held in the Commons. [@oweek-2017 p.15]
+- **2019**—Wiess theatre productions, held in the Commons. [@oweek-2019 p.15]
+- **2021**—Wiess theatre productions, held in the Commons. [@oweek-2021 p.19]
 
 ### TC
 
@@ -1762,6 +2102,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Our cheer—the embodiment of everything that makes Wiess cool. [@oweek-2015 p.119]
 - **2016**—Our cheer—the embodiment of everything that makes Wiess cool. [@oweek-2016 p.14]
 - **2017**—Our cheer—the embodiment of everything that makes Wiess cool. [@oweek-2017 p.15]
+- **2019**—Our cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for. [@oweek-2019 p.15]
+- **2021**—Our cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for. [@oweek-2021 p.19]
+- **2024**—Our one and only cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for. [@oweek-2024 p.25]
+- **2025**—Our one and only cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for. [@oweek-2025 p.26]
 
 ### Tetra Points
 
@@ -1770,6 +2114,17 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—“Digital Money” on your ID card. Can be used at various on-campus venues, including but not limited to: The Hoot, Coffeehouse, Pub, Sammy’s, RechargeU, Brochstein, and the serveries. [@oweek-2016 p.18]
 - **2016-owlmanac**—The credit that comes with your meal plan, usually called Tetra. You start every semester with 50 Tetra Points and it rolls-over if you don’t use it all. You can use Tetra to buy food/drinks in the Student Center or at Salento. [@owlmanac-2016 p.57]
 - **2017**—“Digital Money” on your ID card. Can be used at various on-campus venues, including but not limited to: The Hoot, Coffeehouse, Pub, Sammy’s, RechargeU, Brochstein, and the serveries. [@oweek-2017 p.19]
+- **2019**—“Digital Money” on your ID card. Can be used at various on-campus venues such as: The Hoot, Coffeehouse, Pub, Sammy’s, Brochstein, and the serveries. Usually referred to simply as Tetra. [@oweek-2019 p.19]
+- **2021**—“Digital Money” on your ID card that can be used at various on-campus venues such as: The Hoot, Coffeehouse, Pub, Sammy’s, Brochstein, and the serveries. Usually referred to simply as Tetra. [@oweek-2021 p.23]
+- **2024** (*Tetra*)—Points, or “Digital Money” on your ID card that can be used at various on-campus restaurants/cafés. [@oweek-2024 p.27]
+- **2025** (*Tetra*)—Points, or “Digital Money” on your ID card that can be used at various on-campus restaurants/cafés. [@oweek-2025 p.28]
+
+### TFFW
+
+- **2019**—Team Fun Friday Wiess. Held on one friday afternoon every month, this event features food and fun for everyone in the Acabowl. (Equivalent to Friday in the Quad at other colleges.) [@oweek-2019 p.15]
+- **2021**—Team Fun Friday Wiess. Held every other week, this event features food and fun for everyone in the Acabowl. What other colleges call Friday in the Quad. [@oweek-2021 p.19]
+- **2024**—Team Fun Friday Wiess. Held every other week, this event features food and fun for everyone in the Acabowl. What other colleges call Friday in the Quad (FITQ). [@oweek-2024 p.25]
+- **2025**—Team Fun Friday Wiess. Held every other week, this event features food and fun for everyone in the Acabowl. What other colleges call Friday in the Quad (FITQ). [@oweek-2025 p.26]
 
 ### TFW
 
@@ -1783,6 +2138,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2015 p.119]
 - **2016**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2016 p.14]
 - **2017**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2017 p.15]
+- **2019**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2019 p.15]
+- **2021**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2021 p.19]
+- **2024**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2024 p.25]
+- **2025**—An abbreviation of Team Family (or anything else that starts with F) Wiess. [@oweek-2025 p.26]
 
 ### The Hoot
 
@@ -1793,12 +2152,20 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A student-run late night food stop for hungry students, located at West and South Serveries. [@oweek-2016 p.16]
 - **2016-owlmanac** (*Hoot, The*)—A proud purveyor of late night food located in the RMC. Lifesaver for a long night of studying. [@owlmanac-2016 p.55]
 - **2017**—A student-run late night food stop for hungry students, located at West and South Serveries. [@oweek-2017 p.17]
+- **2019**—A student-run late night food stop for hungry students. Located in the RMC. [@oweek-2019 p.17]
+- **2021**—A student-run late night food stop for hungry students which is located in the RMC. [@oweek-2021 p.21]
+- **2024**—A student-run late night food stop for hungry students which is located in the RMC. [@oweek-2024 p.27]
+- **2025**—A student-run late night food stop for hungry students which is located in the RMC. [@oweek-2025 p.28]
 
 ### The Rec
 
 - **2015**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2015 p.122]
 - **2016**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2016 p.17]
 - **2017**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2017 p.18]
+- **2019**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2019 p.18]
+- **2021**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2021 p.22]
+- **2024**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2024 p.27]
+- **2025**—Barbara and David Gibbs Recreation and Wellness Center. Fully equipped for all of your workout needs. Also where the Wellbeing and Counseling Center is located. [@oweek-2025 p.28]
 
 ### Thresher
 
@@ -1813,6 +2180,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Rice’s weekly student newspaper. [@oweek-2016 p.18]
 - **2016-owlmanac**—Rice’s student-operated newspaper. Famous for the Backpage and theater reviews of varying quality. [@owlmanac-2016 p.57]
 - **2017**—Rice’s weekly student newspaper. [@oweek-2017 p.19]
+- **2019**—Rice’s weekly student newspaper. [@oweek-2019 p.19]
+- **2021**—Rice’s weekly student newspaper. [@oweek-2021 p.23]
+- **2024**—Rice’s weekly student newspaper. [@oweek-2024 p.27]
+- **2025**—Rice’s weekly student newspaper. [@oweek-2025 p.28]
 
 ### Trasher
 
@@ -1834,6 +2205,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Party to celebrate the new Cabinet held at Willy’s Pub each year. [@oweek-2015 p.119]
 - **2016**—Party to celebrate the new Cabinet held at Willy’s Pub each year. [@oweek-2016 p.14]
 - **2017**—Party to celebrate the new Cabinet held at Willy’s Pub each year. [@oweek-2017 p.15]
+- **2019**—Party to celebrate the new Cabinet held at Willy’s Pub each year. [@oweek-2019 p.15]
+- **2021** (*Changeover*)—Party to celebrate the new Cabinet each year during the spring semester. [@oweek-2021 p.18]
+- **2024** (*Changeover*)—Party to celebrate the new Cabinet each year during the spring semester. [@oweek-2024 p.25]
+- **2025** (*Changeover*)—Party to celebrate the new Cabinet each year during the spring semester. [@oweek-2025 p.26]
 
 ### TV room
 
@@ -1865,6 +2240,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman. [@oweek-2016 p.14]
 - **2016-owlmanac**—Wiess tradition frequently unleashed upon anyone at any time. Think of it as an incredibly intense group hug colliding with a massive dog pile. [@owlmanac-2016 p.57]
 - **2017**—A unique Wiess celebration of life. [@oweek-2017 p.15]
+- **2019**—A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman. [@oweek-2019 p.15]
+- **2021**—A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman. [@oweek-2021 p.19]
+- **2024**—A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman. [@oweek-2024 p.25]
+- **2025**—A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman. [@oweek-2025 p.26]
 
 ### Ultimate
 
@@ -1882,6 +2261,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Second floor of the Commons, featuring a pool table, ping pong table, foosball table, TV, and lots of couches. [@oweek-2015 p.119]
 - **2016**—Second floor of the Commons, featuring a pool table, ping pong table, foosball table, TV, and lots of couches. [@oweek-2016 p.14]
 - **2017**—Second floor of the Commons, featuring a pool table, ping pong table, foosball table, TV, and lots of couches. [@oweek-2017 p.15]
+- **2019**—Second floor of the Commons, featuring a pool table, ping pong table, foosball table, TV, and lots of couches. [@oweek-2019 p.15]
+- **2021**—Second floor of the Commons featuring a pool table, ping pong table, foosball table, TV, and lots of couches. [@oweek-2021 p.19]
 
 ### Valhalla
 
@@ -1896,6 +2277,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Graduate student bar located below Keck Hall. Serves cheap beer and banh mi sandwiches. [@oweek-2016 p.18]
 - **2016-owlmanac**—The graduate student bar located underneath Keck Hall. Allegedly serves the cheapest beer in Houston. [@owlmanac-2016 p.57]
 - **2017**—Graduate student bar located below Keck Hall. Serves cheap beer and banh mi sandwiches. [@oweek-2017 p.19]
+- **2019**—Graduate student bar located below Keck Hall. Serves cheap beer and lunch on the weekdays. [@oweek-2019 p.19]
+- **2021**—The graduate student bar located below Keck Hall which serves cheap beer and lunch on the weekdays. [@oweek-2021 p.23]
 
 ### Village
 
@@ -1910,6 +2293,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Also known as Rice Village. Shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2016 p.18]
 - **2016-owlmanac** (*Rice Village*)—Also called “the Village,” this commercial area is located just west of campus, within walking distance. Rice provides shuttle service to and from the Village on Saturday nights. Easy place for a carless date. [@owlmanac-2016 p.56]
 - **2017**—Also known as Rice Village. Shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2017 p.19]
+- **2019**—Also known as Rice Village. Shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2019 p.19]
+- **2021** (*Rice Village*)—The shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2021 p.23]
+- **2024** (*Rice Village*)—The shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2024 p.27]
+- **2025** (*Rice Village*)—The shopping center west of campus. Has a lot of great restaurants and shops, all within walking distance! [@oweek-2025 p.28]
 
 ### Virgin’s Walk
 
@@ -1930,12 +2317,18 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2015 p.119]
 - **2016**—Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2016 p.14]
 - **2017**—Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2017 p.15]
+- **2019**—Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2019 p.15]
+- **2021**—Wiess mascot; embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2021 p.19]
+- **2024** (*Warpig*)—Wiess mascot; embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2024 p.25]
+- **2025** (*Warpig*)—Wiess mascot; embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. [@oweek-2025 p.26]
 
 ### What to call people from…
 
 - **2015**—(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo. [@oweek-2015 p.123]
 - **2016**—(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo. [@oweek-2016 p.18]
 - **2017**—(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo. [@oweek-2017 p.19]
+- **2019**—(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo. [@oweek-2019 p.19]
+- **2021**—(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo. [@oweek-2021 p.23]
 
 ### Whataburger
 
@@ -1943,6 +2336,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—A 24-hour restaurant where you can get a burger or legendary Honey Butter Chicken Biscuit. [@oweek-2015 p.123]
 - **2016**—A 24-hour restaurant where you can get a burger or legendary Honey Butter Chicken Biscuit. [@oweek-2016 p.18]
 - **2017**—A 24-hour restaurant where you can get a burger or legendary Honey Butter Chicken Biscuit. [@oweek-2017 p.19]
+- **2019**—A 24-hour restaurant where you can get a burger or legendary Honey Butter Chicken Biscuit. [@oweek-2019 p.19]
+- **2021**—A 24-hour restaurant where you can get a burger or legendary Honey Butter Chicken Biscuit. [@oweek-2021 p.23]
 
 ### Wiess
 
@@ -1956,6 +2351,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Your home and family. [@oweek-2015 p.123]
 - **2016**—Your home and family. [@oweek-2016 p.18]
 - **2017**—Your home and family. [@oweek-2017 p.19]
+- **2019**—Your home and family. [@oweek-2019 p.19]
+- **2021**—Your home and family. [@oweek-2021 p.23]
+- **2024**—Your home and family. [@oweek-2024 p.27]
+- **2025**—Your home and family. [@oweek-2025 p.28]
 
 ### Wiess Day
 
@@ -1963,6 +2362,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015**—Held during the spring semester, when Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities. [@oweek-2015 p.119]
 - **2016**—Held during the spring semester, when Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities. [@oweek-2016 p.14]
 - **2017**—Held during the spring semester, when Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities. [@oweek-2017 p.15]
+- **2019**—A day to celebrate Wiess, held in the Acabowl during the spring semester. [@oweek-2019 p.15]
+- **2021**—A day to celebrate Wiess held in the Acabowl during the spring semester. [@oweek-2021 p.19]
 
 ### Wiess House
 
@@ -1976,6 +2377,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2015** (*Wiess Master House (Wilson House)*)—The Byrds’ home. Where everybody knows your name, and the door is always open. [@oweek-2015 p.119]
 - **2016** (*Wilson House (Wiess Master House)*)—The Schaefer’s home. Where everybody knows your name, and the door is always open. [@oweek-2016 p.14]
 - **2017** (*Wilson House (Wiess Magister’s House)*)—The Schaefer’s home. Where everybody knows your name, and the door is always open. [@oweek-2017 p.15]
+- **2019** (*Wilson House (Wiess Magister House)*)—The Schaefers’ home. Where everybody knows your name, and the door is always open. [@oweek-2019 p.15]
+- **2021** (*Wilson House (Wiess Magister House)*)—Flavio and Fabiana’s home. Where everybody knows your name, and the door is always open. [@oweek-2021 p.19]
+- **2024** (*Wilson House (Wiess Magister House)*)—Flavio and Fabiana’s home. Where everybody knows your name, and the door is always open. [@oweek-2024 p.25]
+- **2025** (*Wilson House (Wiess Magister House)*)—Flavio and Fabiana’s home. Where everybody knows your name, and the door is always open. [@oweek-2025 p.26]
 
 ### Wiessmen
 
@@ -1990,6 +2395,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The inclusive, gender-neutral term for all of the members of Wiess—including you. [@oweek-2016 p.14]
 - **2016-owlmanac**—Residents of Wiess College. [@owlmanac-2016 p.57]
 - **2017**—The inclusive, gender-neutral term for all of the members of Wiess—including you. [@oweek-2017 p.15]
+- **2019**—The inclusive, gender-neutral term for all members of Wiess—including you. [@oweek-2019 p.15]
+- **2021**—The inclusive, gender-neutral term for all members of Wiess—including you. [@oweek-2021 p.19]
+- **2024**—The inclusive, gender-neutral term for all members of Wiess—including you. [@oweek-2024 p.25]
+- **2025**—The inclusive, gender-neutral term for all members of Wiess—including you. [@oweek-2025 p.26]
 
 ### Will Rice
 
@@ -2012,6 +2421,10 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2016 p.18]
 - **2016-owlmanac**—The week preceding Beer Bike, filled with college activities, alumni, and plenty of jacks. [@owlmanac-2016 p.57]
 - **2017**—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2017 p.19]
+- **2019**—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2019 p.19]
+- **2021** (*Piggy Week*)—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2021 p.19]
+- **2024** (*Piggy Week*)—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2024 p.25]
+- **2025** (*Piggy Week*)—The week preceding Beer Bike, filled with college activities, alumni, and jacks. [@oweek-2025 p.26]
 
 ### Willy’s Statue
 
@@ -2026,6 +2439,7 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Memorial statue of William Marsh Rice in the center of the Academic Quad. In a famous jack, Willy was turned 180 degrees by some ingenious Wiessmen. [@oweek-2016 p.18]
 - **2016-owlmanac**—Memorial statue and burial site of William Marsh Rice in the Central Quad. Commonly used as a meeting spot (Screw Yer Roommate). In a famous jack, Willy was turned 180 degrees by some ingenious Wiessmen. [@owlmanac-2016 p.57]
 - **2017**—Memorial statue of William Marsh Rice in the center of the Academic Quad. In a famous jack, Willy was turned 180 degrees by some ingenious Wiessmen. [@oweek-2017 p.19]
+- **2019**—Memorial statue of William Marsh Rice in the center of the Academic Quad. In a famous jack, Willy was turned 180 degrees by some ingenious Wiessmen. [@oweek-2019 p.19]
 
 ### Y’all
 
@@ -2034,6 +2448,8 @@ This page is generated from `sources/glossaries/*.tsv` (12 glossaries: 1994, 200
 - **2016**—Southern slang short for “you all.” Soon enough, y’all will be saying this too. [@oweek-2016 p.18]
 - **2016-owlmanac**—Short for “you all,” this Southern slang is something you have to get used to. Y’all will be saying this if you want to or not. [@owlmanac-2016 p.57]
 - **2017**—Southern slang short for “you all.” Soon enough, y’all will be saying this too. [@oweek-2017 p.19]
+- **2019**—Southern slang short for “you all.” Soon enough, y’all will be saying this too. (It’s efficient!) [@oweek-2019 p.19]
+- **2021**—Southern slang short for “you all.” Soon enough, y’all will be saying this too. (It’s efficient!) [@oweek-2021 p.23]
 
 ## Terms that appear in only one glossary (47)
 
@@ -2079,7 +2495,6 @@ The one-year entries are often the most revealing: a joke that lasted a semester
 
 - **Emilie**—Our new fourth floor RA. Assistant professor of Materials Science & Nanoengineering and Chemistry. Her many interests include running, traveling, and foreign lanugages. [@oweek-2014 p.102]
 - **Ewart**—Our college coordinator. If you need to know anything about anything, he’s the one to ask. He’ll always have a useful and slightly sassy answer, usually delivered in a bowtie. [@oweek-2014 p.102]
-- **Movie Room**—1. An awesome room on the fourth floor, featuring a big projector and surround sound. 2. Site of Filmfest and open for use at any time, just make sure you get a room reservation! [@oweek-2014 p.103]
 - **Phils**—The Philharmonics, the largest acapella group on campus that holds performances throughout the year. [@oweek-2014 p.105]
 - **Second Floor Kitchen**—Contrary to popular belief, not much cooking goes on here. Fun place to hang out on Thursday evenings. [@oweek-2014 p.103]
 - **SpoCo**—Spontaneous Combustion, the improv skit group on campus. Check out one of their shows, they’re very funny! [@oweek-2014 p.106]
@@ -2088,7 +2503,6 @@ The one-year entries are often the most revealing: a joke that lasted a semester
 ### 2016-owlmanac
 
 - **Anderson**—Anderson Hall, known as the twelfth residential college; home of the archis. [@owlmanac-2016 p.55]
-- **Bookstore**—This is where you can go to get all your textbooks for class, plus lots of nifty Rice paraphernalia. Take your family there so you can all get gear to show off your school pride. Some students opt to purchase used books from their friends or buy books online instead of using the book store. [@owlmanac-2016 p.55]
 - **Chug**—One half of the Beer Bike race. Often proceeded by one of Rice’s most sacred chants: “They’re forty yards out, they’re thirty yards, ready, set suck suck suck suck…!” [@owlmanac-2016 p.55]
 - **Extension**—A wonderful thing! A lengthened deadline for a paper/project, obtained by asking a prof. Use discretion when requesting one. (Note: must actually ask prof ) [@owlmanac-2016 p.55]
 - **First Look Book**—A book with a catalogue of pictures of all incoming students. This is a great resource if you’re trying to figure out just who exactly it is that you’re in the middle of talking about, or who it is that you keep meeting but can’t remember for the life of you. [@owlmanac-2016 p.55]
@@ -2105,3 +2519,11 @@ The one-year entries are often the most revealing: a joke that lasted a semester
 - **Sweep**—To win all the races at Beer Bike— men’s, women’s and alumni. Baker was the first college to sweep in 1976, contrary to Will Rice’s claim that they are the only college to have swept. [@owlmanac-2016 p.56]
 - **TG (Tailgate)**—A cookout involving delicious food, beverages, and good company. A great way to socialize and a frequent source of free food before Rice sporting events. Some colleges will host their own tailgates (not affiliated with any sporting event) to celebrate the end of another week. [@owlmanac-2016 p.57]
 - **Westheimer**—Street north of campus that is one of Houston’s main thoroughfares. Has a huge assortment of interesting places and restaurants. [@owlmanac-2016 p.57]
+
+### 2019
+
+- **Saturday Morning Cartoons**—An event that occurs every other Saturday morning in the Movie Room. Wiessmen gather to watch our favorite cartoons and eat cereal together, just like the good old days. [@oweek-2019 p.15]
+
+### 2021
+
+- **Fourth Floor Balcony**—A great place to hang out and watch sunsets. [@oweek-2021 p.18]

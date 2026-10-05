@@ -95,6 +95,10 @@ Goldenrod is the college colour, and has been the O-Week colour for as long as t
 !!! note "To be filled from the coordinators' events list"
     The Head Fellows' list of O-Week events (a spreadsheet promised by the Historian) will go here: each event, the years it is known to have run, and its source. Until then, the books' own schedules are the record; the 2015 book's "What Is O-Week?" (p.6) and the 2016 and 2017 schedules are the places to start.
 
+### Screen printing
+
+Screen printing T-shirts was once an O-Week activity, before it became a study break [@testimony-mullen-2026-10-05c screen printing] [T]. No O-Week schedule or book in the corpus lists it, so its years as an O-Week event are testimony only. The equipment and the know-how are documented: a T-shirt screening representative titled "YEAH WIESS" from 2010 to at least 2017, the basement "used for storage and shirt screening" in the glossaries of 2014–2019, and "shirt-screening equipment" in the Bylaws of 2020 [@wb 20100826015923 http://teamwiess.com/reps.php] [@wb 20170421224822 http://teamwiess.com/reps.html] [@oweek-2014 p.102] [@oweek-2019 p.14] [@bylaws-2020 Art. III §2]. The 2021 O-Week coordinators were photographed in YEAH WIESS shirts (below) [@wb 20210619003837 http://teamwiess.com/images/oweek2021/coords.jpg]. The full record is on [Beer Bike](beer-bike.md#screen-printing-yeah-wiess-yeah-beer-yeah-water); the darkroom where the screens are kept is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens).
+
 ## Photographs
 
 <!-- GALLERY:oweek -->
@@ -139,6 +143,7 @@ Goldenrod is the college colour, and has been the O-Week colour for as long as t
 - The theme pun for each year: the covers of 2019–2025 carry no pun (2019's still says "O-WEEK 2016", 2025's "2024"), and the shirts for 2018–2026 are not in the corpus. The coordinators' files, the Thresher's annual theme articles (the 4 Feb 2026 round-up, "Animatronics, gladiators and dinosaurs", could not be fetched) and photographs would fill the table.
 - O-Week books not held: 1995–2002, 2004–05, 2012–13, 2018, 2020, 2022–23 and 2026, and the 2009 cover; 2019, 2021, 2024 and 2025 are now held from the Historian's collection. See [Wanted](../sources/wanted.md).
 - The O-Week of 2020: the 2021 book shows it happened, with Head Fellows Anika, Varun and Amy [@oweek-2021 p.73], but not how—in person, online or mixed. The 2020 book, the Thresher of August 2020, or the 2020 Head Fellows would say.
+- Which years screen printing was an O-Week activity; the coordinators' events list would show it.
 - When the black Fellows' shirt replaced goldenrod, and when the Head Fellows' bright colours began.
 - The 1998 Campanile page itself.
 - When the faculty advisor of the 1990s Bylaws disappeared, and when the Orientation Week Coordinator became the Head Fellows.

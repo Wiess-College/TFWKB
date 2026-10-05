@@ -1,0 +1,59 @@
+# Governing documents from the Historian's own collection (tfwdb folder), added 2026-10-05.
+# Workspace copies under corpus/historian-collection/; texts are also tagged commits in the
+# governance repo (cite the tag as [@gov-repo v2020-02-12]). None has a public web copy.
+
+- key: constitution-2020
+  title: The Constitution of Wiess College, last amended 12 February 2020
+  type: governing-document
+  format: docx
+  date: 2020-02-12
+  local: historian-collection/governance/2020-wiess-constitution.docx
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known. Original filename
+    "Wiess Constitution 2020.docx"; Word file created and last saved 12 February 2020 by Timothy
+    Thomas II. Eleven articles; ends "Last Amended February 12, 2020 / Tim Thomas II and Drew Keefer".
+    Text: historian-collection/text/2020-wiess-constitution.txt; governance repo tag v2020-02-12.
+
+- key: bylaws-2020
+  title: The Bylaws of Wiess College, last amended 12 February 2020
+  type: governing-document
+  format: docx
+  date: 2020-02-12
+  local: historian-collection/governance/2020-wiess-bylaws.docx
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known. Original filename
+    "Wiess Bylaws 2020.docx"; ten articles; same "Last Amended" line and signatures as the 2020
+    Constitution. The last separate Bylaws text known. Governance repo tag v2020-02-12.
+
+- key: constitution-hate-speech
+  title: Complete Guiding Documents of Wiess College (undated; Google Docs export of c. early 2025)
+  type: governing-document
+  format: pdf
+  date: c. 2025 (estimated)
+  local: historian-collection/governance/undated-wiess-constitution-hate-speech.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known. Original filename
+    "Wiess ConstitutionND.pdf"; 20 pp; sixteen articles including Article XV Stance on Hate Speech;
+    no "Last Amended" line. Dated by its PDF producer string, "Skia/PDF m134 Google Docs Renderer"
+    (the 2026 PDF says m147, the 2017 Google exports m58), which places the export around
+    January–March 2025. Word for word the 23 February 2026 text without its Executive Cabinet section
+    (Art. IV §14), its Election Representatives section (Art. XI §14) and the Last Amended line. Not the
+    2021–22 hate-speech amendment as ratified, though it carries that clause's descendant.
+    Governance repo tag v2025-spring (commit date 2025-02-15, an estimate).
+
+- key: housing-rules-2008
+  title: Wiess Housing Rules (undated; PDF created 31 October 2008)
+  type: governing-document
+  format: pdf
+  date: 2008-10-31
+  local: historian-collection/governance/undated-wiess-housing-rules-2008.pdf
+  evidence: P
+  notes: >
+    From the Historian's own collection (tfwdb folder); no public copy known under this name, but the
+    file is byte-identical to the image-only PDF posted on teamwiess.com in 2010 and 2011
+    [housing-rules-2010]. Two pages, image only; OCR'd 2026-10-05 (tesseract) to
+    historian-collection/text/undated-wiess-housing-rules-2008.txt. Eleven sections, from "Housing
+    pecking order" to "Housing Committee"; ends with the initials "MMM, BVA, LMH".

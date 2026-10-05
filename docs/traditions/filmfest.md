@@ -22,6 +22,7 @@ FilmFest is twenty-four consecutive hours of movies at the end of classes, befor
 | 2015 | Rewritten: "by playing movies for twenty-four consecutive hours… from midnight to midnight… our legendary movie room, with countless couches, a state of the art projector, and blacked out windows" [@oweek-2015 p.23]; same text 2016, 2017 [@oweek-2016 p.31] [@oweek-2017 p.32] | [P] |
 | c.2015–2017 | Wiess Associates site, "Wiess Traditions", carries the 2015 paragraph [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/] | [P] |
 | 2017 | Glossary: "24-hour film marathon held once a semester"—the 1994 frequency returns [@oweek-2017 p.14] | [P] |
+| 2019–2025 | FilmFest is in none of the four books: gone from the glossary after 2017, and the movie room—"the stuff of legend and the desire of every other college on campus"—is now "a great place to spend a Friday night with some friends rewatching all of Game of Thrones", with no marathon [@oweek-2019 p.30] [@oweek-2021 p.35] [@oweek-2024 p.11] [@oweek-2025 p.11] | [P] |
 
 ## As the college described it
 
@@ -50,5 +51,7 @@ The glossary by year: "A 24-hour film marathon held during Dead Week. 2. The bes
 - When FilmFest began; the 1994 handbook is the earliest mention and gives no origin. Earlier handbooks ("and undoubtedly those of many years preceding") may have it.
 - Whether it still runs: the last description is the 2017 book [@oweek-2017 p.32]; the current site's traditions page has not been captured [@wiess-rice-edu].
 - Who ran it—no book names an office responsible, unlike Summit or Big Bang.
+
+- Whether FilmFest still runs. The last book to mention it is 2017 [@oweek-2017 p.14]; the books of 2019–2025 do not [@oweek-2019 p.30] [@oweek-2025 p.11].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

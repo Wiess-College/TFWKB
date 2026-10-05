@@ -21,6 +21,9 @@ Wiess Day is a spring day in the Acabowl—food, games and whatever the Social V
 | 2014-06-27 | teamwiess.com traditions page, three entries—Ubangee, Wiess Day, Summit: "In the spring of 2008, a new tradition began: Wiess Day!" [@wb 20140627224527 http://teamwiess.com/traditions.html]; still there March 2015 [@wb 20150313224552 http://teamwiess.com/traditions.html] | [P] |
 | 2015 | "While every residential college can celebrate with a College Night, only Wiess has Wiess Day. This is a relatively new tradition, originating in the spring of 2008… planned by the Social Vice Presidents… a petting zoo (complete with goats and a very small horse)" [@oweek-2015 p.24]; unchanged 2016, 2017 [@oweek-2016 p.32] [@oweek-2017 p.33] | [P] |
 | 2015–2017 | Glossary: "Held during the spring semester, when Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities" [@oweek-2015 p.119] [@oweek-2017 p.15] | [P] |
+| 2019 | "This is a relatively new tradition, originating in the spring of 2008… planned by the Social Vice Presidents… a slip-n-slide, an ice cream truck, and a petting zoo (complete with goats, a very small horse, and a kangaroo)"; glossary: "A day to celebrate Wiess, held in the Acabowl during the spring semester"; the Social VPs "threw an awesome Wiess Day in the spring" [@oweek-2019 p.33] [@oweek-2019 p.15] [@oweek-2019 p.25] | [P] |
+| 2021 | The same text with "originating in Spring 2018" [@oweek-2021 p.38]; glossary unchanged [@oweek-2021 p.19] | [P] |
+| 2024–2025 | Wiess Day absent from the glossary and the traditions pages; the history drops "Wiess Day has become an annual tradition" [@oweek-2024 p.25] [@oweek-2024 p.37] [@oweek-2024 p.24] [@oweek-2025 p.38] | [P] |
 
 ## As the college described it
 
@@ -38,6 +41,9 @@ Wiess Day is a spring day in the Acabowl—food, games and whatever the Social V
 - **New tradition, or JamFest renamed?** Two readings exist on this site. The traditions index takes the glossary sequence—JamFest 2003–08, "Jamfest/Wiess Day" 2010–11, Wiess Day alone from 2014—as the stronger evidence and calls the 2015 website's "a new tradition began" a rebranding remembered as a founding. The 2008 book, the earliest source and written the summer after the first Wiess Day, supports the website: it describes Wiess Day as a new Socials' party *and* JamFest as a continuing concert, on facing pages [@oweek-2008 part 3 p.8] [@oweek-2008 part 3 p.9]. The 2010 and 2011 books likewise carry separate Wiess Day and Jamfest essays while their glossaries fuse the two [@oweek-2010 p.44] [@oweek-2010 p.45] [@oweek-2010 p.91]. The better description is therefore: Wiess Day was founded in spring 2008 as a new event, ran beside JamFest for at least three springs, and had absorbed it by 2014 [@oweek-2014 p.37]. The "Jamfest/Wiess Day" glossary line records the overlap, not a rename.
 - **Whose idea.** "Our amazing socials decided" (2008) [@oweek-2008 part 3 p.8]; "Our socials had a brilliant idea" (2014) [@oweek-2014 p.43]; "planned by the Social Vice Presidents" (2015) [@oweek-2015 p.24]. No individual is credited in any source.
 - **The copy-paste page.** The June 2014 website gave "Jazz Night" the Wiess Day paragraph by mistake; fixed by March 2015 [@teamwiess-traditions-2014].
+
+- **2008 or 2018.** The 2021 book says Wiess Day originated "in Spring 2018" [@oweek-2021 p.38]; every earlier source, including the 2019 book with otherwise identical text, says 2008 [@oweek-2019 p.33] [@wb 20140627224527 http://teamwiess.com/traditions.html]. A typing slip in 2021; 2008 stands.
+- **Gone or unmentioned?** The 2024 and 2025 books leave Wiess Day out altogether [@oweek-2024 p.37] [@oweek-2025 p.38]. Whether the day lapsed or the editors dropped it is not in the books.
 
 ## Open questions
 

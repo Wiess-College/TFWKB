@@ -76,6 +76,14 @@ Most of Wiess lives in four-person suites of two kinds, with a common room and a
 
 **First attested.** 5 October 2026, testimony only [T]. No O-Week book, college website or architect's page in the corpus uses the name. Machado and Silvetti's master plan covered "the reconfiguration of the intramural fields" [@machado-silvetti-wiess], but says nothing of a garden. Old Wiess's ground was famously treed: Delany photographed live oaks across its lawns in 2002 [@edesigns-old-wiess-2002].
 
+## The Breezeway and the Breezyway
+
+**What.** Two names in use at Wiess today, which the Historian says are worth breaking out as separate entries: **the Breezeway** and **the Breezyway** [@testimony-mullen-2026-10-05c breezeway] [T]. The notes do not define either, or say whether they are two places or two names (one perhaps a joke on the other).
+
+**First attested.** 5 October 2026, testimony only [T]. Neither word occurs anywhere in the corpus: not in the O-Week books 2003–2025 or their glossaries (1994–2025), the college websites of 1997–2025, the Rice History Corner posts and comments, or the architects' page. The O-Week maps of 2015–2021 show the ground floor of the elevator stack as "1: Patio/Bike Rack", the only open passage at ground level that they label [@oweek-2015 p.19] [@oweek-2019 p.28]; whether either name belongs to it is not known.
+
+**Wanted.** A definition of each from the Historian or any resident (see Open questions).
+
 ## Photographs
 
 <!-- GALLERY:rooms -->
@@ -153,6 +161,7 @@ Most of Wiess lives in four-person suites of two kinds, with a common room and a
 - When the RUPD office became the H&D office, and what RUPD used it for.
 - When the President's suite custom began and ended, and whether it descended from Old Wiess's "presidential suite" in the tower [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html].
 - Wiess Grove: when it was planted, by whom, and since when it has had the name. A dated photograph or a Facilities landscaping plan would settle the first two.
+- **For the Historian: what are the Breezeway and the Breezyway?** Where is each, is the Breezyway a separate space or a play on the Breezeway, and since when have the names been used?
 - When the Small classroom was created; it first appears on the 2015 map [@oweek-2015 p.19].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

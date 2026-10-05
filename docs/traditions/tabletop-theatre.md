@@ -32,6 +32,10 @@ Wiess Tabletop Theatre is the college's theatre company, playing in the Commons�
 | 2015 | The college site: "Tabletop's theatrical season generally consists of three shows. The first show is the Freshman One Acts, performed over Parent's Weekend … 6 or 7 shows directed by Wiessman. All other Wiess performances are open to all Rice students to direct, act, etc. There has traditionally been a play in the fall and a musical, which features a live orchestra, in the spring." [@wb 20150313224607 http://teamwiess.com/tabletop.html] | [P] |
 | 2016 (spring) | *Hello, Hamlet*—"performed this past year" in the 2016 book, "two years ago" in 2017 [@oweek-2016 p.31] [@oweek-2017 p.32] | [P] |
 | 2017-11-10 | 60th anniversary: "Wiess TG and 'Hello, Hamlet!' Sing-along / Drink-along" and a *Hello, Hamlet!* retrospective [@wiess-60th-faq-2017 p.1] | [P] |
+| 2019 | "Every four years, Wiess has the honor of performing Hello, Hamlet, a musical written by a former Wiessman that is only performed once during each student's career. Hello, Hamlet will be performed this year!"; the history: "you'll have a chance to join in on this tradition in 2020!"; Freshman One-Acts "on Families Weekend" [@oweek-2019 p.32] [@oweek-2019 p.12] | [P] |
+| 2021 | The book, unrevised: *Hello, Hamlet!* "will next be performed in Fall 2020" [@oweek-2021 p.37] [@oweek-2021 p.16] | [P] |
+| 2024 | History: "It was last performed in Spring 2016, 2021, and most recently in Spring 2024!"; Tabletop drops out of the glossary and the traditions pages [@oweek-2024 p.24] [@oweek-2024 p.37] | [P] |
+| 2025 | Back among the traditions: "Wiess' very own theater company featuring many Wiessmen and non-wiessmen, making its mark with amazing plays presented once a year such as 'Hello Hamlet!' and 'Company' that takes place in our very own Commons!!" [@oweek-2025 p.38] | [P] |
 
 ## Shows we can source, by year
 
@@ -49,8 +53,12 @@ Wiess Tabletop Theatre is the college's theatre company, playing in the Commons�
 | fall 2014 | Freshman One Acts (seven) | one-acts | [@wb 20140704224722 http://teamwiess.com/freshman-one-acts.html] |
 | spring 2016 | *Hello, Hamlet* | musical | [@oweek-2016 p.31] |
 | 2017-11-10 | *Hello, Hamlet!* sing-along and retrospective (60th anniversary) | event | [@wiess-60th-faq-2017 p.1] |
+| 2019–20 (announced) | *Hello, Hamlet* ("will be performed this year!"; "in 2020") | musical | [@oweek-2019 p.32]; [@oweek-2019 p.12] |
+| spring 2021 | *Hello, Hamlet!* | musical | [@oweek-2024 p.24] |
+| spring 2024 | *Hello, Hamlet!* | musical | [@oweek-2024 p.24] |
+| by 2025 | *Company* | musical | [@oweek-2025 p.38] |
 
-The four-year cycle implies *Hello, Hamlet* in spring 2008 and spring 2020 as well; neither is in the corpus (2008's Tabletop page is a broken include, and there is no 2018–21 book). They are not claimed.
+The four-year cycle implies *Hello, Hamlet* in spring 2008 and spring 2020 as well. 2008 is not in the corpus (its Tabletop page is a broken include). 2020 was announced—"will be performed this year!" (2019), "Fall 2020" (2021, unrevised)—but the 2024 book's list of performances goes from 2016 to 2021, so the pandemic moved it a year; 2024 then came three years later, not four [@oweek-2019 p.32] [@oweek-2021 p.37] [@oweek-2024 p.24].
 
 ## As the college described it
 
@@ -74,6 +82,9 @@ The four-year cycle implies *Hello, Hamlet* in spring 2008 and spring 2020 as we
 
 !!! quote "O-Week Book 2017"
     "Every four years, Wiess has the honor of performing Hello, Hamlet, a musical written by a former Wiessman that is only performed once during each student's career. Hello, Hamlet was performed two years ago, but you'll have the chance to get involved your Junior year. Don't pass up this literally once-in-a-Wiesstime opportunity!" [@oweek-2017 p.32]
+
+!!! quote "O-Week Book 2025"
+    "**Tabletop** Wiess' very own theater company featuring many Wiessmen and non-wiessmen, making its mark with amazing plays presented once a year such as "Hello Hamlet!" and "Company" that takes place in our very own Commons!!" [@oweek-2025 p.38]
 
 ## Variants & disputes
 

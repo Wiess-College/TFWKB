@@ -53,7 +53,7 @@ Fourteen changes that a Wiess student should know, across all decades.
 11. **2012**—the wooden War Pig, built by the Class of 2012; "the pig will roll" [@campanile-2012 p.172] [@oweek-2014 p.103]. → [2010s](2010s.md)
 12. **2016**—the Constitution of 26 January 2016: membership by the Dean of Undergraduates, search committees for the Magister[^magister] and RAs, Head Fellows and Deputy Justices written in [@constitution-2016]. → [2010s](2010s.md)
 13. **2021**—a clause banning hate speech added to the Constitution after students were reported to Wiess Court [@thresher-2021-09-15]. → [2020s](2020s.md)
-14. **2026**—"Masters" become "Magisters" and the Constitution absorbs the Bylaws in the "Complete Guiding Documents" of 23 February 2026; the inflatable pig had already returned in 2024 [@constitution-2026] [@thresher-2024-04-10]. → [2020s](2020s.md)
+14. **2020–2026**—"Masters" are already "Magisters" in the Constitution and Bylaws of 12 February 2020; the Constitution absorbs the Bylaws in the "Complete Guiding Documents", in place by early 2025 and last amended 23 February 2026; the inflatable pig had already returned in 2024 [@constitution-2020] [@constitution-hate-speech] [@constitution-2026] [@thresher-2024-04-10]. → [2020s](2020s.md)
 
 ## Open questions
 

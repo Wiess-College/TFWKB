@@ -36,6 +36,14 @@ reviewed_by: unreviewed
 | 2024–2025 | Sparky's, amenities only: "a great place to hangout, play various games with your friends, or even watch some powderpuff. We have lots of tables, big speakers, large windows, and of course, the Wiess crest"—still "slowly transformed in the past five years"; no glossary entry [@oweek-2024 p.11] [@oweek-2025 p.11] | [P] |
 | 2026-10 | Sparky's is "currently the 4th-floor party room; formerly the basement game room"; the basement, old and new, among the places the site lacks [@testimony-mullen-2026-10-05 Sparky's and the basement] | [T] |
 
+## The darkroom and the screens
+
+The New Wiess basement, under the Commons, holds what is left of two of the college's crafts. The Historian: the old T-shirt screens are still there, in the area of the former photo-development darkroom [@testimony-mullen-2026-10-05c screen printing] [T].
+
+**The darkroom.** The Bylaws listed "dark room equipment" among the college property held by committee chairmen from at least 1999 to 2011 [@wb 19990220014631 http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html] [@bylaws-2010 Art. III §2] [P]; the RA of the time, Dr. Bill Wilson, was known for "taking pictures of almost every Wiess event" [@riceinfo-associates]. By the Bylaws of 2020 the darkroom equipment is gone from the list and "shirt-screening equipment" is in it [@bylaws-2020 Art. III §2] [P]. No source says where the darkroom was in either building, or when it closed; its location in the New Wiess basement is testimony only.
+
+**The screens.** The glossaries of 2014 to 2019 define the basement as "The area under the Commons used for storage and shirt screen making" (2014), then "storage and shirt screening" [@oweek-2014 p.102] [@oweek-2015 p.118] [@oweek-2019 p.14] [P]. The printing, the "YEAH WIESS" representative who ran it (2010–2017), and the Beer Bike shirts are on [Beer Bike](../traditions/beer-bike.md#screen-printing-yeah-wiess-yeah-beer-yeah-water).
+
 ## As the college described it
 
 !!! quote "1994 Freshman Handbook"
@@ -68,6 +76,8 @@ The glossary entries year by year: [Basement](../traditions/glossary-series.md#b
 
 ## Open questions
 
+- Where the darkroom was, in Old Wiess and in New Wiess, and when it stopped being used for film; whether any of its equipment survives beside the screens.
+- An inventory of the screens in the basement: which designs, and which years.
 - Was the 2009 "War room" refit approved at Summit 2009, and what did it cost? Fall 2009 Cabinet minutes or the 2009–10 budget would settle whether it became Sparky's.
 - Why "War room"? Possibly after the [War Pig](../traditions/warpig.md), but no source says so.
 - The Historian lists "the basement (current and old)" as a gap; what is the basement used for in 2026? [@testimony-mullen-2026-10-05 the basement]

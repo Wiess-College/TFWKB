@@ -25,6 +25,9 @@ Hanszen College is Wiess's neighbour across the shared servery and, in the colle
 | 2014 | Last "arch nemesis" paragraph, now "Hanszen's reputation *sadly* failed to stick" [@oweek-2014 p.36]; glossary softens: "Acaterrace—The terrace behind the Upper Commons that we share with Hanszen" [@oweek-2014 p.102]; "Hanszenite—A resident of Hanszen College" [@oweek-2014 p.105] | [P] |
 | 2015 | History rewritten without Hanszen; the Rice section describes Hanszen as "lovingly known as 'the Family College'… based on the 'Hanszen Heart'" [@oweek-2015 p.50]; "We share South Servery with Hanszen" [@oweek-2015 p.119] | [P] |
 | current | Hanszen's traditions page: "Hanszen's is its eyesore of a neighbor, Wiess College. To begin, they can't even spell their own name right"; the Powderpuff roast pig; "Jailbreak" during O-Week and Beer Bike Week; the "Weiss Wall" across the passageway during Beer Bike Week [@hanszen-traditions] (read live 2026-10-04; not in the corpus) | [R] |
+| 2019–2025 | Glossary: "Bacaterrace—The terrace behind the Upper Commons that we share with Hanszen" (2019, 2021); "We share South Servery with Hanszen" (every book) [@oweek-2019 p.14] [@oweek-2021 p.18] [@oweek-2019 p.15] [@oweek-2025 p.26] | [P] |
+| 2021 | The President's letter: "As one of the four original residential colleges, we have a long history of traditions, from birthday celebrations, to running around campus for Halloween, and of course, our longstanding rivalry with… Hanszen. Even typing their name made me a little upset." [@oweek-2021 p.30] | [P] |
+| 2024–2025 | "The Lesser Colleges (and Wiess!)" table: "Hanszen—Hanszenite—Our neighbor and forever enemy. Hanszen still sucks!"; Jones is "Our sister college" [@oweek-2024 p.4] [@oweek-2025 p.4] | [P] |
 
 ## As the college described it
 
@@ -45,6 +48,9 @@ Hanszen College is Wiess's neighbour across the shared servery and, in the colle
 
 The glossary, year by year: "Hanszen—1. A lesser college distinguished by its lack of anything cool. 2. A lesser college indistinguishable from a pile of bricks" 2003–2011 [@oweek-2003 p.5] [@oweek-2011 p.95]; "Hanszenite—A resident of Hanszen College" 2014 and the 2016 Owlmanac [@oweek-2014 p.105] [@owlmanac-2016 p.55]; a table of demonyms, "Hanszen—Hanszenite", 2015–2017 [@oweek-2015 p.123].
 
+!!! quote "O-Week Books 2024 and 2025"
+    "Hanszen · Hanszenite · Our neighbor and forever enemy. Hanszen still sucks!"—and, in the same table, "Wiess · Wiessmen · The coolest, greatest, sexiest college to ever exist." [@oweek-2024 p.4]
+
 ## Variants & disputes
 
 - **Origin.** The college's only explanation is "Probably because of their proximity" [@oweek-2003 35-44 wiess.pdf p.3]. Hanszen's page agrees on the geography ("its eyesore of a neighbor") and adds the spelling joke [@hanszen-traditions]. No source dates the rivalry; the 1999 page calls the hatred "traditional" and the chant already fading [@riceinfo-hanszensucks]. The 1992 "Secession" documents may be the earliest paper trace, but nothing in the post says what they are [@rhc 2021-11-15 secession-1992].
@@ -52,6 +58,8 @@ The glossary, year by year: "Hanszen—1. A lesser college distinguished by its 
 - **How hostile.** 1999: "this doesn't mean we hate the *people* at Hanszen individually (although you might anyway)" [@riceinfo-hanszensucks]. 2003–2014: a "lesser college" and an "accursed neighbor" [@oweek-2014 p.36]. 2015–2017: the nemesis paragraph gone and Hanszen "lovingly known as 'the Family College'" [@oweek-2015 p.50]. Hanszen in 2026: "(mostly) facetious" [@hanszen-traditions]. The softening in the Wiess books is complete between the 2014 and 2015 editions and coincides with the general rewrite of the history and glossary in 2015.
 - **"Sadly."** The 2005 website said Hanszen's gentlemen's-college reputation "failed to stick, primarily because Hanszen sucks" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]; the 2014 book says it "sadly failed to stick" [@oweek-2014 p.36]. The 2003 book said both colleges' reputations "have since faded" [@oweek-2003 35-44 wiess.pdf p.3].
 - **Date of the corridor jack.** The books say only "While Hanszen's Commons was being built" [@oweek-2006 p.52]. New Wiess and the shared kitchen and servery opened in 2002 [@kirksey-wiess], so the jack belongs to 2002–03; the 2003 book's Rice section does not yet tell it.
+
+- **Softened, then not.** The books dropped the "arch nemesis" history in 2015 [@oweek-2015 p.50]; the rivalry came back in the President's letter of 2021 and as "forever enemy" in the 2024 and 2025 tables [@oweek-2021 p.30] [@oweek-2024 p.4]. The books themselves, not only alumni, keep it alive.
 
 ## Open questions
 

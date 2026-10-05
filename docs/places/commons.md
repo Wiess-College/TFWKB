@@ -66,6 +66,26 @@ The glossary entries year by year: [Commons](../traditions/glossary-series.md#co
 !!! quote "O-Week Book 2021"
     "…you can find her chilling in UpCo (Wiess upper commons)…" [@oweek-2021 p.63]—the first "UpCo" in the record, glossed for the reader.
 
+## Customs
+
+Small habits of the Commons and the servery that no calendar records. All three are in the Historian's third set of notes [@testimony-mullen-2026-10-05c servery customs]; what the written record adds is given with each.
+
+### Square tables
+
+The Commons is furnished with square tables, which can be pushed together into long rows; the Historian says Wiess is the only college that still has them, a survival of the seated, served dinners [@testimony-mullen-2026-10-05c square tables] [T]. A 2017 photograph on the college website shows square tables set in pairs with chairs on all four sides [@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg] [P]. The custom that goes with them is **cornering**, pulling up an extra chair at a table's corner, defined in every glossary from 2003 to 2025 [@oweek-2003 conclusions p.3] [@oweek-2025 p.26] [P]. Both, and the uniqueness claim (testimony only), are told on [Formal Dinner, waiting and long tables](../traditions/retired/formal-dinner.md#square-tables).
+
+### Applause for a fallen chair
+
+When a chair falls over in the servery or the Commons, everyone applauds [@testimony-mullen-2026-10-05c chair] [T].
+
+**Written record.** None. No O-Week book, glossary or college website in the corpus mentions it. Testimony only; first attested 5 October 2026.
+
+### Friday music
+
+On Fridays music plays in the servery from lunch until dinner [@testimony-mullen-2026-10-05c Friday music] [T].
+
+**Written record.** Friday music at Wiess has been a job since at least 2016, when an O-Week Fellow's profile gave him "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58] [P]. TFFW, the Friday-afternoon gathering in the Acabowl, has opened its description since 2016 with "It's Friday! There's music on the stacks" [@oweek-2016 p.31] ("There is music playing the stacks", 2025 [@oweek-2025 p.39]) [P] (see [TFFW](../traditions/tffw.md)). The college's representatives list of 2023 has three Music representatives, without a description of their job [@wb 20230114021659 http://teamwiess.com/government/representatives] [P]. No written source places the Friday music in the servery itself or gives its hours; that part is testimony only. The custom is not Wiess's alone in kind: in 2006 the O-Week book's guide to the other colleges said Brown's "speakers blast Happy Friday music all over the north side" on Friday afternoons [@oweek-2006 p.53] [P].
+
 ## Photographs
 
 <!-- GALLERY:commons -->
@@ -110,6 +130,8 @@ The glossary entries year by year: [Commons](../traditions/glossary-series.md#co
 - Where the PDR's portraits of the Masters came from, and whether they include the Magisters since 2017.
 - Where the Old Wiess portrait of Harry Wiess went in 2002. The groundbreaking report promised that "medallions, plaques and original cornerstone" would move to the new building, but it does not mention portraits [@rice-news-1999-10-14-groundbreaking].
 - Did Hanszen use the new Wiess Commons in 2000–01, as planned [@riceinfo-news-2000-lundin]?
+- When the chair-falling applause began, and whether other colleges' serveries do the same.
+- Who plays the Friday servery music now (the Music representatives? the servery staff?), and when it moved from the Acabowl stacks into the servery, if it did.
 - The 2009 "geometry issues" joke points to "Dr. Dodds… for some great stories about the design of New Wiess" [@wb 20090827020025 http://teamwiess.com/areas.php]. Those stories are not recorded.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

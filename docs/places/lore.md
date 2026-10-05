@@ -23,6 +23,8 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 | undated | Hanszen's "Wiess Wall" in Beer Bike Week [@hanszen-traditions] | [R] |
 | 2026-10 | The owl in the brick; "send it down" [@testimony-mullen-2026-10-05 lore] | [T] |
 | 2026-10 | Old Wiess built "crooked"; the "Family" banner's other side [@testimony-mullen-2026-10-05b lore] | [T] |
+| 2015–2021 | The O-Week maps mark three stair towers, each simply "stairs", without letters [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33] | [P] |
+| 2026-10 | Stairwell C, said to be hidden in the back of some rooms; "Motel 6" embraced [@testimony-mullen-2026-10-05c lore] | [T] |
 
 ## The items
 
@@ -111,6 +113,24 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 
 **First attested.** Hanszen's current website, undated [R]. No Wiess source mentions it. See [Hanszen (the rivalry)](../traditions/hanszen-rivalry.md) and [Beer Bike](../traditions/beer-bike.md).
 
+### Stairwell C
+
+**What.** New Wiess has three public stairwells, known by letter: **A** in the north-west corner, **B** in the south-west and **D** in the north-east. There is no C. Freshmen are told that Stairwell C exists, hidden in the back of some rooms, and was closed off after "a terrible accident". Where the story came from is not known [@testimony-mullen-2026-10-05c Stairwell C] [T].
+
+**What the record shows.** The O-Week maps of 2015, 2016, 2017, 2019 and 2021 draw three stair towers, each labelled only "stairs": one by the laundry stack beside the Private Dining Room and South Servery, one by the elevator stack, and one by the Large Classroom next to the Commons [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33]. Three stairs on the maps matches three lettered stairwells in use. No map, book, glossary or website in the corpus uses the letters A, B or D, so neither the lettering nor the gap is documented. The legend explains the gap; the likelier explanation, a fourth stair planned and dropped, or a letter given to a service or fire stair that residents do not use, is unrecorded.
+
+**First attested.** 5 October 2026, testimony only [T]. The letters, the missing C and the "terrible accident" are all testimony only.
+
+**Sources checked.** The O-Week books 2003–2025 and their glossaries ("stair" occurs only on the maps), the teamwiess.com and wiess.rice.edu captures, Machado and Silvetti's project page [@machado-silvetti-wiess]. The only stairwell accident in the Wiess record is Old Wiess's, a Wiessman of the 1980s who "jumped over a stairwell railing in a fit of excitement" expecting a three-foot drop and finding nine [@rhc 2012-12-05 wiess-hall-dedication-1950 comment by marmer01, 6 Dec 2012] [T]; nothing connects it to New Wiess.
+
+### "Motel 6"
+
+**What.** Other colleges call Wiess "Motel 6", and Wiessmen have embraced the name: "it beats 'prison'" [@testimony-mullen-2026-10-05c Motel 6] [T]. Its full history is on [Motel 6 / Motel Wiess](../traditions/motel-6.md).
+
+**First attested.** The name is older than the building it is now used for. Old Wiess was "in the best motel tradition" in the 1972 Freshman Handbook [@handbook-1972]; Hanszen called it "Early Motel 6" in the early 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012] [T]; Night of Decadence took "Wiess Palms Motel 6: Sanitized for your protection" as its theme in 1977 and "Motel Wiess" in 1988 (both from the undated "Themes through the decades" graphic; see [Night of Decadence](../traditions/night-of-decadence.md#themes-year-by-year)); an RA of 1998 was in "his sixth year living at Motel Wiess" [@riceinfo-associates]; a Wiessman of 1975 remembered the building as "Kinda Motel Sexy" [@rhc 2016-05-24 hanging-out-at-wiess comment by Buddy Chuoke '75, 25 May 2016] [T]; Colin Delany '91 wrote that it "had more in common with contemporary motel design than it did with the rest of the Rice campus" [@delany-about-wiess-2002] [R]. The O-Week histories have called the old building's design "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" every year from 2006 to 2025 [@oweek-2006 p.37] [@oweek-2025 p.24] [P].
+
+**Old and New.** New Wiess was designed to keep what earned the name: single-loaded open-air corridors and external balconies [@machado-silvetti-wiess]. The nickname crossed with them. That the books apply it only to the old building, while other colleges apply it to the new one, is the one thing the written record does not yet show: no source in the corpus calls *New* Wiess "Motel 6" before the Historian's notes.
+
 ### Tunnels
 
 **What.** New Wiess was preceded by its tunnels. In 2000 "Steam and utility tunnels" were dug from "the fringe of the Wiess Backabowl" toward the Acabowl, then between the rooms and the tennis courts [@riceinfo-news-2000-lundin]. Rice's steam tunnels are "Strictly off-limits, but it's cool to know they're there" [@owlmanac-2016 p.56]. No Wiess-specific tunnel custom is recorded.
@@ -130,6 +150,8 @@ Both Wiess buildings have accumulated stories, habits and named oddities that ar
 - What "the tower" was called after 2002. No New Wiess source uses the word.
 - Who first told the "crooked" story, and whether it is told of Old Wiess only or has been transferred to the new building.
 - Whether the "Family" banner still has its other side, and when the banners were first made.
+- Stairwell C: when the stairwells were lettered, by whom (Facilities signage, or students), and when the story of the hidden C began. A photograph of a stairwell sign would date the letters.
+- Whether any written source calls New Wiess (as opposed to Old) "Motel 6", and whether "prison" is a name other colleges use for it too.
 - More lore. The Historian is collecting: the Thresher, and the Rice History Corner comment threads on Wiess posts, are the likeliest written sources.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

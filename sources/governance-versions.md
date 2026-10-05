@@ -11,4 +11,6 @@
 | `v2013-02-08` | 2013-02-08 | Constitution, last amended 8 February 2013 | constitution.md |
 | `v2016-01-26` | 2016-01-26 | Constitution and Bylaws, last amended 26 January 2016 | bylaws.md, constitution.md |
 | `v2017-03-29` | 2017-03-29 | Constitution amendment, spring 2017: appointed Cabinet members selected by the Cabinet | constitution.md |
-| `v2026-02-23` | 2026-02-23 | Complete Guiding Documents of Wiess College, last amended 23 February 2026 (Constitution and Bylaws merged) | bylaws.md, constitution.md |
+| `v2020-02-12` | 2020-02-12 | Constitution and Bylaws, last amended 12 February 2020 | bylaws.md, constitution.md |
+| `v2025-spring` | 2025-02-15 | Complete Guiding Documents of Wiess College, undated text with Article XV Stance on Hate Speech (as exported early 2025; date estimated) | bylaws.md, constitution.md |
+| `v2026-02-23` | 2026-02-23 | Complete Guiding Documents of Wiess College, last amended 23 February 2026 (Constitution and Bylaws merged) | constitution.md |

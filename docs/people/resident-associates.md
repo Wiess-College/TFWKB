@@ -11,7 +11,7 @@ Resident Associates—RAs—are the adults who live in the college. The college 
 
 ## Timeline
 
-The RAs alongside the Magisters and College Coordinators, with the RAs of 2013–2023 (Nico Orlandi; Esther Fernández, chosen by the first RA Search Committee in 2017; Carissa Zimmerman and Nick Espinosa from 2018), are tabulated on [The Core Team](core-team.md).
+The RAs alongside the Magisters and College Coordinators, with the RAs of 2013–2025 (Nico Orlandi; Esther Fernández, chosen by the first RA Search Committee in 2017; Carissa Zimmerman and Nick Espinosa from 2018; Lach and Kari Mullen from 2023), are tabulated on [The Core Team](core-team.md).
 
 
 | When | What | Evidence |
@@ -35,8 +35,12 @@ The RAs alongside the Magisters and College Coordinators, with the RAs of 2013�
 | 2014–17 | teamwiess.com carries a "Dr. Bill Wilson" page under About, consisting of an embedded Rice video [@wb 20140719005650 http://teamwiess.com/dr.-bill.html] | [P] |
 | 2016-01-26 | Constitution: RAs "recommended by a committee lead by two undergraduate chairmen selected by the President… no fewer than six Wiess members" and "appointed by the administration" [@constitution-2016 p.1] | [P] |
 | 2017 | RAs Renata Ramos, Lenin Terrazas and Esther Fernández [@oweek-2017 p.69] | [P] |
+| 2019 | RAs Carissa and Nick ("super excited for their second year at Wiess") on the third floor and Esther Fernández ("my third at Wiess") on the fourth; the map marks "3: Carissa and Nick's" and "4: Esther's" over the dance room [@oweek-2019 p.21] [@oweek-2019 p.28] | [P] |
 | 2020–21 | A-Team page: Resident Associates Carissa Zimmerman, Nick (Zimmerman in 2020; Espinosa in 2021) and Esther Fernandez [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20210319233348 http://teamwiess.com/government/ateam] | [P] |
+| 2021 | Carissa, Nick and Amelia in "their fourth year at Wiess"; Esther in "my fifth at Wiess"; the RAs and Magisters now "the Wiess Core Team" [@oweek-2021 p.25] [@oweek-2021 p.6] | [P] |
 | 2021-11 | The Woodson receives "a whole bunch of Dr. Bill Wilson's things… The real treasures in the boxes are the hundreds of recordings of Rice events made by Dr. Bill" [@rhc 2021-11-15 secession-1992] | [R] |
+| 2024 | Two RA households: Lach and Kari Mullen, Rice staff, in "our second year as Wiess RAs", a fourth-floor apartment, and Carissa Zimmerman and Nick Espinosa in "our seventh (and final *cry*) year"; Esther Fernández no longer listed. The book: RAs are "full-time faculty and staff at Rice who live among the students… often inviting students to their 'apartments'" [@oweek-2024 p.30] [@oweek-2024 p.31] [@oweek-2024 p.28] [@oweek-2024 p.59] | [P] |
+| 2025 | The same four: the Mullens' "third year", Carissa and Nick's "eighth (!!) year"; "We eat dinner in the Commons most days around 5:30, and we keep our apartment blinds open when we're home and up for visitors" [@oweek-2025 p.31] [@oweek-2025 p.32] | [P] |
 | 2026-02-23 | Constitution, Article II "Residential Associates": the search committee survives a change of President, "the former President retains their title as ex officio member until the Search Committee disbands" [@constitution-2026 p.3] | [P] |
 
 ## As the college described it
@@ -59,6 +63,9 @@ The RAs alongside the Magisters and College Coordinators, with the RAs of 2013�
 !!! quote "Melissa Kean, Rice History Corner, 2014"
     "The Wiess College collection is packed full of hundreds of photographs that were taken by Dr. Bill Wilson, so it's not surprising that there aren't too many of Dr. Bill. He was the one holding the camera… He taught electrical and computational engineering at Rice for over thirty years and was a resident associate at Wiess for almost as long." [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]
 
+!!! quote "O-Week Book 2024"
+    "At Rice, RAs are not primarily rule enforcers like they are at other universities (that's what your justices are for). Our purpose is to be reliable old(er) people who are always available for you. Wiess students have approached us for many different reasons. For instance, we have mentored students who faced leadership challenges, helped students rescue injured wildlife, coached students through roommate conflicts…" [@oweek-2024 p.30]
+
 ## Variants & disputes
 
 - **How long Dr. Bill was an RA.** "almost thirty years" in 2003 [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]; "for countless years" in 2007 [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates]; "almost as long" as his thirty-plus years of teaching, per Kean [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. An alumnus places him among the RAs in the 1976 Campanile [@rhc 2014-11-19 wiess-college-luminaries comment by rcspitzer, 21 Nov 2014], and the 2007 page ends his residence in 2006. Roughly 1975–2006, then; the exact start is open.
@@ -73,7 +80,7 @@ The RAs alongside the Magisters and College Coordinators, with the RAs of 2013�
 - Dr. Bill's dates of birth and death, and when the "Dr. Bill Grant program" began and what it funds [@oweek-2010 p.90].
 - The "Pleasure Palace" [@handbook-1994].
 - What the embedded video on the 2014–17 Dr. Bill page was (Rice mediacosmos ID `0arp-mpAjEusO24So4vULQ`) [@wb 20140719005650 http://teamwiess.com/dr.-bill.html]; the 1989 Sallyport "day in the life" profile of Dr. Bill [@rhc 2018-11-15 two-views-of-dr-bill-wilson-no-date comment by George Webb '88, '91, 15 Nov 2018]; and whether the Woodson has processed the Wilson materials received in 2021 [@rhc 2021-11-15 secession-1992].
-- RAs after January 2023, when the last teamwiess.com roster still lists Carissa Zimmerman, Nick Espinosa and Esther Fernández [@wb 20230114014600 http://teamwiess.com/government/ateam]: the current site's Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam].
+- RAs after January 2023, when the last teamwiess.com roster still lists Carissa Zimmerman, Nick Espinosa and Esther Fernández [@wb 20230114014600 http://teamwiess.com/government/ateam]: the current site's Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam]. *Partly answered:* the 2024 and 2025 O-Week books name the Mullens and Carissa and Nick, and no one else [@oweek-2024 p.59] [@oweek-2025 p.60]. Still open: when in 2023 Esther Fernández left, and the 2026 roster.
 
 
 [^magister]: Called "Master" until 2017; this site uses "Magister" for every period. Quotations keep their original wording.
