@@ -2,7 +2,7 @@
 
 The sourced history of Wiess College, Rice University — traditions, places, people, governance and how they changed — with every claim cited to a permalink that resolves without us.
 
-**Site:** https://wiess-college.github.io/familypedia/ · **Commons (wiki):** the easy place to say something · **Record (this repo):** the careful place to state it.
+**Site:** https://wiess-college.github.io/TFWKB/ · **Commons (wiki):** the easy place to say something · **Record (this repo):** the careful place to state it.
 
 ## What is here
 

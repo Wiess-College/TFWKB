@@ -27,7 +27,7 @@ Every Record page has the same shape: a summary that is true on its own; a **tim
 
 ## How to add to it
 
-The easy place to *say* something is the [Commons](https://github.com/Wiess-College/familypedia/wiki) — the wiki. Memories, questions, drafts, photographs with uncertain dates. Sign with your name and class year and say how you know. The careful place to *state* something is here, the Record, where every change is a pull request with a citation and one other maintainer's approval. The Historian's job is to walk the Commons and bring what can be sourced across. [How that works](contributing/commons-to-record.md) · [How to cite](contributing/citing.md) · [Page template](contributing/page-template.md).
+The easy place to *say* something is the [Commons](https://github.com/Wiess-College/TFWKB/wiki) — the wiki. Memories, questions, drafts, photographs with uncertain dates. Sign with your name and class year and say how you know. The careful place to *state* something is here, the Record, where every change is a pull request with a citation and one other maintainer's approval. The Historian's job is to walk the Commons and bring what can be sourced across. [How that works](contributing/commons-to-record.md) · [How to cite](contributing/citing.md) · [Page template](contributing/page-template.md).
 
 ## Status
 

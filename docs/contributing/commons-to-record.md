@@ -8,7 +8,7 @@ Students turn over every four years and memory is unreliable. Team Familypedia s
 
 ## The Commons (the wiki)
 
-Low friction, no review, nothing lost. The wiki is itself a git repository (`familypedia.wiki.git`) and is mirrored nightly into this repository, so a memory written there in 2026 is as safe as a page here.
+Low friction, no review, nothing lost. The wiki is itself a git repository (`TFWKB.wiki.git`) and is mirrored nightly into this repository, so a memory written there in 2026 is as safe as a page here.
 
 House rules fit on one page:
 

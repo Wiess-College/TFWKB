@@ -21,7 +21,7 @@ import urllib.error
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-UA = "familypedia-link-check/1.0 (+https://github.com/Wiess-College/familypedia)"
+UA = "familypedia-link-check/1.0 (+https://github.com/Wiess-College/TFWKB)"
 CITE_RE = re.compile(r"\[@(wb|portal|rhc)\s+([^\]]+)\]")
 
 
