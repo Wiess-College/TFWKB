@@ -19,8 +19,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
@@ -30,7 +30,7 @@ jobs:
           python3 tools/import_governance_changes.py || true
       - name: Build (strict—an unknown citation key fails here)
         run: mkdocs build --strict
-      - uses: actions/upload-pages-artifact@v7
+      - uses: actions/upload-pages-artifact@v6
         with:
           path: site
   deploy:
