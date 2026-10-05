@@ -8,7 +8,7 @@ case-insensitively after light normalisation ("The Ubangee" = "Ubangee"; "War pi
 Output: one section per term that appears in two or more years (the series), then a
 section listing terms that appear in only one year (the one-offs), each definition cited.
 Also writes sources/glossaries/_diff.md: what each year added, dropped and reworded versus
-the previous one — the raw material for the Changes pages.
+the previous one—the raw material for the Changes pages.
 
     python3 tools/build_glossary_series.py
 """
@@ -57,6 +57,14 @@ ALIASES = {
     "passfail": "pf", "rice village": "village", "leebron": "leebron and ping",
     "bc lindsay": "bc", "doward christie": "doward", "mike denise": "mike",
     "ironmanironwoman": "ironmanironwoman",
+    # 2019–2025 books (Historian's collection)
+    "acagliders": "acaglider", "acagrills": "acagrill", "afellows": "affiliates",
+    "wilson house wiess magister house": "wiess master house",
+    "the bookstore": "bookstore", "coffeehouse chaus": "coffeehouse", "fondren fondy": "fondren",
+    "the island": "island", "jones business school": "jones school", "intramural im sports": "im",
+    "tetra": "tetra points", "fellowsadvisors": "fellows", "commons culture": "commons",
+    # renamed in the books, same thing: grouped so the rename shows in the series
+    "housing jack": "room draw", "piggy week": "willy week", "changeover": "turnover",
 }
 
 
@@ -113,13 +121,15 @@ def main():
     out.append("---\ntitle: How we described ourselves, by year\nstatus: generated\nlast_reviewed: 2026-10-04\nreviewed_by: tools/build_glossary_series.py\n---\n")
     out.append("# How we described ourselves, by year\n")
     out.append(
-        "Every O-Week book ends with a glossary — \"Wiess Speak\", \"Conclusions\", \"the Glossary\" — written by that year's "
+        "Every O-Week book ends with a glossary—\"Wiess Speak\", \"Conclusions\", \"the Glossary\"—written by that year's "
         "coordinators for that year's freshmen. Read in sequence, the definitions are the college's own record of what each "
         "generation thought mattered, and of drift: the War Pig is \"the Wiess mascot\" in 1994, \"**Former** Wiess mascot\" "
         "from 2006, and \"the giant wooden pig built by the Class of 2012\" from 2014.\n\n"
         f"This page is generated from `sources/glossaries/*.tsv` ({len(ylist)} glossaries: {', '.join(ylist)}) by "
         "`tools/build_glossary_series.py`; edit the TSVs, not this page. Each definition is cited to its book and page. "
-        "Terms are grouped when they are plainly the same thing under different spellings.\n"
+        "Terms are grouped when they are plainly the same thing under different spellings, and when a book renamed "
+        "the same thing (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → "
+        "Commons Culture); the later name is shown in italics against its year.\n"
     )
     out.append(f"\n## Terms that recur ({len(series)})\n")
     out.append("\n| Term | Years present |\n|---|---|")
@@ -136,7 +146,7 @@ def main():
             d = r["definition"].strip().replace("\n", " ")
             printed = r["term"].strip()
             label = f" (*{printed}*)" if printed.lower() != display[n].lower() else ""
-            out.append(f"- **{y}**{label} — {d} {cite(r)}")
+            out.append(f"- **{y}**{label}—{d} {cite(r)}")
     out.append(f"\n## Terms that appear in only one glossary ({len(oneoffs)})\n")
     out.append("\nThe one-year entries are often the most revealing: a joke that lasted a semester, a staff member everyone knew, a rivalry that burned out.\n")
     for y in ylist:
@@ -147,7 +157,7 @@ def main():
         for n in ones:
             r = terms[n][y]
             d = r["definition"].strip().replace("\n", " ")
-            out.append(f"- **{r['term'].strip()}** — {d} {cite(r)}")
+            out.append(f"- **{r['term'].strip()}**—{d} {cite(r)}")
     with open(OUT, "w", encoding="utf-8") as fh:
         fh.write("\n".join(out) + "\n")
 

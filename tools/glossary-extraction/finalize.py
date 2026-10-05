@@ -65,7 +65,7 @@ def save(year, rows):
 
 def apply(rows, key, *, set_def=None, add=None, drop=None, rename=None, drop_pages=None):
     """set_def: {term: def}; add: [(term, def, locator)]; drop: [terms]; rename: {old: new};
-    drop_pages: [locator] — remove every row with that locator."""
+    drop_pages: [locator]—remove every row with that locator."""
     set_def = set_def or {}
     drop = set(drop or [])
     rename = rename or {}
@@ -201,7 +201,7 @@ r = apply(r, "oweek-2014", set_def={
     ("Renata", "Third floor RA and Bioengineering lecturer. Loves to talk and make delicious Mexican food. Married to Lenin, proud mama of Gavin. Also a shirt-screening expert!", "p.103"),
     ("Jonesian", "A member of Jones college.", "p.105"),
     ("Lovetteer", "A resident of Lovett College", "p.105"),
-    # p.104 — Rice Speak, first page
+    # p.104—Rice Speak, first page
     ("45, 90, 180", "Three big slabs of rock in the Engineering Quad.", "p.104"),
     ("’80s Party", "Party held at Sid Rich college that brings back both awesome music and clothing.", "p.104"),
     ("Academ", "A person majoring in humanities or social sciences.", "p.104"),
@@ -226,7 +226,7 @@ r = apply(r, "oweek-2014", set_def={
     ("DMC", "The Digital Media Center. Lots of computers to use and cool equipment to check out.", "p.104"),
     ("Duncaroo", "A resident of Duncan College.", "p.104"),
     ("Esperanza", "Fall formal. A major part of homecoming weekend and lots of fun!", "p.104"),
-    # p.106 — Rice Speak, last page
+    # p.106—Rice Speak, last page
     ("Pumpkin Grades", "Mid-semester grades given to new students in the fall.", "p.106"),
     ("R2 (The Rice Review)", "An independent literary magazine published entirely by students", "p.106"),
     ("Recharge U", "Campus convenience store in the RMC.", "p.106"),
@@ -248,7 +248,7 @@ r = apply(r, "oweek-2014", set_def={
     ("Ultimate", "The frisbee-lacrosse-soccer amalgam frequently played on campus.", "p.106"),
     ("Valhalla", "The other on-campus pub, often populated by grad students, but a great place for cheap beer.", "p.106"),
     ("Village", "The shopping center west of campus. Has lots of great restaurants and shops, all within walking distance!", "p.106"),
-    ("Whataburger", "A 24-hour restaurant to get a burger or legendary Honey Butter Chicken Biscuit. Ask for Texas Toast — it’s the only way to truly eat a Whataburger.", "p.106"),
+    ("Whataburger", "A 24-hour restaurant to get a burger or legendary Honey Butter Chicken Biscuit. Ask for Texas Toast—it’s the only way to truly eat a Whataburger.", "p.106"),
     ("Wiess", "Your home and family.", "p.106"),
     ("Will Ricer", "A resident of Will Rice College", "p.106"),
     ("Willy Week", "The week preceding Beer Bike, filled with college activities, alumni, and jacks.", "p.106"),
@@ -271,7 +271,7 @@ MULTI = [
     "Willy Week", "Willy’s Statue",
 ]
 MULTI.sort(key=len, reverse=True)
-NICK = "(table) Baker — Bakerite; Will Rice — Will Ricer; Hanszen — Hanszenite; Jones — Jonesian; Brown — Brownie; Lovett — Lovetteer; Sid Richardson — Sidizen; Martel — Martelian; McMurtry — Murt; Duncan — Duncaroo."
+NICK = "(table) Baker—Bakerite; Will Rice—Will Ricer; Hanszen—Hanszenite; Jones—Jonesian; Brown—Brownie; Lovett—Lovetteer; Sid Richardson—Sidizen; Martel—Martelian; McMurtry—Murt; Duncan—Duncaroo."
 TABLE_ROWS = {"WHAT", "Baker", "Will", "Hanszen", "Jones", "Brown", "Lovett", "Sid", "Martel", "McMurtry", "Duncan"}
 
 

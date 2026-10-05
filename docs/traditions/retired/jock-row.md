@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Jock Row
 
-Jock Row is the oldest tradition in this section and was already dead when the oldest source we have described it. The 1994 Freshman Handbook's history of the college, as transcribed on the 1997–2000 website, explains the building's appeal in 1949—balconies, private showers, cross-ventilation—and adds: "In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)" [@riceinfo-history]. That sentence is the whole record. Jock Row was a row—a wing, a floor or a corridor—of Old Wiess's west wing where athletes lived because the gym was next door; it was a tradition, not a policy; and by 1994 it was gone. No later history, book or website repeats even the name.
+Jock Row is the oldest tradition in this section and was already dead when the oldest source we have described it. The 1994 Freshman Handbook's history of the college, as transcribed on the 1997–2000 website, explains the building's appeal in 1949—balconies, private showers, cross-ventilation—and adds: "In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)" [@riceinfo-history]. That sentence is the whole record. Jock Row was a row—a wing, a floor or a corridor—of Old Wiess's west wing where athletes lived because the gym was next door; it was a tradition, not a policy; and by 1994 it was gone. No later history, book or website repeats even the name. An undated photo shows a "banner" made out of bedsheets to creatively represent a jock strap and the words "we support our jocks" written on the wall.
 
 ## Timeline
 
@@ -22,6 +22,19 @@ Jock Row is the oldest tradition in this section and was already dead when the o
 
 !!! quote "1994 Freshman Handbook (riceinfo site, 'The History of Wiess College')"
     "Wiess possessed functional advantages which more than made up for its rather plain exterior appearance. Among these were (and are) outside balconies connecting all rooms, private showers between every two rooms, built-in closets and drawers, and cross-ventilation (no rooms were then air-conditioned). In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)." [@riceinfo-history]
+
+## Photographs
+
+<!-- GALLERY:jockrow -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![A banner in the Old Wiess Commons supporting the Wiess jocks. Undated; commenters guess the 1960s or early 1970s.](../../assets/photos/photos/weiss-jocks-nd-047.jpg){ loading=lazy data-title="A banner in the Old Wiess Commons supporting the Wiess jocks. Undated; commenters guess the 1960s or early 1970s." data-description="Rice History Corner, 20 May 2016 · undated (1960s–70s?)" data-gallery="jockrow" }
+  <figcaption>A banner in the Old Wiess Commons supporting the Wiess jocks. Undated; commenters guess the 1960s or early 1970s. <small>Rice History Corner, 20 May 2016 [@rhc 2016-05-20 friday-follies-go-wiess-jocks]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:jockrow -->
 
 ## Variants & disputes
 

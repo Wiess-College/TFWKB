@@ -29,7 +29,41 @@ reviewed_by: unreviewed
 | 2006 | TFW gains a tag line: "Includes a little emphasis. Family, right?" [@oweek-2006 p.84] | [P] |
 | 2014 | The history opens with "Team 'Family' Wiess" [@oweek-2014 p.36]; the new college site's homepage is the "Team Wiess" blog with "TFW Facebook" and "TFW Twitter" links and a "Team Family Wiess" header [@wb 20141009085809 http://wiess.rice.edu/] | [P] |
 | 2015 | TFW: "An abbreviation of Team Family (or anything else that starts with F) Wiess." [@oweek-2015 p.119]; the chant itself is now "Our cheer—the embodiment of everything that makes Wiess cool" [@oweek-2015 p.119] | [P] |
+| 2017-09 | The TEAM / FAMILY / WIESS paper banners in the Commons, in stills from the O-Week videos on the college website [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png] | [P] |
 | 2017-11-10 | The 60th-anniversary programme plans "a group photo of sixty years of Team Wiess at 5:30 sharp" [@wiess-60th-faq-2017 p.1] | [P] |
+| by 2019-09 | "TEAM FAMILY WIESS" painted across the Commons windows, "Welcome" beside it [@wb 20190928044413 http://teamwiess.com/acapics/family.jpg] | [P] |
+| 2019 | Glossary: "**Team Wiess** Our cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for"; history: the cheer "made its debut at Beer Bike in 1975 when we celebrated our glorious win" (the "second win ever" of 2010 is gone) [@oweek-2019 p.15] [@oweek-2019 p.13] | [P] |
+| 2021 | The 2021 Head Fellows sign "Team Family Wiess, Your Head Fellows"; the thanks call the college "your (Team) Family (Wiess)" [@oweek-2021 p.2] [@oweek-2021 p.73] | [P] |
+| 2024 | Glossary: "Our **one and only** cheer"; the Head Fellows: "Team Family Wiess is our motto, and, at Wiess, we support and celebrate each other"; the President: "Our motto of 'Team Family Wiess' encapsulates our culture of care, inclusion, and respect" [@oweek-2024 p.25] [@oweek-2024 p.2] [@oweek-2024 p.36] | [P] |
+| 2025 | "Team Family Wiess is our motto that we live by"; the President: "our motto is Team Family Wiess (often abbreviated TFW)"; the neon "Team Family Wiess" sign in UpCo, a Proxy Cab prize [@oweek-2025 p.2] [@oweek-2025 p.37] [@oweek-2025 p.38] | [P] |
+| 2026-10-05 | The Historian on the banners on the Commons stairs and the "Family" banner's back [@testimony-mullen-2026-10-05b banners] | [T] |
+
+## The banners
+
+Paper banners reading TEAM, FAMILY and WIESS hang on the stairs from the Commons up to UpCo, the Upper Commons [@testimony-mullen-2026-10-05b banners]. The "Family" banner is the TFW wink made physical. Its back reportedly carried a less family-friendly F-word, and it was turned around only for Beer Bike [@testimony-mullen-2026-10-05b banners] [T]. That is the joke the glossaries have made in print since 2003: "Includes a little emphasis" (2003), "Family, right?" (2006), "Team Family (or anything else that starts with F) Wiess" (2015). In 1999 Ray Wagner declined to spell it out, "this being a family publication and all" [@oweek-2003 p.4] [@oweek-2006 p.84] [@oweek-2015 p.119] [@riceinfo-teamwiess]. The banners are in the Commons in stills from the 2017 O-Week videos, hung as a descending diagonal; the same words were painted on the Commons windows by 2019 [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png] [@wb 20190928044413 http://teamwiess.com/acapics/family.jpg]. "TFW" also gave its name to Wiess's Friday events, the [TFFWs](tffw.md), whose middle letters have never been settled either.
+
+### Photographs
+
+<!-- GALLERY:teamwiess -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![The TEAM / FAMILY / WIESS paper banners in the Commons, hung in a descending diagonal, behind an O-Week skit (video still, 2017).](../assets/photos/photos-people/teammerh.jpg){ loading=lazy data-title="The TEAM / FAMILY / WIESS paper banners in the Commons, hung in a descending diagonal, behind an O-Week skit (video still, 2017)." data-description="teamwiess.com, O-Week videos, 2017 · 2017" data-gallery="teamwiess" }
+  <figcaption>The TEAM / FAMILY / WIESS paper banners in the Commons, hung in a descending diagonal, behind an O-Week skit (video still, 2017). <small>teamwiess.com, O-Week videos, 2017 [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![TEAM FAMILY WIESS on the Commons windows.](../assets/photos/photos-outside/family-med.jpg){ loading=lazy data-title="TEAM FAMILY WIESS on the Commons windows." data-description="teamwiess.com, &#x27;acapics&#x27;, by 2019 · by 2019" data-gallery="teamwiess" }
+  <figcaption>TEAM FAMILY WIESS on the Commons windows. <small>teamwiess.com, &#x27;acapics&#x27;, by 2019 [@wb 20190928044413 http://teamwiess.com/acapics/family.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Jumping over the letters T F W, for the new students' pages.](../assets/photos/photos-people/daa.jpg){ loading=lazy data-title="Jumping over the letters T F W, for the new students&#x27; pages." data-description="teamwiess.com, new students, 2019 · by 2019" data-gallery="teamwiess" }
+  <figcaption>Jumping over the letters T F W, for the new students' pages. <small>teamwiess.com, new students, 2019 [@wb 20190802225456 http://teamwiess.com/newstudents/thumbnails/daa.jpg]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:teamwiess -->
 
 ## As the college described it
 
@@ -51,9 +85,12 @@ reviewed_by: unreviewed
 !!! quote "O-Week Book 2015—A History of Wiess"
     "The 'Team Wiess' cheer made its debut at Beer Bike in 1975 when we celebrated our glorious win." [@oweek-2015 p.11] And in the glossary: "TFW—An abbreviation of Team Family (or anything else that starts with F) Wiess." [@oweek-2015 p.119]
 
+!!! quote "O-Week Book 2024"
+    "Team Family Wiess is our motto, and, at Wiess, we support and celebrate each other." [@oweek-2024 p.2]—and the glossary: "**Team Wiess.** Our one and only cheer. It is one of our oldest traditions, and an embodiment of the spirit Wiess has always been known for." [@oweek-2024 p.25]
+
 ## Variants & disputes
 
-**When did it start?** Four answers are in the record, and they come from three kinds of source.
+**When did it start?** Four answers are in the record, and they come from three kinds of source. (The books of 2019–2025 keep the 1975 version, minus "second win ever": "made its debut at Beer Bike in 1975 when we celebrated our glorious win" [@oweek-2019 p.13] [@oweek-2025 p.25].)
 
 - **1974.** The O-Week book history written for the first class in New Wiess (2003) says "around the time of Beer-Bike in 1974" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)]; teamwiess.com (2005) and the books of 2006, 2007 and 2008 copy it [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] [@oweek-2008 part 3 p.3]. Nothing in the text says where the year came from.
 - **1975.** Between the 2008 and 2010 books the sentence was rewritten: "debut at Beer Bike 1975 when the team celebrated its second win ever with a chant of 'Wiess Team, Wiess Team!'", and "the TeamBank chain of banks" joined Xerox and *The Longest Yard* in the derivation [@oweek-2010 p.39]. This is the version the current college site carries [@wiess-rice-edu about/history]. By 2015 the "second win ever" detail had been softened to "when we celebrated our glorious win" [@oweek-2015 p.11]. Whoever rewrote it had a reason—a checked Beer Bike result, or an alumnus's memory—but the book does not say. A Beer Bike result is checkable in the Thresher of April 1975.
@@ -75,6 +112,7 @@ Our reading: the 1970s origin at Beer Bike is well supported by two independent 
 - The Thresher feature of 1 Feb 2002 is cited from the historian's notes; its Portal ark id and the exact wording of the 1984 claim still need to be added to the bibliography.
 - Kermit Lancaster's class year, and whether his Beer Bike shirts are dated—the sub-pages of his site were unreadable from the build environment.
 - The current college site's history page (wiess.rice.edu/about/history) is rendered in the browser and no text capture is in the corpus; its 1975 wording is cited here on the historian's reading. Someone with a browser should save it.
+- When the TEAM / FAMILY / WIESS banners were first made, and whether the "Family" banner's back is still there. The 2017 stills are the earliest images [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png].
 - No source yet for the chant's cadence or for when the slow three-fold "TEAM WIESS" that closes an Ubangee became fixed (first described in 2003).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

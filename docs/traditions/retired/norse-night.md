@@ -28,6 +28,19 @@ Norse Night was a whole Commons eating like Vikings: no utensils, food served st
 !!! quote "riceinfo site, 23 Jun 1999"
     "A few years back, somebody came up with the idea of having a Norse Night (although it may not have been the first; I can't say for sure). The idea is pretty much to have an entire *Commons* full of Viking tables. Generally, somebody sets a date for the feast, then puts up a signup sheet somewhere at Wiess. The best days to do it are on Fridays, 'cause there's no family-style and folks who don't wanna Vike (is that a verb?) will probably go out to eat anyway… You shouldn't [throw food], since the Court may still fine you, and besides that, you'll get to clean it all up." [@riceinfo-norse]
 
+## Photographs
+
+<!-- GALLERY:norse -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![The Campanile photograph on the 1999 Norse Night page: a Viking-table diner, napkin on head.](../../assets/photos/photos/norse1small.jpg){ loading=lazy data-title="The Campanile photograph on the 1999 Norse Night page: a Viking-table diner, napkin on head." data-description="riceinfo Wiess site, 1999 (a Campanile photograph) · before 1999" data-gallery="norse" }
+  <figcaption>The Campanile photograph on the 1999 Norse Night page: a Viking-table diner, napkin on head. <small>riceinfo Wiess site, 1999 (a Campanile photograph) [@riceinfo-norse]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:norse -->
+
 ## Variants & disputes
 
 - **Origin.** The 1999 writer himself hedges: "A few years back, somebody came up with the idea… (although it may not have been the first; I can't say for sure)" [@riceinfo-norse]. The 1991 night is the only one he dates, and he writes as if he were there ("we were told afterwards"), which would make him a student in 1991 and the page partly a memory.

@@ -28,6 +28,7 @@ The site's own consolation still applies: "some things you might remember fondly
 | Jock Row | before 1994—"one of Wiess' oldest… traditions" [@riceinfo-history] | already "defunct" in 1994 [@riceinfo-history] | [Jock Row](jock-row.md) |
 | The Dangle | 1997, as a thing of the past [@riceinfo-traditions-1997] | never attested as practice; remembered in every history 2003–2017 [@oweek-2017 p.12] | [The Dangle](the-dangle.md) |
 | Norse Night | "Norse Night '91" [@riceinfo-norse] | 1991 is the only dated one; "Dying Out" by 1999 [@riceinfo-traditions-1999] | [Norse Night](norse-night.md) |
+| Gazilchers | Hanszen's "artillery" shelling Wiess, mid-1960s [@rhc 2016-05-24 hanging-out-at-wiess comment by Barney L. McCoy (Hanszen '67), 26 May 2016] | Suppressed by the administration after property damage, by c.1991; "a rusticatable offense" in the early 2000s [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011] | [Gazilchers](gazilchers.md) |
 | Talleyboo | 1997, already "Dying Out" [@riceinfo-traditions-1997] | name only; no description, no date | [Talleyboo](talleyboo.md) |
 | No-Theme Wiess | 1997, "Dying Out" [@riceinfo-traditions-1997] | 1999, promoted to "Like To See Continue" [@riceinfo-traditions-1999]; nothing after | [No-Theme Wiess](no-theme-wiess.md) |
 | Unnecessary Tie Day | 1997 [@riceinfo-traditions-1997] | own page 1999; "Dying Out" the same year [@riceinfo-tieday] [@riceinfo-traditions-1999] | [Unnecessary Tie Day](unnecessary-tie-day.md) |

@@ -1,4 +1,4 @@
-# O-Week books and handbooks — the student-written record.
+# O-Week books and handbooks—the student-written record.
 # Every entry: key, title, type, date, url (permalink), local (path in the historian's corpus,
 # ~/projects/wiess-archive/), evidence (P/R/T), notes, gaps. Pages cite as [@key p.N].
 # Wayback URLs without "id_" open the archived PDF in the browser; "#page=N" is added by the hook when a page is cited.
@@ -17,7 +17,7 @@
   gaps: The printed 1994 book itself is being pulled; confirm what was copied verbatim and what was edited.
 
 - key: oweek-2003
-  title: Wiess O-Week Book 2003 (four section PDFs — intro, Wiess, college, conclusions)
+  title: Wiess O-Week Book 2003 (four section PDFs—intro, Wiess, college, conclusions)
   type: oweek-book
   format: pdf
   date: 2003

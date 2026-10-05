@@ -37,11 +37,15 @@ Night of Decadence—NOD—was Wiess's Halloween costume party, held in the Comm
 | 1999 | The Magisters' letter, the presidents' committee, the decoration ban, the first undecorated NOD ("The Wizard of NOD", 29 Oct 1999)—see [Controversy and response](#controversy-and-response-19982025) [@thresher-1999-02-05-masters-letter] [@thresher-1999-11-05-nod-report] | [P] |
 | 2010 | Theme "Viva NOD Vegas: Go All In" [@thresher-2023-10-50-years] | [R] |
 | 2012-10 | Eleven ambulance transports on NOD night [@thresher-2012-11-nod-transports] | [P] |
+| 2019 | O-Week book: "Rice public parties strive to be two things: safe and awesome. NOD is a party held on the weekend closest to Halloween each year"; attendance "around 1200 Rice students", security "around 200 students"; the glossary's "last Saturday of October"; the Social VPs "already gearing up for NOD by the time you read this" [@oweek-2019 p.33] [@oweek-2019 p.15] [@oweek-2019 p.25] | [P] |
+| 2021 | O-Week book: "NOD is Wiess' public party held on the weekend closest to Halloween each year", the same figures; the Commons hosts "NOD, Jazz Night, and even our Super Bowl watch party" [@oweek-2021 p.38] [@oweek-2021 p.35] | [P] |
 | 2023-10-29 | The fiftieth-anniversary NOD ("NODie Dreamhouse") shut down nearly two hours early by Rice crisis management; seven transported [@thresher-2023-11-01-shutdown] | [P] |
 | 2023-11-03 | Public parties cancelled through spring break; NOD "placed on probation" [@fox26-2023-11-03] | [P] |
 | 2024-06-05 | NOD permanently cancelled—see [End of NOD](#end-of-nod) [@thresher-2024-06-05-nod-canceled] | [P] |
+| 2024-08 | The 2024 O-Week book, for the class arriving two months after the cancellation, has no NOD: not in the glossary, the traditions or the Commons, which now hosts only "Most large events at Wiess"; the Socials committee is "responsible for planning our bi-weekly quad events called TFFWs… and for setting up Wiess' public" [@oweek-2024 p.25] [@oweek-2024 p.37] [@oweek-2024 p.11] [@oweek-2024 p.34] | [P] |
 | 2025-01-23 | The college site has a `/nod/` page (the capture is the site's JavaScript shell; its text is not in the corpus) [@wb 20250123193910 https://wiess.rice.edu/nod/] | [P] |
 | 2025-01-25 | Wiess's new public, "Masquerade After Dark" (MAD), outdoors and semi-formal [@thresher-2024-10-mad-announced] [@thresher-2025-01-mad-reviews] | [P] |
+| 2025-08 | The 2025 book repeats the 2024 text: "Wiess' public", unnamed—neither NOD nor MAD appears [@oweek-2025 p.35] [@oweek-2025 p.11] | [P] |
 | 2026-02-23 | The February 2026 Constitution does not name NOD; the Social Vice Presidents "plan and direct the social activities of the College including the public parties" [@constitution-2026] | [P] |
 
 ## Controversy and response, 1998–2025
@@ -85,6 +89,80 @@ NOD was argued about for as long as it was reported on, but the public record of
 
 On 5 June 2024 the Dean of Undergraduates, Bridget Gorman, and the Wiess Magister announced to the campus that NOD was cancelled permanently. Their message cited "a disturbing, reoccurring NOD phenomenon: large numbers of hospital transports due to excessive hard alcohol consumption", and said that "students rely on alcohol to mitigate their discomfort around attending this event". Gorman told the Thresher that "The conclusion that we should permanently cancel NOD was a recommendation made to me by the Wiess College magisters, and I support that decision." Wiess could hold a "radically different" public, but the theme, the dress code and the name were not to continue [@thresher-2024-06-05-nod-canceled]. Wiess students voted on a new theme from 25 June; "Masquerade After Dark" was announced at FITQ on 18 October 2024 and held outdoors, semi-formal, on 25 January 2025 [@thresher-2024-10-mad-announced] [@thresher-2025-01-mad-reviews]. The decision record is [NOD 2026](../decisions/nod-2026.md).
 
+## Themes, year by year
+
+A graphic headed "Themes through the decades", kept among the Historian's NOD images, lists a theme for every year from 1973–75 to 2011. Its origin is unknown. It names no source, and its newspaper-style layout (two columns along a timeline arrow) suggests a press graphic of about 2011–12. It is cited here as an image of unknown origin, with the theme names transcribed as printed. Every theme that can be checked against the Thresher, the Campanile or the college's own party pages agrees with it, which is good evidence for the rest.
+
+| Year | Theme, as printed on the graphic | Other sources |
+|---|---|---|
+| 1973–75 | Night of Decadence | Robinson signed himself organiser of the 1973 and 1974 parties [@thresher-1999-02-19-robinson] |
+| 1976 | Fall of Rome | Thresher: "Fall of Rome" in 1976, when "themes were added" [@thresher-2023-10-50-years] |
+| 1977 (printed "1997") | Wiess Palms Motel 6: Sanitized for your protection | Printed between 1976 and 1978; "1997" is evidently a misprint, since 1997 has its own entry. George Webb gives the tagline "Sanitized for your protection!" to the late-1980s "Motel Wiess" NOD instead [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012] |
+| 1978 | Animal House | — |
+| 1979 | 30th Anniversary of the Erection of Wiess | Thresher, undated [@portal metapth246631 p.4]; 1949 + 30 = 1979 |
+| 1980 | Halloween | — |
+| 1981 | Caligula | — |
+| 1982 | Armageddon | Thresher [@thresher-2023-10-50-years] |
+| 1983 | Co-eds in Chains (note: "Wiess goes co-ed") | Thresher, undated [@portal metapth246631 p.4] |
+| 1984 | Animal Farm | Thresher and Campanile [@portal metapth245573 p.27] [@campanile-1985] |
+| 1985 | The Final Chapter (note: "Next year drinking age jumps to 21") | — |
+| 1986 | Reserection [*sic*] | — |
+| 1987 | The Trojan War | — |
+| 1988 | Motel Wiess | "Motel Wiess", remembered for the same year as a Hanszen banner in the late 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012] |
+| 1989 | Die Hard: 40 Years and Still Erect | — |
+| 1990 | Dante's Inferno | Thresher, undated [@portal metapth246631 p.4] |
+| 1991 | Seuss is Loose | — |
+| 1992 | Garden of Delights | — |
+| 1993 | James Bondage | — |
+| 1994 | Lust In Space | Thresher [@portal metapth246631 p.4] |
+| 1995 | Scamtasia | — |
+| 1996 | Wei'Kutopo | — |
+| 1997 | The Greatest NOD On Earth | — |
+| 1998 | Silver Anniversary: NOD's Greatest Hits (note: "25th Anniversary") | Thresher [@thresher-1998-10-30-nod-security] |
+| 1999 | The Wizard of NOD | Thresher [@thresher-1999-10-29-nod-tonight] |
+| 2000 | Never Never NOD | — |
+| 2001 | A Space NODyssey | — |
+| 2002 | Cops and Robbers: A NOD to Authority | — |
+| 2003 | NODty or Nice - Santa's Coming | The 2004 party page's browser title, "NODdy Or Nice: Santa's Coming", is the previous year's theme left in the template [@wb 20041204030907 http://www.teamwiess.com/nod/] |
+| 2004 | NOD Bless America: Choose Your Position | The 2004 party page [@wb 20041204030907 http://www.teamwiess.com/nod/] |
+| 2005 | NODdy by Nature: A Walk on the Wild Side | The 2005 party site [@ricenod-site-2005] |
+| 2006 | NODical Adventure: A Salute to Seamen | — |
+| 2007 | A Night in NODdingham: Bring Your Stiffest Arrow | — |
+| 2008 | KryptoNOD: Horny Heroes and Villainous Vixen | — |
+| 2009 | The Wonderful World of NOD: Someday My Prince will Come | — |
+| 2010 | Viva NOD Vegas: Go All In | Thresher [@thresher-2023-10-50-years] |
+| 2011 | Harry NODer: Slytherin to her chamber of secrets | — |
+
+The graphic is reproduced in the gallery below. Themes after 2011 that the record has: "NODie Dreamhouse", the last NOD, in 2023 [@thresher-2023-10-sex-doll].
+
+## Photographs
+
+<!-- GALLERY:nod -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the Historian&#x27;s NOD images · c.2011–12" data-gallery="nod" }
+  <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the Historian&#x27;s NOD images</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left.](../assets/photos/nod/1985-3.jpg){ loading=lazy data-title="NOD &#x27;Animal Farm&#x27;, 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left." data-description="The Campanile 1985, p.283 · 1984-10-26" data-gallery="nod" }
+  <figcaption>NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left. <small>The Campanile 1985, p.283 [@campanile-1985]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · c.1983" data-gallery="nod" }
+  <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 1998" data-gallery="nod" }
+  <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:nod -->
+
 ## As the college described it
 
 !!! quote "1994 Freshman Handbook"
@@ -108,21 +186,27 @@ On 5 June 2024 the Dean of Undergraduates, Bridget Gorman, and the Wiess Magiste
 !!! quote "O-Week Book 2017"
     "NOD is a party held on the weekend closest to Halloween each year. Attendance is the highest of any public party (think in the ballpark of 1200 Rice students) and so is the security force (think in the ballpark of 200 students). … NOD is no longer quite as rambunctious, but you should still be excited for your first experience this October." [@oweek-2017 p.33]
 
+!!! quote "O-Week Books 2019 and 2021"
+    "Rice public parties strive to be two things: safe and awesome. NOD is Wiess' public party held on the weekend closest to Halloween each year. Attendance is the highest of any public party (around 1200 Rice students) and so is the security force (around 200 students). … NOD's success doesn't happen overnight. … Whether you want to attend, help decorate, or join the security force, NOD is a great way to make friends and memories (and earn service hours)." [@oweek-2021 p.38]—the 2019 text, with "a party" for "Wiess' public party" [@oweek-2019 p.33].
+
+!!! quote "O-Week Books 2024 and 2025"
+    "The socials committee is responsible for planning our bi-weekly quad events called TFFWs (Team Fun Friday Wiess) and for setting up Wiess' public." [@oweek-2024 p.34]—the whole of what the books after NOD say about the college's party.
+
 ## Variants & disputes
 
-**Which night?** The glossaries say "the last Friday of October" from 2003 through 2008 [@oweek-2003 p.4] [@oweek-2008 part 7 p.4], "the last Saturday of October" from 2010 through 2016 [@oweek-2010 p.91] [@oweek-2016 p.14], and "in October" in 2017 [@oweek-2017 p.15]. But the 2005 party was on a Saturday—"always held the weekend of Halloween (Saturday, October 29)" [@ricenod-site-2005]—while the 2006, 2007 and 2008 books were still printing "Friday". The glossary entry was copied forward from 2003 without being checked; the party's own site is the stronger witness for any given year. When the Friday-to-Saturday move happened is therefore between 2003 and 2005, not 2009–10 as the glossaries alone would suggest. The 1994 handbook's "traditionally at the end of October" and the 2015 book's "the weekend closest to Halloween" are the honest versions.
+**Which night?** The glossaries say "the last Friday of October" from 2003 through 2008 [@oweek-2003 p.4] [@oweek-2008 part 7 p.4], "the last Saturday of October" from 2010 through 2016 [@oweek-2010 p.91] [@oweek-2016 p.14], and "in October" in 2017 [@oweek-2017 p.15]; "the last Saturday of October" again in 2019 and 2021, in books whose traditions pages say "the weekend closest to Halloween" [@oweek-2019 p.15] [@oweek-2019 p.33] [@oweek-2021 p.19] [@oweek-2021 p.38]. But the 2005 party was on a Saturday—"always held the weekend of Halloween (Saturday, October 29)" [@ricenod-site-2005]—while the 2006, 2007 and 2008 books were still printing "Friday". The glossary entry was copied forward from 2003 without being checked; the party's own site is the stronger witness for any given year. When the Friday-to-Saturday move happened is therefore between 2003 and 2005, not 2009–10 as the glossaries alone would suggest. The 1994 handbook's "traditionally at the end of October" and the 2015 book's "the weekend closest to Halloween" are the honest versions.
 
 **When did it begin, and as what?** 1972 is given independently by the 2005 site's count ("34th year") and by Rice Magazine's witness, George Pharr '75 [@ricenod-site-2005] [@rice-magazine-2016-wiess-traditions]. The 2005 site also says NOD "originally began as a bring-your-own-mattress party called 'Rites of Spring'"—a spring party, which cannot be the same event as a Halloween party in 1972 without a change of season. Either Rites of Spring is a precursor whose name NOD inherited, or the two accounts describe different things. The 1994 handbook's "the first and still is the major all-school party" is a claim about rank among Rice parties, not a date [@handbook-1994]. No contemporary source for any 1970s NOD is in the corpus. The Thresher of 1998–99 counts differently: NOD 1998 was "in its 25th year" and "the 25th celebration" [@thresher-1998-10-30-nod-security] [@thresher-1998-10-30-editorial], which puts the first in 1974; NOD 1999 was "the 27th annual" [@thresher-1999-10-29-nod-tonight], which puts it in 1973; and Charlie Robinson (Wiess '75) signed himself "Organizer, Night of Decadence 1973, 1974" [@thresher-1999-02-19-robinson]. In 2023 the Thresher returned to 1972—"NOD started in 1972 when a group of Wiessmen poured all the alcohol they had on hand into a bathtub"—while calling the same year's party its fiftieth anniversary [@thresher-2023-10-50-years] [@thresher-2024-06-05-nod-canceled]. Annual counts are easily off by one or two; an organiser's own years are the strongest evidence here, and they suggest 1973 for the first party under the name, with the 1972 gathering Pharr remembers as its precursor. That is a reading, not a finding.
 
-**Playboy.** The claim appears in the 2003 book, the 2005 history and party site, the 2008 page and every book to 2017, never with a year or an issue [@oweek-2003 p.4] [@ricenod-site-2005] [@oweek-2017 p.33]. The 2005 site places it in the mid-1980s. It is the single most repeated unsourced claim about Wiess; someone should find the magazine.
+**Playboy.** The claim appears in the 2003 book, the 2005 history and party site, the 2008 page and every book to 2017, and in the books of 2019 and 2021—the last to mention NOD—as "once ranked on Playboy's Top 10 College Parties in America" [@oweek-2019 p.33] [@oweek-2021 p.38], never with a year or an issue [@oweek-2003 p.4] [@ricenod-site-2005] [@oweek-2017 p.33]. The 2005 site places it in the mid-1980s. It is the single most repeated unsourced claim about Wiess; someone should find the magazine.
 
 **Free or ticketed.** "Wiess parties are free" in 1998 [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html]; $8 advance and $10 at the door in 2005, with non-Rice guests admitted only on tickets bought by a Rice student [@ricenod-site-2005]; by 2016 "the only college-sponsored party … you have to pay money to go to" [@owlmanac-2016 p.56]. The 1998 Cabinet page's "free" does not hold for NOD itself: the Thresher reported $6 tickets that October, sold at lunch at every college, with every host showing a Rice ID; in 1999 Rice students paid $6 at the door [@thresher-1998-10-30-nod-security] [@thresher-1999-10-29-nod-tonight]. Before 1997 non-Rice guests were admitted and "just charged … extra" [@thresher-1998-10-30-nod-security]. The 2005 site's alcohol rules (no open containers, campus-sticker IDs for drinkers, no loitering on balconies) show the party being regulated into its modern form between 1998 and 2005.
 
 **The band and the punch.** A live band is part of the definition in 1994 and in every glossary through 2010 [@handbook-1994] [@oweek-2010 p.91]; it disappears from 2011 [@oweek-2011 p.93]. "The infamous NOD punch" is mentioned in 1994 and never again [@handbook-1994].
 
-**Attendance.** "Almost a thousand" in 2003 [@wb 20041204030907 http://www.teamwiess.com/nod/]; "upwards of 1400" (record-setting) in 2014 [@oweek-2014 p.44]; "in the ballpark of 1400" in 2015 and "1200" in 2017 [@oweek-2015 p.24] [@oweek-2017 p.33]. All are the organisers' round numbers.
+**Attendance.** "Almost a thousand" in 2003 [@wb 20041204030907 http://www.teamwiess.com/nod/]; "upwards of 1400" (record-setting) in 2014 [@oweek-2014 p.44]; "in the ballpark of 1400" in 2015 and "1200" in 2017 [@oweek-2015 p.24] [@oweek-2017 p.33]; "around 1200", with "around 200" security, in 2019 and 2021 [@oweek-2019 p.33] [@oweek-2021 p.38]. All are the organisers' round numbers.
 
-**Themes.** The record has few: "Animal Farm" (1984) [@portal metapth245573 p.27]; "NOD Bless America: Choose your Position" (2004) [@wb 20041204030907 http://www.teamwiess.com/nod/]; "NODDY BY NATURE—A Walk on the Wild Side" (2005) [@ricenod-site-2005]. The 2004 page's browser title reads "NODdy Or Nice: Santa's Coming", which may be the theme of another year left in the template. Rice Magazine's summary—"from 'classically apocalyptic' (Fall of Rome, Armageddon) to movie puns"—gives the arc without dates [@rice-magazine-2016-wiess-traditions]. Kermit Lancaster's 1970s NOD flyers would fill in the beginning [@lancaster-wiess-memorabilia]. The Thresher adds: "Fall of Rome" (1976, when "themes were added") and Armageddon (1982) [@thresher-2023-10-50-years]; "Lust in Space" (1994), with "Dante's Inferno", "Co-eds in Chains" and "The 30th Anniversary of the Erection of Wiess" undated [@portal metapth246631 p.4]; "Silver Anniversary—NOD's Greatest Hits" (1998) [@thresher-1998-10-30-nod-security]; "The Wizard of NOD" (1999) [@thresher-1999-10-29-nod-tonight]; "Viva NOD Vegas: Go All In" (2010) [@thresher-2023-10-50-years]; and "NODie Dreamhouse", a Barbie theme, for the last NOD in 2023 [@thresher-2023-10-sex-doll].
+**Themes.** The "Themes through the decades" graphic (above) gives one for every year from 1973–75 to 2011, and agrees with every theme that other sources date: "Fall of Rome" (1976) and Armageddon (1982) [@thresher-2023-10-50-years]; "Animal Farm" (1984) [@portal metapth245573 p.27]; "Lust in Space" (1994) [@portal metapth246631 p.4]; "Silver Anniversary—NOD's Greatest Hits" (1998) [@thresher-1998-10-30-nod-security]; "The Wizard of NOD" (1999) [@thresher-1999-10-29-nod-tonight]; "NOD Bless America: Choose your Position" (2004) [@wb 20041204030907 http://www.teamwiess.com/nod/]; "NODDY BY NATURE—A Walk on the Wild Side" (2005) [@ricenod-site-2005]; "Viva NOD Vegas: Go All In" (2010) [@thresher-2023-10-50-years]. It also dates the themes the Thresher left undated: "The 30th Anniversary of the Erection of Wiess" (1979), "Co-eds in Chains" (1983) and "Dante's Inferno" (1990) [@portal metapth246631 p.4]. It settles two puzzles. The 2004 page's browser title, "NODdy Or Nice: Santa's Coming", is the 2003 theme left in the template. "Motel Wiess", which George Webb remembered as the NOD theme of the year Hanszen towed a "Motel Wiess" banner over a football game "in the late 80s", is 1988 [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]. The graphic's own slip, "1997" for the Wiess Palms Motel 6 party printed between 1976 and 1978, is evidently 1977. With 1988 that makes two motel themes, and the tagline "Sanitized for your protection!" belongs to the 1977 party on the graphic but to the 1988 one in Webb's memory. One of them has merged the two. Rice Magazine's summary, "from 'classically apocalyptic' (Fall of Rome, Armageddon) to movie puns", fits the list [@rice-magazine-2016-wiess-traditions]. "NODie Dreamhouse", a Barbie theme, was the last NOD in 2023 [@thresher-2023-10-sex-doll]. Kermit Lancaster's 1970s NOD flyers would test the beginning of the list [@lancaster-wiess-memorabilia].
 
 **Did students run publics independently until NOD 1998?** A Wiess Magister's talk after NOD 2023 says "Students ran publics independently until… NOD 1998", in a slide on a 2024 op-ed that argued for giving publics back to students [@nod-talk-magister] [@thresher-2024-01-30-horton]. What the Thresher shows is consistent with that, with a qualification. Through NOD 1998 every safety rule the record mentions was the students' own—closing the party to unaccompanied outsiders in 1997, the security force, the escort carts, the end of the NOD punch—and the Wiess Magister said in 1999 that these "were not made because the administration told them to, but because Wiess students wanted them" [@thresher-1998-10-30-nod-security] [@thresher-1999-09-24-decorations]. The first documented intervention is the Magisters' letter of January 1999; the first documented administrative control is September 1999, when Wiess submitted its NOD plan to the Vice President for Student Affairs, who "can ask for changes to the plan", and he ordered the decorations removed [@thresher-1999-09-17-nod-plans] [@thresher-1999-09-24-decorations]. The same spring the university abolished the student monitors who policed parties for it, and asked the colleges' Chief Justices to register kegs at private parties [@thresher-1999-04-23-alcohol-policy]—a change in who did the policing rather than an end to student management. The sources speak of NOD, not of publics in general. The talk's statement is best read as "the last NOD planned without university sign-off was 1998". Whether NOD was ticketed is a separate question from whether students ran it: it was ticketed in 1998, under student management [@thresher-1998-10-30-nod-security], and nothing in the record connects the two.
 
@@ -142,7 +226,7 @@ On 5 June 2024 the Dean of Undergraduates, Bridget Gorman, and the Wiess Magiste
 - Was the confidential survey on NOD and harassment that the Magisters and presidents planned in 1999 ever run? It was "put on hold" in May 1999 [@thresher-1999-05-25-board].
 - The Houston Press article "NOD So Naughty" by Wendy Grossman (October 1999) [@portal metapth246659 p.7].
 - The Playboy list: year, issue, page. No source gives one.
-- The teamwiess.com NOD pages of 2006–2008 are mostly the 2005 site unchanged; the themes of 2006, 2007 and 2008 are not in the corpus. The teamwiess.com homepage captures for those Octobers have no NOD text either.
+- The teamwiess.com NOD pages of 2006–2008 are mostly the 2005 site unchanged, and the homepage captures for those Octobers have no NOD text; the themes of 2006–2008 are known only from the "Themes through the decades" graphic. Where that graphic was published, and the themes of 2012–2022, are open.
 - When did the live band stop? Between the 2010 and 2011 glossaries, if the glossaries were current; the party's own announcements would say.
 - wiess.rice.edu/nod/ (January 2025) is a JavaScript shell in the capture; what it said is unknown.
 - Sparky's game room: the 1994 handbook says the basement game room was named for him [@handbook-1994]; the 2010–17 glossaries give "Sparky's" as a fourth-floor hangout room in New Wiess [@oweek-2010 p.91]. The name moved buildings; no source says when or whether the freshmen of 2010 knew why.

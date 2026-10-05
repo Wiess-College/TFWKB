@@ -30,6 +30,9 @@ The Acabowl is the Wiess courtyard—"Equivalent areas are termed 'quads' in oth
 | 2015 | "The exterior hallways that were (and are) the pulse of the college still remain, but since moving to New Wiess, we've also added the Acaglider, the Acagrills and, most recently, the Acahammock" [@oweek-2015 p.10] | [R] |
 | 2016-05-25 | An alumnus of the 1970s on the new building: "there is a large quad in the center for outdoor activities. I believe they even call it the Acabowl" [@rhc 2016-05-24 hanging-out-at-wiess comment by Krammit, 25 May 2016] | [T] |
 | 2017-11 | 60th anniversary events "in the Wiess Commons and Wiess Acabowl" [@wiess-60th-faq-2017 p.4] | [P] |
+| 2019 | Glossary: "**Acabowl** The Wiess courtyard/quad. People commonly hang out, play frisbee or football, and study here, especially on nice days"; "**Acagliders** The two giant, covered, swinging picnic tables of glory"; "**Acagrills**"; "**Acatramp** The trampoline located in the Acabowl" (its last appearance); history: "the Acagliders, the Acagrills, and, most recently, the Acahammock" [@oweek-2019 p.14] [@oweek-2019 p.13] | [P] |
+| 2021 | Acatramp gone from the glossary; the history drops the Acahammock ("the Acagliders and the Acagrills"); Proxy Cab's "mattress jousting… with pool noodles on air mattresses in the Acabowl" [@oweek-2021 p.18] [@oweek-2021 p.17] [@oweek-2021 p.37] | [P] |
+| 2024–2025 | No Acabowl entry in the glossary, the first book since 1994 without one; the courtyard survives in the history ("an enormous courtyard, still called the Acabowl after the old main courtyard") and in TFFW, College Night and the RAs' grandchildren who "like to run around in the Acabowl" [@oweek-2024 p.25] [@oweek-2024 p.24] [@oweek-2024 p.30] | [P] |
 
 ## As the college described it
 
@@ -53,12 +56,35 @@ The Acabowl is the Wiess courtyard—"Equivalent areas are termed 'quads' in oth
 
 The full run of Aca- entries, year by year, is in [How we described ourselves, by year](../traditions/glossary-series.md).
 
+## Photographs
+
+<!-- GALLERY:acabowl -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.](../assets/photos/photos-outside/wiess-four-square-1991.jpg){ loading=lazy data-title="Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind." data-description="Historian&#x27;s photo collection; source not recorded · 1991" data-gallery="acabowl" }
+  <figcaption>Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind. <small>Historian&#x27;s photo collection; source not recorded [@handbook-1994]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The New Wiess Acabowl: lawn, a picnic table and the ivy-hung wing.](../assets/photos/photos-outside/acabowl-2017.jpg){ loading=lazy data-title="The New Wiess Acabowl: lawn, a picnic table and the ivy-hung wing." data-description="teamwiess.com, &#x27;New students: rooms&#x27;, 2017 · by 2017" data-gallery="acabowl" }
+  <figcaption>The New Wiess Acabowl: lawn, a picnic table and the ivy-hung wing. <small>teamwiess.com, &#x27;New students: rooms&#x27;, 2017 [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="acabowl" }
+  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>Historian&#x27;s photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:acabowl -->
+
 ## Variants & disputes
 
 - **The etymology.** "Academic Bowl" is the only origin story in the corpus, and the 1994 handbook itself hedges it ("reportedly") [@handbook-1994]. The 2003 O-Week book says Dr. Bill "will have the answer" to "where the name 'acabowl' came from" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]—his answer was never written down in anything we hold. The word is at least as old as the 1972 handbook [@handbook-1972].
-- **Backabowl or Bacabowl.** The 1994 glossary spells it Backabowl [@handbook-1994]; the 1999 photo page is headed "The Bacabowl Ledge" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. In the new building the back terrace is "Backaterrace" in 2003 [@oweek-2003 p.3], "Acaterrace" from 2006 [@oweek-2006 p.83], and "Bacaterrace" (the fourth-floor balcony) from 2014 [@oweek-2014 p.102].
+- **Backabowl or Bacabowl.** The 1994 glossary spells it Backabowl [@handbook-1994]; the 1999 photo page is headed "The Bacabowl Ledge" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. In the new building the back terrace is "Backaterrace" in 2003 [@oweek-2003 p.3], "Acaterrace" from 2006 [@oweek-2006 p.83], and "Bacaterrace" (the fourth-floor balcony) from 2014 [@oweek-2014 p.102]. In 2026 usage the fourth-floor balcony is "Toke", the Acaterrace a small terrace by UpCo, and "Bacaterrace" Hanszen's name for the servery roof [@testimony-mullen-2026-10-05b terraces]. The names are sorted out year by year, with what the Bacabowl is now, on [The terraces and the Bacabowl](terraces.md).
 - **What was played there.** Four-square (1994, 1997, 1999); soccer (2003–2014); frisbee or football (2015–17) [@handbook-1994] [@oweek-2003 p.3] [@oweek-2015 p.118]. The 1994 glossarist admits never having seen four-square played; the 1997 and 1999 webmasters still listed it as a tradition worth keeping [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
-- **The Acahammock.** In the glossary from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90], absent in 2011 and 2014, then "most recently, the Acahammock" in the 2015 history [@oweek-2015 p.10]—a replacement, not a first.
+- **The Acahammock.** In the glossary from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90], absent in 2011 and 2014, then "most recently, the Acahammock" in the 2015 history [@oweek-2015 p.10] and still in 2019, dropped in 2021 [@oweek-2019 p.13] [@oweek-2021 p.17]—a replacement, not a first.
 - **Trampoline colours.** "Purple and black" in 1994 [@handbook-1994]; no later source gives a colour.
 
 ## Open questions

@@ -1,10 +1,10 @@
 # Sources added by writer traditions-2 (Battle Sows, Summit, FilmFest, JamFest, Wiess Day,
-# College Night, Fort Wiess, DOME & Big Bang, Baker 13 Defense Force, the Hanszen rivalry and the
+# College Night, Fort Wiess, Big Bang, Baker 13 Defense Force, the Hanszen rivalry and the
 # retired traditions). Same fields as the other files. Specific captures are cited inline with
 # [@wb <timestamp> <url>]; these entries name the page or issue as a whole.
 
 - key: thresher-1983-09-30
-  title: "Rice Thresher, 30 Sep 1983, p.15 — 'Battle Sows' in the women's intramural standings"
+  title: "Rice Thresher, 30 Sep 1983, p.15—'Battle Sows' in the women's intramural standings"
   type: newspaper
   date: 1983-09-30
   url: https://texashistory.unt.edu/ark:/67531/metapth245539/m1/15/
@@ -16,7 +16,7 @@
     [@portal metapth245539 p.15].
 
 - key: thresher-1983-10-07
-  title: "Rice Thresher, 7 Oct 1983, p.20 — 'Battle Sows' again in the intramural standings"
+  title: "Rice Thresher, 7 Oct 1983, p.20—'Battle Sows' again in the intramural standings"
   type: newspaper
   date: 1983-10-07
   url: https://texashistory.unt.edu/explore/collections/TRT/
@@ -24,7 +24,7 @@
   notes: Second print trace. Ark id to be added (the issue after metapth245539).
 
 - key: thresher-2001-04-06
-  title: "Rice Thresher, 6 Apr 2001, p.29 — Beer Bike 2001: 'Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon'"
+  title: "Rice Thresher, 6 Apr 2001, p.29—Beer Bike 2001: 'Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon'"
   type: newspaper
   date: 2001-04-06
   url: https://texashistory.unt.edu/explore/collections/TRT/
@@ -32,7 +32,7 @@
   notes: The parade season in which Wiess's wooden build was a fort, not a pig. Ark id to be added.
 
 - key: thresher-2002-04-05
-  title: "Rice Thresher, 5 Apr 2002, pp.6 and 27 — Beer Bike 2002 photographs: 'Team Wiess's battle sow flying high in the sky' over the Wiess fort"
+  title: "Rice Thresher, 5 Apr 2002, pp.6 and 27—Beer Bike 2002 photographs: 'Team Wiess's battle sow flying high in the sky' over the Wiess fort"
   type: newspaper
   date: 2002-04-05
   url: https://texashistory.unt.edu/explore/collections/TRT/
@@ -51,7 +51,7 @@
   notes: Earliest attestation of Summit as a Wiess event; the same sentence recurs in the Oct 1999, Dec 2000 and Feb 2001 captures with new officers' names.
 
 - key: teamwiess-jamfest-site
-  title: "Jamfest sub-site, teamwiess.com/Jamfest/ (main, bands, playlist, news) — the 2005 edition as captured Feb 2007 and the 2007 edition as captured Jul 2007"
+  title: "Jamfest sub-site, teamwiess.com/Jamfest/ (main, bands, playlist, news)—the 2005 edition as captured Feb 2007 and the 2007 edition as captured Jul 2007"
   type: website
   date: 2005–2007
   url: https://web.archive.org/web/20070206202205/http://www.teamwiess.com:80/Jamfest/main.htm
@@ -60,11 +60,11 @@
   notes: >
     Feb 2007 captures still show Jamfest 2005 ("Friday April 15th, 2005", 4:00pm–2:00am, The Junior Varsity
     headlining, fourteen acts on two stages); Jul 2007 captures show Jamfest 2007 ("Friday April 14th, 2007"
-    — a Saturday — 2:00pm–2:00am, General Noise headlining, ten acts). The 2007 static site's jamfest.html
+    —a Saturday—2:00pm–2:00am, General Noise headlining, ten acts). The 2007 static site's jamfest.html
     links to it as "an older Jamfest site".
 
 - key: teamwiess-lastnotes-2008
-  title: "'Last Cabinet Notes' — O-Week Themed Cabinet, 28 Aug 2008, teamwiess.com (index.php?r=lastnotes)"
+  title: "'Last Cabinet Notes'—O-Week Themed Cabinet, 28 Aug 2008, teamwiess.com (index.php?r=lastnotes)"
   type: website
   date: 2008-08-28
   url: https://web.archive.org/web/20080903215453/http://teamwiess.com/index.php?r=lastnotes
@@ -90,7 +90,7 @@
     No traditions page survives from the 2016–17 site.
 
 - key: rhc-2015-01-23-wiess-crack
-  title: "Rice History Corner, 'Friday Follies: Wiess Crack' (23 Jan 2015) — a 1968 cover of the Wiess Crack"
+  title: "Rice History Corner, 'Friday Follies: Wiess Crack' (23 Jan 2015)—a 1968 cover of the Wiess Crack"
   type: blog
   date: 2015-01-23
   url: https://ricehistorycorner.com/2015/01/23/friday-follies-wiess-crack/
@@ -102,7 +102,7 @@
     to beanies, NOD and Hello, Hamlet; none describes the Crack itself.
 
 - key: rhc-2021-11-15-secession-1992
-  title: "Rice History Corner, 'Secession, 1992' (15 Nov 2021) — documents from Bill Wilson's papers labelled Wiess–Hanszen 1992"
+  title: "Rice History Corner, 'Secession, 1992' (15 Nov 2021)—documents from Bill Wilson's papers labelled Wiess–Hanszen 1992"
   type: blog
   date: 2021-11-15
   url: https://ricehistorycorner.com/2021/11/15/secession-1992/

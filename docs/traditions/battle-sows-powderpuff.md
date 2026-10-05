@@ -36,8 +36,11 @@ The Battle Sows are Wiess's women's flag-football team in the Rice intramural le
 | 2010 | "Past champions, Wiess hasn't made it to the finals lately; however, they did beat their biggest on field foe, Sid Richardson College!" [@oweek-2010 p.42] | [P] |
 | 2014 | "Wiess has won the championship more than any other college, and while we haven't made the playoffs recently, we're a few steps away from winning another!" [@oweek-2014 p.41] | [R] |
 | 2015 | "Powderpuff" enters the Rice-speak glossary: "Women's college flag football… Played during the fall semester" [@oweek-2015 p.122] | [P] |
+| 2019 | "While you may not have dreamed of growing up to be a Battlesow, you may find that playing on the Wiess women's flag football team is the lifelong dream you never knew you had… sport your goldenrod t-shirts (or even better, your Battlesows jersey)"; glossary "Affectionate name for the Wiess powderpuff (football) team" [@oweek-2019 p.31] [@oweek-2019 p.14] | [P] |
+| 2021 | "Wiess has won the championship more than any other college and we have the potential to add to that total this year" (the 2014 "haven't made the playoffs recently" gone) [@oweek-2021 p.36] | [R] |
 | 2023-12 | `powderpuff2023.jpeg` published on the current site's home page [@wb 20231202004310 https://wiess.rice.edu/images/home/powderpuff2023.jpeg] [@wiess-rice-edu asset-manifest.json] | [P] |
 | current | Hanszen's traditions page: "since Wiess's mascot is the pig, each year when we play Wiess at Powderpuff, we devour a full roasted pig and bacon on the sidelines" [@hanszen-traditions] (read live 2026-10-04; no copy in the corpus) | [R] |
+| 2024–2025 | Powderpuff folded into a new "Intramural (IM) Sports" tradition—"'Champions,' 'Legendary,' 'Undefeatable,' 'Way sexier than all the other colleges'"—with the 2021 championship sentence; Sparky's is a place to "watch some powderpuff"; a 2025 Head Fellow is a "Powderpuff Blocker" [@oweek-2024 p.37] [@oweek-2025 p.38] [@oweek-2024 p.11] [@oweek-2025 p.44] | [P] |
 
 ## As the college described it
 
@@ -61,10 +64,38 @@ The Battle Sows are Wiess's women's flag-football team in the Rice intramural le
 
 The glossary entry itself hardly moved: "Affectionate name for the back-to-back defending champion Wiess powderpuff football team" from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90]—the "back-to-back" surviving eight years after the titles it referred to—then simply "Affectionate name for the Wiess powderpuff football team" from 2011 to 2017 [@oweek-2011 p.92] [@oweek-2017 p.14].
 
+## Photographs
+
+<!-- GALLERY:powderpuff -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![The Wiess powderpuff team at night, in black jerseys.](../assets/photos/photos/powderpuff-low.jpg){ loading=lazy data-title="The Wiess powderpuff team at night, in black jerseys." data-description="teamwiess.com, by January 2023 · by 2023" data-gallery="powderpuff" }
+  <figcaption>The Wiess powderpuff team at night, in black jerseys. <small>teamwiess.com, by January 2023 [@wb 20230114010452 http://teamwiess.com/images/powderpuff-low.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The Battle Sows, 1999 Powder Puff champions.](../assets/photos/riceinfo-1997-2002/sows-dasows.jpg){ loading=lazy data-title="The Battle Sows, 1999 Powder Puff champions." data-description="First Wiess website, Battle Sows page, 1999 · 1999" data-gallery="powderpuff" }
+  <figcaption>The Battle Sows, 1999 Powder Puff champions. <small>First Wiess website, Battle Sows page, 1999 [@riceinfo-battlesows]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The Sows' huddle, 1999.](../assets/photos/riceinfo-1997-2002/sows-huddle.jpg){ loading=lazy data-title="The Sows&#x27; huddle, 1999." data-description="First Wiess website, Battle Sows page, 1999 · 1999" data-gallery="powderpuff" }
+  <figcaption>The Sows' huddle, 1999. <small>First Wiess website, Battle Sows page, 1999 [@riceinfo-battlesows]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Battle Sows, 1999: "What time is it?"](../assets/photos/riceinfo-1997-2002/sows-whattime.jpg){ loading=lazy data-title="Battle Sows, 1999: &quot;What time is it?&quot;" data-description="First Wiess website, Battle Sows page, 1999 · 1999" data-gallery="powderpuff" }
+  <figcaption>Battle Sows, 1999: "What time is it?" <small>First Wiess website, Battle Sows page, 1999 [@riceinfo-battlesows]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:powderpuff -->
+
 ## Variants & disputes
 
 - **How many championships.** The record gives titles in 1995 and 1998 [@campanile-1999 p.239], 1999 [@riceinfo-battlesows], and 2001 and 2002 ("back-to-back defending champions" in a book written in summer 2003) [@oweek-2003 35-44 wiess.pdf p.7]—five between 1995 and 2002. The 2006 book then says "four times" in "the past six years" [@oweek-2006 p.41], and the 2007 and 2008 books "eight times" in "the past 15 years" [@oweek-2007 p.41] [@oweek-2008 part 3 p.6]. The two counts use different windows and were written by different coordinators a year apart; neither can be checked against a season-by-season list, which we do not have. From 2010 the books stop counting ("Past champions… hasn't made it to the finals lately") [@oweek-2010 p.42] and from 2014 claim only "more than any other college" [@oweek-2014 p.41]. Treat every number as the college's own tally, not a league record.
-- **One word or two.** "Battle Sows" in 1983, 1984, 1994 and 1999 [@portal metapth245539 p.15] [@campanile-1984 p.371] [@handbook-1994] [@riceinfo-battlesows]; "Battlesows" in every O-Week glossary from 2003 [@oweek-2003 p.3] and in the 2007 book's officer blurbs ("the Wiess Battlesows", "the Battlesow Powderpuff team") [@oweek-2007 p.19]. The 2009 book has "Battle Sows" again [@oweek-2009 part 2 p.19]. Both spellings are the college's.
+- **One word or two.** "Battlesows" in every book 2019–2025 [@oweek-2019 p.14] [@oweek-2025 p.26]. "Battle Sows" in 1983, 1984, 1994 and 1999 [@portal metapth245539 p.15] [@campanile-1984 p.371] [@handbook-1994] [@riceinfo-battlesows]; "Battlesows" in every O-Week glossary from 2003 [@oweek-2003 p.3] and in the 2007 book's officer blurbs ("the Wiess Battlesows", "the Battlesow Powderpuff team") [@oweek-2007 p.19]. The 2009 book has "Battle Sows" again [@oweek-2009 part 2 p.19]. Both spellings are the college's.
 - **Whose name it is.** The 1994 glossary gives it to the Powder-Puff team "and most other women's college sports teams" [@handbook-1994]; Zweig says he proposed it for "the women's sports teams" generally [@maxham-pig-document]. Every book from 2003 attaches it to the powderpuff team alone.
 - **The sow that flies.** "Battle Sow" was also used for the pig balloon—"Pre-flight for the Battle Sow" (1987) [@campanile-1987 p.320] and "Team Wiess's battle sow flying high in the sky" (2002) [@thresher-2002-04-05 p.6]—while the college's own glossary called it the War Pig throughout [@handbook-1994]. The two names belong to the same identity, coined in the same year; see [The War Pig](warpig.md).
 - **Date of the schedule page.** The brief for this page placed the teamwiess.com Powderpuff schedule in 2005; the only captures in the corpus are 22 Oct and 7 Dec 2004 and the page is headed "Full Rice Powderpuff Schedule 2004" [@wb 20041207030444 http://www.teamwiess.com/view.php?Page=ppuff.php].

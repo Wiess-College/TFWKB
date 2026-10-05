@@ -23,12 +23,12 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - run: pip install mkdocs-material pyyaml
+      - run: pip install -r requirements.txt
       - name: Regenerate derived pages
         run: |
           python3 tools/build_glossary_series.py
           python3 tools/import_governance_changes.py || true
-      - name: Build (strict — an unknown citation key fails here)
+      - name: Build (strict—an unknown citation key fails here)
         run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v7
         with:

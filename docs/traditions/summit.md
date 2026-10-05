@@ -26,7 +26,10 @@ Summit is the college's early-fall retreat: Wiessmen leave campus for a day or a
 | 2015 | "a day-long retreat at the beach (or on a boat depending on what era of Wiess history we're in)" [@oweek-2015 p.23]; the same book's glossary says "Weekend retreat during the fall semester" [@oweek-2015 p.119] | [P] |
 | c.2015–2017 | Wiess Associates site, "Wiess Traditions": "Summit: In early fall, every Wiessman is invited to Summit, a day-long retreat at the beach (or on a boat depending on what era of Wiess history we're in) to discuss issues at the college and devise plans for the year." [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/] | [P] |
 | 2017 | Internal VP "coordinating Summit, Wiess Shark Tank, Pumpkin Caroling, and Big Bang, whatever that is" [@oweek-2017 p.25] | [P] |
+| 2019 | Glossary: "Weekend retreat to a body of water (pool/beach/lake/etc.) during the fall semester to discuss Wiess issues and bond with other Wiessmen"; traditions keep the 2015 "day-long retreat at the beach (or on a boat…)"; the Internal VP is "coordinating Summit and Pumpkin Caroling" [@oweek-2019 p.15] [@oweek-2019 p.32] [@oweek-2019 p.25] | [P] |
+| 2021 | Glossary: "The weekend retreat to Galveston during the fall semester to bond with other Wiessmen"—the first book to name the place, and the first glossary without "discuss Wiess issues"; Internal VP "coordinating the traditions of Summit and Pumpkin Caroling" [@oweek-2021 p.19] [@oweek-2021 p.28] | [P] |
 | 2023-12 | `summit2023.jpeg` on the current site's home page [@wb 20231202011316 https://wiess.rice.edu/images/home/summit2023.jpeg] [@wiess-rice-edu asset-manifest.json] | [P] |
+| 2024–2025 | Glossary unchanged ("to Galveston"); traditions text unchanged since 2015, "a day-long retreat at the beach (or on a boat depending on what era of Wiess history we are in)" [@oweek-2024 p.25] [@oweek-2024 p.38] [@oweek-2025 p.26] [@oweek-2025 p.39] | [P] |
 | 2026-02-23 | Constitution: the Internal Vice President shall "Plan Wiess College Summit and Big Bang" [@constitution-2026 p.6] | [P] |
 
 ## As the college described it
@@ -45,9 +48,25 @@ Summit is the college's early-fall retreat: Wiessmen leave campus for a day or a
 
 The glossary line: "Weekend retreat to discuss Wiess issues and bond far away from campus" 2003–2011 [@oweek-2003 p.4] [@oweek-2011 p.93]; "…and bond on a boat" 2014 [@oweek-2014 p.103]; "Weekend retreat during the fall semester to discuss Wiess issues and bond with other Wiessmen" 2015–2017 [@oweek-2015 p.119] [@oweek-2017 p.15].
 
+!!! quote "O-Week Book 2021—glossary"
+    "**Summit** The weekend retreat to Galveston during the fall semester to bond with other Wiessmen." [@oweek-2021 p.19]—repeated in 2024 and 2025 [@oweek-2025 p.26].
+
+## Photographs
+
+<!-- GALLERY:summit -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="Historian&#x27;s photo collection; source not recorded · 2024" data-gallery="summit" }
+  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:summit -->
+
 ## Variants & disputes
 
-- **A weekend or a day.** The 2015–2017 books call Summit "a day-long retreat" in the traditions section and "Weekend retreat" in the glossary of the same book [@oweek-2015 p.23] [@oweek-2015 p.119]. The 2008 minutes fix it to a Saturday [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes]. The glossary line was inherited from 2003 and probably never re-read; the traditions paragraph was rewritten in 2015 and is the better guide to practice.
+- **A weekend or a day.** The disagreement inside each book runs to 2025: "Weekend retreat" in every glossary, "a day-long retreat" in every traditions section [@oweek-2019 p.15] [@oweek-2019 p.32] [@oweek-2025 p.26] [@oweek-2025 p.39]. The 2015–2017 books call Summit "a day-long retreat" in the traditions section and "Weekend retreat" in the glossary of the same book [@oweek-2015 p.23] [@oweek-2015 p.119]. The 2008 minutes fix it to a Saturday [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes]. The glossary line was inherited from 2003 and probably never re-read; the traditions paragraph was rewritten in 2015 and is the better guide to practice.
 - **When the boat began.** The books first mention it in 2011 [@oweek-2011 p.45], but the Cabinet of 28 Aug 2008 already speaks of "the boat club like last year", which puts a boat in fall 2007 [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes]. The 2008 and 2010 books kept copying the 2003 paragraph ("beach or… Hill Country") [@oweek-2008 part 3 p.8] [@oweek-2010 p.44]. The minutes are contemporary and specific; the books lag.
 - **First attestation.** The traditions index on this site dates Summit to 2003 (the oldest glossary); the riceinfo Cabinet page of February 1999 is four years earlier [@riceinfo-cabinet]. Nothing yet says when the first Summit was held.
 
@@ -55,7 +74,7 @@ The glossary line: "Weekend retreat to discuss Wiess issues and bond far away fr
 
 - When Summit began, and whether it was always the Internal Vice President's job. The riceinfo Cabinet minutes of 1999 and the Woodson Cabinet records [@woodson-ua0079] are the places to look.
 - Which boat and which beach: the 2008 minutes name only "the boat club" and "Treasure Island" as a suggested alternative [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes].
-- Whether Summit is still a boat trip in 2026. The `summit2023` photograph has not been looked at [@wiess-rice-edu asset-manifest.json].
+- Whether Summit is still a boat trip in 2026. The glossaries of 2021–2025 say Galveston [@oweek-2021 p.19] [@oweek-2025 p.26], which fits a beach or a boat; the traditions text was not rewritten. The `summit2023` photograph has not been looked at [@wiess-rice-edu asset-manifest.json].
 - The Wiess Associates traditions page is quoted from the historian's archive index; the archived page itself is queued for the corpus and its text should be checked against the quotation above [@wiessassociates-site].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

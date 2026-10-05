@@ -10,10 +10,10 @@
   local: wiess-governance/
   evidence: P
   notes: >
-    One tagged commit per ratified version — rules-1991, v1993-08-05, v2007-02-06, bylaws-2010,
-    rules-2012, housing-2013, v2013-02-08, v2016-01-26, v2017-03-29, v2026-02-23 — text reflowed one
+    One tagged commit per ratified version—rules-1991, v1993-08-05, v2007-02-06, bylaws-2010,
+    rules-2012, housing-2013, v2013-02-08, v2016-01-26, v2017-03-29, v2020-02-12, v2025-spring (undated; date estimated), v2026-02-23—text reflowed one
     paragraph per line so `git diff --word-diff` shows substance. CHANGES.md narrates the differences.
-  gaps: Constitutions 1957–1993; anything between 1993 and 2007, and 2017 and 2026 (including the fall-2021 hate-speech amendment text); bylaws 2016–2026.
+  gaps: Constitutions 1957–1993; anything between 1993 and 2007; the individual amendments of 2017–20; anything between February 2020 and early 2025 (including the fall-2021 hate-speech amendment text); bylaws 2016–2020.
 
 - key: rules-1991
   title: Rules of Wiess College, as amended 23 September / 1 October 1991
@@ -62,7 +62,7 @@
   url: https://web.archive.org/web/20100826020028/http://teamwiess.com/downloads/Wiess%20Housing%20Rules.pdf
   local: teamwiess.com/oweek-books/2010-wiess-housing-rules.pdf
   evidence: P
-  gaps: Needs OCR; 2011 copy at web.archive.org/web/20110729230950/http://teamwiess.com/downloads/WiessHousingRules.pdf.
+  notes: Byte-identical to the Historian's PDF created 31 October 2008 [housing-rules-2008], which has been OCR'd; the 2011 copy (web.archive.org/web/20110729230950/http://teamwiess.com/downloads/WiessHousingRules.pdf) is the same file.
 
 - key: college-rules-2012
   title: Wiess College Rules, last amended 28 August 2012

@@ -33,7 +33,11 @@ Beer Bike is Rice's spring relay of chuggers and bikers, run since 1957 between 
 | 2015 | Glossary: "Often compared to Christmas, and also includes a water balloon fight and much rejoicing." [@oweek-2015 p.120]; the Ubangee is "at [its] most prominent during the Beer Bike water balloon fight, as hordes of Wiessmen chase down anybody" [@oweek-2015 p.22] | [P] |
 | 2016 | Owlmanac: "they chug water now, not beer … 24 ounces for the men, 12 for the women and alumni … 1 mile for the men, 2/3rds miles for the women and alumni" [@owlmanac-2016 p.43]; a Wiess Fellow is "Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58] | [P] |
 | 2016 | Rice Magazine: freshmen "drag the wheeled War Pig to the stadium"; rivals chant "Wiess can't drive!" [@rice-magazine-2016-wiess-traditions] | [R] |
+| 2019 | Glossary unchanged from 2015, and "Willy Week" for the last time; the Ubangee still "at [its] most prominent during the Beer Bike water balloon fight" [@oweek-2019 p.16] [@oweek-2019 p.19] [@oweek-2019 p.31] | [P] |
+| 2021 | The week before Beer Bike is now "**Piggy Week**. The week preceding Beer Bike, filled with college activities, alumni, and jacks"—Willy Week renamed, in the Wiess Speak half of the glossary [@oweek-2021 p.19] | [P] |
 | 2023–2024 | The college site publishes `beerbike-low.jpg`, `BeerBike2024.jpg` and `WarPig2024.jpg` [@wb 20240719230359 https://wiess.rice.edu/images/home/BeerBike2024.jpg]; the Thresher: "a Wiess tradition that got resurrected this year after dying out in years past" [@thresher-2024-04-10] | [P] |
+| 2024 | The book gives Beer Bike its own page, "What is Beer Bike?": the 4 am wake-up to "All I Do Is Win," by DJ Khaled", bikers, "chuggers (chugging water, of course)" and pit crew, "a full day of water balloon fights, a color war (throwing colored powder on all of your friends)", "four hundred students in matching t-shirts"; a Beer Bike committee does decorations, merch and "painting our mascot, the Warpig" [@oweek-2024 p.39] [@oweek-2024 p.34] | [P] |
+| 2025 | The 2024 page unchanged; the RAs promise "our over-the-top goldenrod spirit during Piggy Week" [@oweek-2025 p.40] [@oweek-2025 p.32] | [P] |
 
 ## As the college described it
 
@@ -55,23 +59,43 @@ Beer Bike is Rice's spring relay of chuggers and bikers, run since 1957 between 
 !!! quote "O-Week Book 2015"
     "Beer Bike—A competitive intercollege race held in the spring, where ten bikers and ten chuggers from each college compete for both personal and college pride. Often compared to Christmas, and also includes a water balloon fight and much rejoicing." [@oweek-2015 p.120]
 
+!!! quote "O-Week Book 2024—What is Beer Bike?"
+    "Picture this: it's the middle of a hot summer night in April, and Rice students are all sleeping snug in their beds, dreaming of their impending finals… Except it's actually 4 am, no one is sleeping soundly because they're too busy screaming to the lyrics of 'All I Do Is Win,' by DJ Khaled… There's bikers, there's chuggers (chugging water, of course), and there's pit crew… The true spirit of Beer Bike is about representing your college by being the loudest, the proudest, and wearing the coolest merch." [@oweek-2024 p.39]
+
 ## The War Pig at Beer Bike
 
 The pig is Beer Bike's Wiess-shaped shadow and has its own page: [The War Pig](warpig.md). In one paragraph: the first balloon floated off in 1986; the black "TEAM WIESS" pigs of 1987–96 were carried, attacked, repaired and, once, flown on helium (1991); the garbage-bag pig was still being inflated at 4:30 a.m. in 1999; mylar pig heads and a commercial balloon followed in 2000–2004 until the balloon's cord was cut; the Class of 2012 built the wooden pig and the chant became "the pig will roll"; an inflatable was "resurrected" in 2024 [@maxham-pig-document] [@campanile-1991] [@campanile-1999 p.238] [@thresher-2004-03-26 p.9] [@campanile-2012] [@thresher-2024-04-10]. Cunningham's 1997 complaint about "those freaks who tried to tear the Pig's legs off a few years back" sits between the 1993 attacks and the 1997–98 mylar rebuild [@riceinfo-beerbike].
+
+## Photographs
+
+<!-- GALLERY:beerbike -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![Wiess at Beer Bike in that year's maroon team shirts, faces painted, under the live oaks.](../assets/photos/photos-people/beer-bike-low.jpg){ loading=lazy data-title="Wiess at Beer Bike in that year&#x27;s maroon team shirts, faces painted, under the live oaks." data-description="teamwiess.com, by January 2023 · by 2023" data-gallery="beerbike" }
+  <figcaption>Wiess at Beer Bike in that year's maroon team shirts, faces painted, under the live oaks. <small>teamwiess.com, by January 2023 [@wb 20230114010426 http://teamwiess.com/images/beer-bike-low.jpg]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:beerbike -->
 
 ## Variants & disputes
 
 **Who wrote the Beer Bike page, and when.** The page is dated "Last Updated 6/25/99 by Ray Wagner" in its 2001–02 captures [@riceinfo-beerbike], and the historian's reading guide attributes the wake-up canon and the "I'm still pissed off" line to Wagner in June 1999. The January 1999 capture carries the same text under "Last Updated 8/11/97 by David M. Cunningham" [@wb 19990117000719 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/beerbike.html]. Wagner re-dated the page without changing it. The canon, the firehose and the state of the pig are therefore Cunningham's observations of 1997, and "a few years back" points to the attacks of 1993 (or 1994–95), not later.
 
-**What the chuggers drink.** "Beer with the alcohol boiled out of it" (1997) [@riceinfo-beerbike]; "chugging water" (2006) [@oweek-2006 p.51]; "they chug water now, not beer" (2016) [@owlmanac-2016 p.43]. The 1997 writer was guessing ("I have no idea how it tastes"); the later books state it as the rule. Whether the drink actually changed between 1997 and 2006 or the 1997 page was simply wrong, the corpus does not say.
+**What the chuggers drink.** "Beer with the alcohol boiled out of it" (1997) [@riceinfo-beerbike]; "chugging water" (2006) [@oweek-2006 p.51]; "chugging water, of course" (2024) [@oweek-2024 p.39]; "they chug water now, not beer" (2016) [@owlmanac-2016 p.43]. The 1997 writer was guessing ("I have no idea how it tastes"); the later books state it as the rule. Whether the drink actually changed between 1997 and 2006 or the 1997 page was simply wrong, the corpus does not say.
 
 **Rules.** The books give only the shape: ten chuggers and ten bikers per college, alternating [@oweek-2003 p.5]; 24 oz for men and 12 for women and alumni, one mile and two-thirds of a mile [@owlmanac-2016 p.43]. These are Rice's rules as the Wiess books repeated them in those years, not a rulebook; the Rice Program Council's documents would be the source for any year.
 
-**Wake-up music.** The 1997 canon is the only list in the corpus [@riceinfo-beerbike]. The 2016 book confirms the custom (a named Fellow "waking you up at 4 am on Beer Bike") but not the playlist [@oweek-2016 p.58]. Whether "War Pigs" was still played in 2016 is unknown.
+**Wake-up music.** The 1997 canon is the only list in the corpus [@riceinfo-beerbike]; the 2024 and 2025 books name one current song, "All I Do Is Win," at 4 am [@oweek-2024 p.39]. The 2016 book confirms the custom (a named Fellow "waking you up at 4 am on Beer Bike") but not the playlist [@oweek-2016 p.58]. Whether "War Pigs" was still played in 2016 is unknown.
 
 **Themes.** The O-Week books do not record Wiess's Beer Bike themes, only the 2012 "Trojan Warpig / Beerseige our enemies!" via the Campanile [@campanile-2012]. The college blog's 2014 theme "Goldenrod Monkey" is noted in the historian's archive index but no capture of it is in the corpus, so it is not claimed here.
 
 **Winning.** The 1975 version of the chant story says the team "celebrated its second win ever" [@oweek-2010 p.39]; the 1997 page says "we've lost the last few years" [@riceinfo-beerbike]; a 2006 book describes Brown's women's team winning "this year" and the 2009 book Will Rice's sweeps [@oweek-2006 p.53] [@wb 20090824073318 http://www.teamwiess.com/downloads/o-week/Part_4_2009.pdf p.10]. No Wiess results table exists in the corpus.
+
+**Willy Week or Piggy Week.** "Willy Week" from the 2006 book through 2019; "Piggy Week" from 2021, with the same definition [@oweek-2006 p.51] [@oweek-2019 p.19] [@oweek-2021 p.19]. The 2024 and 2025 Beer Bike pages call it only "An entire week of themed festivities" [@oweek-2024 p.39]. The 2006 book's gloss, "Willy is our affectionate name for William Marsh Rice" [@oweek-2006 p.51], is the old name's meaning; no source gives the reason for the change.
+
+**Since 1957.** The 2024 page repeats the books' founding date—"it's been around since 1957" [@oweek-2024 p.39] [@oweek-2006 p.51]; it is the books' claim, not checked against the Thresher.
 
 ## Open questions
 

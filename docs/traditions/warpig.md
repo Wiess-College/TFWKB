@@ -50,8 +50,11 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 | 2016-03 | Fined at Beer Bike for too many people "on our float: the Warpig… its wheels don't turn… make the Warpig easily to pull" [@thresher-web "Beer Bike Violations & Fines", Mar 2016] | [P] |
 | 2016-11 | Rice Magazine: the wheeled, "small bus-sized" pig dragged by freshmen; the 1983 pig-iron statuette [@rice-magazine-2016-wiess-traditions] | [R] |
 | c.2017–21 | A note inside the current wooden pig, signed "Loryn H. '21": "If you decide to rebuild this pig, do NOT just copy each piece. They are not equal.. It is a nightmare." The present pig was therefore built or re-cut in that window—Beer Bike 2018, 2019 or 2021 (2020 was cancelled) [@warpig-note-loryn] | [P] |
+| 2019 | O-Week glossary, unchanged: "Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike"; history: "our distinctive wooden warpig was created in time for Beer Bike 2012"; College Night themes "Peppa the War Pig" and "Infinity War Pig" [@oweek-2019 p.15] [@oweek-2019 p.13] [@oweek-2019 p.33] | [P] |
+| 2021 | The 2021 book describes one of its sophomore Gophers as having "helped build most of the Warpig (Wiess's mascot) with his own two hands"—a first-year in 2020–21, so the present wooden pig was built or rebuilt in that year, for Beer Bike 2021 [@oweek-2021 p.55]. The same book welcomes the Class of 2025 as "fellow Warpigs (and Rice Owls)", and three of its twelve O-Week groups pun on the pig [@oweek-2021 p.8] [@oweek-2021 p.55] [@oweek-2021 p.67] | [P] |
 | 2023–24 | **The 2024 inflatable.** A proxy-cabinet proposal funded to $500; the pig cost almost $900 by delivery, the rest from the RA budget. Helium ruled out real flight. The core team smuggled the deflated pig into the Beer Bike pit, inflated it off-track with a blower and carried it to the student section; gusts nearly cancelled Beer Bike; tethers tore the plastic and gravel punctured the feet, "but she flew (fell with style)." Lettered "oink oink bitches" [@warpig-core-deck slides 35–46] | [T] |
 | 2024-04-10 | "Wiess stationed a giant inflatable pig emblazoned with the words 'oink oink bitches'… a Wiess tradition that got resurrected this year after dying out in years past" [@thresher-2024-04-10] | [P] |
+| 2024–2025 | Glossary spells it "**Warpig**", same definition; a Beer Bike committee does decorations, merch and "painting our mascot, the Warpig" [@oweek-2024 p.25] [@oweek-2024 p.34] [@oweek-2025 p.35]. The books do not mention the 2024 inflatable | [P] |
 
 ## As the college described it
 
@@ -73,6 +76,12 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 !!! quote "wiess.rice.edu, About → History (2014–)"
     "In 1983, Wiess' mascot, the War Pig, made its debut… we created a distinctive wooden warpig in time for Beer Bike 2012." [@wiess-rice-edu about/history]—and the current site's Traditions page has no War Pig entry at all.
 
+!!! quote "O-Week Book 2021"
+    "Hello Class of 2025, and welcome to Team Family Wiess! Now that you're officially becoming fellow Warpigs (and Rice Owls)…" [@oweek-2021 p.8]
+
+!!! quote "O-Week Books 2024 and 2025"
+    "Beer Bike committee is essential for the greatest event of the year, Beer Bike, to take place safely. From setting up decorations, making merch to painting our mascot, the Warpig, the Beer Bike committee helps make Beer Bike the safe and fun event it is." [@oweek-2024 p.34]
+
 ## The pigs, numbered
 
 | # | Years | Builder | What it was | Fate |
@@ -86,8 +95,26 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 |—| 2000 | Wiess | dozens of mylar pig-head balloons | released |
 |—| 2001–04 | bought, $4,500 | orange commercial helium pig, TEAM WIESS; "both war pigs" by Dec 2001 | cord cut, lost, 20 Mar 2004 |
 |—| 2006–11 |—| **no pig** | "Former Wiess mascot" |
-| W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note) |
+| W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note), most likely for Beer Bike 2021 (2021 O-Week book) |
 |—| 2024 | core team | inflatable, blower-filled, carried | "flew (fell with style)"; damaged |
+
+## Photographs
+
+<!-- GALLERY:warpig -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![A black pig lettered TEAM WIESS: the picture beside 'The mighty War Pig' on the first website's traditions page.](../assets/photos/photos/warpig1.jpg){ loading=lazy data-title="A black pig lettered TEAM WIESS: the picture beside &#x27;The mighty War Pig&#x27; on the first website&#x27;s traditions page." data-description="riceinfo Wiess site, 2000 · by 2000" data-gallery="warpig" }
+  <figcaption>A black pig lettered TEAM WIESS: the picture beside 'The mighty War Pig' on the first website's traditions page. <small>riceinfo Wiess site, 2000 [@wb 20000526190203 http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/index.html]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="Historian&#x27;s photo collection; source not recorded · 2002–04" data-gallery="warpig" }
+  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>Historian&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:warpig -->
 
 ## Variants & disputes
 
@@ -99,7 +126,7 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 
 **A wooden pig in 2002?** Alumni of that era remember one. The record shows Wiess's wooden parade structure of 2001–02 was [Fort Wiess](fort-wiess.md), with the inflatable pig flying above it [@thresher-2002-04-05 pp.6, 27]. The first wooden pig is 2012 [@campanile-2012 p.172].
 
-**Who said "mascot"?** The college's own books went from "the Wiess mascot" (1994, 2003) to "Former Wiess mascot" (2006–2011) and back to "Wiess mascot" (2014–)—while wiess.rice.edu's Traditions page omits the pig entirely and its History page keeps it. Whether the pig is *the* mascot in 2026 is a question for the college, not the record.
+**Who said "mascot"?** The college's own books went from "the Wiess mascot" (1994, 2003) to "Former Wiess mascot" (2006–2011) and back to "Wiess mascot" (2014–2025, "our mascot, the Warpig" in 2024–25 [@oweek-2024 p.34])—while wiess.rice.edu's Traditions page omits the pig entirely and its History page keeps it. Whether the pig is *the* mascot in 2026 is a question for the college, not the record.
 
 **The 1983 "first pig" photo captions.** Apparent inflatable pigs in the 1984–87 Campaniles and "War Pigs" hits in a March 1984 Thresher turned out to be OCR and caption false positives when checked against the pages; the earliest trace of the word remains Zweig's hand in the 1984 Campanile [@campanile-1984 p.371].
 
@@ -108,7 +135,7 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 - The pig-iron statuette of 1983: does it survive, and where?
 - Pig #3's end: when exactly did the black tarp pig stop appearing (last positive sighting 1996, "seen better days" 1997)? Thresher April 1997–1999 at the Portal.
 - The mylar pig of 1997–98: a photograph, and the year it flew away. Dr. Bill Wilson's papers at Woodson may hold both [@woodson-ua0079].
-- Which Beer Bike produced the current wooden pig—2018, 2019 or 2021? Ask Loryn H. '21; photograph the note before the pig is rebuilt again.
+- Which Beer Bike produced the current wooden pig—2018, 2019 or 2021? The 2021 O-Week book points to 2021: a Gopher who was a first-year in 2020–21 "helped build most of the Warpig" [@oweek-2021 p.55]. Ask Loryn H. '21 and the 2021 builders whether it was a new pig or a re-cut; photograph the note before the pig is rebuilt again.
 - The Class of 2012 "Warpig Taskforce": names, drawings, cost. The 2012 and 2013 O-Week books are missing from the corpus.
 - Deck slide 33 (black pig with painted teeth on the New Wiess Acabowl under a "WELCOME TO WIESS" banner, c.2004): if truly 2004, a black pig outlived the orange one; it could also be O-Week 2002 or 2003.
 - Exact ark ids for the 1 Feb 2002, 26 Mar 2004, 7 Apr 2000 and 6 Apr 2001 Thresher pages, so the citations resolve to the page and not the issue.

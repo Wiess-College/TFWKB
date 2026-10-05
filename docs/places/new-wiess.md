@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # New Wiess (2002–)
 
-The present Wiess building stands "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. It was designed by Machado and Silvetti Associates of Boston, with Houston's Kirksey as project architect, as the first piece of a master plan that also covered a second college, an access road and gateway, a Magisters' house, a health clinic and the intramural fields [@machado-silvetti-wiess] [@kirksey-wiess]. Ground was broken on 5 October 1999; students had been pressing the administration for five years to keep what made the old building work—single-loaded corridors, outside balconies and one large courtyard—and got them [@riceinfo-news-2000-lundin]. The 228-bed (Kirksey: 230-bed) dormitory wraps three sides of a courtyard behind open-air corridors shaded by ivy-covered metal screens; the fourth side is a new commons, part of a shared complex with a second dining hall for Hanszen and a servery topped by a public terrace [@machado-silvetti-wiess]. Students moved in during 2002 and the courtyard kept the old name, [the Acabowl](acabowl.md) [@oweek-2006 p.37]. The Boston Society of Architects gave the building a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess].
+The present Wiess building stands "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. It was designed by Machado and Silvetti Associates of Boston, with Houston's Kirksey as project architect, as the first piece of a master plan that also covered a second college, an access road and gateway, a Magisters' house, a health clinic and the intramural fields [@machado-silvetti-wiess] [@kirksey-wiess]. Ground was broken on 5 October 1999; students had been pressing the administration for five years to keep what made the old building work—single-loaded corridors, outside balconies and one large courtyard—and got them [@riceinfo-news-2000-lundin]. The 228-bed (Kirksey: 230-bed) dormitory wraps three sides of a courtyard behind open-air corridors shaded by ivy-covered metal screens; the fourth side is a new commons, part of a shared complex with a second dining hall for Hanszen and a servery topped by a public terrace [@machado-silvetti-wiess]. Students moved in during 2002 and the courtyard kept the old name, [the Acabowl](acabowl.md) [@oweek-2006 p.37]. The Boston Society of Architects gave the building a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Its shared rooms, suites and Wiess Grove are on [Rooms and spaces of New Wiess](rooms-and-spaces.md); its terraces, including the fourth-floor balcony now called Toke, on [The terraces](terraces.md).
 
 ## Timeline
 
@@ -51,6 +51,49 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
 
 !!! quote "Machado and Silvetti Associates, project page"
     "The building employs a single-loaded corridor layout, with suites located on the building's peripheral edge and accessible via open-air corridors shaded by ivy-covered metal screens along three courtyard walls… The architectural language, while contemporary, also takes cues from the historic character of the campus." [@machado-silvetti-wiess]
+
+## Photographs
+
+<!-- GALLERY:newwiess -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![The Commons across the Acabowl lawn and path.](../assets/photos/photos-outside/rescolleges.jpg){ loading=lazy data-title="The Commons across the Acabowl lawn and path." data-description="teamwiess.com, 2016 · by 2016" data-gallery="newwiess" }
+  <figcaption>The Commons across the Acabowl lawn and path. <small>teamwiess.com, 2016 [@wb 20160506224855 http://teamwiess.com/res/rescolleges.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The Commons lit up at dusk, seen from the Acabowl.](../assets/photos/photos-outside/pink.jpg){ loading=lazy data-title="The Commons lit up at dusk, seen from the Acabowl." data-description="teamwiess.com, &#x27;acapics&#x27;, 2017 · by 2017" data-gallery="newwiess" }
+  <figcaption>The Commons lit up at dusk, seen from the Acabowl. <small>teamwiess.com, &#x27;acapics&#x27;, 2017 [@wb 20170602224647 http://teamwiess.com/acapics/pink.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![An open-air corridor behind the ivy-covered metal screens, at dusk.](../assets/photos/photos-outside/darkhall.jpg){ loading=lazy data-title="An open-air corridor behind the ivy-covered metal screens, at dusk." data-description="teamwiess.com, &#x27;acapics&#x27;, 2017 · by 2017" data-gallery="newwiess" }
+  <figcaption>An open-air corridor behind the ivy-covered metal screens, at dusk. <small>teamwiess.com, &#x27;acapics&#x27;, 2017 [@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Another corridor at dusk: brick on one side, screen and ivy on the other.](../assets/photos/photos-outside/dark-aisle-4.jpg){ loading=lazy data-title="Another corridor at dusk: brick on one side, screen and ivy on the other." data-description="teamwiess.com, &#x27;acapics&#x27;, 2017 · by 2017" data-gallery="newwiess" }
+  <figcaption>Another corridor at dusk: brick on one side, screen and ivy on the other. <small>teamwiess.com, &#x27;acapics&#x27;, 2017 [@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="Historian&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>Historian&#x27;s photo collection; source not recorded</small></figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Snow on the Acabowl lawn and picnic tables.](../assets/photos/photos-outside/snow-1.jpg){ loading=lazy data-title="Snow on the Acabowl lawn and picnic tables." data-description="teamwiess.com, &#x27;acapics&#x27;, by February 2018 · by 2018-02" data-gallery="newwiess" }
+  <figcaption>Snow on the Acabowl lawn and picnic tables. <small>teamwiess.com, &#x27;acapics&#x27;, by February 2018 [@wb 20180223224559 http://teamwiess.com/acapics/snow.jpg]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:newwiess -->
 
 ## Variants & disputes
 

@@ -20,6 +20,9 @@ Baker 13 is Baker College's run: on the 13th and 31st of the month, students in 
 | 2010 | Glossary term becomes "Baker 13", definition unchanged [@oweek-2010 p.92]; Baker's "most well-known" tradition is "an opportunity to strip down twice a month (the 13th and 31st), strategically apply shaving cream and streak around" [@oweek-2010 p.54] | [P] |
 | 2014 | Last glossary with the water: "A favorite target of Wiessmen with buckets of water" [@oweek-2014 p.104] | [P] |
 | 2015 | Rewritten: "An event where participants undress… A proud Baker institution for over thirty years; all undergrads are invited to participate" [@oweek-2015 p.120]; same 2016, 2017 [@oweek-2016 p.15] [@oweek-2017 p.16]; Owlmanac: "a proud Baker tradition for over thirty years but all undergrads are invited" [@owlmanac-2016 p.55] | [P] |
+| 2019–2024 | Rice-speak glossary, the 2015 text with "tradition" for "institution": "An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker tradition for over thirty years; all undergrads are invited to participate" [@oweek-2019 p.16] [@oweek-2021 p.20] [@oweek-2024 p.27] | [P] |
+| 2023–2026 | Still a Wiess custom in the defenders' form: Wiess meets the runners with water guns, and stages a "freshman sacrifice" — a first-year tied to a pole in the Acabowl as a decoy to draw the runners in before the ambush [@testimony-mullen-2026-10-05 Baker 13] | [T] |
+| 2024–2025 | "The Lesser Colleges (and Wiess!)": Baker, "The first college, known for their unique uses of shaving cream"; the 2025 glossary drops Baker 13, and the President lists it among "the quirky things that make Rice, Rice!" [@oweek-2024 p.4] [@oweek-2025 p.4] [@oweek-2025 p.37] | [P] |
 
 ## As the college described it
 
@@ -35,6 +38,23 @@ Baker 13 is Baker College's run: on the 13th and 31st of the month, students in 
 !!! quote "O-Week Book 2015"
     "**Baker 13**—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate." [@oweek-2015 p.120]
 
+## The freshman sacrifice
+
+The defence has a set piece. A first-year volunteer is tied to a pole in the [Acabowl](../places/acabowl.md) as bait; the runners, drawn to the easy target, come into range, and the waiting defenders open up with water guns. The name is theatre — the "sacrifice" is the decoy, and the one who gets soaked first [@testimony-mullen-2026-10-05 Baker 13]. No written source yet records when it began; the books' "buckets of water" (2003–2014) show the defence, not the decoy.
+
+## Photographs
+
+<!-- GALLERY:b13 -->
+<div class="grid photo-grid" markdown>
+
+<figure markdown="span">
+  ![The Baker 13 Defense Force representatives' photograph: suits, sunglasses and a water gun.](../assets/photos/photos-people/baker13defense.jpg){ loading=lazy data-title="The Baker 13 Defense Force representatives&#x27; photograph: suits, sunglasses and a water gun." data-description="teamwiess.com, representatives, 2017 · 2017" data-gallery="b13" }
+  <figcaption>The Baker 13 Defense Force representatives' photograph: suits, sunglasses and a water gun. <small>teamwiess.com, representatives, 2017 [@wb 20170421224913 http://teamwiess.com/profiles/reps/baker13defense.jpg]</small></figcaption>
+</figure>
+
+</div>
+<!-- /GALLERY:b13 -->
+
 ## Variants & disputes
 
 - **Club 13 or Baker 13.** The Wiess glossary said "Club 13" from 2003 to 2008 and "Baker 13" from 2010 [@oweek-2008 part 7 p.5] [@oweek-2010 p.92]; the Rice-wide description inside the same 2006 book already said "Baker 13" [@oweek-2006 p.53], and the 2008 website used "Baker 13 Defense Force" [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. "Club 13" is the older campus name; the glossary caught up two years after the website.
@@ -42,7 +62,11 @@ Baker 13 is Baker College's run: on the 13th and 31st of the month, students in 
 - **Water or welcome.** The 2015 rewrite dropped the water and added "all undergrads are invited to participate" [@oweek-2015 p.120]. That is a change in what the coordinators chose to tell freshmen; it is not evidence that the water stopped, though nothing after 2014 says it continued.
 - **"Slimy".** The 2003–2014 definition's "slimy trail of body prints" became "a trail of body prints" in 2015 [@oweek-2015 p.120].
 
+- **The books are silent on the defence.** None of the four books of 2019–2025 mentions water, buckets or the freshman sacrifice; they describe Baker 13 only from the runners' side [@oweek-2019 p.16] [@oweek-2024 p.27]. The defenders' custom of 2023–26 rests on testimony.
+
 ## Open questions
+
+- When the "freshman sacrifice" began, and whether the water defence ever lapsed between 2015 (when the books drop it) and the 2020s.
 
 - When Wiessmen first met Baker 13 with water. 1997 is the earliest word and already treats it as established [@riceinfo-traditions-1997].
 - What the "Baker 13 Defense Force" page of 2008 was meant to say, and whether the name was in use at Wiess before the webmaster used it. The 2007–08 Cabinet minutes (index.php?r=lastnotes) and the Thresher are the places to look.

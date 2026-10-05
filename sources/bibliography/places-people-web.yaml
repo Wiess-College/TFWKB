@@ -2,20 +2,20 @@
 # Rice History Corner posts are cited inline as [@rhc YYYY-MM-DD slug] and need no entry here.
 
 - key: handbook-1972
-  title: "Wiess College Freshman Handbook 1972 — 'The Architecture of Wiess' (as transcribed on the 1997–2000 riceinfo site)"
+  title: "Wiess College Freshman Handbook 1972—'The Architecture of Wiess' (as transcribed on the 1997–2000 riceinfo site)"
   type: oweek-book
   date: 1972
   url: https://web.archive.org/web/20001207040500/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/architecture.html
   local: riceinfo.rice.edu-wiess/text/college__architecture.html__20001207040500.md
   evidence: P
   notes: >
-    The riceinfo architecture page is headed "From 1972 Freshman Handbook" — Brutalism, "the best motel
+    The riceinfo architecture page is headed "From 1972 Freshman Handbook"—Brutalism, "the best motel
     tradition", the "large grassy acabowls". Oldest handbook text in the corpus and the earliest use of the word
     "acabowl" we hold. The printed 1972 book itself has not been seen.
   gaps: Confirm against the printed 1972 handbook (Woodson, UA 0079).
 
 - key: riceinfo-news-2000-lundin
-  title: "Robert Lundin, 'Construction Zone Ahead — TFW Style!', the official story of the construction of New Wiess (riceinfo news page, posted 18–19 May 2000)"
+  title: "Robert Lundin, 'Construction Zone Ahead—TFW Style!', the official story of the construction of New Wiess (riceinfo news page, posted 18–19 May 2000)"
   type: website
   date: 2000-05-19
   url: https://web.archive.org/web/20001119204500/http://riceinfo.rice.edu:80/projects/colleges/wiess/news/index.html
@@ -28,7 +28,7 @@
     single-loaded corridors, external balconies and a large courtyard. Contacts: Lundin, John Hutchinson, Josh Katz.
 
 - key: riceinfo-associates
-  title: "Associates page, riceinfo site — 'Our two Resident Associates are Bill Wilson (Electrical Engineering) and Stan Dodds (Physics)' (text c.1997, page updated 25 Jun 1999)"
+  title: "Associates page, riceinfo site—'Our two Resident Associates are Bill Wilson (Electrical Engineering) and Stan Dodds (Physics)' (text c.1997, page updated 25 Jun 1999)"
   type: website
   date: 1997–1999
   url: https://web.archive.org/web/20001209173600/http://riceinfo.rice.edu:80/projects/colleges/wiess/people/associates.html
@@ -49,7 +49,7 @@
   notes: Weekly recipe sets ("first-week recipes" … "week 10"; "Wiess cookout cookies spring 2023"). Live in 2026; 1,515 Wayback URLs.
 
 - key: delany-about-wiess-2002
-  title: "Colin Delany (Wiess '91), 'about wiess college' and 'about the photos' — the two essays on his August 2002 photo site"
+  title: "Colin Delany (Wiess '91), 'about wiess college' and 'about the photos'—the two essays on his August 2002 photo site"
   type: website
   date: 2002-08
   url: http://edesigns-graphics.com/wiess/about/wiess.html
@@ -58,4 +58,4 @@
   notes: >
     The essay pages of the site catalogued as edesigns-old-wiess-2002: "I doubt anybody ever called Wiess pretty
     and meant it"; "Twenty-five minutes and forty-two shots; that's all I had." Use this key inside Markdown
-    tables — the parent key's title contains a "|" that breaks table cells when the hook renders it.
+    tables—the parent key's title contains a "|" that breaks table cells when the hook renders it.

@@ -209,3 +209,29 @@ def on_page_markdown(markdown: str, page, config, files):
     markdown = CITE_RE.sub(lambda m: render_citation(m, path), markdown)
     markdown = EVID_RE.sub(render_evidence, markdown)
     return markdown
+
+
+# ---------------------------------------------------------------------------
+# Every outbound link goes to the Wayback Machine, so a reader never lands on a
+# dead or changed page. Links that are already archival, or to our own repo/site,
+# are left alone. A link with no timestamp goes to /web/2/<url>, which the
+# Wayback Machine resolves to its most recent capture.
+# ---------------------------------------------------------------------------
+KEEP_DIRECT = (
+    "web.archive.org", "archive.org", "texashistory.unt.edu",  # archives in their own right
+    "github.com/Wiess-College", "wiess-college.github.io",      # our repo and site
+    "squidfunk.github.io", "fonts.googleapis.com", "fonts.gstatic.com",  # theme furniture
+    "creativecommons.org",
+)
+HREF_RE = re.compile(r'href="(https?://[^"]+)"')
+
+
+def _archive(url: str) -> str:
+    bare = re.sub(r"^https?://", "", url)
+    if any(bare.startswith(k) or ("://" + k) in url for k in KEEP_DIRECT):
+        return url
+    return f"https://web.archive.org/web/2/{url}"
+
+
+def on_page_content(html_out: str, page, config, files):
+    return HREF_RE.sub(lambda m: f'href="{_archive(m.group(1))}"', html_out)

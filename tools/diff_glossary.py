@@ -24,10 +24,10 @@ def main():
     print(f"# {a} → {b}\n")
     print(f"## Added in {b} ({len(set(B)-set(A))})")
     for n in sorted(set(B) - set(A)):
-        print(f"- **{B[n]['term']}** — {B[n]['definition']}")
+        print(f"- **{B[n]['term']}**—{B[n]['definition']}")
     print(f"\n## Dropped after {a} ({len(set(A)-set(B))})")
     for n in sorted(set(A) - set(B)):
-        print(f"- **{A[n]['term']}** — {A[n]['definition']}")
+        print(f"- **{A[n]['term']}**—{A[n]['definition']}")
     changed = [n for n in sorted(set(A) & set(B)) if norm_def(A[n]["definition"]) != norm_def(B[n]["definition"])]
     print(f"\n## Reworded ({len(changed)})")
     for n in changed:
