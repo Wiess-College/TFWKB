@@ -9,8 +9,8 @@ copyright: Text © Wiess College contributors, CC BY-SA 4.0 · tools MIT
 theme:
   name: material
   language: en
-  logo: assets/pig.svg
-  favicon: assets/pig.svg
+  logo: assets/wiessshield.svg
+  favicon: assets/wiessshield.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
