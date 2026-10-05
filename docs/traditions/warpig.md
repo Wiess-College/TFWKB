@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The War Pig
 
-The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the college in 1982, then a pig-iron statuette, then—from Night of Decadence 1984 and Beer Bike 1986 onward—a series of enormous home-made pigs that were meant to fly and mostly didn't. Three generations of plastic-and-duct-tape balloons (1986–c.1999) were followed by a commercial helium pig (2002–04) that floated away when its cord was cut at Beer Bike 2004. For seven years the O-Week books called it a "**former** Wiess mascot." The Class of 2012 built a wooden pig on a trailer for Beer Bike 2012 and the chant changed from "the pig will fly" to "the pig will roll"; a wooden pig still exists, rebuilt at least once (c.2017–21). In 2024 the core team added an inflatable again, which "flew (fell with style)." The name is from the Black Sabbath song. The pig is the one Wiess tradition whose history is documented in print nearly every year since 1983, and nearly every popular account of it gets at least one date wrong.
+The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the college in 1982, then a pig-iron statuette, then—from Night of Decadence 1984 and Beer Bike 1986 onward—a series of enormous home-made pigs that were meant to fly and mostly didn't. Three generations of plastic-and-duct-tape balloons (1986–c.1999) were followed by a commercial helium pig (2002–04) that floated away when its cord was cut at Beer Bike 2004. For seven years the O-Week books called it a "**former** Wiess mascot." The Class of 2012 built a wooden pig out of trailer parts for Beer Bike 2012 and the chant changed from "the pig will fly" to "the pig will roll"; a wooden pig still exists, rebuilt at least once (c.2017–21). In 2024 the core team added an inflatable again, which "flew (fell with style)." The name is from the Black Sabbath song. The pig is the one Wiess tradition whose history is documented in print nearly every year since 1983, and nearly every popular account of it gets at least one date wrong.
 
 ## Timeline
 
@@ -45,7 +45,7 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 | 2004-03-20 | **The pig is lost.** Its cord cut at Beer Bike, the commercial pig floats away and is never found [@thresher-2004-03-26 p.9]; recalled again in 2007 [@thresher-portal 30 Mar 2007 p.36] | [P] |
 | 2006–2011 | **No pig.** Every O-Week glossary: "**Former** Wiess mascot. Embodied by an enormous, inflatable pig. Has its own cheer: The Pig Will Fly!" [@oweek-2006 p.84] [@oweek-2007 p.84] [@oweek-2008 part 7 p.4] [@oweek-2010 p.91] [@oweek-2011 p.93] | [P] |
 | 2012-03 | **The wooden War Pig**, built by the Class of 2012 for Beer Bike 2012—"Trojan Warpig / Beerseige our enemies!"; "Wiess' Warpig Taskforce reinvented the Trojan Horse in their construction of this colossus" [@campanile-2012 p.172]. The chant becomes "the pig will roll" [@oweek-2014 p.103] | [P] |
-| c.2012–16 | Three photographs of the wooden pig on its trailer in the New Wiess courtyard: yellow plywood, shark teeth, red eyes, "TEAM" and "WIESS" on its flanks [@warpig-photos wooden-warpig_*] | [P] |
+| c.2012–16 | Three photographs of the wooden pig in trailer form in the New Wiess courtyard: yellow plywood, shark teeth, red eyes, "TEAM" and "WIESS" on its flanks [@warpig-photos wooden-warpig_*] | [P] |
 | 2014–2017 | O-Week glossaries: "Wiess mascot, embodied by the giant wooden pig built by the Class of 2012 for Beer Bike. The pig will roll!" (2014); "will roll" dropped from 2015 [@oweek-2014 p.103] [@oweek-2015 p.119] [@oweek-2016 p.17] [@oweek-2017 p.18] | [P] |
 | 2016-03 | Fined at Beer Bike for too many people "on our float: the Warpig… its wheels don't turn… make the Warpig easily to pull" [@thresher-web "Beer Bike Violations & Fines", Mar 2016] | [P] |
 | 2016-11 | Rice Magazine: the wheeled, "small bus-sized" pig dragged by freshmen; the 1983 pig-iron statuette [@rice-magazine-2016-wiess-traditions] | [R] |
@@ -95,7 +95,7 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 |—| 2000 | Wiess | dozens of mylar pig-head balloons | released |
 |—| 2001–04 | bought, $4,500 | orange commercial helium pig, TEAM WIESS; "both war pigs" by Dec 2001 | cord cut, lost, 20 Mar 2004 |
 |—| 2006–11 |—| **no pig** | "Former Wiess mascot" |
-| W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note), most likely for Beer Bike 2021 (2021 O-Week book) |
+| W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note) |
 |—| 2024 | core team | inflatable, blower-filled, carried | "flew (fell with style)"; damaged |
 
 ## Photographs
@@ -126,7 +126,7 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 
 **A wooden pig in 2002?** Alumni of that era remember one. The record shows Wiess's wooden parade structure of 2001–02 was [Fort Wiess](fort-wiess.md), with the inflatable pig flying above it [@thresher-2002-04-05 pp.6, 27]. The first wooden pig is 2012 [@campanile-2012 p.172].
 
-**Who said "mascot"?** The college's own books went from "the Wiess mascot" (1994, 2003) to "Former Wiess mascot" (2006–2011) and back to "Wiess mascot" (2014–2025, "our mascot, the Warpig" in 2024–25 [@oweek-2024 p.34])—while wiess.rice.edu's Traditions page omits the pig entirely and its History page keeps it. Whether the pig is *the* mascot in 2026 is a question for the college, not the record.
+**Who said "mascot"?** The college's own books went from "the Wiess mascot" (1994, 2003) to "Former Wiess mascot" (2006–2011) and back to "Wiess mascot" (2014–)—while wiess.rice.edu's Traditions page omits the pig entirely and its History page keeps it. Whether the pig is *the* mascot in 2026 is a question for the college, not the record.
 
 **The 1983 "first pig" photo captions.** Apparent inflatable pigs in the 1984–87 Campaniles and "War Pigs" hits in a March 1984 Thresher turned out to be OCR and caption false positives when checked against the pages; the earliest trace of the word remains Zweig's hand in the 1984 Campanile [@campanile-1984 p.371].
 

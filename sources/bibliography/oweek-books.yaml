@@ -179,31 +179,11 @@
   local: teamwiess.com/oweek-books/2017-oweek-book.pdf
   evidence: P
 
-- key: oweek-2019
-  title: Wiess O-Week Book 2019
-  type: oweek-book
-  format: pdf
-  date: 2019
-  pages: 73
-  url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
-  local: teamwiess.com/oweek-books/2017-oweek-book.pdf
-  evidence: P
-
 - key: oweek-2020
   title: Wiess O-Week Book 2020
   type: oweek-book
   format: pdf
   date: 2020
-  pages: 73
-  url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
-  local: teamwiess.com/oweek-books/2017-oweek-book.pdf
-  evidence: P
-
-- key: oweek-2021
-  title: Wiess O-Week Book 2021
-  type: oweek-book
-  format: pdf
-  date: 2021
   pages: 73
   url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
   local: teamwiess.com/oweek-books/2017-oweek-book.pdf
@@ -224,26 +204,6 @@
   type: oweek-book
   format: pdf
   date: 2023
-  pages: 73
-  url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
-  local: teamwiess.com/oweek-books/2017-oweek-book.pdf
-  evidence: P
-
-- key: oweek-2024
-  title: Wiess O-Week Book 2024
-  type: oweek-book
-  format: pdf
-  date: 2024
-  pages: 73
-  url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
-  local: teamwiess.com/oweek-books/2017-oweek-book.pdf
-  evidence: P
-
-- key: oweek-2025
-  title: Wiess O-Week Book 2025
-  type: oweek-book
-  format: pdf
-  date: 2025
   pages: 73
   url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
   local: teamwiess.com/oweek-books/2017-oweek-book.pdf
