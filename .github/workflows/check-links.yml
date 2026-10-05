@@ -1,0 +1,21 @@
+name: Check that citations still resolve
+
+on:
+  schedule:
+    - cron: "17 6 1 * *"   # monthly
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: python3 tools/check_links.py --report links-report.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: links-report
+          path: links-report.md

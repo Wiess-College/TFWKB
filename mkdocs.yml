@@ -1,0 +1,158 @@
+site_name: Team Familypedia
+site_description: The sourced history of Wiess College, Rice University — traditions, places, people, governance and how they changed, with every claim cited to a permalink.
+site_url: https://wiess-college.github.io/familypedia/
+repo_url: https://github.com/Wiess-College/familypedia
+repo_name: Wiess-College/familypedia
+edit_uri: edit/main/docs/
+copyright: Text © Wiess College contributors, CC BY-SA 4.0 · tools MIT
+
+theme:
+  name: material
+  language: en
+  logo: assets/pig.svg
+  favicon: assets/pig.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  font:
+    text: Source Serif 4
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
+    - toc.follow
+
+extra_css:
+  - assets/familypedia.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: [docs, sources]
+      check_paths: true
+  - pymdownx.tasklist
+
+plugins:
+  - search
+
+hooks:
+  - hooks/citations.py
+
+extra:
+  status:
+    draft: Draft — assembled from sources, not yet reviewed by a maintainer
+    reviewed: Reviewed against its sources by a maintainer
+    generated: Generated from data by a tool; edit the data, not the page
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Wiess-College
+      name: Wiess College on GitHub
+
+nav:
+  - Home: index.md
+  - Traditions:
+      - traditions/index.md
+      - The War Pig: traditions/warpig.md
+      - Team Wiess (the chant): traditions/team-wiess.md
+      - The Ubangee: traditions/ubangee.md
+      - Night of Decadence: traditions/night-of-decadence.md
+      - Beer Bike: traditions/beer-bike.md
+      - Tabletop Theatre: traditions/tabletop-theatre.md
+      - Pumpkin Caroling: traditions/pumpkin-caroling.md
+      - Battle Sows & Powderpuff: traditions/battle-sows-powderpuff.md
+      - Summit: traditions/summit.md
+      - FilmFest: traditions/filmfest.md
+      - JamFest: traditions/jamfest.md
+      - Wiess Day: traditions/wiess-day.md
+      - College Night: traditions/college-night.md
+      - Fort Wiess: traditions/fort-wiess.md
+      - DOME & Big Bang: traditions/dome-big-bang.md
+      - Baker 13 Defense Force: traditions/baker-13-defense-force.md
+      - Hanszen (the rivalry): traditions/hanszen-rivalry.md
+      - How we described ourselves, by year: traditions/glossary-series.md
+      - Retired:
+          - traditions/retired/index.md
+          - Freshman Weenie Roast: traditions/retired/freshman-weenie-roast.md
+          - Unnecessary Tie Day: traditions/retired/unnecessary-tie-day.md
+          - The WiessCrack: traditions/retired/wiesscrack.md
+          - Norse Night: traditions/retired/norse-night.md
+          - Talleyboo: traditions/retired/talleyboo.md
+          - The Dangle: traditions/retired/the-dangle.md
+          - Jock Row: traditions/retired/jock-row.md
+          - "\"What time is it?\"": traditions/retired/what-time-is-it.md
+          - No-Theme Wiess: traditions/retired/no-theme-wiess.md
+  - Places:
+      - places/index.md
+      - Old Wiess (1949–2002): places/old-wiess.md
+      - New Wiess (2002–): places/new-wiess.md
+      - The Acabowl: places/acabowl.md
+      - Wiess House / Wilson House: places/wilson-house.md
+      - Harry Carothers Wiess: places/the-man.md
+  - People:
+      - people/index.md
+      - Masters and Magisters: people/masters-and-magisters.md
+      - Resident Associates: people/resident-associates.md
+      - College Idiot & other offices: people/college-idiot.md
+      - Historians: people/historians.md
+  - Governance:
+      - governance/index.md
+      - How the Constitution changed: governance/constitution-history.md
+      - Cabinet: governance/cabinet.md
+      - Court: governance/court.md
+      - Rules & Housing Rules: governance/rules.md
+  - Changes:
+      - changes/index.md
+      - 1940s–1950s: changes/1940s-1950s.md
+      - 1960s–1970s: changes/1960s-1970s.md
+      - 1980s: changes/1980s.md
+      - 1990s: changes/1990s.md
+      - 2000s: changes/2000s.md
+      - 2010s: changes/2010s.md
+      - 2020s: changes/2020s.md
+  - Decisions:
+      - decisions/index.md
+      - NOD 2026: decisions/nod-2026.md
+  - The Web:
+      - web/index.md
+      - The Wiess website through the years: web/the-wiess-website-through-the-years.md
+  - Sources:
+      - sources/index.md
+      - Annotated bibliography: sources/bibliography.md
+      - Where to look: sources/where-to-look.md
+      - Evidence classes: sources/evidence-classes.md
+      - Search log: sources/search-log.md
+  - Contributing:
+      - contributing/index.md
+      - Citing: contributing/citing.md
+      - Page template: contributing/page-template.md
+      - From the Commons to the Record: contributing/commons-to-record.md
+      - Maintainers: contributing/maintainers.md
+      - Rights: contributing/rights.md

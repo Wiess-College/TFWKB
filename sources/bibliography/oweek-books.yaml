@@ -1,0 +1,189 @@
+# O-Week books and handbooks — the student-written record.
+# Every entry: key, title, type, date, url (permalink), local (path in the historian's corpus,
+# ~/projects/wiess-archive/), evidence (P/R/T), notes, gaps. Pages cite as [@key p.N].
+# Wayback URLs without "id_" open the archived PDF in the browser; "#page=N" is added by the hook when a page is cited.
+
+- key: handbook-1994
+  title: Wiess College Freshman Handbook 1994 (as transcribed on the 1997–2000 riceinfo site)
+  type: oweek-book
+  date: 1994
+  url: https://web.archive.org/web/20001207053100/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/gloss.html
+  local: riceinfo.rice.edu-wiess/text/college__gloss.html__20001207053100.md
+  evidence: P
+  notes: >
+    The glossary ("From the 1994 Freshman Handbook (and undoubtedly those of many years preceding)"),
+    the history page and the Masters page of the first Wiess website are transcriptions of the 1994
+    Freshman Handbook; the rooms page is from the 1995 book. Oldest O-Week-book text we hold.
+  gaps: The printed 1994 book itself is being pulled; confirm what was copied verbatim and what was edited.
+
+- key: oweek-2003
+  title: Wiess O-Week Book 2003 (four section PDFs — intro, Wiess, college, conclusions)
+  type: oweek-book
+  format: pdf
+  date: 2003
+  url: https://web.archive.org/web/20040416103931/http://www.teamwiess.com/oweek/80-88%20conclusions.pdf
+  local: teamwiess.com/oweek-books/2003-oweek-*.pdf (text in oweek-books/text/)
+  parts:
+    intro: https://web.archive.org/web/20040619001755/http://www.teamwiess.com/oweek/01-14%20intro.pdf
+    wiess: https://web.archive.org/web/20040416083807/http://www.teamwiess.com/oweek/35-44%20wiess.pdf
+    college: https://web.archive.org/web/20040416075437/http://www.teamwiess.com/oweek/61-74%20college.pdf
+    conclusions: https://web.archive.org/web/20040416103931/http://www.teamwiess.com/oweek/80-88%20conclusions.pdf
+  evidence: P
+  notes: >
+    Sections 01–14 (intro), 35–44 (Wiess), 61–74 (college), 80–88 (conclusions, with the glossary).
+    Cite the section: the url above is the conclusions section; the others are
+    web.archive.org/web/20040619001755/http://www.teamwiess.com/oweek/01-14%20intro.pdf,
+    .../20040416083807/http://www.teamwiess.com/oweek/35-44%20wiess.pdf,
+    .../20040416075437/http://www.teamwiess.com/oweek/61-74%20college.pdf.
+  gaps: Pages 15–34, 45–60 and 75–79 were never posted.
+
+- key: oweek-2006
+  title: Wiess O-Week Book 2006
+  type: oweek-book
+  format: pdf
+  date: 2006
+  pages: 89
+  url: https://web.archive.org/web/20070709182921/http://teamwiess.com/doc/content/wiess_o-week_book_2006.pdf
+  local: teamwiess.com/oweek-books/2006-oweek-book.pdf
+  evidence: P
+  notes: First book of the "Former Wiess mascot" era of the War Pig glossary entry.
+
+- key: oweek-2007
+  title: Wiess O-Week Book 2007
+  type: oweek-book
+  format: pdf
+  date: 2007
+  pages: 89
+  url: https://web.archive.org/web/20070801185003/http://teamwiess.com/wiess_o-week_book_2007.pdf
+  local: teamwiess.com/oweek-books/2007-oweek-book.pdf
+  evidence: P
+
+- key: oweek-2008
+  title: Wiess O-Week Book 2008 (cover + parts 1–7)
+  type: oweek-book
+  format: pdf
+  date: 2008
+  pages: 89
+  url: https://web.archive.org/web/20080625214757/http://www.teamwiess.com/downloads/o-week/Part_1_2008.pdf
+  local: teamwiess.com/oweek-books/2008-oweek-Part_*.pdf
+  parts:
+    cover: https://web.archive.org/web/20080625214721/http://www.teamwiess.com/downloads/o-week/FrontCover2008.pdf
+    part 1: https://web.archive.org/web/20080625214757/http://www.teamwiess.com/downloads/o-week/Part_1_2008.pdf
+    part 2: https://web.archive.org/web/20080625214815/http://www.teamwiess.com/downloads/o-week/Part_2_2008.pdf
+    part 3: https://web.archive.org/web/20080625214833/http://www.teamwiess.com/downloads/o-week/Part_3_2008.pdf
+    part 4: https://web.archive.org/web/20080625214728/http://www.teamwiess.com/downloads/o-week/Part_4_2008.pdf
+    part 5: https://web.archive.org/web/20080625214746/http://www.teamwiess.com/downloads/o-week/Part_5_2008.pdf
+    part 6: https://web.archive.org/web/20080625214810/http://www.teamwiess.com/downloads/o-week/Part_6_2008.pdf
+    part 7: https://web.archive.org/web/20080625214846/http://www.teamwiess.com/downloads/o-week/Part_7_2008.pdf
+  evidence: P
+  notes: >
+    Posted as seven PDFs. Part_N_2008.pdf for N=1..7 all captured 2008-06-25 (timestamps
+    214757, 214815, 214833, 214728, 214746, 214810, 214846); cover FrontCover2008.pdf (214721).
+    Cite the part, e.g. [@oweek-2008 part 6 p.3].
+
+- key: oweek-2009
+  title: Wiess O-Week Book 2009 (parts 2, 4, 5, 6 only)
+  type: oweek-book
+  format: pdf
+  date: 2009
+  pages: 62
+  url: https://web.archive.org/web/20090824073254/http://www.teamwiess.com/downloads/o-week/Part_2_2009.pdf
+  local: teamwiess.com/oweek-books/2009-oweek-Part_*.pdf
+  parts:
+    part 2: https://web.archive.org/web/20090824073254/http://www.teamwiess.com/downloads/o-week/Part_2_2009.pdf
+    part 4: https://web.archive.org/web/20090824073318/http://www.teamwiess.com/downloads/o-week/Part_4_2009.pdf
+    part 5: https://web.archive.org/web/20090824073345/http://www.teamwiess.com/downloads/o-week/Part_5_2009.pdf
+    part 6: https://web.archive.org/web/20090824073422/http://www.teamwiess.com/downloads/o-week/Part_6_2009.pdf
+  evidence: P
+  notes: Parts 4, 5, 6 at timestamps 20090824073318, 073345, 073422.
+  gaps: Parts 1, 3 and 7 were not captured.
+
+- key: oweek-2010
+  title: Wiess O-Week Book 2010
+  type: oweek-book
+  format: pdf
+  date: 2010
+  pages: 96
+  url: https://web.archive.org/web/20100826015930/http://teamwiess.com/downloads/Wiess%20O-Week%20Book%202010.pdf
+  local: teamwiess.com/oweek-books/2010-oweek-book.pdf
+  evidence: P
+
+- key: oweek-2011
+  title: Wiess O-Week Book 2011
+  type: oweek-book
+  format: pdf
+  date: 2011
+  pages: 99
+  url: https://web.archive.org/web/20110729230824/http://teamwiess.com/downloads/WiessOWeekBook11.pdf
+  local: teamwiess.com/oweek-books/2011-oweek-book.pdf
+  evidence: P
+
+- key: oweek-2014
+  title: Wiess O-Week Book 2014
+  type: oweek-book
+  format: pdf
+  date: 2014
+  pages: 111
+  url: https://web.archive.org/web/20140711230531/http://teamwiess.com/assets/o-week-book-2014.pdf
+  local: teamwiess.com/oweek-books/2014-oweek-book.pdf
+  evidence: P
+  notes: First book to describe the wooden War Pig ("the pig will roll"). Has a history section.
+
+- key: oweek-2015
+  title: Wiess O-Week Book 2015
+  type: oweek-book
+  format: pdf
+  date: 2015
+  pages: 123
+  url: https://web.archive.org/web/20160506224841/http://teamwiess.com/assets/OWeekBook2015.pdf
+  local: teamwiess.com/oweek-books/2015-oweek-book.pdf
+  evidence: P
+
+- key: oweek-2016
+  title: Wiess O-Week Book 2016
+  type: oweek-book
+  format: pdf
+  date: 2016
+  pages: 70
+  url: https://web.archive.org/web/20160708224740/http://teamwiess.com/assets/OWeekBook2016.pdf
+  local: teamwiess.com/oweek-books/2016-oweek-book.pdf
+  evidence: P
+
+- key: owlmanac-2016
+  title: Owlmanac 2016 (Wiess O-Week supplement)
+  type: oweek-book
+  format: pdf
+  date: 2016
+  pages: 58
+  url: https://web.archive.org/web/20160708224806/http://teamwiess.com/assets/Owlmanac%202016.pdf
+  local: teamwiess.com/oweek-books/2016-owlmanac.pdf
+  evidence: P
+
+- key: oweek-2017
+  title: Wiess O-Week Book 2017
+  type: oweek-book
+  format: pdf
+  date: 2017
+  pages: 73
+  url: https://web.archive.org/web/20170714225151/http://teamwiess.com/newstudents/OWeekBook.pdf
+  local: teamwiess.com/oweek-books/2017-oweek-book.pdf
+  evidence: P
+
+- key: wiess-60th-faq-2017
+  title: Wiess 60th Anniversary FAQ (2017)
+  type: oweek-book
+  format: pdf
+  date: 2017
+  pages: 4
+  url: https://web.archive.org/web/20171110225611/http://teamwiess.com/60/faq/faq2.pdf
+  local: teamwiess.com/oweek-books/2017-60th-faq2.pdf
+  evidence: P
+
+- key: budget-2014-15
+  title: Wiess College public budget 2014–15
+  type: governing-document
+  format: pdf
+  date: 2014
+  url: https://web.archive.org/web/20140919225319/http://teamwiess.com/assets/public-2014-2015-budget---sheet1.pdf
+  local: teamwiess.com/oweek-books/2014-2015-public-budget.pdf
+  evidence: P

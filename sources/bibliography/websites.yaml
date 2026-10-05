@@ -1,0 +1,281 @@
+# The Wiess websites, archived. For a specific page version use the Wayback short form
+# [@wb <timestamp> <url>]; these entries are for citing a site or a stable page as a whole.
+
+- key: riceinfo-site
+  title: "The first Wiess website: riceinfo.rice.edu/projects/colleges/wiess/ (David M. Cunningham 1997, Ray Wagner 1999)"
+  type: website
+  date: 1997–2002
+  url: https://web.archive.org/web/20001119201200/http://riceinfo.rice.edu:80/projects/colleges/wiess/
+  local: riceinfo.rice.edu-wiess/ (text in text/, reading guide DIGEST.md)
+  evidence: P
+  notes: >
+    116 page versions captured Jan 1998 – Jun 2002; also served as www.rice.edu/projects/colleges/wiess/
+    (Aug 2000 – Jun 2001). Sections: college (history, gloss, crest, architecture, rooms, theman, photos),
+    traditions (index, beerbike, battlesows, teamwiess, ubangee, pumpkin, jamfest, collegenight, crack,
+    hanszensucks, norse, tieday), people, rules, news/minutes. Three sections transcribe the 1994 Freshman Handbook.
+
+- key: riceinfo-traditions-1997
+  title: "Wiess Traditions index, riceinfo site (Cunningham, 11 Aug 1997; capture 31 Jan 1998)"
+  type: website
+  date: 1997-08-11
+  url: https://web.archive.org/web/19980131012203/http://riceinfo.rice.edu/projects/colleges/wiess/traditions/index.html
+  local: riceinfo.rice.edu-wiess/text/traditions__index.html__19980131012203.md
+  evidence: P
+  notes: The three-tier taxonomy — Older Than Time / We'd Sure Like To See Continue / Sadly Seem To Be Dying Out.
+
+- key: riceinfo-traditions-1999
+  title: "Wiess Traditions index, riceinfo site (Wagner revision, 30 Dec 1999; capture 9 Oct 2000)"
+  type: website
+  date: 1999-12-30
+  url: https://web.archive.org/web/20001009190226/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/index.html
+  local: riceinfo.rice.edu-wiess/text/traditions__index.html__20001009190226.md
+  evidence: P
+
+- key: riceinfo-history
+  title: "Wiess history page, riceinfo site (text 'from the 1994 Freshman Handbook')"
+  type: website
+  date: 1994
+  url: https://web.archive.org/web/20001207061800/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/history.html
+  local: riceinfo.rice.edu-wiess/text/college__history.html__20001207061800.md
+  evidence: P
+
+- key: riceinfo-theman
+  title: "'The Man' — Harry Carothers Wiess, riceinfo site"
+  type: website
+  date: 1994
+  url: https://web.archive.org/web/20001207093500/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/theman.html
+  local: riceinfo.rice.edu-wiess/text/college__theman.html__20001207093500.md
+  evidence: P
+
+- key: riceinfo-architecture
+  title: "Architecture of Old Wiess, riceinfo site (Cunningham)"
+  type: website
+  date: 1997
+  url: https://web.archive.org/web/20001207040500/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/architecture.html
+  local: riceinfo.rice.edu-wiess/text/college__architecture.html__20001207040500.md
+  evidence: P
+
+- key: riceinfo-rooms
+  title: "Rooms of Old Wiess, riceinfo site (from the 1995 Freshman Handbook, with floor plan)"
+  type: website
+  date: 1995
+  url: https://web.archive.org/web/20001207084400/http://riceinfo.rice.edu:80/projects/colleges/wiess/college/rooms.html
+  local: riceinfo.rice.edu-wiess/text/college__rooms.html__20001207084400.md
+  evidence: P
+
+- key: riceinfo-masters
+  title: "Masters page, riceinfo site ('From the '94 Freshman Handbook', updated 1999)"
+  type: website
+  date: 1994–1999
+  url: https://web.archive.org/web/20001208204400/http://riceinfo.rice.edu:80/projects/colleges/wiess/people/masters.html
+  local: riceinfo.rice.edu-wiess/text/people__masters.html__20001208204400.md
+  evidence: P
+
+- key: riceinfo-teamwiess
+  title: "'Team Wiess' tradition page, riceinfo site (Wagner, 1999)"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20020225120540/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/teamwiess.html
+  local: riceinfo.rice.edu-wiess/text/traditions__teamwiess.html__20020225120540.md
+  evidence: P
+
+- key: riceinfo-ubangee
+  title: "'Ubangee' tradition page, riceinfo site (Wagner, 1999)"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20020107020729/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/ubangee.html
+  local: riceinfo.rice.edu-wiess/text/traditions__ubangee.html__20020107020729.md
+  evidence: P
+
+- key: riceinfo-beerbike
+  title: "'Beer Bike' tradition page, riceinfo site (Wagner, June 1999)"
+  type: website
+  date: 1999-06
+  url: https://web.archive.org/web/20010219002703/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/beerbike.html
+  local: riceinfo.rice.edu-wiess/text/traditions__beerbike.html__20010219002703.md
+  evidence: P
+
+- key: riceinfo-pumpkin
+  title: "'Pumpkin Caroling' tradition page, riceinfo site (Wagner, 1999)"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20000520000037/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/pumpkin.html
+  local: riceinfo.rice.edu-wiess/text/traditions__pumpkin.html__20000520000037.md
+  evidence: P
+
+- key: riceinfo-battlesows
+  title: "'Battle Sows — 1999 Powder Puff Champions', riceinfo site"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002644/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/battlesows.html
+  local: riceinfo.rice.edu-wiess/text/traditions__battlesows.html__20010219002644.md
+  evidence: P
+
+- key: riceinfo-collegenight
+  title: "'College Night (and Entertainment)' page, riceinfo site (Wagner, 1999)"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002612/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/collegenight.html
+  local: riceinfo.rice.edu-wiess/text/traditions__collegenight.html__20010219002612.md
+  evidence: P
+
+- key: riceinfo-crack
+  title: "'The WiessCrack' page, riceinfo site (Jeremy Hart / Wagner)"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002716/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/crack.html
+  local: riceinfo.rice.edu-wiess/text/traditions__crack.html__20010219002716.md
+  evidence: P
+
+- key: riceinfo-jamfest
+  title: "'JamFest' page, riceinfo site"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002739/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/jamfest.html
+  local: riceinfo.rice.edu-wiess/text/traditions__jamfest.html__20010219002739.md
+  evidence: P
+
+- key: riceinfo-norse
+  title: "'Norse Night' page, riceinfo site"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002832/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/norse.html
+  local: riceinfo.rice.edu-wiess/text/traditions__norse.html__20010219002832.md
+  evidence: P
+
+- key: riceinfo-tieday
+  title: "'Unnecessary Tie Day' page, riceinfo site"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002512/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/tieday.html
+  local: riceinfo.rice.edu-wiess/text/traditions__tieday.html__20010219002512.md
+  evidence: P
+
+- key: riceinfo-hanszensucks
+  title: "'What time is it?' (Hanszen sucks) page, riceinfo site"
+  type: website
+  date: 1999
+  url: https://web.archive.org/web/20010219002459/http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/hanszensucks.html
+  local: riceinfo.rice.edu-wiess/text/traditions__hanszensucks.html__20010219002459.md
+  evidence: P
+
+- key: teamwiess-site
+  title: "teamwiess.com (Dec 2001 – 2021), the college's own domain"
+  type: website
+  date: 2001–2021
+  url: https://web.archive.org/web/2005*/teamwiess.com*
+  local: teamwiess.com/ (index.tsv; mirror/)
+  evidence: P
+  notes: >
+    Eras: 2001–02 v1 (wiess_dedication.html, photo of the week, UBB forum); 2003–04 O-Week site and 2003
+    book PDFs; 2004–06 view.php pages (history.php May 2005); 2006–07 index.php?module=page; 2007 static
+    html; 2008 index.php?r=…; phpBB forum Aug 2007–Dec 2008 (2009 spam flood); 2009–11 *.php; 2014–17
+    static html + /phone/ mirror; 2020–21 /government, /resources. Cite a page version with [@wb ts url].
+
+- key: teamwiess-history-2005
+  title: "teamwiess.com history page (view.php?Page=history, May 2005)"
+  type: website
+  date: 2005-05
+  url: https://web.archive.org/web/2005*/teamwiess.com/view.php?Page=history*
+  local: teamwiess.com/mirror/teamwiess.com/view.php (see index.tsv for the 2005 capture)
+  evidence: P
+  notes: Ancestor of the wiess.rice.edu history text; says the Team Wiess chant debuted "around the time of Beer Bike in 1974"; no War Pig paragraph yet. Replace the url with the exact capture when citing.
+
+- key: teamwiess-dedication-2001
+  title: "New Wiess dedication planning page, teamwiess.com (Dec 2001)"
+  type: website
+  date: 2001-12
+  url: https://web.archive.org/web/20011212000000*/teamwiess.com/wiess_dedication.html
+  local: teamwiess.com/mirror/teamwiess.com/wiess_dedication.html/
+  evidence: P
+  notes: '"Have both war pigs flying first thing in the morning!" Replace with the exact capture when citing.'
+
+- key: wiess-rice-edu
+  title: "wiess.rice.edu (Oct 2014 – present), the current college site"
+  type: website
+  date: 2014–
+  url: https://wiess.rice.edu/
+  local: wiess.rice.edu/
+  evidence: P
+  notes: /about/history ("In 1983, Wiess' mascot, the War Pig, made its debut… wooden warpig in time for Beer Bike 2012"); /about/traditions has no War Pig entry; /government/* rosters 2023–24.
+
+- key: wiessassociates-site
+  title: "Associates of Wiess College blog, wiessassociates.rice.edu (2012–2017)"
+  type: website
+  date: 2012–2017
+  url: https://web.archive.org/web/2017*/wiessassociates.rice.edu*
+  local: offsite/wiessassociates.rice.edu/ (queued)
+  evidence: P
+  notes: >
+    Retired by Rice (HTTP 410). "Wiess 101 for Associates" — the Schaefers' expectations list; a Wiess
+    Traditions page (Summit, Filmfest, Ubangee, Pumpkin Caroling); "A Celebration of the Byrds" (25 Apr 2016).
+    Traditions page: web.archive.org/web/2017/https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/
+
+- key: wiessmentors-site
+  title: "Wiess Mentors program site, wiessmentors.rice.edu (2011–2013)"
+  type: website
+  date: 2011–2013
+  url: https://web.archive.org/web/2013*/wiessmentors.rice.edu*
+  local: offsite/wiessmentors.rice.edu/ (queued)
+  evidence: P
+  notes: Retired (HTTP 410). Mentors 2011–12 and 2012–13; Coffee in the Commons, Dinner Discussions, HumaniTEA Party, Research BBQ.
+
+- key: wiess-wordpress
+  title: "Team Wiess: The Official Blog of Wiess College (wiess.wordpress.com, 2011–2014)"
+  type: blog
+  date: 2011–2014
+  url: https://web.archive.org/web/2013*/wiess.wordpress.com*
+  local: wiess.wordpress.com/ (mirror of the 52 archived URLs)
+  evidence: P
+  notes: Cabinet minutes written as comedy, weekly newsletters, SOW Report, Beer Bike 2014 theme; now private on WordPress.com.
+
+- key: maxham-pig-document
+  title: "Mark Maxham '90, 'War Pig Design Document' (interstice.com/~max/pig.html, 1998)"
+  type: website
+  date: 1998
+  url: http://interstice.com/~max/pig.html
+  evidence: R
+  notes: Builder of Pig #3 (1989–90) on Pigs #1–#3, quoting Jeff Zweig '84 on the origin of the name. Mirror at maxham.com/mark/pig.html is identical. Live in 2026.
+
+- key: hanszen-traditions
+  title: "Hanszen College — Traditions (hanszen.rice.edu/about/traditions)"
+  type: website
+  date: current
+  url: https://hanszen.rice.edu/about/traditions
+  evidence: R
+  notes: The rival's account — the roast pig at Powderpuff, "Jailbreak", the "Wiess Wall".
+
+- key: edesigns-old-wiess-2002
+  title: "Colin Delany (Wiess '91), 'wiess college — abandoned' — photographs of the emptied Old Wiess, August 2002"
+  type: website
+  date: 2002-08
+  url: http://edesigns-graphics.com/wiess/
+  local: offsite/edesigns-graphics.com_wiess/
+  evidence: P
+  notes: 35 colour photographs (hallways, windows, details, spaces; the 1975 dedication plaque) and an "About Wiess" essay. Live after 24 years; mirrored in full.
+
+- key: machado-silvetti-wiess
+  title: "Machado and Silvetti Associates — Wiess College Residence and Dining Hall (project page)"
+  type: website
+  date: 2002
+  url: https://www.machado-silvetti.com/wiess-college-residence-and-dining-hall
+  local: offsite/machado-silvetti.com/
+  evidence: P
+  notes: Design architects of New Wiess; master plan, 228-bed dormitory round a courtyard, single-loaded open-air corridors with ivy screens; BSA Design Excellence in Housing 2004; site plan and elevations.
+
+- key: kirksey-wiess
+  title: "Kirksey Architecture — Rice University New Wiess College (portfolio page)"
+  type: website
+  date: 2002
+  url: https://deq0lwah6h8rm.cloudfront.net/portfolio/projects/rice-university-new-weiss-college
+  local: offsite/portfolio-cloudfront/
+  evidence: P
+  notes: Architect of record with Machado and Silvetti; "the first new dormitory in 25 years"; 163,500 sf; 230 beds; 13,000-sf dining hall and 15,000-sf shared kitchen/servery.
+
+- key: rice-magazine-2016
+  title: "Rice Magazine, Nov 2016 — 'Traditions: Wiess College'"
+  type: magazine
+  date: 2016-11
+  url: https://magazine.rice.edu/2016/11/traditions-wiess-college/
+  evidence: R
+  notes: '"1983… small facsimile made of pig iron"; the wheeled "small bus-sized" pig dragged by freshmen. Exact article URL to be added.'

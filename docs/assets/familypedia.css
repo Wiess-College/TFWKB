@@ -1,0 +1,65 @@
+/* Team Familypedia — black and gold, legible, printable */
+:root {
+  --fp-gold: #c9a227;
+  --fp-gold-soft: #f3e7bf;
+  --fp-ink: #1a1a1a;
+}
+[data-md-color-scheme="slate"] {
+  --fp-gold-soft: #4a3f1c;
+}
+
+.md-header, .md-tabs { border-bottom: 3px solid var(--fp-gold); }
+
+/* citations rendered by hooks/citations.py */
+a.cite, span.cite {
+  font-family: var(--md-code-font-family);
+  font-size: 0.72em;
+  vertical-align: super;
+  line-height: 0;
+  color: var(--md-default-fg-color--light);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--fp-gold);
+  margin-left: 0.1em;
+  white-space: nowrap;
+}
+a.cite:hover { color: var(--md-accent-fg-color); border-bottom-style: solid; }
+span.cite-unknown { color: #b00020; border-bottom: 2px solid #b00020; }
+span.cite-nolink { border-bottom-style: dashed; }
+
+/* evidence badges */
+.ev {
+  display: inline-block;
+  font-family: var(--md-code-font-family);
+  font-size: 0.7em;
+  font-weight: 700;
+  line-height: 1.4;
+  padding: 0 0.4em;
+  border-radius: 3px;
+  margin-right: 0.3em;
+  vertical-align: 0.1em;
+  cursor: help;
+}
+.ev-P { background: #1e6b3a; color: #fff; }
+.ev-R { background: var(--fp-gold); color: var(--fp-ink); }
+.ev-T { background: #6b6b6b; color: #fff; }
+
+/* timeline tables: tighter */
+.md-typeset table.timeline td { vertical-align: top; }
+
+/* bibliography */
+dl.bib dt { margin-top: 1em; font-weight: 600; }
+dl.bib dt code { font-weight: 400; background: var(--fp-gold-soft); }
+dl.bib dd { margin-left: 1.5em; color: var(--md-default-fg-color--light); }
+
+/* "as seen in <year>" sidebars */
+.md-typeset .admonition.quote, .md-typeset details.quote { border-color: var(--fp-gold); }
+.md-typeset .quote > .admonition-title, .md-typeset .quote > summary { background-color: var(--fp-gold-soft); }
+.md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before { background-color: var(--fp-gold); }
+
+/* review footer */
+.reviewed { font-size: 0.75em; color: var(--md-default-fg-color--light); border-top: 1px solid var(--md-default-fg-color--lightest); margin-top: 2.5em; padding-top: 0.5em; }
+
+@media print {
+  a.cite::after { content: " (" attr(href) ")"; font-size: 0.8em; }
+  .md-sidebar, .md-header, .md-tabs, .md-footer { display: none !important; }
+}

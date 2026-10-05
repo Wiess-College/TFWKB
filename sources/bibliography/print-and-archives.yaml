@@ -1,0 +1,188 @@
+# The Rice Thresher, the Campanile, Rice History Corner, archives, artifacts.
+# Thresher pages: cite [@portal <ark> p.N] (Portal to Texas History page permalink), or [@thresher-web ...]
+# for ricethresher.org articles. Campanile pages: the college holds scans in artifacts/campanile-pages/.
+
+- key: thresher-portal
+  title: "The Rice Thresher, 1916–c.2009, digitised with OCR at the Portal to Texas History (UNT)"
+  type: newspaper
+  date: 1916–2009
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: >
+    Ark IDs are sequential by issue (Vol.71 No.1 = metapth245533 … Vol.72 No.4 = metapth245566).
+    Per-page OCR at /ark:/67531/<id>/m1/<page>/ocr/; per-issue hit snippets at /ark:/67531/<id>/hits/?format=json&q=<query>.
+    Cite a page as [@portal metapth245573 p.27].
+
+- key: thresher-web
+  title: "The Rice Thresher online (ricethresher.org), c.2009–present"
+  type: newspaper
+  date: 2009–
+  url: https://www.ricethresher.org/
+  evidence: P
+  notes: Site search renders nothing; /section/news?page=N paginates the archive; article slugs end in -YYYYMMDD. Cite the article URL in the locator.
+
+- key: thresher-2002-02-01
+  title: "Rice Thresher, 1 Feb 2002, p.11 — feature on Wiess traditions and the War Pig (Zweig interviewed)"
+  type: newspaper
+  date: 2002-02-01
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: Says the Team Wiess chant dates from 1984; Wiess coed spring 1983. Ark to be added.
+
+- key: thresher-2004-03-26
+  title: "Rice Thresher, 26 Mar 2004, p.9 — the commercial pig balloon lost at Beer Bike (Bill Wilson quoted)"
+  type: newspaper
+  date: 2004-03-26
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: $4,500 balloon bought with capital-improvement funds before Aug 2002; cord cut 20 Mar 2004. Ark to be added.
+
+- key: thresher-2021-09-15
+  title: "Hajera Naveed and Bonnie Zhao, 'Rice students discuss legality of moderating hate speech on campus', Rice Thresher, 15 Sep 2021"
+  type: newspaper
+  date: 2021-09-15
+  url: https://www.ricethresher.org/
+  evidence: P
+  notes: Wiess adding a hate-speech clause to its constitution; President Varun Kukunoor and Diversity Facilitator Alizay Azeem quoted. Article URL to be added.
+
+- key: thresher-2024-04-10
+  title: "Rice Thresher, 10 Apr 2024 — Beer Bike coverage: the inflatable pig 'oink oink bitches'"
+  type: newspaper
+  date: 2024-04-10
+  url: https://www.ricethresher.org/
+  evidence: P
+  notes: '"a Wiess tradition that got resurrected this year after dying out in years past". Article URL to be added.'
+
+- key: campanile-1984
+  title: "The Campanile 1984, Wiess pages (p.371: Zweig 'WARPIG 1984' sign-off; Martinez 'Battle Sow')"
+  type: yearbook
+  date: 1984
+  local: artifacts/campanile-pages/campanile1984_p371_zweig-warpig-1984-martinez-battle-sow.pdf
+  evidence: P
+  notes: Earliest print appearance of the word "Warpig". Scan held by the college; Rice's repository copy not publicly reachable.
+
+- key: campanile-1985
+  title: "The Campanile 1985, p.283 — NOD 1984 'Animal Farm', the 12-foot pig"
+  type: yearbook
+  date: 1985
+  local: artifacts/campanile-pages/campanile1985_p283pdf_NOD-1984-animal-farm-12-foot-pig.pdf
+  evidence: P
+  notes: Earliest photograph of a War Pig effigy (the chicken-wire NOD pig of 26 Oct 1984).
+
+- key: campanile-1987
+  title: "The Campanile 1987, p.320 — 'Pre-flight for the Battle Sow' (Pig #2, Beer Bike 1987)"
+  type: yearbook
+  date: 1987
+  local: artifacts/campanile-pages/campanile1987_p320_pre-flight-for-the-battle-sow.pdf
+  evidence: P
+
+- key: campanile-1988
+  title: "The Campanile 1988, p.268 — 'War Pig… Pig Master Jorge Martin-de-Nicolas'"
+  type: yearbook
+  date: 1988
+  url: https://archive.org/details/campanile1988rice
+  local: artifacts/campanile-pages/campanile1988_p268_war-pig-pig-master.pdf
+  evidence: P
+  notes: The 1988 volume is on archive.org; confirm the item identifier.
+
+- key: campanile-1989
+  title: "The Campanile 1989, p.302 — 'Inside the Wiess Pig — the rebirth'"
+  type: yearbook
+  date: 1989
+  local: artifacts/campanile-pages/campanile1989_p302_inside-the-wiess-pig-rebirth.pdf
+  evidence: P
+
+- key: campanile-1991
+  title: "The Campanile 1991, p.281 — 'The War Pig flies!'"
+  type: yearbook
+  date: 1991
+  local: artifacts/campanile-pages/campanile1991_p281_the-war-pig-flies.pdf
+  evidence: P
+
+- key: campanile-1993
+  title: "The Campanile 1993, p.261 — 'The War Pig'"
+  type: yearbook
+  date: 1993
+  local: artifacts/campanile-pages/campanile1993_p261_the-war-pig.pdf
+  evidence: P
+
+- key: campanile-1996
+  title: "The Campanile 1996, p.321 — 'Helium + Trash Bags + Duct Tape = Pig'"
+  type: yearbook
+  date: 1996
+  local: artifacts/campanile-pages/campanile1996_p321_helium-trash-bags-duct-tape.pdf
+  evidence: P
+
+- key: campanile-1999
+  title: "The Campanile 1999, pp.238–239 — 'Wiess Style' essay; senior wills"
+  type: yearbook
+  date: 1999
+  local: artifacts/campanile-pages/campanile1999_p238_wiess-style-essay.pdf
+  evidence: P
+
+- key: campanile-2012
+  title: "The Campanile 2012, p.172 — 'Trojan Warpig', the wooden pig at Beer Bike 2012"
+  type: yearbook
+  date: 2012
+  local: artifacts/campanile-pages/campanile2012_p172_trojan-warpig.pdf
+  evidence: P
+
+- key: rhc
+  title: "Rice History Corner (Melissa Kean, Rice University archivist), blog with alumni comment threads"
+  type: blog
+  date: 2010–2025
+  url: https://ricehistorycorner.com/
+  local: ricehistorycorner.com/ (151 posts + 1,164 comments; posts/<date>_<slug>.md, index.tsv)
+  evidence: R
+  notes: >
+    The site's own search for "war pig" returns nothing; the War Pig material is in comments. Cite a post
+    as [@rhc <date> <slug>] and quote the commenter and date; treat comments as [T] testimony.
+
+- key: rhc-2021-12-10-im-pissed
+  title: "Rice History Corner, '\"I'm pissed,\" no date' (10 Dec 2021) — the War Pig comment thread"
+  type: blog
+  date: 2021-12-10
+  url: https://ricehistorycorner.com/2021/12/10/im-pissed-no-date/
+  local: ricehistorycorner.com/posts/2021-12-10_im-pissed-no-date.md
+  evidence: T
+  notes: Photograph from the Bill Wilson papers of the black pig lettered "I'M PISSED"; comments by Dave McCooey and others on the 1980s–90s pigs, the mylar rebuild and the vetoed hydrogen idea.
+
+- key: woodson-ua0079
+  title: "Wiess College Records, UA 0079, Woodson Research Center, Fondren Library"
+  type: archive
+  date: 1950–
+  url: https://library.rice.edu/woodson
+  evidence: P
+  notes: Cabinet minutes and governing documents from 1950. The source for the pre-1993 constitutions. Finding-aid URL to be added.
+
+- key: warpig-core-deck
+  title: "Wiess War Pig core team, 'War Pigs' pitch deck (c.2024–25)"
+  type: artifact
+  date: 2024
+  local: artifacts/warpigtedtalk/ (slides.md, captions.tsv, images/)
+  evidence: T
+  notes: Photographs 1991–2024 (Greenbriar Lot 1991; Old Wiess Acabowl build; the 2002 orange balloon; the 2024 inflatable) and the 2024 build story. Testimony with photographs; the deck's dates are checked against print in the War Pig page.
+
+- key: warpig-photos
+  title: "Photographs of the wooden War Pig on its trailer (c.2012–16) and Mark Maxham's Pig #3 design sketch (1989–90)"
+  type: artifact
+  date: 1989–2016
+  local: artifacts/photos/
+  evidence: P
+
+- key: warpig-note-loryn
+  title: "Note inside the current wooden War Pig, signed 'Loryn H. \\'21'"
+  type: artifact
+  date: c.2017–2021
+  evidence: P
+  notes: '"If you decide to rebuild this pig, do NOT just copy each piece. They are not equal.. It is a nightmare." Physical object; to be photographed.'
+
+- key: class-council-06-historian
+  title: "Class Council '06 Historian Position Application (jwh06.wiess.rice.edu, April 2003)"
+  type: artifact
+  format: pdf
+  date: 2003-04
+  url: https://web.archive.org/web/20030416id_/http://jwh06.wiess.rice.edu/cc06/Historian%20Application.pdf
+  local: artifacts/class-council-06-historian/Historian_Application_2003.pdf
+  evidence: P
+  notes: Earliest written description of a student historian role at Rice that we hold; a Class, not college, position.

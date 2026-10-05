@@ -1,0 +1,114 @@
+# Sources added by writer traditions-2 (Battle Sows, Summit, FilmFest, JamFest, Wiess Day,
+# College Night, Fort Wiess, DOME & Big Bang, Baker 13 Defense Force, the Hanszen rivalry and the
+# retired traditions). Same fields as the other files. Specific captures are cited inline with
+# [@wb <timestamp> <url>]; these entries name the page or issue as a whole.
+
+- key: thresher-1983-09-30
+  title: "Rice Thresher, 30 Sep 1983, p.15 — 'Battle Sows' in the women's intramural standings"
+  type: newspaper
+  date: 1983-09-30
+  url: https://texashistory.unt.edu/ark:/67531/metapth245539/m1/15/
+  evidence: P
+  notes: >
+    Earliest print trace of the name, the semester after Wiess went coed. Found by the historian in the
+    Portal OCR; the page text is not held in the corpus and the Portal was unreachable from the build
+    environment on 2026-10-04, so the exact wording is still to be transcribed. Cite the page as
+    [@portal metapth245539 p.15].
+
+- key: thresher-1983-10-07
+  title: "Rice Thresher, 7 Oct 1983, p.20 — 'Battle Sows' again in the intramural standings"
+  type: newspaper
+  date: 1983-10-07
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: Second print trace. Ark id to be added (the issue after metapth245539).
+
+- key: thresher-2001-04-06
+  title: "Rice Thresher, 6 Apr 2001, p.29 — Beer Bike 2001: 'Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon'"
+  type: newspaper
+  date: 2001-04-06
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: The parade season in which Wiess's wooden build was a fort, not a pig. Ark id to be added.
+
+- key: thresher-2002-04-05
+  title: "Rice Thresher, 5 Apr 2002, pp.6 and 27 — Beer Bike 2002 photographs: 'Team Wiess's battle sow flying high in the sky' over the Wiess fort"
+  type: newspaper
+  date: 2002-04-05
+  url: https://texashistory.unt.edu/explore/collections/TRT/
+  evidence: P
+  notes: >
+    The only contemporary record of Fort Wiess we hold a reference to; the pages themselves are not in
+    the corpus. Also the last print use of "battle sow" for the pig balloon. Ark id to be added.
+
+- key: riceinfo-cabinet
+  title: "Cabinet page, riceinfo site (rosters Feb 1999 – Feb 2001; Internal VP 'responsible for Summit, Pumpkin Caroling')"
+  type: website
+  date: 1999–2001
+  url: https://web.archive.org/web/19990219085339/http://riceinfo.rice.edu:80/projects/colleges/wiess/people/cabinet.html
+  local: riceinfo.rice.edu-wiess/text/people__cabinet.html__19990219085339.md (and four later captures)
+  evidence: P
+  notes: Earliest attestation of Summit as a Wiess event; the same sentence recurs in the Oct 1999, Dec 2000 and Feb 2001 captures with new officers' names.
+
+- key: teamwiess-jamfest-site
+  title: "Jamfest sub-site, teamwiess.com/Jamfest/ (main, bands, playlist, news) — the 2005 edition as captured Feb 2007 and the 2007 edition as captured Jul 2007"
+  type: website
+  date: 2005–2007
+  url: https://web.archive.org/web/20070206202205/http://www.teamwiess.com:80/Jamfest/main.htm
+  local: teamwiess.com/mirror/teamwiess.com/Jamfest/
+  evidence: P
+  notes: >
+    Feb 2007 captures still show Jamfest 2005 ("Friday April 15th, 2005", 4:00pm–2:00am, The Junior Varsity
+    headlining, fourteen acts on two stages); Jul 2007 captures show Jamfest 2007 ("Friday April 14th, 2007"
+    — a Saturday — 2:00pm–2:00am, General Noise headlining, ten acts). The 2007 static site's jamfest.html
+    links to it as "an older Jamfest site".
+
+- key: teamwiess-lastnotes-2008
+  title: "'Last Cabinet Notes' — O-Week Themed Cabinet, 28 Aug 2008, teamwiess.com (index.php?r=lastnotes)"
+  type: website
+  date: 2008-08-28
+  url: https://web.archive.org/web/20080903215453/http://teamwiess.com/index.php?r=lastnotes
+  local: teamwiess.com/mirror/teamwiess.com/index.php?r=lastnotes/teamwiess.com/20080903215453__index.php__r=lastnotes.html
+  evidence: P
+  notes: >
+    Comic minutes of the first Cabinet of 2008–09. Summit venue debated ("the boat club like last year for
+    $300 and a normal beach for $50"), Summit dated to the weekend of 20 Sep 2008; $832.69 approved for
+    new powderpuff jerseys; the Socials' budget for the First Party of the Year.
+
+- key: teamwiess-traditions-2014
+  title: "teamwiess.com/traditions.html (Jun 2014 – Mar 2015): Ubangee, Wiess Day, Summit, then Jazz Night, NOD, Salsa Night, Big Bang, College Night"
+  type: website
+  date: 2014–2015
+  url: https://web.archive.org/web/20150313224552/http://teamwiess.com/traditions.html
+  local: teamwiess.com/mirror/teamwiess.com/traditions.html/
+  evidence: P
+  notes: >
+    Ten captures, 27 Jun 2014 – 13 Mar 2015 (plus a /phone/ mirror). The June 2014 version has three
+    traditions and a "Jazz Night" heading whose text is a pasted copy of the Wiess Day paragraph; by March
+    2015 five more entries had been added, with Big Bang and College Night each appearing twice. The text
+    is the 2014 O-Week book's, lightly edited. "In the spring of 2008, a new tradition began: Wiess Day!"
+    No traditions page survives from the 2016–17 site.
+
+- key: rhc-2015-01-23-wiess-crack
+  title: "Rice History Corner, 'Friday Follies: Wiess Crack' (23 Jan 2015) — a 1968 cover of the Wiess Crack"
+  type: blog
+  date: 2015-01-23
+  url: https://ricehistorycorner.com/2015/01/23/friday-follies-wiess-crack/
+  local: ricehistorycorner.com/posts/2015-01-23_friday-follies-wiess-crack.md
+  evidence: P
+  notes: >
+    Two scans of a Wiess Crack cover (image files named "wiess-crack-2-29-68"); Kean dates it to "the fall
+    of 1968" and calls the 1960s "the Golden Age of college newsletters at Rice". The fifteen comments wander
+    to beanies, NOD and Hello, Hamlet; none describes the Crack itself.
+
+- key: rhc-2021-11-15-secession-1992
+  title: "Rice History Corner, 'Secession, 1992' (15 Nov 2021) — documents from Bill Wilson's papers labelled Wiess–Hanszen 1992"
+  type: blog
+  date: 2021-11-15
+  url: https://ricehistorycorner.com/2021/11/15/secession-1992/
+  local: ricehistorycorner.com/posts/2021-11-15_secession-1992.md
+  evidence: P
+  notes: >
+    Kean: "This is, of course, a complete mystery. If anyone can explain, please do." Image files are named
+    "Bill-Wilson-Wiess-Hanszen-1992"; the documents are not transcribed in the post and the three comments
+    do not explain them. A lead, not a source, for the Hanszen rivalry.

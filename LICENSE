@@ -1,0 +1,11 @@
+Team Familypedia — text, pages and data under docs/ and sources/
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International License
+(CC BY-SA 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Quoted material from third parties (the Rice Thresher, the Campanile, Rice History Corner,
+Rice Magazine and others) remains the property of its authors and is quoted briefly with
+attribution; see docs/contributing/rights.md.
+
+Code under tools/ and hooks/ is licensed under the MIT License; see LICENSE-CODE.
