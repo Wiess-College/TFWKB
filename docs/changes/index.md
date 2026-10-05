@@ -51,7 +51,7 @@ Fourteen changes that a Wiess student should know, across all decades.
 9. **2004–2006** — the commercial pig balloon floats away at Beer Bike 2004; by 2006 the glossary says "Former Wiess mascot" [@thresher-2004-03-26] [@oweek-2006 p.84]. → [2000s](2000s.md)
 10. **2008–2014** — Wiess Day begins in spring 2008 and by 2014 has replaced Jamfest in the glossary [@teamwiess-traditions-2014] [@oweek-2014 p.103]. → [2000s](2000s.md), [2010s](2010s.md)
 11. **2012** — the wooden War Pig, built by the Class of 2012; "the pig will roll" [@campanile-2012 p.172] [@oweek-2014 p.103]. → [2010s](2010s.md)
-12. **2016** — the Constitution of 26 January 2016: membership by the Dean of Undergraduates, search committees for the Master and RAs, Head Fellows and Deputy Justices written in [@constitution-2016]. → [2010s](2010s.md)
+12. **2016** — the Constitution of 26 January 2016: membership by the Dean of Undergraduates, search committees for the Magister[^magister] and RAs, Head Fellows and Deputy Justices written in [@constitution-2016]. → [2010s](2010s.md)
 13. **2021** — a clause banning hate speech added to the Constitution after students were reported to Wiess Court [@thresher-2021-09-15]. → [2020s](2020s.md)
 14. **2026** — "Masters" become "Magisters" and the Constitution absorbs the Bylaws in the "Complete Guiding Documents" of 23 February 2026; the inflatable pig had already returned in 2024 [@constitution-2026] [@thresher-2024-04-10]. → [2020s](2020s.md)
 
@@ -59,5 +59,8 @@ Fourteen changes that a Wiess student should know, across all decades.
 
 - The chronicle has almost nothing between 1957 and 1983 except retrospective sources. The Wiess College Records at Woodson (UA 0079) hold Cabinet minutes from 1950 [@woodson-ua0079].
 - Several "changes" are dated only by the first O-Week book that mentions them; the books of 2004, 2005, 2009 (parts 1, 3, 7), 2012 and 2013 were not captured, so a change dated "2006" or "2014" may be a year or two older [@oweek-2006] [@oweek-2014].
+
+
+[^magister]: Called "Master" until 2017; this site uses "Magister" for every period. Quotations keep their original wording.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

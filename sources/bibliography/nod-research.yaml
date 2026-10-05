@@ -1,0 +1,493 @@
+# Night of Decadence: the record of its troubles and the institution's responses, 1998–2025.
+# One entry per article actually read. Portal pages: url is the page permalink; the same page can be
+# cited inline as [@portal metapth<ID> p.N]. ricethresher.org: url is the article URL that resolved
+# (the /article/YYYY/MM/slug form; the -YYYYMMDD slug form often refuses automated readers).
+# Dates given as YYYY-MM are taken from the article URL where the date line could not be read.
+
+- key: nod-talk-magister
+  title: "'Research on NOD: Overview', talk by a Wiess Magister (slides)"
+  type: artifact
+  date: c.2024–2025
+  local: artifacts/nod-talk-magister/
+  evidence: R
+  notes: >
+    Broadly shared within the college; author not named here by choice. Given after NOD 2023 to explain
+    "what probation meant" and to "design an intervention to change NOD". Reads NOD's troubles as those of
+    a fraternity party (objectification of women, "toxic male behaviors", binge drinking on hard alcohol),
+    citing Thresher pieces from 1999, 2009, 2012, 2014, 2017, 2022 and 2023; lists university alcohol
+    changes "1999: Privates. 2012: Hard alcohol. 2023: Hard alcohol again."; and closes "Traditions define
+    identity. But identity also creates traditions."
+
+# --- 1998 ---------------------------------------------------------------------------------------
+
+- key: thresher-1998-10-30-nod-security
+  title: "Susan Egeland, 'NOD continues high security', Rice Thresher, 30 Oct 1998, p.7"
+  type: newspaper
+  date: 1998-10-30
+  url: https://texashistory.unt.edu/ark:/67531/metapth246631/m1/7/
+  evidence: P
+  notes: >
+    NOD 1998, "in its 25th year", theme "Silver Anniversary — NOD's Greatest Hits"; $6 tickets, non-Rice
+    guests only with a Rice ID holder; at least 50 student security and five Campus Police. Social
+    coordinator: "last year's socials thought that the party wasn't safe enough so they decided to restrict
+    who could get into the party by limiting it to Rice people and their guests."
+
+- key: thresher-1998-10-30-editorial
+  title: "Editorial, 'Go have fun at NOD, but remember the rules', Rice Thresher, 30 Oct 1998, p.2"
+  type: newspaper
+  date: 1998-10-30
+  url: https://texashistory.unt.edu/ark:/67531/metapth246631/m1/2/
+  evidence: P
+  notes: >
+    "remember that the person you grope at NOD may be sitting next to you in class on Monday … Things that
+    are definitely not acceptable include unwanted sexual advances." The same issue (p.4) carries a letter
+    listing past themes — "Lust in Space" (1994), "Dante's Inferno", "Co-eds in Chains" — and calling the
+    party "the 25th celebration".
+
+# --- 1999: the Magisters' letter and the replies --------------------------------------------------
+
+- key: thresher-1999-02-05-masters-letter
+  title: "Jen Frazer, 'Night of Decadence scrutinized, future uncertain: Group of masters asks Wiess to evaluate NOD', Rice Thresher, 5 Feb 1999, pp.1, 7"
+  type: newspaper
+  date: 1999-02-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth246638/m1/1/
+  evidence: P
+  notes: >
+    "Ten of the 16 college masters" asked Wiess to reconsider NOD in a letter of 26 Jan 1999 by Will Rice
+    Magisters Dale and Elise Sawyer, co-signed by the Magisters of Lovett, Hanszen, Baker and Jones; p.7 prints
+    excerpts ("Each of our two years at WRC, we have heard reasonable female students complain to peers
+    about being groped and grabbed, even after having said 'No,' at NOD"). The Wiess Magisters forwarded it to
+    VP for Student Affairs Zenaido Camacho under the sexual-harassment reporting rule; the Sid Richardson and
+    Brown Magisters had not signed ("I believe the members of Wiess College should decide the future of
+    Wiess College activities" — John Bennett, Sid Magister).
+
+- key: thresher-1999-02-05-wiess-cabinet
+  title: "Brian Stoler, 'Wiess students discuss NOD, form task force' / 'Wiess students divided on NOD's merits', Rice Thresher, 5 Feb 1999, pp.1, 7"
+  type: newspaper
+  date: 1999-02-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth246638/m1/7/
+  evidence: P
+  notes: >
+    About 80 Wiess members at Cabinet (3 Feb 1999). Some called the letter "an attack on their college's
+    autonomy" ("This letter completely disregards the power of this cabinet"); others agreed with it ("Let's
+    get drunk, let's get naked, let's hope we don't kill ourselves"). Cabinet took no action and formed a
+    task force.
+
+- key: thresher-1999-02-05-editorial
+  title: "Editorial, 'Letter infringes on student freedoms', Rice Thresher, 5 Feb 1999, p.2"
+  type: newspaper
+  date: 1999-02-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth246638/m1/2/
+  evidence: P
+  notes: >
+    The letter "is an attack on student self-governance within the college system, a system the masters have
+    a duty to protect"; "10 of the 16 masters acted independently of the Committee of Masters".
+
+- key: thresher-1999-02-12-reactions
+  title: "Julie Hollar, 'Students, university react to NOD letter', Rice Thresher, 12 Feb 1999, p.1"
+  type: newspaper
+  date: 1999-02-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth246639/m1/1/
+  evidence: P
+  notes: >
+    Camacho forms an ad hoc advisory committee to report by 5 March ("the letter was of great seriousness,
+    and it needs a serious inquiry and response"); fliers at Wiess against Dale Sawyer; the college
+    presidents mostly oppose the letter's approach. A Hanszen senior: "The things that happen at NOD are going
+    to happen whether you abolish NOD or not."
+
+- key: thresher-1999-02-12-letters
+  title: "Letters, 'Community speaks out about Night of Decadence', Rice Thresher, 12 Feb 1999, p.4"
+  type: newspaper
+  date: 1999-02-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth246639/m1/4/
+  evidence: P
+  notes: >
+    A page of letters on both sides: "Everyone on campus knows what NOD is, and if you go, you realize that
+    you are putting yourself in a compromising position" (Christopher Huff, Hanszen); "I've known too many
+    freshman women who were pressured into wearing things that felt extremely uncomfortable to them" (Stephen
+    Huey, Brown); "NOD's fate, and the fate of all Rice activities, should be in the hands of the students"
+    (Allyson McKenzie, Wiess); two Will Rice resident associates on the night's emergencies.
+
+- key: thresher-1999-02-12-masters-replies
+  title: "Statements by the college Magisters on the NOD letter, Rice Thresher, 12 Feb 1999, p.5"
+  type: newspaper
+  date: 1999-02-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth246639/m1/5/
+  evidence: P
+  notes: >
+    Each signing couple of Magisters explains itself (Jones: "It was not our intention that it become a campus-wide
+    issue"; Lovett: shift the party "away from its current emphasis on sex"); the Wiess Magisters, John and
+    Paula Hutchinson, "reject outright the contention that NOD promotes a 'cultural tolerance for and real risk
+    of sexual assault'" and note Wiess had already barred attendees with no Rice affiliation; the Sawyers:
+    "not as a demand that NOD be halted, but as a request that it be further modified". Also a freshman's
+    guest column, "Letter ignores student body".
+
+- key: thresher-1999-02-12-bonig
+  title: "Zach Bonig, 'NOD doesn't give us what we want', Rice Thresher, 12 Feb 1999, p.3"
+  type: newspaper
+  date: 1999-02-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth246639/m1/3/
+  evidence: P
+  notes: >
+    A Lovett senior's column: "The masters are members of this community, and they have the right to question
+    its practices as much as anyone"; "NOD needs to change or disappear."
+
+- key: thresher-1999-02-19-robinson
+  title: "Charlie Robinson (Wiess '75), letter 'NOD's critics need to act their age', Rice Thresher, 19 Feb 1999, p.4"
+  type: newspaper
+  date: 1999-02-19
+  url: https://texashistory.unt.edu/ark:/67531/metapth246640/m1/4/
+  evidence: P
+  notes: >
+    Signed "Organizer, Night of Decadence 1973, 1974"; a parent of two Rice students defending the party: "If
+    anyone is offended, they do not have to attend". Answered 26 Feb 1999 (metapth246641 p.2, "Debate
+    stifled on NOD").
+
+- key: thresher-1999-03-19-ad-hoc-report
+  title: "Jen Frazer and Brian Stoler, 'Colleges to take next step on NOD inquiry' / 'Report suggests survey to understand NOD's effects', Rice Thresher, 19 Mar 1999, pp.1, 5"
+  type: newspaper
+  date: 1999-03-19
+  url: https://texashistory.unt.edu/ark:/67531/metapth246643/m1/1/
+  evidence: P
+  notes: >
+    Camacho's ad hoc committee (three faculty, four college presidents, the UCourt chair, three staff, one
+    Magister) reported on Tuesday 16 March: "serious problems associated with Night of Decadence, problems that
+    are not peculiar to this event but that are most conspicuously associated with it"; it passed the issue to
+    the Magisters and presidents and proposed a survey. A member: "we couldn't find hard data to support the
+    statements in the letter".
+
+- key: thresher-1999-04-23-presidents
+  title: "J. Cameron Cooper, 'Presidents offer NOD changes' / 'Decency laws to be stressed at NOD', with 'The Presidents' NOD Recommendations', Rice Thresher, 23 Apr 1999, pp.1, 7"
+  type: newspaper
+  date: 1999-04-23
+  url: https://texashistory.unt.edu/ark:/67531/metapth246649/m1/1/
+  evidence: P
+  notes: >
+    The committee of the eight college presidents chaired by SA President Anne Countiss (ten meetings) sent
+    its report to Camacho on 20 April: O-Week education and open forums at each college, a security
+    coordinator and team at every college, lit paths, no non-Rice ticket sales at the door, "Eliminate
+    decorations of a sexual nature from public display". The Associate General Counsel advised changing "the
+    name and theme" to maximise the party's chance of continuing.
+
+- key: thresher-1999-04-23-alcohol-policy
+  title: "J. Cameron Cooper, 'Alcohol policy revised', Rice Thresher, 23 Apr 1999, p.1"
+  type: newspaper
+  date: 1999-04-23
+  url: https://texashistory.unt.edu/ark:/67531/metapth246649/m1/1/
+  evidence: P
+  notes: >
+    The 1986 alcohol policy revised by ABPAC (chaired by Sid Magister John Bennett) "in cooperation with the
+    college presidents' committee on Wiess College's Night of Decadence party" and approved by Camacho:
+    "Students who hold private parties are now required to register all kegs with the chief justice of their
+    college"; "Student monitors have been eliminated".
+
+- key: thresher-1999-05-25-board
+  title: "Jen Frazer, 'Board OKs more construction' (section 'NOD and the alcohol policy'), Rice Thresher, 25 May 1999, pp.1, 4"
+  type: newspaper
+  date: 1999-05-25
+  url: https://texashistory.unt.edu/ark:/67531/metapth246651/m1/1/
+  evidence: P
+  notes: >
+    "The board approved the direction of the NOD recommendations and the alcohol policy revisions"; the
+    Magisters' and presidents' survey on harassment "has since been put on hold"; NOD to be "revisited in the
+    fall".
+
+- key: thresher-1999-09-17-nod-plans
+  title: "'NOD plans discussed', Rice Thresher, 17 Sep 1999, p.5"
+  type: newspaper
+  date: 1999-09-17
+  url: https://texashistory.unt.edu/ark:/67531/metapth246654/m1/5/
+  evidence: P
+  notes: >
+    The Wiess socials, president and Magister meet Camacho and the VP of Student Judicial Affairs; "the overall
+    plan for NOD was submitted to Camacho during the meeting, and Camacho can ask for changes to the plan."
+
+- key: thresher-1999-09-24-decorations
+  title: "Eunice Song, 'NOD decorations out' / 'Wiess focuses on improving NOD safety', Rice Thresher, 24 Sep 1999, pp.1, 6"
+  type: newspaper
+  date: 1999-09-24
+  url: https://texashistory.unt.edu/ark:/67531/metapth246655/m1/1/
+  evidence: P
+  notes: >
+    "Wiess must eliminate all sexually explicit decorations in advertising and decorating for NOD, Vice
+    President for Student Affairs Zenaido Camacho decided last week." A Wiess social: "The administration was
+    forced to do something they didn't want to do because of liability." The Wiess Magister: earlier changes
+    (excluding unaccompanied non-Rice guests, ending the NOD punch) were made "because Wiess students wanted
+    them".
+
+- key: thresher-1999-09-24-editorial
+  title: "Editorial, 'Covering ourselves', Rice Thresher, 24 Sep 1999, p.2"
+  type: newspaper
+  date: 1999-09-24
+  url: https://texashistory.unt.edu/ark:/67531/metapth246655/m1/2/
+  evidence: P
+  notes: >
+    Applauds the security effort but calls the decoration ban "skewed": "restricting NOD's decorations is
+    merely the administration's attempt to limit potential liability".
+
+- key: thresher-1999-10-29-nod-tonight
+  title: "Eunice Song, 'NOD to be held tonight' / 'Wiess makes efforts for a safer NOD', Rice Thresher, 29 Oct 1999, pp.1, 6"
+  type: newspaper
+  date: 1999-10-29
+  url: https://texashistory.unt.edu/ark:/67531/metapth246659/m1/1/
+  evidence: P
+  notes: >
+    "Wiess College's 27th annual Night of Decadence party, themed the 'Wizard of NOD'"; Camacho "based his
+    final decision on this committee's recommendations"; lit paths, checkpoints, a security coordinator at
+    every college, three EMT teams, seven Campus Police; non-Rice tickets in advance only, $6 at the door for
+    Rice students. Page 7 notes a Houston Press feature, "NOD So Naughty".
+
+- key: thresher-1999-11-05-nod-report
+  title: "Laura Derr, 'Wiess holds undecorated, secure NOD' / 'Four NOD attendees taken to hospital', Rice Thresher, 5 Nov 1999, pp.1, 6"
+  type: newspaper
+  date: 1999-11-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth246660/m1/1/
+  evidence: P
+  notes: >
+    720 Rice students and about 95 non-Rice guests; three ambulance transports and one more hospital visit for
+    alcohol, the Will Rice cases from private parties; no arrests; "more subdued this year". A Hanszen junior:
+    "It lost some of its uniqueness." Correction 12 Nov 1999 (metapth246661 p.7): the body was the
+    "Presidents' Committee on NOD".
+
+# --- 2009–2014 -------------------------------------------------------------------------------------
+
+- key: thresher-2009-10-09-consent-week
+  title: "Notice, 'Consent Is Sexy Week' (Rice Women's Resource Center), Rice Thresher, 9 Oct 2009, p.6"
+  type: newspaper
+  date: 2009-10-09
+  url: https://texashistory.unt.edu/ark:/67531/metapth443072/m1/6/
+  evidence: P
+  notes: '"The Rice Women''s Resource Center is hosting a series of week-long events" — the earliest Portal hit for the phrase.'
+
+- key: thresher-2009-11-13-ohm
+  title: "Johanna Ohm, 'NOD enforces contorted body perceptions' (op-ed), Rice Thresher, 13 Nov 2009, p.3"
+  type: newspaper
+  date: 2009-11-13
+  url: https://texashistory.unt.edu/ark:/67531/metapth443022/m1/3/
+  evidence: P
+  notes: >
+    "I find it to be in sharp contrast with exactly what so many campus groups and organizations are working
+    against … I wonder why so many of us willingly attended an event so blatantly opposed to progressive
+    female ideals." Cites the "Consent is Sexy" Week; reports attendees calling the decorations "male-centric".
+
+- key: thresher-2011-02-25-probation
+  title: "Seth Brown and Ruby Gee, 'Alcohol: Probation announced', Rice Thresher, 25 Feb 2011, p.1"
+  type: newspaper
+  date: 2011-02-25
+  url: https://texashistory.unt.edu/ark:/67531/metapth398506/m1/1/
+  evidence: P
+  notes: >
+    Dean of Undergraduates John Hutchinson's e-mail of 24 Feb 2011 places the residential colleges "on alcohol
+    policy probation, effective immediately", citing "the abuse of hard alcohol — which he defined as anything
+    other than beer, wine or ale". Not tied to NOD in the report; a college president puts "95 percent" of EMS
+    transports down to hard liquor.
+
+- key: thresher-2011-09-02-letter
+  title: "Letter to the editor on the hard-alcohol probation, Rice Thresher, 2 Sep 2011, p.2"
+  type: newspaper
+  date: 2011-09-02
+  url: https://texashistory.unt.edu/ark:/67531/metapth398445/m1/2/
+  evidence: P
+  notes: >
+    A student leader: "the administration did not act unilaterally in instituting the hard alcohol probation";
+    "11 student presidents responded, strongly advocating for a plan that was entirely student-led"; the dean
+    would lift it after progress on education, college-court enforcement and caregiving.
+
+- key: thresher-2012-11-nod-transports
+  title: "'Controversy surrounds 11 NOD transports', Rice Thresher, Nov 2012"
+  type: newspaper
+  date: 2012-11
+  url: https://www.ricethresher.org/article/2012/11/controversy-surrounds-11-nod-transports
+  evidence: P
+  notes: >
+    Eleven ambulance transports on NOD night, one unrelated to the party; a former REMS in-charge alleges
+    students are "reluctantly and unnecessarily transported", the REMS director disputes it; Dean John
+    Hutchinson: "The problem that we are concerned about is a lack of healthy behavior." Byline and date line
+    not read.
+
+- key: thresher-2012-11-08-baran
+  title: "Brian Baran, 'After NOD, focus should not be on REMS, but on irresponsible drinking' (op-ed), Rice Thresher, 8 Nov 2012"
+  type: newspaper
+  date: 2012-11-08
+  url: https://www.ricethresher.org/article/2012/11/after-nod-focus-should-not-be-on-rems-but-on-irresponsible-drinking
+  evidence: P
+  notes: >
+    A Duncan sophomore: "Eleven students were hospitalized at this year's Night of Decadence … It is in
+    irresponsible behavior with regard to alcohol that the problem lies, not in our response to that
+    behavior."
+
+- key: thresher-2014-10-confer-status
+  title: "'Sexual activity should not confer status' (opinion), Rice Thresher, Oct 2014"
+  type: newspaper
+  date: 2014-10
+  url: https://www.ricethresher.org/article/2014/10/sexual-activity-should-not-confer-status
+  evidence: P
+  notes: >
+    Written ahead of NOD: "No one is 'owed' sex"; "So, this NOD, have all the same fun with a little less of
+    the chit-chat afterwards." Byline and date line not read.
+
+# --- 2022–2025 -------------------------------------------------------------------------------------
+
+- key: thresher-2022-10-04-consent-talks
+  title: "Thresher Editorial Board, 'Consent talks should be a conversation year-round', Rice Thresher, 4 Oct 2022"
+  type: newspaper
+  date: 2022-10-04
+  url: https://www.ricethresher.org/article/2022/10/consent-talks-should-be-a-conversation-year-round
+  evidence: P
+  notes: >
+    Endorses the consent and alcohol talks college governments give before NOD, and asks for them before the
+    first public: "These concerns don't start — or end — with NOD, and neither should the talks to address
+    them."
+
+- key: thresher-2023-10-50-years
+  title: "'Celebrating 50 years of Night of Decadence', Rice Thresher, Oct 2023"
+  type: newspaper
+  date: 2023-10
+  url: https://www.ricethresher.org/article/2023/10/celebrating-50-years-of-night-of-decadence
+  evidence: R
+  notes: >
+    "NOD started in 1972 when a group of Wiessmen poured all the alcohol they had on hand into a bathtub";
+    themes from 1976 ("Fall of Rome"), Armageddon (1982), "The Wizard of NOD" (1999), "Viva NOD Vegas: Go All
+    In" (2010); "In 2012 … 11 students were hospitalized due to drinking complications, nine of whom were
+    underage." Byline and date line not read.
+
+- key: thresher-2023-10-sex-doll
+  title: "'We are NOD your sex doll' (guest opinion, anonymous), Rice Thresher, Oct 2023"
+  type: newspaper
+  date: 2023-10
+  url: https://www.ricethresher.org/article/2023/10/we-are-nod-your-sex-doll
+  evidence: P
+  notes: >
+    Against the NOD 2023 theme ("NODie Dreamhouse", a Barbie theme): "a public theme that contributes to male
+    gaze, misogyny and heteronormativity should be avoided by all means." Published before the party.
+
+- key: thresher-2023-11-01-shutdown
+  title: "Brandon Chen, Prayag Gordy and Riya Misra, 'NOD shut down early after medical resources ‘overwhelmed,’ police altercation', Rice Thresher, 1 Nov 2023"
+  type: newspaper
+  date: 2023-11-01
+  url: https://www.ricethresher.org/article/2023/11/nod-shut-down-early-after-medical-resources-overwhelmed-police-altercation
+  evidence: P
+  notes: >
+    NOD ended nearly two hours early on 29 Oct 2023 when Rice crisis management shut it down; more than two
+    dozen treated on site, seven transported; three students handcuffed, six referred to Student Judicial
+    Programs. Wiess Chief Justice Renzo Espinoza: "all of Rice and Houston medical resources at NOD were
+    becoming completely overwhelmed."
+
+- key: thresher-2023-11-01-editorial
+  title: "Thresher Editorial Board, 'NOD shut down highlights a need for change', Rice Thresher, Nov 2023"
+  type: newspaper
+  date: 2023-11
+  url: https://www.ricethresher.org/article/2023/11/nod-shut-down-highlights-a-need-for-change
+  evidence: P
+  notes: >
+    "an alarming shift in alcohol and party culture at Rice"; "Banning hard alcohol or alcohol-related
+    gatherings will not stop people from drinking — but it could make them less likely to seek medical help."
+
+- key: thresher-2023-11-01-phelan
+  title: "Felicity Phelan, 'Letter to the Editor: No feminism without sex positivity', Rice Thresher, 1 Nov 2023"
+  type: newspaper
+  date: 2023-11-01
+  url: https://www.ricethresher.org/article/2023/11/letter-to-the-editor-no-feminism-without-sex-positivity
+  evidence: P
+  notes: >
+    Reply to "We are NOD your sex doll": "Just because sex — or, for that matter, Barbie — has been used to
+    stigmatize, degrade and marginalize women doesn't mean we don't have a right to take it back."
+
+- key: thresher-2023-11-07-public-health
+  title: "'NOD reveals a public health crisis. Admin should treat it like one.' (op-ed, anonymous), Rice Thresher, 7 Nov 2023"
+  type: newspaper
+  date: 2023-11-07
+  url: https://www.ricethresher.org/article/2023/11/nod-reveals-a-public-health-crisis-admin-should-treat-it-like-one
+  evidence: P
+  notes: '"There is no use in shaming the alcohol issues out of our students." Also reachable at /article/9055f719-569a-4c1b-8b8e-8fad39cc166e.'
+
+- key: fox26-2023-11-03
+  title: "'Rice University cancels on-campus student ‘public’ parties after ‘Night of Decadence’ hospitalizations', FOX 26 Houston, 3 Nov 2023"
+  type: newspaper
+  date: 2023-11-03
+  url: https://www.fox26houston.com/news/rice-halts-on-campus-student-public-parties-after-night-of-decadence-hospitalizations
+  evidence: P
+  notes: >
+    Quotes the university, through Dean of Undergraduates Bridget Gorman: "canceling campuswide public parties
+    through spring break"; Pub nights 21+ only; NOD "will be placed on probation, with reduced capacity and
+    enhanced safety protocols at future parties."
+
+- key: texas-monthly-2023-12-04
+  title: "Michael Hardy, 'Does Rice University Have a Drinking Problem?', Texas Monthly, 4 Dec 2023"
+  type: magazine
+  date: 2023-12-04
+  url: https://www.texasmonthly.com/news-politics/rice-university-night-of-decadence-hospitalizations/
+  evidence: P
+  notes: >
+    After NOD 2023 the university cancelled campus-wide parties through spring break, reconvened its Alcohol
+    Policy Advisory Committee and put NOD on probation; recalls the eleven hospitalised in 2012.
+
+- key: thresher-2024-01-30-horton
+  title: "Nathan Horton, 'The burden of tradition: NOD 2023 was the fault of systemic issues, not the students' (guest opinion), Rice Thresher, 30 Jan 2024"
+  type: newspaper
+  date: 2024-01-30
+  url: https://www.ricethresher.org/article/2024/01/the-burden-of-tradition-nod-2023-was-the-fault-of-systemic-issues-not-the-students
+  evidence: P
+  notes: >
+    Blames "the loss of student autonomy in maintaining traditions": "if RUPD decides who can get in, when the
+    party shuts down … then who has the real power?"; warns Rice may become like universities "where every
+    party is private".
+
+- key: thresher-2024-06-05-nod-canceled
+  title: "Riya Misra, 'NOD permanently canceled, Rice strips away decades-old campus tradition', Rice Thresher, 5 Jun 2024"
+  type: newspaper
+  date: 2024-06-05
+  url: https://web.archive.org/web/20240606141634/https://www.ricethresher.org/article/2024/06/nod-permanently-canceled-rice-strips-away-decades-old-campus-tradition
+  evidence: P
+  notes: >
+    "Rice has now permanently canceled the public, Dean of Undergraduates Bridget Gorman and Wiess magister
+    Flavio Cunha announced in a message to campus June 5." Gorman: "The conclusion that we should permanently
+    cancel NOD was a recommendation made to me by the Wiess College magisters, and I support that decision."
+    Wiess may host a "radically different" public; the theme, dress code and name will not remain. Wiess
+    spent $10,000 of its $49,433 budget on NOD in 2023. (Live URL with -20240606 suffix returned 404 to the
+    Wayback Machine in Dec 2025; the capture of 6 Jun 2024 is cited.)
+
+- key: thresher-2024-10-mad-announced
+  title: "'Wiess announces a MAD new public', Rice Thresher, Oct 2024"
+  type: newspaper
+  date: 2024-10
+  url: https://www.ricethresher.org/article/2024/10/wiess-announces-a-mad-new-public
+  evidence: P
+  notes: >
+    Announced at Wiess's 18 Oct FITQ: "The party will be officially titled 'Masquerade After Dark' — MAD for
+    short", on 25 Jan; Wiess students voted on the theme from 25 June. Co-Social VP Rocio Gras: "We, [along
+    with] our magisters, have made it very clear we want to start to steer away from NOD's history."
+
+- key: thresher-2025-01-mad-reviews
+  title: "'In the shadow of NOD: New Wiess public met with mixed reviews', Rice Thresher, Jan 2025"
+  type: newspaper
+  date: 2025-01
+  url: https://www.ricethresher.org/article/2025/01/in-the-shadow-of-nod-new-wiess-public-met-with-mixed-reviews
+  evidence: P
+  notes: >
+    "Wiess College hosted Masks After Dark on Jan. 25, its inaugural new public" (the October announcement
+    called it "Masquerade After Dark"); outdoors, semi-formal. Social VP Isabelle Shen: "[administration]
+    specifically asked for us to emphasize that clothes are required"; "The big changes to the public that most
+    students didn't like (completely different theme with completely different attire, date, outdoor public)
+    were entirely [administration] and our magister's decision, and we had no say in it."
+
+- key: thresher-2025-08-27-culture-of-care
+  title: "Thresher Editorial Board, 'Keeping Rice culture of care alive is a shared responsibility', Rice Thresher, 27 Aug 2025"
+  type: newspaper
+  date: 2025-08-27
+  url: https://ricethresher.org/article/keeping-rice-culture-of-care-alive-is-a-shared-responsibility-20250827
+  evidence: P
+  notes: >
+    After Dis-O 2025: "NOD was later permanently cancelled. What was the largest party of the year … is
+    essentially lost for new students"; "another night like Dis-O, and Rice could become a dry campus."
+
+- key: thresher-2025-09-03-texas-party
+  title: "'First public of the year reckons with threats of a dry campus' (Martel Texas Party), Rice Thresher, 3 Sep 2025"
+  type: newspaper
+  date: 2025-09-03
+  url: https://www.ricethresher.org/article/2025/09/rices-martel-college-texas-party-responds-to-dis-o-and-nod-alcohol-issues
+  evidence: P
+  notes: >
+    After Dis-O (four times the intoxication transports of the three previous years) the college presidents
+    met Dean Gorman, who said a campus alcohol ban was "seriously considered"; Martel's public ran with limited
+    capacity, no beer garden and free entry.

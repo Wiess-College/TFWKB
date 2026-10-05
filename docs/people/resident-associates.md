@@ -7,9 +7,12 @@ reviewed_by: unreviewed
 
 # Resident Associates
 
-Resident Associates — RAs — are the adults who live in the college. The college system brought Wiess two of them in 1957, "one of whom, Dr. John E. Parish, remained as senior resident associate for 23 years" [@riceinfo-history]. His successor in longevity, Dr. William "Dr. Bill" Wilson of Electrical Engineering, was an RA by 1976, interim Master in spring 1983, and still living on the fourth floor in 2005–06 — about thirty years, the longest Wiess association in the record, remembered in the name of [Wilson House](../places/wilson-house.md) [@handbook-1994] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates]. In Old Wiess the RAs were professors; from 2003 the O-Week books also introduce young alumni couples and lecturers living on the third and fourth floors of the central wing [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]. The Constitution has always seated the RAs on Cabinet without a vote [@constitution-1993]; since 2016 they are chosen through a student-led search committee [@constitution-2016 p.1], and since 2026 they share an article with the Magister, "Residential Associates" [@constitution-2026 p.3].
+Resident Associates — RAs — are the adults who live in the college. The college system brought Wiess two of them in 1957, "one of whom, Dr. John E. Parish, remained as senior resident associate for 23 years" [@riceinfo-history]. His successor in longevity, Dr. William "Dr. Bill" Wilson of Electrical Engineering, was an RA by 1976, interim Magister[^magister] in spring 1983, and still living on the fourth floor in 2005–06 — about thirty years, the longest Wiess association in the record, remembered in the name of [Wilson House](../places/wilson-house.md) [@handbook-1994] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates]. In Old Wiess the RAs were professors; from 2003 the O-Week books also introduce young alumni couples and lecturers living on the third and fourth floors of the central wing [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]. The Constitution has always seated the RAs on Cabinet without a vote [@constitution-1993]; since 2016 they are chosen through a student-led search committee [@constitution-2016 p.1], and since 2026 they share an article with the Magister, "Residential Associates" [@constitution-2026 p.3].
 
 ## Timeline
+
+The RAs alongside the Magisters and College Coordinators, with the RAs of 2013–2023 (Nico Orlandi; Esther Fernández, chosen by the first RA Search Committee in 2017; Carissa Zimmerman and Nick Espinosa from 2018), are tabulated on [The Core Team](core-team.md).
+
 
 | When | What | Evidence |
 |---|---|---|
@@ -31,7 +34,7 @@ Resident Associates — RAs — are the adults who live in the college. The coll
 | 2014 | Emilie Ringe, Materials Science, fourth-floor RA; Renata Ramos and Lenin on the third floor "enjoying their third year" [@wb 20140627224553 http://teamwiess.com/ras.html]; glossary: Dr. Bill's "section in Fondren Library includes every college theatre production during his time at Rice" [@oweek-2014 p.102] | [P] |
 | 2014–17 | teamwiess.com carries a "Dr. Bill Wilson" page under About, consisting of an embedded Rice video [@wb 20140719005650 http://teamwiess.com/dr.-bill.html] | [P] |
 | 2016-01-26 | Constitution: RAs "recommended by a committee lead by two undergraduate chairmen selected by the President… no fewer than six Wiess members" and "appointed by the administration" [@constitution-2016 p.1] | [P] |
-| 2017 | RAs Renata Ramos, Lenin Terrazas and Esther Fernández [@oweek-2017 p.67] | [P] |
+| 2017 | RAs Renata Ramos, Lenin Terrazas and Esther Fernández [@oweek-2017 p.69] | [P] |
 | 2020–21 | A-Team page: Resident Associates Carissa Zimmerman, Nick (Zimmerman in 2020; Espinosa in 2021) and Esther Fernandez [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20210319233348 http://teamwiess.com/government/ateam] | [P] |
 | 2021-11 | The Woodson receives "a whole bunch of Dr. Bill Wilson's things… The real treasures in the boxes are the hundreds of recordings of Rice events made by Dr. Bill" [@rhc 2021-11-15 secession-1992] | [R] |
 | 2026-02-23 | Constitution, Article II "Residential Associates": the search committee survives a change of President, "the former President retains their title as ex officio member until the Search Committee disbands" [@constitution-2026 p.3] | [P] |
@@ -70,6 +73,9 @@ Resident Associates — RAs — are the adults who live in the college. The coll
 - Dr. Bill's dates of birth and death, and when the "Dr. Bill Grant program" began and what it funds [@oweek-2010 p.90].
 - The "Pleasure Palace" [@handbook-1994].
 - What the embedded video on the 2014–17 Dr. Bill page was (Rice mediacosmos ID `0arp-mpAjEusO24So4vULQ`) [@wb 20140719005650 http://teamwiess.com/dr.-bill.html]; the 1989 Sallyport "day in the life" profile of Dr. Bill [@rhc 2018-11-15 two-views-of-dr-bill-wilson-no-date comment by George Webb '88, '91, 15 Nov 2018]; and whether the Woodson has processed the Wilson materials received in 2021 [@rhc 2021-11-15 secession-1992].
-- RAs between 2021 and 2026: the current site's Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam].
+- RAs after January 2023, when the last teamwiess.com roster still lists Carissa Zimmerman, Nick Espinosa and Esther Fernández [@wb 20230114014600 http://teamwiess.com/government/ateam]: the current site's Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam].
+
+
+[^magister]: Called "Master" until 2017; this site uses "Magister" for every period. Quotations keep their original wording.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

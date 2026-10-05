@@ -13,7 +13,7 @@ A Ubangee is a pile of Wiessmen on top of one Wiessman, grunting, that ends with
 
 | When | What | Evidence |
 |---|---|---|
-| "early years", undated | "Wiessmen also created some of their own unorthodox customs that became known as distinctly Wiess. These included the third-floor dangle and the Ubangee. Although the ubangee is still proudly practiced, the dangle disappeared as human life became more valuable." — placed between the first master's Sunday blazers and the Hanszen rivalry in the college history [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)]; repeated 2005 [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] and in every book to 2017 [@oweek-2014 p.36] | [R] |
+| "early years", undated | "Wiessmen also created some of their own unorthodox customs that became known as distinctly Wiess. These included the third-floor dangle and the Ubangee. Although the ubangee is still proudly practiced, the dangle disappeared as human life became more valuable." — placed between the first Magister's Sunday blazers and the Hanszen rivalry in the college history [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)]; repeated 2005 [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] and in every book to 2017 [@oweek-2014 p.36] | [R] |
 | 1994 | Glossary: "A unique Wiess mass celebration of life." [@handbook-1994] | [P] |
 | 1997-08-11 | Second on the list of Traditions Older Than Time: "Remember: random ubangees add to the spontaneity of life!" [@riceinfo-traditions-1997] | [P] |
 | 1999-06-22 | Ray Wagner's "What's a 'Ubangee'?" page — the fullest written mechanics: the bracer, cross-wise piling, birthdays, goodbyes, two-man and thirty-person Ubangees, ceiling Ubangees [@riceinfo-ubangee] | [P] |
@@ -69,7 +69,7 @@ A Ubangee is a pile of Wiessmen on top of one Wiessman, grunting, that ends with
 
 - **Origin: unknown.** No source in the corpus dates the first Ubangee or explains the word. The college history lists it with the dangle among customs of the early years [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php], but gives no decade. Alumni of the 1960s and 1970s, Woodson's Wiess records (UA 0079) and the Thresher's OCR are the places to look; a search of the Portal for "ubangee" and its spellings has not yet been logged.
 - **Spelling.** "Ubangee", "ubangeed", "ubangeeee" (Wagner's spelling for the person underneath) and "Ubange" (the 2014 website) all occur. No source gives an etymology.
-- **The 2015–17 change.** Who modified the form, and was it a Cabinet, Court or Masters' decision? The 2015 book is the first to say "slightly modified form"; the corpus has no 2012 or 2013 book, so the change may be earlier.
+- **The 2015–17 change.** Who modified the form, and was it a Cabinet, Court or Magisters' decision? The 2015 book is the first to say "slightly modified form"; the corpus has no 2012 or 2013 book, so the change may be earlier.
 - **Photographs.** Wagner's "Here be Ubangees!" gallery sat behind a Wiessmen-only login (`restricted/getim.html`) and was not captured [@riceinfo-ubangee]. The 1999 page's one public photograph ("Evan gets ubangeed all to Hell") is in the mirror's images.
 - **Does it still happen?** The last description in the corpus is 2017 [@oweek-2017 p.31]; the Associates' page is the last outside witness. No source after 2017.
 

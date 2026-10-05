@@ -40,7 +40,7 @@ Melissa Kean's blog (ricehistorycorner.com), 2010–2025. The archival photograp
 
 ## The Woodson Research Center
 
-Fondren Library's archive holds the **Wiess College Records, UA 0079** — Cabinet minutes and governing documents from 1950 — and Dr. Bill Wilson's papers and recordings (2021). It is the only place the 1957–1993 constitutions, the pre-1991 Rules, the 1960s Masters and the 1968 Wiess Crack can be. Rice's Digital Scholarship Archive (`hdl.handle.net/1911/…`) has photographs such as Wiess students pumpkin caroling in 1969. An appointment and a camera.
+Fondren Library's archive holds the **Wiess College Records, UA 0079** — Cabinet minutes and governing documents from 1950 — and Dr. Bill Wilson's papers and recordings (2021). It is the only place the 1957–1993 constitutions, the pre-1991 Rules, the 1960s Magisters and the 1968 Wiess Crack can be. Rice's Digital Scholarship Archive (`hdl.handle.net/1911/…`) has photographs such as Wiess students pumpkin caroling in 1969. An appointment and a camera.
 
 ## The O-Week books
 

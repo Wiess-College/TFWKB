@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Places
 
-Wiess has lived in two buildings and kept one courtyard's name across the move. The pages in this section cover the buildings, the ground between them, the house the Masters (now Magisters) live in, and the man the college is named for. Each page cites the college's own descriptions first — the 1972, 1994 and 1995 Freshman Handbooks as carried on the first website, the O-Week books from 2003, the architects' project pages — and then the alumni testimony on Rice History Corner.
+Wiess has lived in two buildings and kept one courtyard's name across the move. The pages in this section cover the buildings, the ground between them, the house the Magisters live in, and the man the college is named for. Each page cites the college's own descriptions first — the 1972, 1994 and 1995 Freshman Handbooks as carried on the first website, the O-Week books from 2003, the architects' project pages — and then the alumni testimony on Rice History Corner.
 
 **[Old Wiess (1949–2002)](old-wiess.md).** "The first new dormitory in thirty-two years" opened in 1949 as North Hall and was named Wiess Hall in 1950: 200 beds, outside balconies connecting every room, cross-ventilation and no air conditioning [@riceinfo-history]. Its own 1972 handbook called the style Brutalism and the plan "the best motel tradition" [@handbook-1972]. It became Wiess College in 1957, was photographed empty by Colin Delany '91 in August 2002 — "too poorly constructed to be worth saving" [@edesigns-old-wiess-2002] — and was demolished after the move; no source in the corpus gives the demolition date.
 
@@ -15,7 +15,7 @@ Wiess has lived in two buildings and kept one courtyard's name across the move. 
 
 **[The Acabowl](acabowl.md).** The courtyard, in both buildings. The 1994 handbook derives the name from an "Academic Bowl" football game of the 1960s [@handbook-1994]; the 1972 handbook already spoke of "large grassy acabowls" [@handbook-1972]. Acatramp, Backabowl, Acaglider, Acagrill, Acababy: the vocabulary grew with it.
 
-**[Wiess House / Wilson House](wilson-house.md).** The Masters' house. "Wiess House, a small house attached to the college" in 1994 [@riceinfo-masters]; "Wilson House", dedicated in 2011 as a memorial to the RA Dr. Bill Wilson, "the only building anywhere at Rice named after a former master or RA" [@wiess-60th-faq-2017 p.4].
+**[Wiess House / Wilson House](wilson-house.md).** The Magisters' house. "Wiess House, a small house attached to the college" in 1994 [@riceinfo-masters]; "Wilson House", dedicated in 2011 as a memorial to the RA Dr. Bill Wilson, "the only building anywhere at Rice named after a former master or RA" [@wiess-60th-faq-2017 p.4].
 
 **[Harry Carothers Wiess](the-man.md).** Born Beaumont 1887, died Houston 1948; a founder of Humble Oil in 1917; Rice trustee from 1944; author of the 1945 Twelve-Point Program [@riceinfo-theman]. The 1994 handbook's "The Man" page is the college's own account of him, and this page keeps to it.
 

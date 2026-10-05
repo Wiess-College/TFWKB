@@ -1,0 +1,80 @@
+# Sources first used on people/core-team.md (Magisters, Resident Associates, College Coordinators).
+# Most core-team evidence is cited inline as [@wb timestamp url] or [@oweek-YYYY p.N]; these keys
+# group the page families that the core-team page cites as a run.
+
+- key: teamwiess-people-2009-2013
+  title: "teamwiess.com people pages — 'Important Wiesspeople' (wiesspeople.php, 2009–10) and people.php (2011–13)"
+  type: website
+  date: 2009–2013
+  url: https://web.archive.org/web/20130802224531/http://teamwiess.com/people.php
+  local: teamwiess.com/mirror/teamwiess.com/wiesspeople.php/, teamwiess.com/mirror/teamwiess.com/people.php/
+  evidence: P
+  notes: >
+    wiesspeople.php (Aug 2009 – Aug 2010): the Masters (Gustin and Klein), "The RAs: Christa" and "The RAs: BC",
+    "Wiess Coordinator: Nancy" ("came to Wiess two years ago after being in the Dean of Engineering Office for twelve
+    years"). people.php 14 Sep 2012: RAs "Brett [sic] and Lindsay Houchens along with Renata, Lenin and Gavin";
+    College Coordinator "Nancy Letness". people.php 2 Aug 2013: RAs "Nico Orlandi along with Renata, Lenin and Gavin";
+    College Coordinator "Ewart Jones" (the text still says "She"). The people.php?who=masters|ras|coord subpages
+    of 2011–12 load their content by script and are empty in every capture.
+  gaps: The who=masters/ras/coord content was never captured.
+
+- key: teamwiess-ra-search-2017
+  title: "teamwiess.com RA Search page and announcements, spring 2017 – 2018"
+  type: website
+  date: 2017–2018
+  url: https://web.archive.org/web/20170428224613/http://teamwiess.com/rasearch.html
+  local: teamwiess.com/mirror/teamwiess.com/rasearch.html/; home.html/ (announcements)
+  evidence: P
+  notes: >
+    "Wiess College Spring 2017 — Resident Associate Search": "A Resident Associate typically serves three to seven
+    years… willing to stand in for the masters, when appropriate"; links an online application, a PDF, "a letter about
+    being a Wiess RA from Lenin Terrazas (current RA)" and a video. Home-page announcements signed "RA Search
+    Committee": Esther Fernández as 4th-floor RA (dated 16 May 2017; captured 2 Jun 2017), and "Our New RAs!" —
+    Carissa, Nick and Amelia — first captured 30 Mar 2018 under a copied date "May 16, 2017", later "May 16, 2018".
+  gaps: The application, the Terrazas letter and the video were not captured.
+
+- key: teamwiess-ateam-2016-2023
+  title: "teamwiess.com A-Team pages — ateam.html (2016–17), people/ (2017–20), government/ateam (2020–23)"
+  type: website
+  date: 2016–2023
+  url: https://web.archive.org/web/20230114014600/http://teamwiess.com/government/ateam
+  local: teamwiess.com/mirror/teamwiess.com/ateam.html/, people/, government/ateam/
+  evidence: P
+  notes: >
+    The college's own roster of its adults. ateam.html May 2016: "Wiess Masters Andrew Schaefer, Laura Schaefer;
+    College Coordinator Ewart G. Jones; 3rd Floor RAs Rennata [sic] Ramos, Lenin Terrazas; 4th Floor RA Emilie Ringe".
+    people/ Jun 2018: Schaefers "Magisters", Lenin & Renata, Esther Fernandez, Ewart G. Jones; Jul 2018: "Carissa,
+    Nick, and Amelia Espinosa — Our New 3rd Floor RAs!" and "Lenin, Renata, Gavin, and Evan — Old 3rd Floor RAs".
+    government/ateam: Schaefers to 6 Aug 2021; "Magisters: Flavio Cunha & Fabiana Santos" from 13 Aug 2021 to the
+    last capture, 14 Jan 2023; RAs "Carissa & Nick Zimmerman" (2 Oct 2020), then "Carissa Zimmerman & Nick Espinosa",
+    and "Esther Fernandez"; College Coordinator "Ewart Jones" throughout.
+  gaps: The domain lapsed after January 2023; the roster may have been stale by then.
+
+- key: wiess-rice-edu-coreteam
+  title: "wiess.rice.edu Core Team page (government/ateam 2023; government/coreteam 2024–)"
+  type: website
+  date: 2023–
+  url: https://web.archive.org/web/2024*/https://wiess.rice.edu/government/coreteam
+  local: wiess.rice.edu/mirror/wiess.rice.edu/government/20241006035649__coreteam.html (only capture held)
+  evidence: P
+  notes: >
+    The page is rendered in the browser: the one capture held (6 Oct 2024) is an empty shell. CDX lists
+    government/ateam on 7 Jul, 29 Sep, 7 Oct and 2 Dec 2023, and government/coreteam on 6 Oct 2024, 6 Aug 2025,
+    27 Nov 2025, 9 Feb 2026 and 10 May 2026 — so "A-Team" became "Core Team" between Dec 2023 and Oct 2024. Images
+    in images/ateam/: jenny.jpg and lach-kari-mullen.jpg (7 Oct 2023), flavio-fabiana.jpeg and carissa-nick.jpg
+    (8 Dec 2023).
+  gaps: The script or data file holding the roster has not been identified; no rendered capture exists.
+
+- key: wiess-rice-edu-associates-2025
+  title: "wiess.rice.edu Associates page, 6 Aug 2025"
+  type: website
+  date: 2025-08-06
+  url: https://web.archive.org/web/20250806020200/https://wiess.rice.edu/resources/associates
+  local: wiess.rice.edu/mirror/wiess.rice.edu/resources/20250806020200__associates.html
+  evidence: P
+  notes: >
+    "please email our college coordinator, Jenny Toups, at jt87@rice.edu" — the only source in the corpus that names
+    the current College Coordinator. Associate profiles written by former core-team members: the Hutchinsons ("As
+    magisters of Wiess for 7 years"), the Hudlows ("We were lucky enough to be RAs at Wiess from 2002 to 2008"),
+    Renata Ramos and Lenin Terrazas ("We were Wiess RAs from 2011 to 2018 and lived on the 3rd floor"). Links a
+    "Wiess Associates Guide". The 30 Nov 2025 capture is an empty shell.

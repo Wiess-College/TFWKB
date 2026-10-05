@@ -52,7 +52,7 @@ The text "Last Amended February 6th, 2013" has eleven sections [@housing-rules-2
 4. **Points** — rising seniors 4, juniors 3, sophomores 2, fifth-years 1; a group's total is the sum [@housing-rules-2013 §IV].
 5. **Squatting** — a group needs at least 7 points among current occupants to keep its suite; "No one may squat on freshman suites" [@housing-rules-2013 §V].
 6. **2-man, 3-man and 5-man suites** — a separate jack, highest points first [@housing-rules-2013 §VI].
-7. **General Room Jack** — full suites only, forms from the College Coordinator, a $100 fine for withdrawing after the deadline, appealable to the Masters [@housing-rules-2013 §VII].
+7. **General Room Jack** — full suites only, forms from the College Coordinator, a $100 fine for withdrawing after the deadline, appealable to the Magisters [@housing-rules-2013 §VII].
 8. **Leases** — signed online "on Esther" [@housing-rules-2013 §VIII].
 9. **Appeals** — in writing to the Housing Committee "through the College Master" [@housing-rules-2013 §IX].
 10. **Housing Committee** — "at least one Resident Associate and three additional students (one from each class)", appointed at the end of their freshman year for three years [@housing-rules-2013 §X].

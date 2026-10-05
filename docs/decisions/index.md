@@ -61,6 +61,6 @@ reviewed_by: <handle>
 
 ## Records
 
-- [NOD 2026](nod-2026.md) — a stub, awaiting the people who made the decision.
+- [NOD 2026](nod-2026.md) — the permanent cancellation of Night of Decadence, announced 5 June 2024 (the page keeps the college's label); reconstructed from the public record, with sections still to be supplied by the people who made the decision.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

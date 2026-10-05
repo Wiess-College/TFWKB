@@ -11,8 +11,8 @@ Wiess has described itself to every incoming class since at least 1972: in Fresh
 <div class="grid cards" markdown>
 
 - **[Traditions](traditions/index.md)** — the War Pig, Team Wiess, the Ubangee, NOD, Beer Bike, Tabletop, Pumpkin Caroling, Powderpuff and the rest, living and retired, each with its timeline; and [how the college defined its own words, year by year](traditions/glossary-series.md), from 12 glossaries and 1,288 definitions.
-- **[Places](places/index.md)** — Old Wiess (1949–2002), New Wiess (2002–), the Acabowl, the Masters' house, and the man the college is named for.
-- **[People](people/index.md)** — Masters and Magisters, Resident Associates, the College Idiot, and the Historians the college has had on paper since 1991.
+- **[Places](places/index.md)** — Old Wiess (1949–2002), New Wiess (2002–), the Acabowl, the Magisters' house, and the man the college is named for.
+- **[People](people/index.md)** — the Core Team, Magisters, Resident Associates, the College Idiot, and the Historians the college has had on paper since 1991.
 - **[Governance](governance/index.md)** — how the Constitution, Bylaws and Rules changed from 1991 to 2026, version by version, with the texts themselves kept as a git lineage in the [governance repository](https://github.com/Wiess-College/governance).
 - **[Changes](changes/index.md)** — the chronological spine: one dated, cited entry per change, by decade.
 - **[Decisions](decisions/index.md)** — records of the decisions the college makes about itself, written by the people who made them, starting with NOD 2026.
