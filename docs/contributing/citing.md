@@ -1,6 +1,6 @@
 # Citing
 
-Team Familypedia holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere — in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts — so **every claim carries a permalink that resolves without us.** A page with an unsourced claim is a Commons page, not a Record page.
+Team Family Knowledgebase holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere—in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts—so **every claim carries a permalink that resolves without us.** A page with an unsourced claim is a Commons page, not a Record page.
 
 ## The short forms
 
@@ -16,11 +16,11 @@ Write citations inline, right after the claim. The site build turns them into li
 
 The locator is free text: `p.27`, `part 6 p.3`, `comment by Dave McCooey, 14 Dec 2021`, `slide 28`. Keep it short enough to read inline.
 
-An unknown key fails the build (`mkdocs build --strict`), which is the point: you cannot cite something the bibliography does not know about. **To cite a new source, add it to the bibliography first** — a few lines in `sources/bibliography/*.yaml`:
+An unknown key fails the build (`mkdocs build --strict`), which is the point: you cannot cite something the bibliography does not know about. **To cite a new source, add it to the bibliography first**—a few lines in `sources/bibliography/*.yaml`:
 
 ```yaml
 - key: thresher-1984-11-02
-  title: "Rice Thresher, 2 Nov 1984, p.27 — NOD 'Animal Farm' report"
+  title: "Rice Thresher, 2 Nov 1984, p.27—NOD 'Animal Farm' report"
   type: newspaper
   date: 1984-11-02
   url: https://texashistory.unt.edu/ark:/67531/metapth245573/m1/27/
@@ -34,9 +34,9 @@ Keys are lowercase, hyphenated, and stable: `oweek-2014`, `constitution-2013`, `
 
 Every dated row in a timeline, and any claim that matters, carries one of three tags (see [Evidence classes](../sources/evidence-classes.md)):
 
-- `[P]` — **primary / contemporary**: a document from the time, read directly. A Thresher report the week it happened, an O-Week book, a constitution, a photograph, a Wayback capture.
-- `[R]` — **retrospective**: a later account by someone in a position to know. A history page written years afterwards, a magazine feature, Maxham's 1998 design document about 1986.
-- `[T]` — **testimony**: a memory. A blog comment, an interview, a conversation, a note inside the pig. Always say who, their class year if known, and when they said it.
+- `[P]`—**primary / contemporary**: a document from the time, read directly. A Thresher report the week it happened, an O-Week book, a constitution, a photograph, a Wayback capture.
+- `[R]`—**retrospective**: a later account by someone in a position to know. A history page written years afterwards, a magazine feature, Maxham's 1998 design document about 1986.
+- `[T]`—**testimony**: a memory. A blog comment, an interview, a conversation, a note inside the pig. Always say who, their class year if known, and when they said it.
 
 The tags are not a ranking of truth. A 2021 comment by the person who built the pig beats a 1999 web page by someone who wasn't there. They tell the reader what kind of thing they are being asked to trust, so that when two sources disagree they can weigh them.
 

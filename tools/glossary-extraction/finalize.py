@@ -8,7 +8,7 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = "/home/claude/familypedia/sources/glossaries"
+OUT = "/home/claude/familykb/sources/glossaries"
 os.makedirs(OUT, exist_ok=True)
 
 GENERIC = [

@@ -22,7 +22,7 @@ All in the **Wayback Machine** (web.archive.org). The CDX API lists every captur
 | 2018– | `wiesscooks.rice.edu` | Wiess Cooks | live |
 | 1997–2004 | `*.wiess.rice.edu` | students' own machines named under the college (bobafett, wiess-2043, jwh06, polonius…) | CDX `matchType=domain` |
 
-Recipes: `url=wiess.rice.edu&matchType=domain` finds dead sub-hosts; a current-DNS subdomain census (26,719 rice.edu hostnames in 2026) finds what still resolves — use both. The 2003 teamwiess.com homepage was Flash and renders only after the Ruffle emulator loads.
+Recipes: `url=wiess.rice.edu&matchType=domain` finds dead sub-hosts; a current-DNS subdomain census (26,719 rice.edu hostnames in 2026) finds what still resolves—use both. The 2003 teamwiess.com homepage was Flash and renders only after the Ruffle emulator loads.
 
 ## The Rice Thresher
 
@@ -36,15 +36,15 @@ archive.org holds 1916–1939 and 1988 only. Rice's own repository (repository.r
 
 ## Rice History Corner
 
-Melissa Kean's blog (ricehistorycorner.com), 2010–2025. The archival photographs are good; the **comment threads are the real source** — alumni of the 1960s–90s correcting and extending each other, often citing Thresher pages. The site's own search does not index comments, so query the WordPress.com API: `public-api.wordpress.com/rest/v1.1/sites/ricehistorycorner.com/posts/?search=…` then `/posts/<ID>/replies/?number=100&order=ASC`; add known posts by `/posts/slug:<slug>`. Recurring commenters worth following: marmer01, almadenmike (quotes Thresher PDFs with page numbers), James Medford, Walter Underwood, Richard Miller (Hanszen '75), Marty Merritt, George Webb '88, Kermit Lancaster (1970s Wiess memorabilia at lancasterteam.com/wiess). Cite as `[@rhc <date> <slug> comment by X, <date>]`.
+Melissa Kean's blog (ricehistorycorner.com), 2010–2025. The archival photographs are good; the **comment threads are the real source**—alumni of the 1960s–90s correcting and extending each other, often citing Thresher pages. The site's own search does not index comments, so query the WordPress.com API: `public-api.wordpress.com/rest/v1.1/sites/ricehistorycorner.com/posts/?search=…` then `/posts/<ID>/replies/?number=100&order=ASC`; add known posts by `/posts/slug:<slug>`. Recurring commenters worth following: marmer01, almadenmike (quotes Thresher PDFs with page numbers), James Medford, Walter Underwood, Richard Miller (Hanszen '75), Marty Merritt, George Webb '88, Kermit Lancaster (1970s Wiess memorabilia at lancasterteam.com/wiess). Cite as `[@rhc <date> <slug> comment by X, <date>]`.
 
 ## The Woodson Research Center
 
-Fondren Library's archive holds the **Wiess College Records, UA 0079** — Cabinet minutes and governing documents from 1950 — and Dr. Bill Wilson's papers and recordings (2021). It is the only place the 1957–1993 constitutions, the pre-1991 Rules, the 1960s Magisters and the 1968 Wiess Crack can be. Rice's Digital Scholarship Archive (`hdl.handle.net/1911/…`) has photographs such as Wiess students pumpkin caroling in 1969. An appointment and a camera.
+Fondren Library's archive holds the **Wiess College Records, UA 0079**—Cabinet minutes and governing documents from 1950—and Dr. Bill Wilson's papers and recordings (2021). It is the only place the 1957–1993 constitutions, the pre-1991 Rules, the 1960s Magisters and the 1968 Wiess Crack can be. Rice's Digital Scholarship Archive (`hdl.handle.net/1911/…`) has photographs such as Wiess students pumpkin caroling in 1969. An appointment and a camera.
 
 ## The O-Week books
 
-2003 (four section PDFs), 2006, 2007, 2008 (seven parts), 2009 (parts 2, 4, 5, 6), 2010, 2011, 2014, 2015, 2016 (+ Owlmanac), 2017 — all from teamwiess.com via the Wayback Machine, all with text layers. The 1994 and 1995 handbooks survive as transcriptions on the 1997 site; the 1972 handbook as the architecture page. **Missing**: everything before 1994 in print, 1996–2002, 2004–05, 2009 parts 1/3/7, 2012–13, 2018–. The Historian's filing cabinet and the Woodson are the places to ask. Each book's glossary is extracted to `sources/glossaries/<year>.tsv`; [the series](../traditions/glossary-series.md) is built from them.
+2003 (four section PDFs), 2006, 2007, 2008 (seven parts), 2009 (parts 2, 4, 5, 6), 2010, 2011, 2014, 2015, 2016 (+ Owlmanac), 2017—all from teamwiess.com via the Wayback Machine, all with text layers. The 1994 and 1995 handbooks survive as transcriptions on the 1997 site; the 1972 handbook as the architecture page. **Missing**: everything before 1994 in print, 1996–2002, 2004–05, 2009 parts 1/3/7, 2012–13, 2018–. The Historian's filing cabinet and the Woodson are the places to ask. Each book's glossary is extracted to `sources/glossaries/<year>.tsv`; [the series](../traditions/glossary-series.md) is built from them.
 
 Text-layer quirks: some books use a font whose codes are shifted by 29 (`SODFH` = "place"); `tools/fix_pdf_text.py` decodes it. The 2011 book uses two other glyph-order ciphers; the 2014 book interleaves columns.
 
@@ -61,7 +61,7 @@ Text-layer quirks: some books use a font whose codes are shifted by 29 (`SODFH` 
 ```
 <site>/index.tsv                      timestamp, url, status, mimetype, digest, local path
 <site>/cdx/*.tsv                      raw CDX lists
-<site>/mirror/<host>/<path>/<timestamp>__<file>    raw captures — the path IS the Wayback URL
+<site>/mirror/<host>/<path>/<timestamp>__<file>    raw captures—the path IS the Wayback URL
 riceinfo.rice.edu-wiess/text/<section>__<page>.html__<timestamp>.md    text of each page version
 teamwiess.com/oweek-books/{*.pdf, text/, text-raw/, manifest.tsv}
 ricehistorycorner.com/{posts/<date>_<slug>.md, index.tsv, commenters.tsv}

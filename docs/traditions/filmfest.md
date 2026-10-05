@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # FilmFest
 
-FilmFest is twenty-four consecutive hours of movies at the end of classes, before finals. The 1994 Freshman Handbook already had it — "Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester" [@handbook-1994] — and the 1997 website ranked it among the traditions it would "Sure Like To See Continue": "24 *solid* hours of movies. Caffeine is good for the soul" [@riceinfo-traditions-1997]. Every O-Week glossary from 2003 to 2017 defines it, and the 2015–2017 books and the Wiess Associates site describe it in the same words [@oweek-2015 p.23]. What moved was the room: the Old Wiess basement in 1994, the fourth-floor TV room of New Wiess from 2003, the "legendary movie room, with countless couches, a state of the art projector, and blacked out windows" from 2014 [@oweek-2003 p.4] [@oweek-2015 p.23]. Whether it happens once a semester or once a year has been unclear since 1994, and no source after 2017 is in the corpus.
+FilmFest is twenty-four consecutive hours of movies at the end of classes, before finals. The 1994 Freshman Handbook already had it—"Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester" [@handbook-1994]—and the 1997 website ranked it among the traditions it would "Sure Like To See Continue": "24 *solid* hours of movies. Caffeine is good for the soul" [@riceinfo-traditions-1997]. Every O-Week glossary from 2003 to 2017 defines it, and the 2015–2017 books and the Wiess Associates site describe it in the same words [@oweek-2015 p.23]. What moved was the room: the Old Wiess basement in 1994, the fourth-floor TV room of New Wiess from 2003, the "legendary movie room, with countless couches, a state of the art projector, and blacked out windows" from 2014 [@oweek-2003 p.4] [@oweek-2015 p.23]. Whether it happens once a semester or once a year has been unclear since 1994, and no source after 2017 is in the corpus.
 
 ## Timeline
 
@@ -21,12 +21,12 @@ FilmFest is twenty-four consecutive hours of movies at the end of classes, befor
 | 2014 | "held during Dead Days" replaces "Dead Week"; the TV room becomes the "Movie Room… Site of Filmfest… just make sure you get a room reservation!" [@oweek-2014 p.102] [@oweek-2014 p.103] | [P] |
 | 2015 | Rewritten: "by playing movies for twenty-four consecutive hours… from midnight to midnight… our legendary movie room, with countless couches, a state of the art projector, and blacked out windows" [@oweek-2015 p.23]; same text 2016, 2017 [@oweek-2016 p.31] [@oweek-2017 p.32] | [P] |
 | c.2015–2017 | Wiess Associates site, "Wiess Traditions", carries the 2015 paragraph [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/] | [P] |
-| 2017 | Glossary: "24-hour film marathon held once a semester" — the 1994 frequency returns [@oweek-2017 p.14] | [P] |
+| 2017 | Glossary: "24-hour film marathon held once a semester"—the 1994 frequency returns [@oweek-2017 p.14] | [P] |
 
 ## As the college described it
 
 !!! quote "1994 Freshman Handbook"
-    "**Filmfest** — Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester. (That's what the book says. I don't recall it ever happening more than once a year, myself...)" [@handbook-1994]
+    "**Filmfest**—Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester. (That's what the book says. I don't recall it ever happening more than once a year, myself...)" [@handbook-1994]
 
 !!! quote "riceinfo site, 1997"
     "FilmFest - 24 *solid* hours of movies. Caffeine is good for the soul." [@riceinfo-traditions-1997]
@@ -49,6 +49,6 @@ The glossary by year: "A 24-hour film marathon held during Dead Week. 2. The bes
 
 - When FilmFest began; the 1994 handbook is the earliest mention and gives no origin. Earlier handbooks ("and undoubtedly those of many years preceding") may have it.
 - Whether it still runs: the last description is the 2017 book [@oweek-2017 p.32]; the current site's traditions page has not been captured [@wiess-rice-edu].
-- Who ran it — no book names an office responsible, unlike Summit or Big Bang.
+- Who ran it—no book names an office responsible, unlike Summit or Big Bang.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

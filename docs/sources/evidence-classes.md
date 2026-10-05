@@ -14,7 +14,7 @@ Three tags, on every timeline row and on any claim that carries weight. They des
 
 ## How to weigh them
 
-**The tags are not a ranking.** A 2021 comment by the man who built the pig (T) outweighs a 1999 web page written by someone who was not there (P as a document, R as an account). An O-Week book (P) is a primary source for *what the college told its freshmen that year* — and a retrospective, often stale, source for the events it describes. The War Pig glossary entry was copied unchanged for six years; the "last Friday of October" for NOD survived in print for years after the party had moved to Saturday.
+**The tags are not a ranking.** A 2021 comment by the man who built the pig (T) outweighs a 1999 web page written by someone who was not there (P as a document, R as an account). An O-Week book (P) is a primary source for *what the college told its freshmen that year*—and a retrospective, often stale, source for the events it describes. The War Pig glossary entry was copied unchanged for six years; the "last Friday of October" for NOD survived in print for years after the party had moved to Saturday.
 
 So ask of each source: *what is it primary evidence of?* The 2006 O-Week book is primary evidence that in 2006 the college called the War Pig a "former" mascot. It is weak evidence about 1986.
 

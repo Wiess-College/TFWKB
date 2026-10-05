@@ -1,4 +1,4 @@
-site_name: Team Familypedia
+site_name: Team FamilyKB
 site_description: The sourced history of Wiess College, Rice University — traditions, places, people, governance and how they changed, with every claim cited to a permalink.
 site_url: https://wiess-college.github.io/TFWKB/
 repo_url: https://github.com/Wiess-College/TFWKB
@@ -43,7 +43,7 @@ theme:
     - toc.follow
 
 extra_css:
-  - assets/familypedia.css
+  - assets/familykb.css
 
 markdown_extensions:
   - admonition

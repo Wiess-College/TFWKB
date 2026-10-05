@@ -7,13 +7,13 @@ reviewed_by: unreviewed
 
 # The Acabowl
 
-The Acabowl is the Wiess courtyard — "Equivalent areas are termed 'quads' in other colleges, but that's just 'cause they suck" [@handbook-1994]. In Old Wiess it was the western of two courtyards, the patio where four-square was played and TGs held, with the quieter Backabowl behind the central wing [@handbook-1994]. The 1994 Freshman Handbook derives the name from an "Academic Bowl" football game played there annually in the 1960s, "in which reportedly only 'academs' had time to take part" [@handbook-1994]; the 1972 handbook already used the word in the plural, "large grassy acabowls" [@handbook-1972]. When the college moved in 2002 the new building's single courtyard inherited the name — "an enormous courtyard, still called the Acabowl after the old main courtyard" [@oweek-2006 p.37] — and the prefix kept breeding: Acatramp (1994), Acahammock (2003), Acaglider and Acagrill (2008), Acababy and Acatoddler (2014–17). The inflatable [War Pigs](../traditions/warpig.md) of the 1990s were built in the Old Wiess Acabowl, and the 2002 commercial pig flew in the new one [@warpig-core-deck slide 31] [@warpig-core-deck slide 32].
+The Acabowl is the Wiess courtyard—"Equivalent areas are termed 'quads' in other colleges, but that's just 'cause they suck" [@handbook-1994]. In Old Wiess it was the western of two courtyards, the patio where four-square was played and TGs held, with the quieter Backabowl behind the central wing [@handbook-1994]. The 1994 Freshman Handbook derives the name from an "Academic Bowl" football game played there annually in the 1960s, "in which reportedly only 'academs' had time to take part" [@handbook-1994]; the 1972 handbook already used the word in the plural, "large grassy acabowls" [@handbook-1972]. When the college moved in 2002 the new building's single courtyard inherited the name—"an enormous courtyard, still called the Acabowl after the old main courtyard" [@oweek-2006 p.37]—and the prefix kept breeding: Acatramp (1994), Acahammock (2003), Acaglider and Acagrill (2008), Acababy and Acatoddler (2014–17). The inflatable [War Pigs](../traditions/warpig.md) of the 1990s were built in the Old Wiess Acabowl, and the 2002 commercial pig flew in the new one [@warpig-core-deck slide 31] [@warpig-core-deck slide 32].
 
 ## Timeline
 
 | When | What | Evidence |
 |---|---|---|
-| 1960s | "Academic Bowl," a football game played annually at the site, "in which reportedly only 'academs' had time to take part" — the handbook's etymology [@handbook-1994] | [R] |
+| 1960s | "Academic Bowl," a football game played annually at the site, "in which reportedly only 'academs' had time to take part"—the handbook's etymology [@handbook-1994] | [R] |
 | c.1960–65 | Photograph of students on the Acabowl benches and balcony rails, undated, "circa 1965" by consensus of the comments [@rhc 2016-05-24 hanging-out-at-wiess] | [R] |
 | 1972 | Handbook: "the parking lots have been replaced by large grassy acabowls (courtyards suitable for touch football and other games). All rooms open directly onto these grassy areas or onto balconies overlooking them" [@handbook-1972] | [P] |
 | 1994 | Glossary entries for Acabowl, Acatramp ("the purple and black trampoline majestically situated in the middle of the Acabowl") and Backabowl ("Where most of the amateur and shy sun-bathers can be found") [@handbook-1994] | [P] |
@@ -37,7 +37,7 @@ The Acabowl is the Wiess courtyard — "Equivalent areas are termed 'quads' in o
     "Fortunately, the parking lots have been replaced by large grassy acabowls (courtyards suitable for touch football and other games)." [@handbook-1972]
 
 !!! quote "1994 Freshman Handbook"
-    "**Acabowl.** The westernmost courtyard of the College. Specifically, the patio area where 'four-square' is played, TG's are held, etc. Equivalent areas are termed 'quads' in other colleges, but that's just 'cause they suck. (From 'Academic Bowl,' a football game played annually at the site during the 1960's, in which reportedly only 'academs' had time to take part.)" — "**Backabowl.** The playing field opposite the Acabowl between the singles wing and the three story wing." [@handbook-1994]
+    "**Acabowl.** The westernmost courtyard of the College. Specifically, the patio area where 'four-square' is played, TG's are held, etc. Equivalent areas are termed 'quads' in other colleges, but that's just 'cause they suck. (From 'Academic Bowl,' a football game played annually at the site during the 1960's, in which reportedly only 'academs' had time to take part.)"—"**Backabowl.** The playing field opposite the Acabowl between the singles wing and the three story wing." [@handbook-1994]
 
 !!! quote "O-Week Book 2003"
     "**Acabowl.** 1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying." [@oweek-2003 p.3]
@@ -55,15 +55,15 @@ The full run of Aca- entries, year by year, is in [How we described ourselves, b
 
 ## Variants & disputes
 
-- **The etymology.** "Academic Bowl" is the only origin story in the corpus, and the 1994 handbook itself hedges it ("reportedly") [@handbook-1994]. The 2003 O-Week book says Dr. Bill "will have the answer" to "where the name 'acabowl' came from" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8] — his answer was never written down in anything we hold. The word is at least as old as the 1972 handbook [@handbook-1972].
+- **The etymology.** "Academic Bowl" is the only origin story in the corpus, and the 1994 handbook itself hedges it ("reportedly") [@handbook-1994]. The 2003 O-Week book says Dr. Bill "will have the answer" to "where the name 'acabowl' came from" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]—his answer was never written down in anything we hold. The word is at least as old as the 1972 handbook [@handbook-1972].
 - **Backabowl or Bacabowl.** The 1994 glossary spells it Backabowl [@handbook-1994]; the 1999 photo page is headed "The Bacabowl Ledge" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. In the new building the back terrace is "Backaterrace" in 2003 [@oweek-2003 p.3], "Acaterrace" from 2006 [@oweek-2006 p.83], and "Bacaterrace" (the fourth-floor balcony) from 2014 [@oweek-2014 p.102].
 - **What was played there.** Four-square (1994, 1997, 1999); soccer (2003–2014); frisbee or football (2015–17) [@handbook-1994] [@oweek-2003 p.3] [@oweek-2015 p.118]. The 1994 glossarist admits never having seen four-square played; the 1997 and 1999 webmasters still listed it as a tradition worth keeping [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
-- **The Acahammock.** In the glossary from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90], absent in 2011 and 2014, then "most recently, the Acahammock" in the 2015 history [@oweek-2015 p.10] — a replacement, not a first.
+- **The Acahammock.** In the glossary from 2003 to 2010 [@oweek-2003 p.3] [@oweek-2010 p.90], absent in 2011 and 2014, then "most recently, the Acahammock" in the 2015 history [@oweek-2015 p.10]—a replacement, not a first.
 - **Trampoline colours.** "Purple and black" in 1994 [@handbook-1994]; no later source gives a colour.
 
 ## Open questions
 
-- Any contemporary trace of the 1960s "Academic Bowl" game — the Thresher or Campanile of the 1960s would settle whether it existed and whether the name came from it.
+- Any contemporary trace of the 1960s "Academic Bowl" game—the Thresher or Campanile of the 1960s would settle whether it existed and whether the name came from it.
 - When the Acatramp first appeared (before 1994), and whether the trampoline in the new Acabowl is a continuous institution or a replacement.
 - The Old Wiess Acabowl photographs in the War Pig deck are dated only "mid-1990s" [@warpig-core-deck slide 30]; the people in them could date them.
 

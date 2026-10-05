@@ -25,7 +25,7 @@ from collections import defaultdict
 
 import yaml
 
-log = logging.getLogger("mkdocs.plugins.familypedia.citations")
+log = logging.getLogger("mkdocs.plugins.familykb.citations")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BIB_DIR = os.path.join(ROOT, "sources", "bibliography")
@@ -72,7 +72,7 @@ def load_bibliography() -> dict[str, dict]:
 def on_config(config):
     global _BIB
     _BIB = load_bibliography()
-    log.info("familypedia: %d bibliography entries", len(_BIB))
+    log.info("familykb: %d bibliography entries", len(_BIB))
     return config
 
 
@@ -167,7 +167,7 @@ def _fmt_entry(e: dict) -> str:
     if e.get("evidence"):
         bits.append(render_evidence(re.match(r"\[([PRT])\]", f"[{e['evidence']}]")))
     meta = " · ".join(bits)
-    lines = [f'<dt id="{html.escape(key)}"><code>{html.escape(key)}</code> — {head}' + (f' <small>{meta}</small>' if meta else "") + "</dt>"]
+    lines = [f'<dt id="{html.escape(key)}"><code>{html.escape(key)}</code>—{head}' + (f' <small>{meta}</small>' if meta else "") + "</dt>"]
     dd = []
     if e.get("notes"):
         dd.append(html.escape(str(e["notes"]).strip()))

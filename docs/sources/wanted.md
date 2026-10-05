@@ -1,5 +1,5 @@
 ---
-title: Wanted — documents we need and can't find
+title: Wanted—documents we need and can't find
 ---
 
 # Wanted: documents we need and can't find
@@ -39,7 +39,7 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ar
 | Court abstracts filed with the Coordinator | 2016–2026 | [Court](../governance/court.md) |
 | The Wiess Associates Guide | c.2023–25 | [Core team](../people/core-team.md) |
 | The Wiess side of the NOD decision: Cabinet minutes or a written record of the Magisters' recommendation, 2023–24 | 2023–24 | The "To be supplied" sections of the [NOD decision record](../decisions/nod-2026.md) |
-| Any Historian output since 1991: photograph archives, scrapbooks, the facebook.com/wiess.historian account (2012), the Instagram named in 2026 | 1991– | [Historians](../people/historians.md) — the office exists on paper; nothing it made has been found |
+| Any Historian output since 1991: photograph archives, scrapbooks, the facebook.com/wiess.historian account (2012), the Instagram named in 2026 | 1991– | [Historians](../people/historians.md)—the office exists on paper; nothing it made has been found |
 
 ## From people (ask, and record their answers as testimony)
 

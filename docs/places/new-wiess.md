@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # New Wiess (2002–)
 
-The present Wiess building stands "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. It was designed by Machado and Silvetti Associates of Boston, with Houston's Kirksey as project architect, as the first piece of a master plan that also covered a second college, an access road and gateway, a Magisters' house, a health clinic and the intramural fields [@machado-silvetti-wiess] [@kirksey-wiess]. Ground was broken on 5 October 1999; students had been pressing the administration for five years to keep what made the old building work — single-loaded corridors, outside balconies and one large courtyard — and got them [@riceinfo-news-2000-lundin]. The 228-bed (Kirksey: 230-bed) dormitory wraps three sides of a courtyard behind open-air corridors shaded by ivy-covered metal screens; the fourth side is a new commons, part of a shared complex with a second dining hall for Hanszen and a servery topped by a public terrace [@machado-silvetti-wiess]. Students moved in during 2002 and the courtyard kept the old name, [the Acabowl](acabowl.md) [@oweek-2006 p.37]. The Boston Society of Architects gave the building a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess].
+The present Wiess building stands "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. It was designed by Machado and Silvetti Associates of Boston, with Houston's Kirksey as project architect, as the first piece of a master plan that also covered a second college, an access road and gateway, a Magisters' house, a health clinic and the intramural fields [@machado-silvetti-wiess] [@kirksey-wiess]. Ground was broken on 5 October 1999; students had been pressing the administration for five years to keep what made the old building work—single-loaded corridors, outside balconies and one large courtyard—and got them [@riceinfo-news-2000-lundin]. The 228-bed (Kirksey: 230-bed) dormitory wraps three sides of a courtyard behind open-air corridors shaded by ivy-covered metal screens; the fourth side is a new commons, part of a shared complex with a second dining hall for Hanszen and a servery topped by a public terrace [@machado-silvetti-wiess]. Students moved in during 2002 and the courtyard kept the old name, [the Acabowl](acabowl.md) [@oweek-2006 p.37]. The Boston Society of Architects gave the building a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess].
 
 ## Timeline
 
@@ -34,7 +34,7 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
 
 ## As the college described it
 
-!!! quote "Robert Lundin, 'Construction Zone Ahead — TFW Style!', May 2000"
+!!! quote "Robert Lundin, 'Construction Zone Ahead—TFW Style!', May 2000"
     "It integrates many of the best elements of the current building in its design, including single-loaded room corridors, external balconies, and a large public courtyard area… Provided there are no further delays, Wiessmen will move into their new home in January of 2002." [@riceinfo-news-2000-lundin]
 
 !!! quote "Dedication planning page, teamwiess.com, December 2001"
@@ -44,7 +44,7 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
     "This new building opened in the fall of 2002. While many aspects of living at Wiess changed, Wiessmen have stayed the same. Instead of two courtyards to split the college, Wiess now has an enormous Acabowl. A gorgeous Commons, plenty of space to hang out around the building and spacious buildings make the new Wiess digs the best on campus." [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3]
 
 !!! quote "O-Week Book 2006"
-    "Out with the old and in with the new… We made sure to bring all the cool parts of Old Wiess (our old building) over to our current" [@oweek-2006 p.35] — and: "We now have an enormous courtyard, still called the Acabowl after the old main courtyard and a gorgeous commons. Plus, the addition of common rooms make new Wiess some of the best digs on campus." [@oweek-2006 p.37]
+    "Out with the old and in with the new… We made sure to bring all the cool parts of Old Wiess (our old building) over to our current" [@oweek-2006 p.35]—and: "We now have an enormous courtyard, still called the Acabowl after the old main courtyard and a gorgeous commons. Plus, the addition of common rooms make new Wiess some of the best digs on campus." [@oweek-2006 p.37]
 
 !!! quote "O-Week Book 2010"
     "This prompted the planning of New Wiess with consultations with Wiessmen, which opened in the fall of 2002… And we kept the exterior hallways that were (and are) the pulse of the college." [@oweek-2010 p.39]

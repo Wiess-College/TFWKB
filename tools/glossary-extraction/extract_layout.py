@@ -12,7 +12,7 @@ import re
 import sys
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
-sys.path.insert(0, "/home/claude/familypedia/tools")
+sys.path.insert(0, "/home/claude/familykb/tools")
 from gloss import (load_pages, split_columns, split_columns_smart, split_columns_keep_indent, strip_furniture,
                    parse_numbered, parse_plain, parse_indent, parse_para, parse_colon, write_tsv)
 

@@ -13,7 +13,7 @@ Unnecessary Tie Day was exactly what it says. "This one's pretty self-explanator
 
 | When | What | Evidence |
 |---|---|---|
-| 1997-08-11 | "Unnecessary Tie Day!" — "Traditions We'd Sure Like To See Continue" [@riceinfo-traditions-1997] | [P] |
+| 1997-08-11 | "Unnecessary Tie Day!"—"Traditions We'd Sure Like To See Continue" [@riceinfo-traditions-1997] | [P] |
 | 1999-06-25 | Its own page: "Wear a tie. What could be simpler? A little bit of randomness can be fun… (Thanks to Marc Hirsh, for the loan of his tacky-yet-beautiful tie, and to The King, for being so damn cool.)" [@riceinfo-tieday] | [P] |
 | 1999-12-30 | Moved to "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1999] | [P] |
 | 2003–2017 | Absent from every O-Week book and glossary [@oweek-2003 p.3] [@oweek-2017 p.14] | [P] |

@@ -13,7 +13,7 @@ Talleyboo is a name and one sentence. On 11 August 1997 the first Wiess website 
 
 | When | What | Evidence |
 |---|---|---|
-| 1997-08-11 | "**Talleyboo** (when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)" — "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] | [P] |
+| 1997-08-11 | "**Talleyboo** (when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)"—"Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] | [P] |
 | 1999-12-30 | Unchanged in Ray Wagner's revision [@riceinfo-traditions-1999] | [P] |
 | 2003–2017 | Not in any O-Week book [@oweek-2003 p.3] [@oweek-2017 p.14] | [P] |
 

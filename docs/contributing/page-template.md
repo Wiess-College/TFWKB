@@ -12,7 +12,7 @@ reviewed_by: <GitHub handle>
 
 # <Title>
 
-<Summary. Three to five sentences giving the current understanding — what it is,
+<Summary. Three to five sentences giving the current understanding—what it is,
 when it began, how it has changed, what state it is in now. Written so that it is
 still true if nothing below it is read.>
 

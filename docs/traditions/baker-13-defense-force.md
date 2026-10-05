@@ -7,13 +7,13 @@ reviewed_by: unreviewed
 
 # Baker 13 Defense Force
 
-Baker 13 is Baker College's run: on the 13th and 31st of the month, students in shaving cream and nothing else run through the colleges and leave body prints on the glass. Wiess's tradition was to meet them with water. The 1997 website listed "The utter and complete obliteration of 13" among the traditions it would "Sure Like To See Continue" — adding "(Though, to be fair, you oughta run sometime, too...)" [@riceinfo-traditions-1997] — and every O-Week glossary from 2003 to 2014 defined the runners, under the name "Club 13" to 2008 and "Baker 13" from 2010, with the same second meaning: "A favorite target of Wiessmen with buckets of water" [@oweek-2003 p.5] [@oweek-2014 p.104]. The 2008 website gave the defence a name and a menu entry, "Baker 13 Defense Force", on a page that was never written [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. In 2015 the water clause disappeared; the glossary now calls Baker 13 "A proud Baker institution for over thirty years; all undergrads are invited to participate" [@oweek-2015 p.120]. Whether Wiess still throws water is not recorded.
+Baker 13 is Baker College's run: on the 13th and 31st of the month, students in shaving cream and nothing else run through the colleges and leave body prints on the glass. Wiess's tradition was to meet them with water. The 1997 website listed "The utter and complete obliteration of 13" among the traditions it would "Sure Like To See Continue"—adding "(Though, to be fair, you oughta run sometime, too...)" [@riceinfo-traditions-1997]—and every O-Week glossary from 2003 to 2014 defined the runners, under the name "Club 13" to 2008 and "Baker 13" from 2010, with the same second meaning: "A favorite target of Wiessmen with buckets of water" [@oweek-2003 p.5] [@oweek-2014 p.104]. The 2008 website gave the defence a name and a menu entry, "Baker 13 Defense Force", on a page that was never written [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. In 2015 the water clause disappeared; the glossary now calls Baker 13 "A proud Baker institution for over thirty years; all undergrads are invited to participate" [@oweek-2015 p.120]. Whether Wiess still throws water is not recorded.
 
 ## Timeline
 
 | When | What | Evidence |
 |---|---|---|
-| 1997-08-11 | "The utter and complete obliteration of 13. (Though, to be fair, you oughta run sometime, too...)" — tier: We'd Sure Like To See Continue [@riceinfo-traditions-1997]; unchanged 1999 [@riceinfo-traditions-1999] | [P] |
+| 1997-08-11 | "The utter and complete obliteration of 13. (Though, to be fair, you oughta run sometime, too...)"—tier: We'd Sure Like To See Continue [@riceinfo-traditions-1997]; unchanged 1999 [@riceinfo-traditions-1999] | [P] |
 | 2003 | Glossary, "Club 13": "1. An organization whose sole function is to undress, smear shaving cream on their bodies and run around campus leaving a slimy trail of body prints. 2. A favorite target of Wiessmen with buckets of water" [@oweek-2003 p.5]; same 2006–2008 [@oweek-2006 p.85] [@oweek-2008 part 7 p.5] | [P] |
 | 2006 | Baker described: "Baker 13 graces every 13th and 31st night with students clad only in shaving cream" [@oweek-2006 p.53] | [P] |
 | 2008-06 | teamwiess.com Activities menu: "Baker 13 Defense Force"; the page is a PHP include error ("Unable to access ./content/b13df.txt") [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]; still empty in July [@wb 20080702214704 http://teamwiess.com/index.php?r=b13df] | [P] |
@@ -27,13 +27,13 @@ Baker 13 is Baker College's run: on the 13th and 31st of the month, students in 
     "The utter and complete obliteration of 13. (Though, to be fair, you oughta run sometime, too...)" [@riceinfo-traditions-1997]
 
 !!! quote "O-Week Book 2003"
-    "**Club 13** — 1. An organization whose sole function is to undress, smear shaving cream on their bodies and run around campus leaving a slimy trail of body prints. 2. A favorite target of Wiessmen with buckets of water." [@oweek-2003 p.5]
+    "**Club 13**—1. An organization whose sole function is to undress, smear shaving cream on their bodies and run around campus leaving a slimy trail of body prints. 2. A favorite target of Wiessmen with buckets of water." [@oweek-2003 p.5]
 
 !!! quote "O-Week Book 2014"
-    "**Baker 13** — An organization whose sole function is to undress, smear shaving cream on their bodies, and run around campus leaving a slimy trail of body prints. A favorite target of Wiessmen with buckets of water." [@oweek-2014 p.104]
+    "**Baker 13**—An organization whose sole function is to undress, smear shaving cream on their bodies, and run around campus leaving a slimy trail of body prints. A favorite target of Wiessmen with buckets of water." [@oweek-2014 p.104]
 
 !!! quote "O-Week Book 2015"
-    "**Baker 13** — An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate." [@oweek-2015 p.120]
+    "**Baker 13**—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate." [@oweek-2015 p.120]
 
 ## Variants & disputes
 
@@ -47,6 +47,6 @@ Baker 13 is Baker College's run: on the 13th and 31st of the month, students in 
 - When Wiessmen first met Baker 13 with water. 1997 is the earliest word and already treats it as established [@riceinfo-traditions-1997].
 - What the "Baker 13 Defense Force" page of 2008 was meant to say, and whether the name was in use at Wiess before the webmaster used it. The 2007–08 Cabinet minutes (index.php?r=lastnotes) and the Thresher are the places to look.
 - Whether water is still thrown. The Thresher's periodic Baker 13 coverage, c.2009 onward [@thresher-web], would show whether Wiess is still named as a hazard.
-- Baker's own account of the run — its site and the 2016 Owlmanac's "over thirty years" claim [@owlmanac-2016 p.55] would date Baker 13 to the early 1980s; not checked here.
+- Baker's own account of the run—its site and the 2016 Owlmanac's "over thirty years" claim [@owlmanac-2016 p.55] would date Baker 13 to the early 1980s; not checked here.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

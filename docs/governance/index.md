@@ -21,14 +21,14 @@ Every surviving text is a tagged commit in the college's governance repository [
 | `v1993-08-05` | 1993-08-05 | Constitution and Bylaws, 12 articles + 10 articles [@constitution-1993] | riceinfo.rice.edu, posted 1997, captured 1999–2001 | [P] |
 | `v2007-02-06` | 2007-02-06 | Constitution, "Revised 06 February 2007", 12 articles [@constitution-2007] | teamwiess.com PDF, captured 2010 and 2011 | [P] |
 | `bylaws-2010` | c. 2010 | Bylaws, undated text, first seen 26 Aug 2010 [@bylaws-2010] | teamwiess.com PDF, captured 2010 and 2011 | [P] |
-| — | 2010, 2011 | Housing Rules, image-only PDFs, text not yet read [@housing-rules-2010] | teamwiess.com PDF | [P] |
+|—| 2010, 2011 | Housing Rules, image-only PDFs, text not yet read [@housing-rules-2010] | teamwiess.com PDF | [P] |
 | `rules-2012` | 2012-08-28 | College Rules, "Last Amended August 28th, 2012" [@college-rules-2012] | teamwiess.com PDF, captured 2016 | [P] |
 | `housing-2013` | 2013-02-06 | Housing Rules, "Last Amended February 6th, 2013" [@housing-rules-2013] | teamwiess.com PDF, captured 2014 | [P] |
 | `v2013-02-08` | 2013-02-08 | Constitution, "Last Amended February 8th, 2013", 12 articles [@constitution-2013] | teamwiess.com PDF, captured 2014 | [P] |
 | `v2016-01-26` | 2016-01-26 | Constitution (11 articles) and Bylaws (11 articles), "Last Amended January 26th, 2016" [@constitution-2016] | teamwiess.com PDFs, captured 3 Mar 2017 | [P] |
 | `v2017-03-29` | 2017-03-29 | Constitution, one-paragraph amendment; date from the filename [@constitution-2017] | teamwiess.com PDF, captured 31 Mar 2017 | [P] |
 | *(no text)* | fall 2021 | Clause banning hate speech, announced in the Thresher [@thresher-2021-09-15] | not captured | [P] |
-| `v2026-02-23` | 2026-02-23 | Complete Guiding Documents — Constitution, 16 articles, "Last Amended: February 23, 2026" [@constitution-2026] | wiess.rice.edu PDF, captured 12 Mar 2026 | [P] |
+| `v2026-02-23` | 2026-02-23 | Complete Guiding Documents—Constitution, 16 articles, "Last Amended: February 23, 2026" [@constitution-2026] | wiess.rice.edu PDF, captured 12 Mar 2026 | [P] |
 
 ## How amendments work now
 

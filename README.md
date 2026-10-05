@@ -1,4 +1,4 @@
-# Team Familypedia
+# Team Family Knowledgebase (Wiess)
 
 The sourced history of Wiess College, Rice University — traditions, places, people, governance and how they changed — with every claim cited to a permalink that resolves without us.
 

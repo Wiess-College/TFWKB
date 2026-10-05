@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # DOME & Big Bang
 
-Big Bang is the party the college throws for its new students once they have survived their first round of exams — "a variety of games, dancing and, of course, goldenrod T-shirts" [@oweek-2003 35-44 wiess.pdf p.8]. It is in the record from 1997, when the first website listed it with a sigh — "Big Bang (is that supposed article of the Wiess Constitution gone now? *sigh...*)" [@riceinfo-traditions-1997] — in every O-Week glossary from 2003 to 2014, and in the 2026 Constitution, which makes it the Internal Vice President's job "to be planned with the Head Fellow(s)" [@constitution-2026 p.6]. No constitution between 1993 and 2017 mentions it, so the "supposed article" of 1997 was either lost before 1993 or never existed; the 2026 text is the first to write it in. "DOME" is a mystery: it appears once, as half of the heading "DOME & Big Bang" in the 2008 website's Activities menu, on a page that was never filled in [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]. Nothing in the corpus says what it was.
+Big Bang is the party the college throws for its new students once they have survived their first round of exams—"a variety of games, dancing and, of course, goldenrod T-shirts" [@oweek-2003 35-44 wiess.pdf p.8]. It is in the record from 1997, when the first website listed it with a sigh—"Big Bang (is that supposed article of the Wiess Constitution gone now? *sigh...*)" [@riceinfo-traditions-1997]—in every O-Week glossary from 2003 to 2014, and in the 2026 Constitution, which makes it the Internal Vice President's job "to be planned with the Head Fellow(s)" [@constitution-2026 p.6]. No constitution between 1993 and 2017 mentions it, so the "supposed article" of 1997 was either lost before 1993 or never existed; the 2026 text is the first to write it in. "DOME" is a mystery: it appears once, as half of the heading "DOME & Big Bang" in the 2008 website's Activities menu, on a page that was never filled in [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]. Nothing in the corpus says what it was.
 
 ## Timeline
 
@@ -47,7 +47,7 @@ The glossary line was "Party held for the freshmen after they ace their first ro
 
 ## Variants & disputes
 
-- **The constitutional article.** Cunningham in 1997 believed Big Bang had once been written into the Constitution [@riceinfo-traditions-1997]. The 1993 Constitution he himself posted does not contain it [@constitution-1993], nor do the 2007, 2013, 2016 or 2017 texts or the 2010 Bylaws [@gov-repo]. Either the article belonged to a pre-1993 constitution — the 1993 text says it replaced one with "ten amendments" — or the belief was a campus legend. The Woodson records are the place to settle it [@woodson-ua0079]. In 2026 the Constitution does name Big Bang, for the first time in the surviving lineage [@constitution-2026 p.6].
+- **The constitutional article.** Cunningham in 1997 believed Big Bang had once been written into the Constitution [@riceinfo-traditions-1997]. The 1993 Constitution he himself posted does not contain it [@constitution-1993], nor do the 2007, 2013, 2016 or 2017 texts or the 2010 Bylaws [@gov-repo]. Either the article belonged to a pre-1993 constitution—the 1993 text says it replaced one with "ten amendments"—or the belief was a campus legend. The Woodson records are the place to settle it [@woodson-ua0079]. In 2026 the Constitution does name Big Bang, for the first time in the surviving lineage [@constitution-2026 p.6].
 - **"Party" or "event".** The glossary changed "Party held for the freshmen" to "Event held for the new students" in 2014 [@oweek-2014 p.102], the same year the essay began saying "The exact details are a mystery" [@oweek-2014 p.43]. The change in wording tracks Rice's move from "freshmen" to "new students"; whether the party itself changed is not recorded.
 - **Did it lapse?** Big Bang vanishes from the 2015 and 2016 books entirely and returns in 2017 as something the Internal VP coordinates "whatever that is" [@oweek-2017 p.25]. The joke may mean the event had become obscure, or only that the writer was being funny. The 2026 Constitution treats it as live [@constitution-2026 p.6].
 - **DOME.** Only the 2008 menu heading [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]. No glossary, book, constitution or website explains it, and nothing on this page should be read as knowing what it was.
@@ -55,7 +55,7 @@ The glossary line was "Party held for the freshmen after they ace their first ro
 ## Open questions
 
 - What DOME was. The 2008 webmaster paired it with Big Bang under "Activities", which suggests a freshman-class event of the same season; the 2007–08 Cabinet minutes on teamwiess.com (index.php?r=lastnotes and its archive) and the 2008 O-Week book's Cabinet pages are the first places to look.
-- Whether a pre-1993 constitution had a "Big Bang" article, as the 1997 site believed [@riceinfo-traditions-1997] — Woodson UA 0079 [@woodson-ua0079].
+- Whether a pre-1993 constitution had a "Big Bang" article, as the 1997 site believed [@riceinfo-traditions-1997]—Woodson UA 0079 [@woodson-ua0079].
 - When Big Bang began. "We'd Sure Like To See Continue" in 1997 implies it was established by then; nothing earlier is in the corpus.
 - Whether Big Bang was held in 2014–2016, when the books stopped describing it.
 

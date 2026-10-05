@@ -4,12 +4,12 @@ title: Sources
 
 # Sources
 
-Team Familypedia holds condensed knowledge, not copies of the evidence. The evidence lives in places that will outlast this site — the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts — and every claim here points at one of them with a link that works without us.
+Team Family Knowledgebase holds condensed knowledge, not copies of the evidence. The evidence lives in places that will outlast this site—the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts—and every claim here points at one of them with a link that works without us.
 
-- **[Annotated bibliography](bibliography.md)** — every source the pages cite, with what it is, where it lives, what it is good for, and its gaps. Generated at build time from `sources/bibliography/*.yaml`; the keys in the YAML are the keys the pages cite.
-- **[Where to look](where-to-look.md)** — the finding aid: which archive holds what, how to query it, and the recipes that worked.
-- **[Evidence classes](evidence-classes.md)** — what the P / R / T tags mean and how to weigh them.
-- **[Search log](search-log.md)** — what has been searched, where, with what result, and the leads not yet followed. The place to start if you want to find something new.
+- **[Annotated bibliography](bibliography.md)**—every source the pages cite, with what it is, where it lives, what it is good for, and its gaps. Generated at build time from `sources/bibliography/*.yaml`; the keys in the YAML are the keys the pages cite.
+- **[Where to look](where-to-look.md)**—the finding aid: which archive holds what, how to query it, and the recipes that worked.
+- **[Evidence classes](evidence-classes.md)**—what the P / R / T tags mean and how to weigh them.
+- **[Search log](search-log.md)**—what has been searched, where, with what result, and the leads not yet followed. The place to start if you want to find something new.
 
 ## The corpus
 

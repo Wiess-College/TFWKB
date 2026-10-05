@@ -14,7 +14,7 @@ Norse Night was a whole Commons eating like Vikings: no utensils, food served st
 | When | What | Evidence |
 |---|---|---|
 | 1991 | "Norse Night '91": food thrown, ninety minutes' clean-up, "we were told afterwards that we weren't supposed to" [@riceinfo-norse] | [R] |
-| 1994 | Glossary: "Viking Table — A chance to eat with your hands and generally make a mess. Viking people must clean up after they are through" [@handbook-1994] | [P] |
+| 1994 | Glossary: "Viking Table—A chance to eat with your hands and generally make a mess. Viking people must clean up after they are through" [@handbook-1994] | [P] |
 | 1997-08-11 | "Norse Night" among "Traditions We'd Sure Like To See Continue" [@riceinfo-traditions-1997] | [P] |
 | 1999-06-23 | Its page, "I wanna be a Viking, a Viking Viking Viking...", with a Campanile photograph of "Bloomie gorging himself" [@riceinfo-norse] | [P] |
 | 1999-12-30 | Moved to "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1999] | [P] |
@@ -23,7 +23,7 @@ Norse Night was a whole Commons eating like Vikings: no utensils, food served st
 ## As the college described it
 
 !!! quote "1994 Freshman Handbook"
-    "**Viking Table** — A chance to eat with your hands and generally make a mess. Viking people must clean up after they are through." [@handbook-1994]
+    "**Viking Table**—A chance to eat with your hands and generally make a mess. Viking people must clean up after they are through." [@handbook-1994]
 
 !!! quote "riceinfo site, 23 Jun 1999"
     "A few years back, somebody came up with the idea of having a Norse Night (although it may not have been the first; I can't say for sure). The idea is pretty much to have an entire *Commons* full of Viking tables. Generally, somebody sets a date for the feast, then puts up a signup sheet somewhere at Wiess. The best days to do it are on Fridays, 'cause there's no family-style and folks who don't wanna Vike (is that a verb?) will probably go out to eat anyway… You shouldn't [throw food], since the Court may still fine you, and besides that, you'll get to clean it all up." [@riceinfo-norse]
@@ -32,12 +32,12 @@ Norse Night was a whole Commons eating like Vikings: no utensils, food served st
 
 - **Origin.** The 1999 writer himself hedges: "A few years back, somebody came up with the idea… (although it may not have been the first; I can't say for sure)" [@riceinfo-norse]. The 1991 night is the only one he dates, and he writes as if he were there ("we were told afterwards"), which would make him a student in 1991 and the page partly a memory.
 - **Continue, or dying.** 1997 "We'd Sure Like To See Continue"; 1999 "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The page written in June 1999 already speaks of it in the past ("Norse Night '91").
-- **Fridays and family style.** The page's reason for Fridays — "there's no family-style" — dates its practice to the Old Wiess years when the college ate family style Monday to Thursday; the 2006 book says family style ended "two years ago", i.e. c.2004, with the new servery [@oweek-2006 p.42].
+- **Fridays and family style.** The page's reason for Fridays—"there's no family-style"—dates its practice to the Old Wiess years when the college ate family style Monday to Thursday; the 2006 book says family style ended "two years ago", i.e. c.2004, with the new servery [@oweek-2006 p.42].
 
 ## Open questions
 
 - Whether Norse Night was held between 1991 and 1999, or at all after 1991; the page implies but does not say so [@riceinfo-norse].
-- The Campanile photograph of "Bloomie" — which volume, which page; the image file `norse1small` is in the riceinfo mirror [@riceinfo-site].
+- The Campanile photograph of "Bloomie"—which volume, which page; the image file `norse1small` is in the riceinfo mirror [@riceinfo-site].
 - Whether other colleges' Viking tables survive, as the page claims the custom "isn't just at Wiess" [@riceinfo-norse].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

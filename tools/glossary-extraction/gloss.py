@@ -10,7 +10,7 @@ Usage (as a module from small driver scripts):
 import re
 import sys
 
-sys.path.insert(0, "/home/claude/familypedia/tools")
+sys.path.insert(0, "/home/claude/familykb/tools")
 from fix_pdf_text import fix_line  # noqa
 
 LIG = {"ﬁ": "fi", "ﬂ": "fl", "ﬃ": "ffi", "ﬀ": "ff", "¬": "", "﻿": ""}
