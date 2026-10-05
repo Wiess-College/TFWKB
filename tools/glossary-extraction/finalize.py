@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Apply hand-corrections to the raw extractions (out/<year>.tsv) and write the final TSVs to
-/home/claude/familypedia/sources/glossaries/<year>.tsv.  Every correction below was checked
+/home/claude/familykb/sources/glossaries/<year>.tsv.  Every correction below was checked
 against the page text printed from the corpus; the comments say which page."""
 import csv
 import os
