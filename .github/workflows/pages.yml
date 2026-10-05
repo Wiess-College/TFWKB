@@ -30,7 +30,7 @@ jobs:
           python3 tools/import_governance_changes.py || true
       - name: Build (strict—an unknown citation key fails here)
         run: mkdocs build --strict
-      - uses: actions/upload-pages-artifact@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
   deploy:
