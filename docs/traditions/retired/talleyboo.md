@@ -7,29 +7,44 @@ reviewed_by: unreviewed
 
 # Talleyboo
 
-Talleyboo is a name and one sentence. On 11 August 1997 the first Wiess website put it, in bold, at the head of "Traditions That Sadly Seem To Be Dying Out", with the comment: "(when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)" [@riceinfo-traditions-1997]. The December 1999 revision kept it there, word for word [@riceinfo-traditions-1999]. That is everything the corpus holds. From the comment it was something disgusting that Wiessmen did, or did to each other, and had stopped doing by 1997; it never had a page, a glossary entry or a description, and no O-Week book, website or blog comment after 1999 uses the word. Even its spelling rests on one writer.
+A name, one sentence, and a mystery. Something gross happened here. We don't know what.
 
-## Timeline
+!!! abstract "TL;DR"
+    - Talleyboo topped the 1997 website's list of "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997].
+    - The only hint: "when was the last time anybody at Wiess did anything *really* disgusting?" [@riceinfo-traditions-1997]
+    - A possible lead on the name: a 1968 April Fool Thresher calls the Wiess master "Rue Tallyboo" [@thresher-1968-04-01-tallyboo]. That's a lead, not proof.
 
-| When | What | Evidence |
-|---|---|---|
-| 1997-08-11 | "**Talleyboo** (when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)"—"Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] | [P] |
-| 1999-12-30 | Unchanged in Ray Wagner's revision [@riceinfo-traditions-1999] | [P] |
-| 2003–2017 | Not in any O-Week book [@oweek-2003 p.3] [@oweek-2017 p.14] | [P] |
+## What it was
 
-## As the college described it
+Honestly? Nobody wrote it down. The 1997 site put it in bold with this note: "(when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)" [@riceinfo-traditions-1997].
 
-!!! quote "riceinfo site, 1997 and 1999"
-    "**Talleyboo** (when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)" [@riceinfo-traditions-1997]
+So: something disgusting, and already fading by 1997. The 1999 revision kept the same words [@riceinfo-traditions-1999]. It isn't in the 1994 glossary [@handbook-1994], and no O-Week book mentions it [@oweek-2003 p.3] [@oweek-2017 p.14].
 
-## Variants & disputes
+## Where the name might come from
 
-- None in the record, because there is only one source. The word is not in the 1994 Freshman Handbook glossary as transcribed on the same site [@handbook-1994], which suggests either that it was too disgusting to print for freshmen or that it was already gone by 1994.
+In the Thresher's April Fool issue of 1968, a joke list of the college masters includes "Rue Tallyboo" [@thresher-1968-04-01-tallyboo]. That looks like a pun on Roy Talmage, Wiess's first master [@oweek-2006 p.36] (see [Magisters](../../people/masters-and-magisters.md)). It *might* be where "Talleyboo" came from. Nothing connects the two yet.
 
-## Open questions
+## Why it stopped
 
-- What Talleyboo was. This is the plainest gap in the traditions record: a 1997 writer expected his readers to know. Alumni of the late 1980s and early 1990s are the only likely source; a question in the Commons, or on a Rice History Corner thread, is the next step.
-- The spelling, and whether it is a person's name (Talley?), a place, or a corruption of something else.
-- Whether the Thresher of the 1980s–90s ever printed the word [@thresher-portal].
+Unknown. By 1997 it was "dying out," and after 1999 the word disappears [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
+
+??? info "The receipts: timeline"
+
+    | When | What | Evidence |
+    |---|---|---|
+    | 1968-04-01 | Lead only: the Thresher's April Fool issue lists the college masters in parody, including "Rue Tallyboo", apparently Wiess master Roy Talmage. A possible source of the name; not proof [@thresher-1968-04-01-tallyboo] | [P] |
+    | 1997-08-11 | "**Talleyboo** (when was the last time anybody at Wiess did anything *really* disgusting? I guess we're not quite as sick as I'd thought...*sigh*)"—"Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] | [P] |
+    | 1999-12-30 | Unchanged in Ray Wagner's revision [@riceinfo-traditions-1999] | [P] |
+    | 2003–2017 | Not in any O-Week book [@oweek-2003 p.3] [@oweek-2017 p.14] | [P] |
+
+??? info "Arguments & loose ends"
+
+    **Where sources disagree.** There's only one source, so nothing to argue about. It's missing from the 1994 handbook glossary on the same site [@handbook-1994]. Maybe it was too gross to print for freshmen. Maybe it was already gone.
+
+    **Still don't know.**
+
+    - What Talleyboo was. This is the biggest gap in the traditions record: the 1997 writer expected readers to know. Alumni of the late 1980s and early 1990s are the best bet.
+    - The spelling, and whether it's a name, a place, or a pun. The 1968 "Rue Tallyboo" is the only lead so far [@thresher-1968-04-01-tallyboo].
+    - Whether the Thresher of the 1980s–90s ever printed the word [@thresher-portal].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

@@ -7,6 +7,12 @@ reviewed_by: unreviewed
 
 # Senior and Freshman Debates
 
-Not yet documented. No O-Week book, college website, Cabinet record or Thresher article in our corpus mentions Wiess Senior or Freshman Debates; the only debates in the O-Week books are Willy Week's Beer Debates, a university event [@oweek-2006 p.51], and Proxy Cab, where "Debate is always fiery" [@oweek-2024 p.37].
+!!! abstract "TL;DR"
+    - Nothing in writing yet. No O-Week book, college website, Cabinet record or Thresher article we've found mentions Wiess Senior or Freshman Debates.
+    - The only debates in the O-Week books are other things: Willy Week's Beer Debates, a university event [@oweek-2006 p.51], and Proxy Cab, where "Debate is always fiery" [@oweek-2024 p.37].
+
+## Help us out
+
+Know how the Debates work, or when they started? [Add your story](../about/contribute.md).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

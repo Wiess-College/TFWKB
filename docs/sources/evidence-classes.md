@@ -4,7 +4,12 @@ title: Evidence classes
 
 # Evidence classes
 
-Three tags, on every timeline row and on any claim that carries weight. They describe what *kind* of thing the reader is being asked to trust, not how much to trust it.
+Every timeline row has a letter: P, R or T. It tells you what *kind* of proof you're looking at, not how much to trust it.
+
+!!! abstract "TL;DR"
+    - **P** = written at the time. **R** = written later by someone who'd know. **T** = someone's memory.
+    - The letters are not a ranking. The guy who built the pig remembering it (T) can beat a web page by someone who wasn't there (P).
+    - Always ask: *what is this source primary evidence of?*
 
 | Tag | Class | What it is | Examples here |
 |---|---|---|---|
@@ -14,14 +19,22 @@ Three tags, on every timeline row and on any claim that carries weight. They des
 
 ## How to weigh them
 
-**The tags are not a ranking.** A 2021 comment by the man who built the pig (T) outweighs a 1999 web page written by someone who was not there (P as a document, R as an account). An O-Week book (P) is a primary source for *what the college told its freshmen that year*—and a retrospective, often stale, source for the events it describes. The War Pig glossary entry was copied unchanged for six years; the "last Friday of October" for NOD survived in print for years after the party had moved to Saturday.
+An O-Week book is primary evidence of *what the college told its freshmen that year*. It's weak evidence about events years earlier. The 2006 book proves that in 2006 the college called the War Pig a "former" mascot; it tells you little about 1986.
 
-So ask of each source: *what is it primary evidence of?* The 2006 O-Week book is primary evidence that in 2006 the college called the War Pig a "former" mascot. It is weak evidence about 1986.
+Old text gets copied. The War Pig glossary entry ran unchanged for six years, and NOD's "last Friday of October" stayed in print years after the party moved to Saturday.
 
-**When sources disagree**, the page's Variants & disputes section lays them out with their tags and says which is stronger and why. Usually: contemporary beats retrospective; a named witness beats an anonymous page; two independent sources beat one copied twice; and a source that can be wrong about its own subject (the college misdating its own chant) is still the best source for what the college believed.
+## When sources disagree
 
-**Dates on documents are claims too.** The 2017 constitutional amendment is dated from a filename because its "Last Amended" line was never updated. The 2010 Bylaws are undated. Say so.
+Each page's "Arguments & loose ends" box lays them out. Usually:
 
-## What is not evidence
+- written at the time beats written later;
+- a named witness beats an anonymous page;
+- two independent sources beat one source copied twice.
 
-A search result. An AI summary. This site. Another page on this site (link to it instead). "Everyone knows." If it cannot be cited, it goes in [Open questions](../contributing/page-template.md) or the Commons.
+A source that gets its own history wrong (like the college misdating its own chant) is still the best source for what the college *believed*.
+
+**Dates on documents are claims too.** The 2017 constitutional amendment is dated from a filename, because its "Last Amended" line was never updated. The 2010 Bylaws have no date at all. Say so.
+
+## What isn't evidence
+
+A search result. An AI summary. This site, or another page on it (link to it instead). "Everyone knows." If you can't cite it, it goes in the page's open questions or the Commons (see the [page template](../contributing/page-template.md)).

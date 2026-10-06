@@ -7,9 +7,16 @@ reviewed_by: tools/build_glossary_series.py
 
 # How we described ourselves, by year
 
-Every O-Week book ends with a glossary—"Wiess Speak", "Conclusions", "the Glossary"—written by that year's coordinators for that year's freshmen. Read in sequence, the definitions are the college's own record of what each generation thought mattered, and of drift: the War Pig is "the Wiess mascot" in 1994, "**Former** Wiess mascot" from 2006, and "the giant wooden pig built by the Class of 2012" from 2014.
+Every O-Week book ends with a glossary of Wiess words, written by that year's O-Week team for that year's freshmen. Line them up by year and you can watch the college change its mind.
 
-This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025) by `tools/build_glossary_series.py`; edit the TSVs, not this page. Each definition is cited to its book and page. Terms are grouped when they are plainly the same thing under different spellings, and when a book renamed the same thing (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture); the later name is shown in italics against its year.
+!!! abstract "TL;DR"
+    - Every Wiess word from the O-Week glossaries, year by year, with its book and page.
+    - Watch words drift: the War Pig is "the Wiess mascot" in 1994, "**Former** Wiess mascot" from 2006, and "the giant wooden pig built by the Class of 2012" from 2014.
+    - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.
+
+**How it works.** This page is built by a script from 16 glossaries (1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025). Want to fix something? Edit `sources/glossaries/*.tsv`, then run `tools/build_glossary_series.py`. Don't edit this page by hand.
+
+**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. The newer name shows in italics next to its year.
 
 
 ## Terms that recur (202)
@@ -18,7 +25,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | Term | Years present |
 |---|---|
 | [13th Street](#13th-street) | 2008, 2010 |
-| [2FK/3FK](#2fk-3fk) | 2019, 2021 |
+| [2FK/3FK](#2fk3fk) | 2019, 2021 |
 | [45, 90, 180](#45-90-180) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acababy](#acababy) | 2014, 2015, 2016, 2017 |
 | [Acabowl](#acabowl) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
@@ -99,7 +106,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [Gofer](#gofer) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Goldenrod](#goldenrod) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [GSA](#gsa) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [H&D](#h-d) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [H&D](#hd) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Hanszen](#hanszen) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Hanszenite](#hanszenite) | 2014, 2016-owlmanac |
 | [Head Fellows](#head-fellows) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
@@ -108,7 +115,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [House of Pies](#house-of-pies) | 2003, 2006, 2007, 2008, 2010, 2011, 2016-owlmanac |
 | [IM](#im) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Inner Loop](#inner-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
-| [Ironman/Ironwoman](#ironman-ironwoman) | 2003, 2006, 2007, 2008, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Ironman/Ironwoman](#ironmanironwoman) | 2003, 2006, 2007, 2008, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Island](#island) | 2021, 2024, 2025 |
 | [Ivy](#ivy) | 2006, 2007, 2008, 2010, 2011 |
 | [Jack](#jack) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
@@ -144,7 +151,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [OC](#oc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [OC Lounge](#oc-lounge) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Outer Loop](#outer-loop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [P/F](#p-f) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
+| [P/F](#pf) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
 | [PAA](#paa) | 2015, 2016, 2017, 2019, 2021 |
 | [Parish Grants](#parish-grants) | 2010, 2011 |
 | [PCA](#pca) | 2015, 2016, 2017, 2019, 2021 |
@@ -171,7 +178,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [RSVP](#rsvp) | 2015, 2016, 2017, 2019, 2021, 2024 |
 | [RUPD](#rupd) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Rustication](#rustication) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [S/E](#s-e) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
+| [S/E](#se) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
 | [SA](#sa) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Sallyport](#sallyport) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Sammy the Owl](#sammy-the-owl) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
@@ -183,7 +190,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [Sidizen](#sidizen) | 2014, 2016-owlmanac |
 | [Skyspace](#skyspace) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [SMR](#smr) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
-| [Sparky’s](#sparky-s) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Sparky’s](#sparkys) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Squirrels](#squirrels) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Stacks](#stacks) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Sue](#sue) | 1994, 2003, 2006, 2007, 2008 |
@@ -206,7 +213,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [Upper Commons](#upper-commons) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Valhalla](#valhalla) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Village](#village) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [Virgin’s Walk](#virgin-s-walk) | 2003, 2006, 2007 |
+| [Virgin’s Walk](#virgins-walk) | 2003, 2006, 2007 |
 | [War Pig](#war-pig) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [What to call people from…](#what-to-call-people-from) | 2015, 2016, 2017, 2019, 2021 |
 | [Whataburger](#whataburger) | 2014, 2015, 2016, 2017, 2019, 2021 |
@@ -217,8 +224,8 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 | [Will Rice](#will-rice) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Will Ricer](#will-ricer) | 2014, 2016-owlmanac |
 | [Willy Week](#willy-week) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [Willy’s Statue](#willy-s-statue) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019 |
-| [Y’all](#y-all) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Willy’s Statue](#willys-statue) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019 |
+| [Y’all](#yall) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 
 
 ### 13th Street
@@ -2454,7 +2461,7 @@ This page is generated from `sources/glossaries/*.tsv` (16 glossaries: 1994, 200
 ## Terms that appear in only one glossary (47)
 
 
-The one-year entries are often the most revealing: a joke that lasted a semester, a staff member everyone knew, a rivalry that burned out.
+These are often the best ones: a joke that lasted one semester, a staff member everyone knew, a rivalry that burned out.
 
 
 ### 1994

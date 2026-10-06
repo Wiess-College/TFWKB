@@ -121,15 +121,19 @@ def main():
     out.append("---\ntitle: How we described ourselves, by year\nstatus: generated\nlast_reviewed: 2026-10-04\nreviewed_by: tools/build_glossary_series.py\n---\n")
     out.append("# How we described ourselves, by year\n")
     out.append(
-        "Every O-Week book ends with a glossary—\"Wiess Speak\", \"Conclusions\", \"the Glossary\"—written by that year's "
-        "coordinators for that year's freshmen. Read in sequence, the definitions are the college's own record of what each "
-        "generation thought mattered, and of drift: the War Pig is \"the Wiess mascot\" in 1994, \"**Former** Wiess mascot\" "
-        "from 2006, and \"the giant wooden pig built by the Class of 2012\" from 2014.\n\n"
-        f"This page is generated from `sources/glossaries/*.tsv` ({len(ylist)} glossaries: {', '.join(ylist)}) by "
-        "`tools/build_glossary_series.py`; edit the TSVs, not this page. Each definition is cited to its book and page. "
-        "Terms are grouped when they are plainly the same thing under different spellings, and when a book renamed "
-        "the same thing (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → "
-        "Commons Culture); the later name is shown in italics against its year.\n"
+        "Every O-Week book ends with a glossary of Wiess words, written by that year's O-Week team for that year's "
+        "freshmen. Line them up by year and you can watch the college change its mind.\n\n"
+        "!!! abstract \"TL;DR\"\n"
+        "    - Every Wiess word from the O-Week glossaries, year by year, with its book and page.\n"
+        "    - Watch words drift: the War Pig is \"the Wiess mascot\" in 1994, \"**Former** Wiess mascot\" from 2006, "
+        "and \"the giant wooden pig built by the Class of 2012\" from 2014.\n"
+        "    - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.\n\n"
+        "**How it works.** This page is built by a script from "
+        f"{len(ylist)} glossaries ({', '.join(ylist)}). Want to fix something? Edit `sources/glossaries/*.tsv`, "
+        "then run `tools/build_glossary_series.py`. Don't edit this page by hand.\n\n"
+        "**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
+        "Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. "
+        "The newer name shows in italics next to its year.\n"
     )
     out.append(f"\n## Terms that recur ({len(series)})\n")
     out.append("\n| Term | Years present |\n|---|---|")
@@ -148,7 +152,7 @@ def main():
             label = f" (*{printed}*)" if printed.lower() != display[n].lower() else ""
             out.append(f"- **{y}**{label}—{d} {cite(r)}")
     out.append(f"\n## Terms that appear in only one glossary ({len(oneoffs)})\n")
-    out.append("\nThe one-year entries are often the most revealing: a joke that lasted a semester, a staff member everyone knew, a rivalry that burned out.\n")
+    out.append("\nThese are often the best ones: a joke that lasted one semester, a staff member everyone knew, a rivalry that burned out.\n")
     for y in ylist:
         ones = [n for n in oneoffs if y in terms[n]]
         if not ones:
@@ -184,7 +188,9 @@ def norm_def(d: str) -> str:
 
 
 def slug(s: str) -> str:
-    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+    # match Python-Markdown's toc slugify so in-page links resolve
+    from markdown.extensions.toc import slugify
+    return slugify(s, "-")
 
 
 if __name__ == "__main__":

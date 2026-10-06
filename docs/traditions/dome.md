@@ -7,38 +7,50 @@ reviewed_by: unreviewed
 
 # DOME
 
-DOME is a Wiess party held early in the fall semester. Its name is a double entendre that the college has never spelled out in print; the one written account of it, on the college website in 2009–10, explains the name only through a "legend" about lettering on a fourth-floor window, and says the party "has been celebrated every year since" [@teamwiess-activities-2009]. DOME first appears in our corpus in June 2008, as half of the college website's menu heading "DOME & Big Bang" [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]; the O-Week books, which describe almost every other college event, never mention it.
+A party with a name nobody will explain in print. We're not going to either.
 
-## Timeline
+!!! abstract "TL;DR"
+    - DOME is a Wiess party early in the fall semester [@teamwiess-activities-2009].
+    - It first shows up in June 2008, on the college website's menu as "DOME & Big Bang" [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb].
+    - The only written account is a short web paragraph from 2009–10. The O-Week books never mention it [@teamwiess-activities-2009] [@oweek-2025 p.38].
 
-| When | What | Evidence |
-|---|---|---|
-| 2008-06-25 | teamwiess.com Activities menu: "DOME & Big Bang"; the page behind it is an include error, never filled in [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb] | [P] |
-| 2008-07 – 2009-07 | Heading still in the menu on every capture [@wb 20080903215404 http://teamwiess.com/] [@wb 20090720065010 http://teamwiess.com/] | [P] |
-| 2009-08-27 | Activities page, "DOME party": an origin legend and "It turned into a party, and has been celebrated every year since!" [@teamwiess-activities-2009] | [P] |
-| 2010-08-26 | Same paragraph, unchanged [@wb 20100826015909 http://teamwiess.com/activities.php] | [P] |
+## The legend
 
-## As the college described it
+The 2009 college website tells one story. A room of women on the 4th floor wrote the name on their window, and "It turned into a party, and has been celebrated every year since!" [@teamwiess-activities-2009]
 
-!!! quote "teamwiess.com, Activities, 2009–2010"
+That's it. That's the whole written record of where it came from.
+
+## How old is it?
+
+Nobody knows. "Every year since" doesn't say since when [@teamwiess-activities-2009]. A "4th floor room of girls" means after Wiess went coed in the 1980s.
+
+DOME isn't on the 1997 or 1999 lists of Wiess traditions [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. So it probably started later, or nobody thought of it as a tradition yet.
+
+## Who runs it?
+
+As far as the written record shows, it's a student party. No source says whether it's Wiess-only or open to other colleges. It has no line in the 2014–15 public budget, which lists NOD, Wiess Day, JamFest, Big Bang and Summit [@budget-2014-15 p.1]. See also [Off the books](off-the-books.md).
+
+??? info "The receipts: timeline"
+    | When | What | Evidence |
+    |---|---|---|
+    | 2008-06-25 | teamwiess.com Activities menu: "DOME & Big Bang"; the page behind it is an include error, never filled in [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb] | [P] |
+    | 2008-07 – 2009-07 | Heading still in the menu on every capture [@wb 20080903215404 http://teamwiess.com/] [@wb 20090720065010 http://teamwiess.com/] | [P] |
+    | 2009-08-27 | Activities page, "DOME party": an origin legend and "It turned into a party, and has been celebrated every year since!" [@teamwiess-activities-2009] | [P] |
+    | 2010-08-26 | Same paragraph, unchanged [@wb 20100826015909 http://teamwiess.com/activities.php] | [P] |
+
+??? quote "In the college's own words"
     "As legend has it, the first DOME party was started when a 4th floor room of girls wrote [the name] … on their window. It turned into a party, and has been celebrated every year since!" [@teamwiess-activities-2009]
 
-That is the whole of the college's written description in our corpus. The O-Week books of 2003–2017, the riceinfo site of 1997–2001 and the current college site say nothing about DOME.
+??? info "Arguments & loose ends"
+    **Where sources disagree.**
 
-## Variants & disputes
+    - *Why "DOME & Big Bang"?* The 2008 menu paired DOME with [Big Bang](big-bang.md), and the 2009 page printed them one after the other [@teamwiess-activities-2009]. Nobody explains it. Both happen in new students' first fall.
 
-- **How old is it?** The 2009 page says "every year since" without a year [@teamwiess-activities-2009]. A "4th floor room of girls" places the legend after Wiess admitted women in the 1980s, but otherwise the legend does not date itself. The earliest firm date is the June 2008 menu [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]. DOME is not in David Cunningham's 1997 list of traditions or Ray Wagner's 1999 revision [@riceinfo-traditions-1997] [@riceinfo-traditions-1999], which suggests it began after 1999 or was not then thought of as a tradition.
-- **Why "DOME & Big Bang"?** The 2008 menu paired DOME with [Big Bang](big-bang.md), and the 2009 page printed them one after the other [@teamwiess-activities-2009]. Neither explains the pairing; both are early-fall events in the new students' first semester.
-- **Who is it for?** No written source says whether it is Wiess-only or open to other colleges.
+    **Still don't know.**
 
-## Open questions
-
-- When DOME began, and whether the 2009 "legend" has any witness behind it. The 2007–08 Cabinet minutes archive on teamwiess.com, never captured, and Cabinet minutes in the Woodson (UA 0079) are the places to look [@woodson-ua0079].
-- The Thresher: no article on DOME has been found on ricethresher.org; the Portal to Texas History run (to 2012) was not searchable from this session (it now puts a human verification check in front of searches). Search "DOME party" and "Wiess" for 2000–2012.
-- How DOME is paid for. The 2014–15 public budget, which itemises NOD, Wiess Day, JamFest, Turnover, Big Bang and Summit, has no DOME line [@budget-2014-15 p.1].
-- What DOME is like today: the written record says little about the party since 2010.
-- Whether the college administration or the Magisters have ever addressed DOME in writing.
-
-- The O-Week books of 2019, 2021, 2024 and 2025 do not mention DOME either; the 2009–10 web page remains the only written account [@oweek-2019 p.31] [@oweek-2025 p.38].
+    - When DOME began, and whether the legend has a real witness. Look in the 2007–08 Cabinet minutes (never captured) and the Woodson (UA 0079) [@woodson-ua0079].
+    - Whether the Thresher ever covered it. Search "DOME party" and "Wiess" for 2000–2012.
+    - What DOME is like now. Nothing written since 2010; the O-Week books of 2019–2025 skip it too [@oweek-2019 p.31] [@oweek-2025 p.38].
+    - Whether the college or the Magisters have ever written about it.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

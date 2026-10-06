@@ -7,39 +7,58 @@ reviewed_by: unreviewed
 
 # The Dangle
 
-The Dangle, or "the third-floor dangle", is the college's best-remembered dead tradition and its least described. Every O-Week history from 2003 to 2017 pairs it with the Ubangee as one of the "unorthodox customs that became known as distinctly Wiess" in the college's early years, and dismisses it in one line: "Although the Ubangee is still proudly practiced, the dangle disappeared as human life became more valuable" [@oweek-2003 35-44 wiess.pdf p.3] [@oweek-2017 p.12]. The 1997 website was already relieved: "I'm glad 'dangling' doesn't happen anymore. Ask somebody who's already graduated, young ones" [@riceinfo-traditions-1997]. No source in the corpus says what was dangled, from where, or when it stopped. The name, the floor and the joke about human life point to a person held over the edge of a third-floor balcony of Old Wiess, whose "outside balconies connecting all rooms" the 1994 handbook describes [@riceinfo-history]; that is an inference, not a record.
+Wiess's most famous dead tradition. Also its least explained.
 
-## Timeline
+!!! abstract "TL;DR"
+    - "The third-floor dangle" was one of Wiess's early "unorthodox customs," right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3].
+    - The oldest clue is from 1990: a student history of Wiess said "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity].
+    - It was over by 1997: "I'm glad 'dangling' doesn't happen anymore" [@riceinfo-traditions-1997].
+    - The books' verdict: it "disappeared as human life became more valuable" [@oweek-2017 p.12].
 
-| When | What | Evidence |
-|---|---|---|
-| 1950s–60s (as placed by the books) | "Wiessmen found time to create some of their own unorthodox customs that became known as distinctly Wiess. These included the third-floor dangle and the Ubangee"—told between the Talmage-era Sunday dinners and the 1970s [@oweek-2006 p.37] | [R] |
-| 1997-08-11 | "I'm glad 'dangling' doesn't happen anymore. Ask somebody who's already graduated, young ones" [@riceinfo-traditions-1997]; unchanged 1999 [@riceinfo-traditions-1999] | [P] |
-| 2003 | First O-Week history: "the dangle disappeared as human life became more valuable"—also set as a pull quote [@oweek-2003 35-44 wiess.pdf p.3] | [R] |
-| 2005-05 | teamwiess.com history page, same sentence [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] | [R] |
-| 2006–2014 | Same sentence in every book [@oweek-2006 p.37] [@oweek-2010 p.38] [@oweek-2014 p.36] | [R] |
-| 2015–2017 | "Although the Ubangee is still proudly practiced in a slightly modified form, the dangle disappeared as human life became more valuable" [@oweek-2015 p.10] [@oweek-2017 p.12] | [R] |
+## What it was
 
-## As the college described it
+Nobody wrote down the rules. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/masters-and-magisters.md), is the professor who lives next door and looks out for the college.)
 
-!!! quote "riceinfo site, 1997"
+Old Wiess had "outside balconies connecting all rooms" [@riceinfo-history]. So picture someone held over a third-floor railing. That part is a guess from the name and the floor, not a record.
+
+The word was in use even earlier. In 1976 a Wiess reply in the Thresher personals threatened to "dangle" a critic "from the top of the Campanile" [@thresher-1976-11-22-freshman-waiting-reply].
+
+## Why it stopped
+
+The O-Week books put it in the 1950s–60s and give one line: "the dangle disappeared as human life became more valuable" [@oweek-2006 p.37] [@oweek-2017 p.12]. Every book from 2003 to 2017 repeats it [@oweek-2003 35-44 wiess.pdf p.3].
+
+The 1997 website sounded relieved, and hinted it wasn't *that* long ago: "Ask somebody who's already graduated, young ones" [@riceinfo-traditions-1997].
+
+??? info "The receipts: timeline"
+
+    | When | What | Evidence |
+    |---|---|---|
+    | 1950s–60s (as placed by the books) | "Wiessmen found time to create some of their own unorthodox customs that became known as distinctly Wiess. These included the third-floor dangle and the Ubangee"—told between the Talmage-era Sunday dinners and the 1970s [@oweek-2006 p.37] | [R] |
+    | 1976-11-22 | A Wiess reply in the Thresher personals threatens to "dangle you … from the top of the Campanile" [@thresher-1976-11-22-freshman-waiting-reply] | [P] |
+    | 1990-11-09 | Thresher review of "Strength of Identity", a student history of Wiess: "Wiessmen dangled their master from the third floor"—the earliest description found [@thresher-1990-11-09-strength-of-identity] | [R] |
+    | 1997-08-11 | "I'm glad 'dangling' doesn't happen anymore. Ask somebody who's already graduated, young ones" [@riceinfo-traditions-1997]; unchanged 1999 [@riceinfo-traditions-1999] | [P] |
+    | 2003 | First O-Week history: "the dangle disappeared as human life became more valuable"—also set as a pull quote [@oweek-2003 35-44 wiess.pdf p.3] | [R] |
+    | 2005-05 | teamwiess.com history page, same sentence [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] | [R] |
+    | 2006–2014 | Same sentence in every book [@oweek-2006 p.37] [@oweek-2010 p.38] [@oweek-2014 p.36] | [R] |
+    | 2015–2017 | "Although the Ubangee is still proudly practiced in a slightly modified form, the dangle disappeared as human life became more valuable" [@oweek-2015 p.10] [@oweek-2017 p.12] | [R] |
+
+??? quote "In the college's own words"
+
     "(I mean, I dunno about you, but *I'm* glad 'dangling' doesn't happen anymore. Ask somebody who's already graduated, young ones.)" [@riceinfo-traditions-1997]
 
-!!! quote "O-Week Book 2003"
-    "Yet Wiessmen also created some of their own unorthodox customs that became known as distinctly Wiess. These included the third-floor dangle and the Ubangee. Although the ubangee is still proudly practiced, the dangle disappeared as human life became more valuable." [@oweek-2003 35-44 wiess.pdf p.3]
+    "Although the Ubangee is still proudly practiced in a slightly modifed form, the dangle disappeared as human life became more valuable." [@oweek-2017 p.12]
 
-!!! quote "O-Week Book 2017"
-    "Despite the formality of Sunday supper, Wiessmen found time to create some of their own unorthodox customs, which included the third-floor dangle and the Ubangee. Although the Ubangee is still proudly practiced in a slightly modifed form, the dangle disappeared as human life became more valuable." [@oweek-2017 p.12]
+??? info "Arguments & loose ends"
 
-## Variants & disputes
+    **Where sources disagree.**
 
-- **When it died.** The books imply the distant past; the 1997 webmaster's "Ask somebody who's already graduated" implies it was within living memory of recent alumni, so perhaps the early 1990s [@riceinfo-traditions-1997]. The two are compatible—a 1950s custom that lasted into the 1990s—but neither source gives a date.
-- **"Dangling" or "the third-floor dangle".** The 1997 site uses the verb; the books from 2003 the noun with its floor [@riceinfo-traditions-1997] [@oweek-2003 35-44 wiess.pdf p.3]. The 2003 wording was carried into the 2005 website and every later book unchanged, so fifteen years of repetition rest on one 2003 sentence.
-- **Ubangee "in a slightly modified form".** Added in 2015 [@oweek-2015 p.10]—a change on the [Ubangee](../ubangee.md) side of the sentence, not the Dangle's.
+    - **When it died.** The books make it sound ancient. The 1997 website's "Ask somebody who's already graduated" suggests recent alumni remembered it, so maybe the early 1990s [@riceinfo-traditions-1997]. Both can be true. Neither gives a date.
+    - **"Dangling" vs. "the third-floor dangle."** The 1997 site uses the verb; the books from 2003 use the noun with its floor [@riceinfo-traditions-1997] [@oweek-2003 35-44 wiess.pdf p.3]. Fifteen years of books copy that one 2003 sentence.
+    - **Ubangee "in a slightly modified form."** Added in 2015 [@oweek-2015 p.10]. That's a change to the [Ubangee](../ubangee.md), not the Dangle.
 
-## Open questions
+    **Still don't know.**
 
-- What the Dangle was. Nobody in the corpus says. Alumni of the 1980s and early 1990s, and the Rice History Corner comment threads, are the likely sources; a Thresher search for "dangle" and "Wiess" would be quick [@thresher-portal].
-- Whether it was ended by a rule—the Rules of 1991 and the 1993 Constitution do not mention it [@rules-1991] [@constitution-1993]—or by an accident, or simply by Old Wiess's demolition in 2002, after which there were no third-floor balconies of the old kind (see [Old Wiess](../../places/old-wiess.md)).
+    - Exactly what happened, and how often. "Strength of Identity" (c.1990) is the best lead; finding a copy would help [@thresher-1990-11-09-strength-of-identity]. Alumni of the 1980s and early 1990s are the other.
+    - What ended it: a rule, an accident, or Old Wiess being torn down in 2002 (see [Old Wiess](../../places/old-wiess.md)). The 1991 Rules and 1993 Constitution don't mention it [@rules-1991] [@constitution-1993].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

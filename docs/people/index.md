@@ -7,21 +7,54 @@ reviewed_by: unreviewed
 
 # People
 
-This section covers the offices, not the roster. Wiess has had Magisters[^magister], Resident Associates, a College Coordinator, Associates, and a long list of elected and honorary student positions; the pages here record who held the adult offices and when, what the honorary offices were for, and what the record says about a historian for the college. It also holds the page on Harry Carothers Wiess, the trustee the college is named for, which until October 2026 sat under Places. Students appear only as public sources name them—authors of O-Week book pieces, elected officers, people quoted in the Thresher, commenters on public blogs by their public handles—and never paired with a room number. Rosters of ordinary members are not kept here.
+The grown-ups, the offices, the Idiot, and the man on the sign. Start with the Core Team.
 
-**[The Core Team](core-team.md).** Start here. The adults who run the college with the students—Magisters, Resident Associates and the College Coordinator—in one chronological table of every one the sources name, from Dr. Roy Talmage and Dr. John E. Parish in 1957 to the Magisters of 2021, Flavio Cunha and Fabiana Santos, and the College Coordinator named in 2025, Jenny Toups [@wb 20210813231021 http://teamwiess.com/government/ateam] [@wiess-rice-edu-associates-2025]; how each role is chosen and how it changed; short profiles of Dr. Bill Wilson, the Hutchinsons, the Byrds, the Schaefers and others; and the gaps.
+!!! abstract "TL;DR"
+    - Wiess is run with help from Magisters[^magister], Resident Associates and a College Coordinator: the [Core Team](core-team.md) [@wiess-rice-edu-coreteam].
+    - It also has honorary offices, like the [College Idiot](college-idiot.md), elected by 1977 [@thresher-1977-09-08-college-idiot].
+    - The college is named for [Harry Carothers Wiess](the-man.md), a Humble Oil founder and Rice trustee [@riceinfo-theman].
 
-**[Magisters](masters-and-magisters.md).** From Dr. Roy Talmage, "a conservative and strict gentleman" who put the college in blazers for Sunday dinner [@oweek-2006 p.36], to the Schaefers, "Masters" in their first year (2016) and "Magisters" in their second [@oweek-2016 p.19] [@oweek-2017 p.20]. A table of every Magister the sources name, with the gaps (most of 1957–1990) left visible, and how the Constitution's method of choosing them changed in 2007, 2016, 2020 and c. 2025.
+<div class="grid cards" markdown>
 
-**[Resident Associates](resident-associates.md).** Dr. John E. Parish, "senior resident associate for 23 years" [@riceinfo-history]; Dr. Bill Wilson, RA for about thirty years and interim Magister in spring 1983, for whom [Wilson House](../places/wilson-house.md) is named [@handbook-1994] [@wiess-60th-faq-2017 p.4]; Dr. Stan Dodds; John Bennett; and the RAs the O-Week books introduced from 2003 on.
+-   :material-account-group: **[The Core Team](core-team.md)**
 
-**[College Idiot & other offices](college-idiot.md).** "An honorary office conferred upon one deserving Wiess member each year… the awesome responsibility of donning the Great Pumpkin guise on Halloween night" [@handbook-1994]—and why "if you were an asshole, you would've been elected DWE, instead" [@riceinfo-pumpkin]. Also the Pig Master and the other named roles the sources show.
+    ---
 
-**[Historians](historians.md).** What the record shows about a historian for Wiess: a non-voting Parliamentarian and Historian in every Constitution from 1993 [@constitution-1993], "official Historian(s) of the College… charged with recording, archiving, and presenting the history of the College" in 2026 [@constitution-2026 p.8], and what was actually kept—mostly by Dr. Bill, and now in the Woodson.
+    Start here. Who's who now, plus every Magister, RA and Coordinator on record.
 
-**[Harry Carothers Wiess](the-man.md).** Born Beaumont 1887, died Houston 1948; a founder of Humble Oil in 1917; Rice trustee from 1944; author of the 1945 Twelve-Point Program [@riceinfo-theman]. The 1994 handbook's "The Man" page is the college's own account of him, and this page keeps to it.
+-   :material-school: **[Magisters](masters-and-magisters.md)**
 
-For the Cabinet, the Court and the elected offices as the Constitution defines them, see [Governance](../governance/index.md).
+    ---
+
+    The faculty family next door, from Dr. Roy Talmage (1957) to today.
+
+-   :material-home-account: **[Resident Associates](resident-associates.md)**
+
+    ---
+
+    The grown-ups who live in the college. Featuring the legendary Dr. Bill.
+
+-   :material-crown: **[College Idiot & other offices](college-idiot.md)**
+
+    ---
+
+    An honor, really. Plus the DWE, the Pig Master and other odd titles.
+
+-   :material-camera: **[Historians](historians.md)**
+
+    ---
+
+    Wiess has had a Historian on paper since 1991. Where did the history go?
+
+-   :material-account-tie: **[Harry Carothers Wiess](the-man.md)**
+
+    ---
+
+    The oilman and trustee the college is named for. He never saw the building.
+
+</div>
+
+Students show up here only in public roles (officers, authors, people quoted in public sources), never with room numbers. For Cabinet, the Court and elected offices, see [Governance](../governance/index.md).
 
 [^magister]: Called "Master" until 2017; this site uses "Magister" for every period. Quotations keep their original wording.
 

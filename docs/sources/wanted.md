@@ -4,13 +4,29 @@ title: Wanted—documents we need and can't find
 
 # Wanted: documents we need and can't find
 
-A hit list for Historians and their helpers. Every item below is a document the record says exists (or must have existed) that the corpus does not hold. Most of the older material can be requested at **Fondren Library's Woodson Research Center**; much of the newer material sits with the **College Coordinator**, the Cabinet, or a past officer. Each row says why it matters, i.e. which page it would fix.
+A hit list for Historians and their helpers. Everything here is a document we know exists (or must have existed) but don't have yet.
 
-How to use this page: pick a row, get the thing, photograph or scan it, and open a "Source this" issue with the file. Then strike the row through here (~~like this~~) and link the issue, so the next person can see what was done.
+!!! abstract "TL;DR"
+    - **Read this next:** the 1979 Thresher series "Wiess College: The First Fifteen Years", four parts, 1–22 February 1979 [@thresher-1979-wiess-first-fifteen-years].
+    - Old stuff is mostly at Fondren's **Woodson Research Center**. Newer stuff is with the **College Coordinator**, Cabinet, or past officers.
+    - Found something? Scan it, open a "Source this" issue, then strike the row here (~~like this~~) and link the issue.
+
+## Read this next
+
+| Item | Where | Why it matters |
+|---|---|---|
+| "Wiess College: The First Fifteen Years", a four-part Thresher series, 1, 8, 15 and 22 Feb 1979 (pp.6, 14, 14, 12) [@thresher-1979-wiess-first-fifteen-years] | Portal to Texas History (or the digital.library.unt.edu OCR pages); found in the October 2026 sweep but not yet read in full | Presidents and masters from the 1950s to about 1972, how the Acabowl got its name, the founding of Table Top Theater, the Talmage, Pfeiffer and Rudee masterships → [Magisters](../people/masters-and-magisters.md), [Acabowl](../places/acabowl.md), [Tabletop](../traditions/tabletop-theatre.md) |
+| The c.1990 collection of student papers on Rice history that includes "Strength of Identity", a history of Wiess, reviewed in the Thresher on 9 Nov 1990 [@thresher-1990-11-09-strength-of-identity] | Fondren Library or the Woodson (title of the collection not yet known) | The earliest source for the Dangle, and a NOD-punch story older than the one now cited → [The Dangle](../traditions/retired/the-dangle.md), [Night of Decadence](../traditions/night-of-decadence.md) |
+
+## Pending
+
+| Item | Status | Why it matters |
+|---|---|---|
+| The Wiess GroupMe export, 2020– | Pending: not yet received or read | Dates for parties, reps and traditions since 2020, which print barely covers → [DOME](../traditions/dome.md), [Gatsby](../traditions/gatsby.md), [Representatives](../governance/representatives.md) |
 
 ## At Fondren / the Woodson Research Center
 
-Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these are a single afternoon.
+Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these take one afternoon.
 
 | Item | Years | Why it matters |
 |---|---|---|

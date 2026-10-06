@@ -7,9 +7,17 @@ reviewed_by: unreviewed
 
 # The Wiess website through the years
 
-The Wiess website has had three homes and about a dozen rebuilds. From 1997 to 2003 it lived under Rice's `riceinfo.rice.edu/projects/colleges/wiess/` (also served from `www.rice.edu/projects/colleges/wiess/` in 2000–01), a site David M. Cunningham built with UserLand Frontier on a Macintosh and Ray Wagner rewrote in 1999 [@riceinfo-site]. On 18 May 2000 Wagner announced that the site "will also be moved to its new location, www.teamwiess.com" [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/]; `teamwiess.com` carried the college's site from December 2001 until the early 2020s, through a Flash homepage, three PHP frameworks, a forum, and a 2014 static rebuild with a phone mirror [@teamwiess-site]. `wiess.rice.edu` began as a WordPress blog host in October 2014 and became the official site, now a JavaScript application whose pages are empty in archive captures [@wb 20141009085809 http://wiess.rice.edu:80/] [@wb 20241227224744 https://wiess.rice.edu/]. The working corpus holds a screenshot series—one full-page image of each of the 409 distinct homepage versions the Wayback Machine recorded across the three hosts, 1998–2026—which is not reproduced here; the table below gives one archived homepage per era instead.
+Three homes, about a dozen rebuilds, and one forum eaten by spam bots. Here's the Wiess website, era by era.
+
+!!! abstract "TL;DR"
+    - **1997–2003:** `riceinfo.rice.edu/projects/colleges/wiess/`, built by David M. Cunningham "with Frontier on a Macintosh" and rewritten by Ray Wagner in 1999 [@riceinfo-site].
+    - **2001–early 2020s:** `teamwiess.com`, announced in May 2000: a Flash homepage, three PHP versions, a forum, and a 2014 rebuild with a phone version [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/] [@teamwiess-site].
+    - **2014–now:** `wiess.rice.edu`. Today it's a JavaScript app, so archived copies are mostly blank [@wb 20141009085809 http://wiess.rice.edu:80/] [@wb 20241227224744 https://wiess.rice.edu/].
+    - Hanszen beat Wiess online by at least four months, in 1997 [@wb 19970401020634 http://www.hanszen.rice.edu/History/].
 
 ## The eras
+
+One archived homepage per era. (The working corpus has a screenshot of each of the 409 homepage versions the Wayback Machine kept, 1998–2026; they aren't reproduced here.)
 
 | Era | Host / shape | What it looked like | One capture |
 |---|---|---|---|
@@ -32,19 +40,26 @@ The Wiess website has had three homes and about a dozen rebuilds. From 1997 to 2
 | Oct 2014 – | `wiess.rice.edu`—first "Team Wiess Blogs" (WordPress), then the college site | "It's goldenrod, not yellow!"; by 2023 government pages (Cabinet, Court, Representatives); from 2024 a React application that needs JavaScript to run | [@wb 20141009085809 http://wiess.rice.edu:80/] [@wb 20230915232631 https://wiess.rice.edu/government/cabinet] |
 | 2020 – 2023 | `teamwiess.com/government/*`, `/resources/*`, `/new-students` | "Made with lots and lots of tea and jazz"; A-Team, Cabinet, Court pages; a Black Lives Matter banner still on the homepage in April 2023 | [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20230428224815 http://teamwiess.com/] |
 
-## The webmasters, as the sources name them
+## The webmasters
 
-- **David M. Cunningham**, 1997: "David spent a good portion of the summer putting the entire site into a UserLand Frontier database"; every page ends "This page was built with Frontier on a Macintosh" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/]. **Chris Ruehl**, a former Head Fellow, built the photo section in July 1997 [@wb 20001207075600 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/index.html].
-- **Joe Abraham**, July 1998: "Since Dave's graduated, I (Joe) have taken over the maintenance of this page for the time being, but I don't really know what I'm doing, so don't laugh too hard" [@wb 19990302082522 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-- **Ray Wagner**, 1999–2000: rewrote the traditions pages and signed the homepage "RSW"; "It was edited using sackcloth, ashes, and much gnashing of teeth" [@riceinfo-history].
-- **Michael Leggett**, from May 2000: "who will be joining me in the webmastering of Team Wiess. Michael has some pretty big plans for the site" [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/]; with **Pam Holmes** in 2001: "I, Michael Leggett and Pam Holmes will be doing all kinds of fun stuff to keep teamwiess.com updated" [@wb 20010802123924 http://www.teamwiess.com:80/index.html].
-- **Tianhe Yang** (design) and **Taylor Johnson** (programming), 2006–07 [@wb 20060702143929 http://www.teamwiess.com:80/].
-- **Charles Lena**, 2007–08: forum "Site Admin" in August 2007 and copyright holder of the 2008 site [@wb 20070829185411 http://teamwiess.com/forums/viewtopic.php?f=8&t=3] [@wb 20080625214626 http://teamwiess.com/].
-- **Kunal Shah '18 and Jack Duryea '20**, who "designed and maintained the 60th Anniversary website" in 2017 [@wb 20171108201719 http://teamwiess.com:80/60/].
-- **Andy Cheng**, then **Vineel Mallepalli and Vivian Ellis**, 2020–21 [@wb 20201002232553 http://teamwiess.com/government/ateam.html].
-- The 2026 Constitution makes it an office: "A Webmaster representative who shall: a. Maintain the aesthetic and informational role of the Wiess College website; and b. Ensure that all information and links on the website remain up-to-date throughout the duration of their term; and c. Be selected by the Internal Vice President" [@constitution-2026 p.10]. No earlier Constitution mentions the website [@gov-repo].
+The sites were built by students, and they left notes. In 1998 a stand-in wrote: "I don't really know what I'm doing, so don't laugh too hard" [@wb 19990302082522 http://riceinfo.rice.edu:80/projects/colleges/wiess/]. Ray Wagner's history page was "edited using sackcloth, ashes, and much gnashing of teeth" [@riceinfo-history].
+
+In 2026 the job finally made it into the Constitution: a Webmaster rep to "Maintain the aesthetic and informational role of the Wiess College website" [@constitution-2026 p.10].
+
+??? info "The webmasters, as the sources name them"
+    - **David M. Cunningham**, 1997: "David spent a good portion of the summer putting the entire site into a UserLand Frontier database"; every page ends "This page was built with Frontier on a Macintosh" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/]. **Chris Ruehl**, a former Head Fellow, built the photo section in July 1997 [@wb 20001207075600 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/index.html].
+    - **Joe Abraham**, July 1998: "Since Dave's graduated, I (Joe) have taken over the maintenance of this page for the time being, but I don't really know what I'm doing, so don't laugh too hard" [@wb 19990302082522 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
+    - **Ray Wagner**, 1999–2000: rewrote the traditions pages and signed the homepage "RSW"; "It was edited using sackcloth, ashes, and much gnashing of teeth" [@riceinfo-history].
+    - **Michael Leggett**, from May 2000: "who will be joining me in the webmastering of Team Wiess. Michael has some pretty big plans for the site" [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/]; with **Pam Holmes** in 2001: "I, Michael Leggett and Pam Holmes will be doing all kinds of fun stuff to keep teamwiess.com updated" [@wb 20010802123924 http://www.teamwiess.com:80/index.html].
+    - **Tianhe Yang** (design) and **Taylor Johnson** (programming), 2006–07 [@wb 20060702143929 http://www.teamwiess.com:80/].
+    - **Charles Lena**, 2007–08: forum "Site Admin" in August 2007 and copyright holder of the 2008 site [@wb 20070829185411 http://teamwiess.com/forums/viewtopic.php?f=8&t=3] [@wb 20080625214626 http://teamwiess.com/].
+    - **Kunal Shah '18 and Jack Duryea '20**, who "designed and maintained the 60th Anniversary website" in 2017 [@wb 20171108201719 http://teamwiess.com:80/60/].
+    - **Andy Cheng**, then **Vineel Mallepalli and Vivian Ellis**, 2020–21 [@wb 20201002232553 http://teamwiess.com/government/ateam.html].
+    - The 2026 Constitution makes it an office: "A Webmaster representative who shall: a. Maintain the aesthetic and informational role of the Wiess College website; and b. Ensure that all information and links on the website remain up-to-date throughout the duration of their term; and c. Be selected by the Internal Vice President" [@constitution-2026 p.10]. No earlier Constitution mentions the website [@gov-repo].
 
 ## Off-site homes
+
+Students also kept blogs, Twitter accounts, an Associates site, and (in the 1990s) web servers in their rooms.
 
 | Where | Years | What |
 |---|---|---|
@@ -57,45 +72,51 @@ The Wiess website has had three homes and about a dozen rebuilds. From 1997 to 2
 | wiesscooks.rice.edu | 2018– | A Rice-hosted cooking-class blog run out of Wiess, live in 2026 [@wiesscooks-site] |
 | edesigns-graphics.com/wiess/ | 2002– | Colin Delany '91's photo essay on the emptied Old Wiess, linked from teamwiess.com in October 2002 [@delany-about-wiess-2002] [@wb 20021013202345 http://www.teamwiess.com:80/index_main.html]; see [Old Wiess](../places/old-wiess.md) |
 
-## As the college described it
-
-!!! quote "riceinfo homepage, July 1997"
-    "As you can see, the new look of the WiessPage has been activated. David spent a good portion of the summer putting the entire site into a UserLand Frontier database with all sorts of nifty cross-referencing and integration, so that changes can be easily made and uploaded… David Sez: 'Oy!' (Just because.)" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/]
-
-!!! quote "riceinfo homepage, 18 May 2000 (Ray Wagner)"
-    "Hey there, kids. The spring cleaning is finished around here, but don't look for the changes to stop. I'm proud to introduce you to Michael Leggett, who will be joining me in the webmastering of Team Wiess… In addition to receiving a new look, the Wiess site will also be moved to its new location, www.teamwiess.com." [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/]
-
-!!! quote "teamwiess.com, August 2001"
-    "Welcome to teamwiess.com, home to flying pigs and battle sows. Wiess College is one of 9 dorms/communities (colleges) at Rice University in Houston, TX. The plan is to have the new site completely done before school starts." [@wb 20010802123924 http://www.teamwiess.com:80/index.html]
-
-!!! quote "teamwiess.com, June 2006"
-    "An important disclaimer should come first: much of the information on this website may be outdated, as the best way to get content for this Wiess website was to merge parts of the old and much older of the site… If you use Internet Explorer 6 or MSN Explorer, I am sorry, but I got tired of trying to fix the layout bugs in it." [@wb 20060702143929 http://www.teamwiess.com:80/]
-
-!!! quote "Team Wiess Forums, August 2007"
-    "Because Facebook isn't enough."—and the first post: "this forum is to be used when: Wanting to make an announcement; Randomly wanting to give your opinion or advice about something; Bored; Sick of Facebooking; Ready to explode from school pressure." [@wb 20070829185411 http://teamwiess.com/forums/viewtopic.php?f=8&t=3]
-
 ## Before 1997
 
-The Wayback Machine did not crawl Rice until 1997—its first capture of www.rice.edu is 31 January 1997, of riceinfo.rice.edu 10 December 1997, and its first visit to any college page under `riceinfo.rice.edu/projects/colleges/` is 31 January 1998, when it took all eight colleges within a few minutes [@wb 19980131001934 http://riceinfo.rice.edu/projects/colleges/wiess/]. So the January 1998 date on the oldest Wiess capture says nothing about when the site began; its pages are dated 11 August 1997 [@riceinfo-traditions-1997], and whether anything preceded them is an open question.
+The Wayback Machine didn't crawl Rice until 1997, so "first captured January 1998" says nothing about when the Wiess site began. Its pages are dated 11 August 1997 [@riceinfo-traditions-1997].
 
-Where Wiessmen's own pages lived before the college had one is better documented. Every undergraduate had an Owlnet account, and `www.owlnet.rice.edu/~netid/` was the student home page of the mid-1990s: the Wayback Machine holds 9,373 Owlnet URLs from 1,691 accounts captured by the end of 1998 (the first on 7 June 1997), and the 1997 Wiess site links to them—Ray Wagner signs the site from `~jedi42`, and the alumni page has a "Homepage" column of Owlnet addresses [@riceinfo-site]. Students also ran web servers from their rooms, with hostnames under their college's sub-domain: `shrub.sid.rice.edu` and `trousers.brown.rice.edu` are captured from December 1996, `bobafett.wiess.rice.edu` from April 1997 [@wb 19970412100818 http://bobafett.wiess.rice.edu/], and `harry-clay.hanszen`, `antelope.sid`, `chad.lovett`, `atlantis.baker` follow in 1997–98. Faculty and organisations used RUF (`www.ruf.rice.edu/~name/`, 347 accounts captured in 1997); a July 1996 Facilities page there calls `riceinfo.rice.edu/maps/space/37/wie.html`—the campus map's building page—"the Wiess College page" [@wb 19970716003948 http://www.ruf.rice.edu/~cogen/wiess.htm], which is the oldest thing on the web with Wiess's name on it that we have found.
+Before that, students had Owlnet home pages, and the oldest thing online with Wiess's name on it is a July 1996 link to the campus map's Wiess building page [@riceinfo-site] [@wb 19970716003948 http://www.ruf.rice.edu/~cogen/wiess.htm].
 
-**Hanszen was first.** `www.hanszen.rice.edu` was running by April 1997 with a directory, Cabinet minutes from 22 January 1997, a constitution and a History section [@wb 19970401020634 http://www.hanszen.rice.edu/History/]—at least four months before Cunningham's pages, and on the college's own server rather than a RiceInfo directory. Before the web, RiceInfo was a gopher service, and the Wayback Machine never archived gopherspace; a pre-1995 Wiess presence, if there was one, would have been a gopher menu and is recoverable only from Rice's own backups or the Woodson.
+??? info "The details: before 1997"
+    The Wayback Machine did not crawl Rice until 1997—its first capture of www.rice.edu is 31 January 1997, of riceinfo.rice.edu 10 December 1997, and its first visit to any college page under `riceinfo.rice.edu/projects/colleges/` is 31 January 1998, when it took all eight colleges within a few minutes [@wb 19980131001934 http://riceinfo.rice.edu/projects/colleges/wiess/]. So the January 1998 date on the oldest Wiess capture says nothing about when the site began; its pages are dated 11 August 1997 [@riceinfo-traditions-1997], and whether anything preceded them is an open question.
 
-## Variants & disputes
+    Where Wiessmen's own pages lived before the college had one is better documented. Every undergraduate had an Owlnet account, and `www.owlnet.rice.edu/~netid/` was the student home page of the mid-1990s: the Wayback Machine holds 9,373 Owlnet URLs from 1,691 accounts captured by the end of 1998 (the first on 7 June 1997), and the 1997 Wiess site links to them—Ray Wagner signs the site from `~jedi42`, and the alumni page has a "Homepage" column of Owlnet addresses [@riceinfo-site]. Students also ran web servers from their rooms, with hostnames under their college's sub-domain: `shrub.sid.rice.edu` and `trousers.brown.rice.edu` are captured from December 1996, `bobafett.wiess.rice.edu` from April 1997 [@wb 19970412100818 http://bobafett.wiess.rice.edu/], and `harry-clay.hanszen`, `antelope.sid`, `chad.lovett`, `atlantis.baker` follow in 1997–98. Faculty and organisations used RUF (`www.ruf.rice.edu/~name/`, 347 accounts captured in 1997); a July 1996 Facilities page there calls `riceinfo.rice.edu/maps/space/37/wie.html`—the campus map's building page—"the Wiess College page" [@wb 19970716003948 http://www.ruf.rice.edu/~cogen/wiess.htm], which is the oldest thing on the web with Wiess's name on it that we have found.
 
-- **Who was webmaster between Cunningham and Wagner.** The reading guide to the first site names Cunningham (1997) and Wagner (1999) [@riceinfo-site]. The homepage itself adds Joe Abraham, who took over in July 1998 "for the time being" and advertised for a replacement [@wb 19990302082522 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-- **What was on teamwiess.com in early 2001.** The root served a Wiess placeholder in January and February 2001 [@wb 20010124011100 http://www.teamwiess.com:80/]; `/about.html` and other paths on the same host served pages for MACRO Enterprises, a Houston consultancy [@wb 20010224080000 http://www.teamwiess.com:80/about.html]. A shared or forwarded host, not a parked domain; and in June–August 2002 the root again showed a registrar's "Enter Here" forwarding page while the content sat at `index_main.html` [@wb 20020803020904 http://www.teamwiess.com:80/] [@wb 20020603162151 http://teamwiess.com:80/index_main.html].
-- **The forum's death.** Spam threads appear from October 2008 [@wb 20081119222858 http://teamwiess.com/forums/viewtopic.php?f=3&t=10&start=0]; the corpus holds 658 forum captures from December 2008 and 313 from February 2009 against two from the forum's first month, which is the flood made visible [@teamwiess-site]. The board's closing notice is not among the captured pages.
-- **Pages that archived empty.** The 2014–17 site's History, Old Wiess, New Wiess and Dr. Bill Wilson pages, the 2017 anniversary site ("Please enable JS") and every wiess.rice.edu page since 2024 ("You need to enable JavaScript to run this app.") were rendered in the browser; the Wayback Machine holds their shells and not their words [@wb 20140627224525 http://teamwiess.com/old-wiess.html] [@wb 20241227224744 https://wiess.rice.edu/]. What the college says about itself today is therefore the least archived thing on this page.
-- **Two sites at once.** From 2014 to about 2023 the college ran both `teamwiess.com` and `wiess.rice.edu` [@wb 20230428224815 http://teamwiess.com/] [@wb 20230915232631 https://wiess.rice.edu/government/cabinet]; which was "official" in a given year is not stated anywhere in the captures.
+    **Hanszen was first.** `www.hanszen.rice.edu` was running by April 1997 with a directory, Cabinet minutes from 22 January 1997, a constitution and a History section [@wb 19970401020634 http://www.hanszen.rice.edu/History/]—at least four months before Cunningham's pages, and on the college's own server rather than a RiceInfo directory. Before the web, RiceInfo was a gopher service, and the Wayback Machine never archived gopherspace; a pre-1995 Wiess presence, if there was one, would have been a gopher menu and is recoverable only from Rice's own backups or the Woodson.
 
-## Open questions
+## In the college's own words
 
-- The 2003 Flash homepage renders only through an emulator; its text and links have not been transcribed [@wb 20030206122151 http://www.teamwiess.com:80/].
-- The webmasters of 2003–05, 2009–11 and 2014–17 are not named on the captured pages; the O-Week books' Cabinet pages may name a "Webmaster" or "Technology" rep.
-- When `teamwiess.com` stopped being updated, and whether it still resolves; the last homepage version in the series is from April 2023.
-- The screenshot series (409 PNGs, 1280 px wide, one per distinct homepage version, with a `homepage-history/index.tsv` giving each one's Wayback URL) exists only in the working corpus, outside this repository; publishing a selection would need a rights decision—see [Rights](../contributing/rights.md).
-- The `twitter.com/ricewilsonhouse` and `twitter.com/teamfamilywiess` captures, the `wiess.historian` Facebook page, and the Instagram named in the 2026 Constitution [@constitution-2026 p.8] have not been read.
+> "David Sez: 'Oy!' (Just because.)" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/]
+
+> "If you use Internet Explorer 6 or MSN Explorer, I am sorry, but I got tired of trying to fix the layout bugs in it." [@wb 20060702143929 http://www.teamwiess.com:80/]
+
+> "Team Wiess Forums. Because Facebook isn't enough." [@wb 20070829185411 http://teamwiess.com/forums/viewtopic.php?f=8&t=3]
+
+??? quote "More quotes"
+    "As you can see, the new look of the WiessPage has been activated. David spent a good portion of the summer putting the entire site into a UserLand Frontier database with all sorts of nifty cross-referencing and integration, so that changes can be easily made and uploaded…" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/]
+
+    "Hey there, kids. The spring cleaning is finished around here, but don't look for the changes to stop… In addition to receiving a new look, the Wiess site will also be moved to its new location, www.teamwiess.com." (Ray Wagner, 18 May 2000) [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/]
+
+    "Welcome to teamwiess.com, home to flying pigs and battle sows. Wiess College is one of 9 dorms/communities (colleges) at Rice University in Houston, TX. The plan is to have the new site completely done before school starts." (August 2001) [@wb 20010802123924 http://www.teamwiess.com:80/index.html]
+
+    "this forum is to be used when: Wanting to make an announcement; Randomly wanting to give your opinion or advice about something; Bored; Sick of Facebooking; Ready to explode from school pressure." (first forum post, August 2007) [@wb 20070829185411 http://teamwiess.com/forums/viewtopic.php?f=8&t=3]
+
+??? info "Arguments & loose ends"
+    **Where sources disagree.**
+
+    - **Who was webmaster between Cunningham and Wagner.** The reading guide to the first site names Cunningham (1997) and Wagner (1999) [@riceinfo-site]. The homepage itself adds Joe Abraham, who took over in July 1998 "for the time being" and advertised for a replacement [@wb 19990302082522 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
+    - **What was on teamwiess.com in early 2001.** The root served a Wiess placeholder in January and February 2001 [@wb 20010124011100 http://www.teamwiess.com:80/]; `/about.html` and other paths on the same host served pages for MACRO Enterprises, a Houston consultancy [@wb 20010224080000 http://www.teamwiess.com:80/about.html]. A shared or forwarded host, not a parked domain; and in June–August 2002 the root again showed a registrar's "Enter Here" forwarding page while the content sat at `index_main.html` [@wb 20020803020904 http://www.teamwiess.com:80/] [@wb 20020603162151 http://teamwiess.com:80/index_main.html].
+    - **The forum's death.** Spam threads appear from October 2008 [@wb 20081119222858 http://teamwiess.com/forums/viewtopic.php?f=3&t=10&start=0]; the corpus holds 658 forum captures from December 2008 and 313 from February 2009 against two from the forum's first month, which is the flood made visible [@teamwiess-site]. The board's closing notice is not among the captured pages.
+    - **Pages that archived empty.** The 2014–17 site's History, Old Wiess, New Wiess and Dr. Bill Wilson pages, the 2017 anniversary site ("Please enable JS") and every wiess.rice.edu page since 2024 ("You need to enable JavaScript to run this app.") were rendered in the browser; the Wayback Machine holds their shells and not their words [@wb 20140627224525 http://teamwiess.com/old-wiess.html] [@wb 20241227224744 https://wiess.rice.edu/]. What the college says about itself today is therefore the least archived thing on this page.
+    - **Two sites at once.** From 2014 to about 2023 the college ran both `teamwiess.com` and `wiess.rice.edu` [@wb 20230428224815 http://teamwiess.com/] [@wb 20230915232631 https://wiess.rice.edu/government/cabinet]; which was "official" in a given year is not stated anywhere in the captures.
+
+    **Still don't know.**
+
+    - The 2003 Flash homepage renders only through an emulator; its text and links have not been transcribed [@wb 20030206122151 http://www.teamwiess.com:80/].
+    - The webmasters of 2003–05, 2009–11 and 2014–17 are not named on the captured pages; the O-Week books' Cabinet pages may name a "Webmaster" or "Technology" rep.
+    - When `teamwiess.com` stopped being updated, and whether it still resolves; the last homepage version in the series is from April 2023.
+    - The screenshot series (409 PNGs, 1280 px wide, one per distinct homepage version, with a `homepage-history/index.tsv` giving each one's Wayback URL) exists only in the working corpus, outside this repository; publishing a selection would need a rights decision—see [Rights](../contributing/rights.md).
+    - The `twitter.com/ricewilsonhouse` and `twitter.com/teamfamilywiess` captures, the `wiess.historian` Facebook page, and the Instagram named in the 2026 Constitution [@constitution-2026 p.8] have not been read.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

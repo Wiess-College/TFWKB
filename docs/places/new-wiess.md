@@ -7,59 +7,33 @@ reviewed_by: unreviewed
 
 # New Wiess (2002–)
 
-The present Wiess building stands "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. It was designed by Machado and Silvetti Associates of Boston, with Houston's Kirksey as project architect, as the first piece of a master plan that also covered a second college, an access road and gateway, a Magisters' house, a health clinic and the intramural fields [@machado-silvetti-wiess] [@kirksey-wiess]. Ground was broken on 5 October 1999; students had been pressing the administration for five years to keep what made the old building work—single-loaded corridors, outside balconies and one large courtyard—and got them [@riceinfo-news-2000-lundin]. The 228-bed (Kirksey: 230-bed) dormitory wraps three sides of a courtyard behind open-air corridors shaded by ivy-covered metal screens; the fourth side is a new commons, part of a shared complex with a second dining hall for Hanszen and a servery topped by a public terrace [@machado-silvetti-wiess]. Students moved in during 2002 and the courtyard kept the old name, [the Acabowl](acabowl.md) [@oweek-2006 p.37]. The Boston Society of Architects gave the building a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Its shared rooms, suites and Wiess Grove are on [Rooms and spaces of New Wiess](rooms-and-spaces.md); its terraces, including the fourth-floor balcony now called Toke, on [The terraces](terraces.md).
+New Wiess sits "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. Students fought to keep what they loved about the old place, and they won.
 
-## Timeline
+!!! abstract "TL;DR"
+    - Ground broke on 5 October 1999. The building opened in fall 2002 [@riceinfo-news-2000-lundin] [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3].
+    - Wiessmen pushed for five years to keep the outdoor hallways, balconies and one big courtyard, and got them [@riceinfo-news-2000-lundin].
+    - Designed by Machado and Silvetti (Boston), with Kirksey (Houston). It won a design award in 2004 [@machado-silvetti-wiess] [@kirksey-wiess].
+    - About 228–230 beds around a courtyard still called [the Acabowl](acabowl.md) [@machado-silvetti-wiess] [@kirksey-wiess] [@oweek-2006 p.37].
 
-| When | What | Evidence |
-|---|---|---|
-| c.1995–2000 | "Many Wiessmen have worked hard over the past five years to persuade the Rice administration" that single-loaded corridors, external balconies and a large public courtyard were "crucial elements to any future home for the Wiess community" [@riceinfo-news-2000-lundin] | [P] |
-| 1999-10-05 | "The official groundbreaking of the future Wiess College site" [@riceinfo-news-2000-lundin]; photograph of Dr. Bill Wilson with Magisters John and Paula Hutchinson at the groundbreaking [@rhc 2017-11-17 friday-follies-cheers] | [P] |
-| 1999-11-16 | Construction fence round the field and parking lot [@riceinfo-news-2000-lundin] | [P] |
-| 2000-01 | Fences from the Backabowl to Hanszen; utility tunnels in "Phase 1", working from the Backabowl toward the Acabowl [@riceinfo-news-2000-lundin] | [P] |
-| 2000-05 | A 3-D model on display in the PDR; the new commons to be finished first and "borrowed" by Hanszen in 2000–01; completion scheduled December 2001, move-in January 2002 [@riceinfo-news-2000-lundin] | [P] |
-| 2001-12 | Dedication planning page on teamwiess.com, dated "Sept. 7 2002 \| New Wiess": "Have both war pigs flying first thing in the morning!"; a slip-and-slide in the Acabowl; the Hutchinsons, Dan and Katharine, Bill Barnett and President Gillis to cut the ribbon; a time capsule [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html] | [P] |
-| 2002 | Design architects' project date; Kirksey: "the first new dormitory in 25 years", 163,500 sf, 230 beds [@machado-silvetti-wiess] [@kirksey-wiess] | [P] |
-| 2002-08 | Old Wiess "still standing, but abandoned" [@delany-about-wiess-2002] | [P] |
-| 2002 (fall) | "This new building opened in the fall of 2002… Instead of two courtyards to split the college, Wiess now has an enormous Acabowl" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] | [R] |
-| 2002 | Dedication of the new building: photograph of PJ Abrams '92, Dr. Bill Wilson and Dr. Stan Dodds there [@rhc 2014-11-19 wiess-college-luminaries] | [R] |
-| 2003 | Glossary: "Backaterrace. The terrace behind the Commons that we unfortunately have to share with Hanszen" [@oweek-2003 p.3] | [P] |
-| 2004 | Design Excellence in Housing award, Boston Society of Architects [@machado-silvetti-wiess] | [P] |
-| 2008 | Rooms page: suites of doubles (20'×10'), singles (10'×10'), 3-mans, 5-mans and quads round a common room and bathroom; two Gigabit ports per student [@wb 20080625214656 http://teamwiess.com/index.php?r=rooms] | [P] |
-| 2008 | "In 2008 the Acagrill and Acaglider found their home at Wiess thanks to donations from generous Wiess alumni and our hardworking Capital Improvements Rep and president" [@oweek-2010 p.39] | [R] |
-| 2010 | Sparky's reopens as "the newly renovated fourth floor hangout space" [@oweek-2010 p.91] | [P] |
-| 2011 | Wilson House dedicated as the Magisters' house (see [Wiess House / Wilson House](wilson-house.md)) [@wiess-60th-faq-2017 p.4] | [R] |
-| 2014 | Glossary: the Acaterrace is now one "that we share with Hanszen"; "Bacaterrace: The Fourth Floor balcony. Great spot to hang out or watch the sunset" [@oweek-2014 p.102] | [P] |
-| 2017-11 | 60th anniversary: "All 60th Anniversary events are in the Wiess Commons and Wiess Acabowl… The Commons is building 52 on the current Rice campus map" [@wiess-60th-faq-2017 p.4] | [P] |
+## Keeping the good parts
 
-## As the college described it
+For about five years, Wiessmen lobbied Rice. Single-loaded hallways, outside balconies and a big public courtyard were "crucial elements to any future home for the Wiess community" [@riceinfo-news-2000-lundin]. The new design kept all three.
 
-!!! quote "Robert Lundin, 'Construction Zone Ahead—TFW Style!', May 2000"
-    "It integrates many of the best elements of the current building in its design, including single-loaded room corridors, external balconies, and a large public courtyard area… Provided there are no further delays, Wiessmen will move into their new home in January of 2002." [@riceinfo-news-2000-lundin]
+The O-Week books put it simply: "We made sure to bring all the cool parts of Old Wiess (our old building) over" [@oweek-2006 p.35]. "And we kept the exterior hallways that were (and are) the pulse of the college" [@oweek-2010 p.39].
 
-!!! quote "Dedication planning page, teamwiess.com, December 2001"
-    "How about a torch passing type ceremony of some sorts, like someone runs down the old acabowl and passes a torch to a beer biker who bikes it over to someone at new wiess who runs around and then hands it to someone who lights an arrow on fire and then launches it to set a 40 foot torch on fire, or something like that?" [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]
+## Building it
 
-!!! quote "O-Week Book 2003"
-    "This new building opened in the fall of 2002. While many aspects of living at Wiess changed, Wiessmen have stayed the same. Instead of two courtyards to split the college, Wiess now has an enormous Acabowl. A gorgeous Commons, plenty of space to hang out around the building and spacious buildings make the new Wiess digs the best on campus." [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3]
+Ground broke on 5 October 1999 [@riceinfo-news-2000-lundin]. Fences and utility tunnels followed in 2000. The plan said move-in by January 2002 [@riceinfo-news-2000-lundin]. The O-Week books say it "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3].
 
-!!! quote "O-Week Book 2006"
-    "Out with the old and in with the new… We made sure to bring all the cool parts of Old Wiess (our old building) over to our current" [@oweek-2006 p.35]—and: "We now have an enormous courtyard, still called the Acabowl after the old main courtyard and a gorgeous commons. Plus, the addition of common rooms make new Wiess some of the best digs on campus." [@oweek-2006 p.37]
+The 2001 dedication planners had big ideas: "Have both war pigs flying first thing in the morning!" [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. One fan wanted a torch relay ending with someone who "lights an arrow on fire and then launches it to set a 40 foot torch on fire, or something like that?" [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html].
 
-!!! quote "O-Week Book 2010"
-    "This prompted the planning of New Wiess with consultations with Wiessmen, which opened in the fall of 2002… And we kept the exterior hallways that were (and are) the pulse of the college." [@oweek-2010 p.39]
+## What it looks like
 
-!!! quote "Machado and Silvetti Associates, project page"
-    "The building employs a single-loaded corridor layout, with suites located on the building's peripheral edge and accessible via open-air corridors shaded by ivy-covered metal screens along three courtyard walls… The architectural language, while contemporary, also takes cues from the historic character of the campus." [@machado-silvetti-wiess]
+The dorm wraps three sides of the courtyard. Open-air hallways are "shaded by ivy-covered metal screens" [@machado-silvetti-wiess]. The fourth side is the new [Commons](commons.md), which shares a servery with Hanszen, topped by a public terrace [@machado-silvetti-wiess].
 
-## The vines
+Kirksey called it "the first new dormitory in 25 years," at 163,500 square feet [@kirksey-wiess]. The Boston Society of Architects gave it a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Photos from 2017 show the vines in full growth [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]. What happened to them since is not on record.
 
-**What.** The original New Wiess was designed with vines up its courtyard façades, grown on the metal screens of the open-air corridors: the architects describe "a single-loaded corridor layout, with suites located on the building's peripheral edge and accessible via open-air corridors shaded by ivy-covered metal screens along three courtyard walls" [@machado-silvetti-wiess]. Photographs of 2017 show them in full growth. The written record says little about the vines after 2017 so far.
-
-| When | What | Evidence |
-|---|---|---|
-| 2002 | Design: "open-air corridors shaded by ivy-covered metal screens along three courtyard walls" (Machado and Silvetti; Design Excellence in Housing award, 2004) [@machado-silvetti-wiess] | [P] |
-| by 2017 | Photographs on teamwiess.com show the vines in full growth: the "ivy-hung wing" over the Acabowl lawn, and the corridors at dusk, "screen and ivy on the other" side [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg] [@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg] [@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]; see the photographs below | [P] |
+Inside: [Rooms and spaces of New Wiess](rooms-and-spaces.md). Up top, including the balcony called Toke: [The terraces](terraces.md). Next door: the Magisters' [Wilson House](wilson-house.md).
 
 ## Photographs
 
@@ -104,25 +78,61 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
 </div>
 <!-- /GALLERY:newwiess -->
 
-## Variants & disputes
+??? info "The receipts: timeline"
 
-- **228 or 230 beds.** The design architects say "a 228-bed dormitory" [@machado-silvetti-wiess]; the project architect says "a new 230-bed residence hall" [@kirksey-wiess]. Two beds is the kind of difference that a converted RA suite or a late plan change produces; neither page is dated precisely enough to say which came first. Both are the firms' own portfolio copy, written after the fact.
-- **When students moved in.** Lundin in May 2000 expected completion in December 2001 and a January 2002 move-in, calling the mid-year move "actually ideal" [@riceinfo-news-2000-lundin]. Every O-Week book from 2003 says the building "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] [@oweek-2006 p.37]. Delany found the old building abandoned in August 2002 [@edesigns-old-wiess-2002], which fits either a spring or a summer move. The books were written by students who were there and are the stronger evidence for the formal opening; whether anyone slept in the new building in spring 2002 is open.
-- **The dedication date.** The December 2001 plan names Saturday 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Kean dates the dedication photograph to 2002 [@rhc 2014-11-19 wiess-college-luminaries], though the image file she posted is named "…2006". No source confirms the September date was kept.
-- **"The first new dormitory in 25 years."** Kirksey's phrase [@kirksey-wiess] echoes the 1994 handbook's "first new dormitory in thirty-two years" for the 1949 building [@riceinfo-history]. Both are the kind of claim a brochure makes; neither is checked here.
-- **Spelling.** Kirksey's page is titled "Rice University New Weiss College" and refers to "Hanson College" [@kirksey-wiess]. Kean's editor once changed every "Wiess" in her book to "Weiss" [@rhc 2016-05-24 hanging-out-at-wiess]. The college has fought this since at least 1997, when a spam mailing's "Weiss (note the misspelling)" made the homepage [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-- **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; no source gives a botanical identification.
-- **Hanszen and the terrace.** "The terrace behind the Commons that we unfortunately have to share with Hanszen" from 2003 to 2011 [@oweek-2003 p.3] [@oweek-2011 p.92]; "that we share with Hanszen" from 2014 [@oweek-2014 p.102]. See [Hanszen (the rivalry)](../traditions/hanszen-rivalry.md).
+    | When | What | Evidence |
+    |---|---|---|
+    | c.1995–2000 | "Many Wiessmen have worked hard over the past five years to persuade the Rice administration" that single-loaded corridors, external balconies and a large public courtyard were "crucial elements to any future home for the Wiess community" [@riceinfo-news-2000-lundin] | [P] |
+    | 1999-10-05 | "The official groundbreaking of the future Wiess College site" [@riceinfo-news-2000-lundin]; photograph of Dr. Bill Wilson with Magisters John and Paula Hutchinson at the groundbreaking [@rhc 2017-11-17 friday-follies-cheers] | [P] |
+    | 1999-11-16 | Construction fence round the field and parking lot [@riceinfo-news-2000-lundin] | [P] |
+    | 2000-01 | Fences from the Backabowl to Hanszen; utility tunnels in "Phase 1", working from the Backabowl toward the Acabowl [@riceinfo-news-2000-lundin] | [P] |
+    | 2000-05 | A 3-D model on display in the PDR; the new commons to be finished first and "borrowed" by Hanszen in 2000–01; completion scheduled December 2001, move-in January 2002 [@riceinfo-news-2000-lundin] | [P] |
+    | 2001-12 | Dedication planning page on teamwiess.com, dated "Sept. 7 2002 \| New Wiess": "Have both war pigs flying first thing in the morning!"; a slip-and-slide in the Acabowl; the Hutchinsons, Dan and Katharine, Bill Barnett and President Gillis to cut the ribbon; a time capsule [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html] | [P] |
+    | 2002 | Design architects' project date; Kirksey: "the first new dormitory in 25 years", 163,500 sf, 230 beds [@machado-silvetti-wiess] [@kirksey-wiess] | [P] |
+    | 2002-08 | Old Wiess "still standing, but abandoned" [@delany-about-wiess-2002] | [P] |
+    | 2002 (fall) | "This new building opened in the fall of 2002… Instead of two courtyards to split the college, Wiess now has an enormous Acabowl" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] | [R] |
+    | 2002 | Dedication of the new building: photograph of PJ Abrams '92, Dr. Bill Wilson and Dr. Stan Dodds there [@rhc 2014-11-19 wiess-college-luminaries] | [R] |
+    | 2003 | Glossary: "Backaterrace. The terrace behind the Commons that we unfortunately have to share with Hanszen" [@oweek-2003 p.3] | [P] |
+    | 2004 | Design Excellence in Housing award, Boston Society of Architects [@machado-silvetti-wiess] | [P] |
+    | 2008 | Rooms page: suites of doubles (20'×10'), singles (10'×10'), 3-mans, 5-mans and quads round a common room and bathroom; two Gigabit ports per student [@wb 20080625214656 http://teamwiess.com/index.php?r=rooms] | [P] |
+    | 2008 | "In 2008 the Acagrill and Acaglider found their home at Wiess thanks to donations from generous Wiess alumni and our hardworking Capital Improvements Rep and president" [@oweek-2010 p.39] | [R] |
+    | 2010 | Sparky's reopens as "the newly renovated fourth floor hangout space" [@oweek-2010 p.91] | [P] |
+    | 2011 | Wilson House dedicated as the Magisters' house (see [Wiess House / Wilson House](wilson-house.md)) [@wiess-60th-faq-2017 p.4] | [R] |
+    | 2014 | Glossary: the Acaterrace is now one "that we share with Hanszen"; "Bacaterrace: The Fourth Floor balcony. Great spot to hang out or watch the sunset" [@oweek-2014 p.102] | [P] |
+    | 2017-11 | 60th anniversary: "All 60th Anniversary events are in the Wiess Commons and Wiess Acabowl… The Commons is building 52 on the current Rice campus map" [@wiess-60th-faq-2017 p.4] | [P] |
 
-## Open questions
+??? info "The receipts: the vines"
 
-- The actual move-in date(s) in 2002, and whether the 7 September 2002 dedication happened as planned. The Thresher for 2002 and the teamwiess.com captures of late 2002 (the site's "Photo of the Week" began 29 September 2002 with "the Acaslide" [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]) are the places to look.
-- The time capsule and the "children at play" sign the planners wanted to transplant from Old Wiess [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]: were they? Where are they?
-- The murals to be unveiled at the dedication [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html].
-- Was the new commons in fact used by Hanszen in 2000–01 while theirs was rebuilt, as Lundin said it would be [@riceinfo-news-2000-lundin]?
-- The 2014–17 teamwiess.com had "Old Wiess" and "New Wiess" pages under About, but both were rendered by JavaScript and are empty in every capture [@wb 20140627224504 http://teamwiess.com/]. Whoever wrote them may still have the text.
-- The vines: what species they were (the architects say ivy; a creeping fig would also be usual in Houston), and what has become of them since 2017. A dated photograph of the façade from 2021–22 would show their state.
-- The architects' renderings of the vine-covered screens: the Machado and Silvetti images held in the corpus include a full west-façade elevation [@machado-silvetti-wiess]; the renderings themselves should be found and cited.
-- The 2014–15 public budget and Cabinet minutes would date the Acaglider, Acagrill and later additions more exactly than "2008" [@oweek-2010 p.39].
+    | When | What | Evidence |
+    |---|---|---|
+    | 2002 | Design: "open-air corridors shaded by ivy-covered metal screens along three courtyard walls" (Machado and Silvetti; Design Excellence in Housing award, 2004) [@machado-silvetti-wiess] | [P] |
+    | by 2017 | Photographs on teamwiess.com show the vines in full growth: the "ivy-hung wing" over the Acabowl lawn, and the corridors at dusk, "screen and ivy on the other" side [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg] [@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg] [@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]; see the photographs below | [P] |
+
+??? quote "In the college's own words"
+
+    "Instead of two courtyards to split the college, Wiess now has an enormous Acabowl. A gorgeous Commons, plenty of space to hang out around the building and spacious buildings make the new Wiess digs the best on campus." — O-Week Book 2003 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3]
+
+    "The architectural language, while contemporary, also takes cues from the historic character of the campus." — Machado and Silvetti [@machado-silvetti-wiess]
+
+??? info "Arguments & loose ends"
+
+    **Where sources disagree.**
+
+    - **228 or 230 beds.** "228-bed" say the designers [@machado-silvetti-wiess]; "230-bed" says the project architect [@kirksey-wiess]. Both are portfolio copy written later.
+    - **Move-in date.** Lundin expected December 2001 completion and January 2002 move-in [@riceinfo-news-2000-lundin]. Every O-Week book from 2003 says "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] [@oweek-2006 p.37]. Delany found the old building abandoned in August 2002 [@edesigns-old-wiess-2002], which fits either. Did anyone sleep in New Wiess in spring 2002?
+    - **Dedication date.** Planned for Saturday 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Kean dates the dedication photo to 2002, though her file is named "…2006" [@rhc 2014-11-19 wiess-college-luminaries]. Nobody confirms the date held.
+    - **"First new dormitory in 25 years."** Kirksey's brochure line [@kirksey-wiess], like the 1994 handbook's "first new dormitory in thirty-two years" for 1949 [@riceinfo-history]. Not checked.
+    - **Spelling.** Kirksey's page says "New Weiss College" and "Hanson College" [@kirksey-wiess]. Kean's editor once changed every "Wiess" to "Weiss" [@rhc 2016-05-24 hanging-out-at-wiess]. The 1997 homepage mocked a spam mailing's "Weiss (note the misspelling)" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
+    - **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; no one gives a species.
+    - **Sharing with Hanszen.** The terrace "we unfortunately have to share with Hanszen" (2003–2011) became "that we share with Hanszen" from 2014 [@oweek-2003 p.3] [@oweek-2011 p.92] [@oweek-2014 p.102]. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md).
+
+    **Still don't know.**
+
+    - The real 2002 move-in date, and whether the 7 September dedication happened. Check the 2002 Thresher and late-2002 teamwiess.com (Photo of the Week started 29 September 2002 with "the Acaslide") [@wb 20021013235815 http://www.teamwiess.com:80/pow.html].
+    - The time capsule, the "children at play" sign and the dedication murals [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Did they happen? Where are they?
+    - Did Hanszen borrow the new commons in 2000–01 [@riceinfo-news-2000-lundin]?
+    - The 2014–17 site's "Old Wiess" and "New Wiess" pages are empty in every capture [@wb 20140627224504 http://teamwiess.com/]. Whoever wrote them may still have the text.
+    - The vines: what species, and what became of them after 2017? The architects' renderings, including a west-façade elevation, should be found and cited [@machado-silvetti-wiess].
+    - Budgets and Cabinet minutes would date the Acaglider and Acagrill more exactly than "2008" [@oweek-2010 p.39].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

@@ -7,23 +7,26 @@ reviewed_by: unreviewed
 
 # Jock Row
 
-Jock Row is the oldest tradition in this section and was already dead when the oldest source we have described it. The 1994 Freshman Handbook's history of the college, as transcribed on the 1997–2000 website, explains the building's appeal in 1949—balconies, private showers, cross-ventilation—and adds: "In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)" [@riceinfo-history]. That sentence is the whole record. Jock Row was a row—a wing, a floor or a corridor—of Old Wiess's west wing where athletes lived because the gym was next door; it was a tradition, not a policy; and by 1994 it was gone. No later history, book or website repeats even the name. An undated photo shows a "banner" made out of bedsheets to creatively represent a jock strap and the words "we support our jocks" written on the wall.
+The oldest tradition in this section. It was already dead when our oldest source wrote it down.
 
-## Timeline
+!!! abstract "TL;DR"
+    - Jock Row was a stretch of Old Wiess's west wing where athletes lived, because the gym was right next door [@riceinfo-history].
+    - By 1994 the college called it "one of Wiess' oldest, though now defunct, traditions" [@riceinfo-history].
+    - That one sentence is basically the whole record.
 
-| When | What | Evidence |
-|---|---|---|
-| 1949 | Wiess Hall opens; "the proximity of the west wing to the gymnasium" [@riceinfo-history] | [R] |
-| before 1994 | Jock Row flourishes and ends—"one of Wiess' oldest, though now defunct, traditions" [@riceinfo-history] | [R] |
-| 1994 | The handbook history records it as defunct [@riceinfo-history] | [P] |
-| 2003–2017 | Absent from every O-Week history, which skip from the 1957 college system to the Talmage years without it [@oweek-2003 35-44 wiess.pdf p.3] [@oweek-2017 p.12] | [P] |
+## What it was
 
-## As the college described it
+Old Wiess (the original 1949 building) had balconies, private showers and cross-ventilation [@riceinfo-history]. Its west wing also sat next to the gym. So athletes moved in, and the wing got a name: Jock Row [@riceinfo-history].
 
-!!! quote "1994 Freshman Handbook (riceinfo site, 'The History of Wiess College')"
-    "Wiess possessed functional advantages which more than made up for its rather plain exterior appearance. Among these were (and are) outside balconies connecting all rooms, private showers between every two rooms, built-in closets and drawers, and cross-ventilation (no rooms were then air-conditioned). In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)." [@riceinfo-history]
+It was a habit, not a rule. The handbook adds: "Wiess was never formally an athlete's dormitory" [@riceinfo-history].
+
+## Why it stopped
+
+Nobody wrote it down. By 1994 it was "defunct," and no later book or website even repeats the name [@riceinfo-history] [@oweek-2017 p.12].
 
 ## Photographs
+
+The one picture we have: a bedsheet banner cheering on the Wiess jocks [@rhc 2016-05-20 friday-follies-go-wiess-jocks].
 
 <!-- GALLERY:jockrow -->
 <div class="grid photo-grid" markdown>
@@ -36,15 +39,30 @@ Jock Row is the oldest tradition in this section and was already dead when the o
 </div>
 <!-- /GALLERY:jockrow -->
 
-## Variants & disputes
+??? info "The receipts: timeline"
 
-- **A reputation, not a rule.** The handbook's parenthesis—"Wiess was never formally an athlete's dormitory"—is a correction of something, presumably a campus belief that Wiess *was* the athletes' dorm. The 2003 book's claim that in the dormitory years "nobody had real loyalty to the building they lived in" sits oddly beside a wing that athletes chose on purpose [@oweek-2003 35-44 wiess.pdf p.3]; both can be true of different decades.
-- **Which wing.** "The west wing" in the handbook [@riceinfo-history]. The 1994 glossary places the Backabowl "between the singles wing and the three story wing" [@handbook-1994]; which of Old Wiess's wings was "west" and nearest the gymnasium is a question for the [Old Wiess](../../places/old-wiess.md) page and the architecture page [@riceinfo-architecture].
+    | When | What | Evidence |
+    |---|---|---|
+    | 1949 | Wiess Hall opens; "the proximity of the west wing to the gymnasium" [@riceinfo-history] | [R] |
+    | before 1994 | Jock Row flourishes and ends—"one of Wiess' oldest, though now defunct, traditions" [@riceinfo-history] | [R] |
+    | 1994 | The handbook history records it as defunct [@riceinfo-history] | [P] |
+    | 2003–2017 | Absent from every O-Week history, which skip from the 1957 college system to the Talmage years without it [@oweek-2003 35-44 wiess.pdf p.3] [@oweek-2017 p.12] | [P] |
 
-## Open questions
+??? quote "In the college's own words"
 
-- When Jock Row existed and when it ended. Nothing in the corpus dates either end; the Thresher of the 1950s–70s and the Campanile are the places to look [@thresher-portal].
-- Whether Rice's athletic department ever housed athletes at Wiess by arrangement, formal or not; the handbook denies the formal version only [@riceinfo-history].
-- Whether the printed 1994 handbook says more than the website transcription [@handbook-1994].
+    "In addition, the proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)." [@riceinfo-history]
+
+??? info "Arguments & loose ends"
+
+    **Where sources disagree.**
+
+    - **A reputation, not a rule.** "Never formally an athlete's dormitory" sounds like the handbook correcting a campus belief that Wiess *was* the jock dorm [@riceinfo-history]. The 2003 book says nobody in the dorm years "had real loyalty to the building they lived in," which sits oddly next to a wing athletes picked on purpose [@oweek-2003 35-44 wiess.pdf p.3].
+    - **Which wing.** "The west wing," says the handbook [@riceinfo-history]. Which wing that was is a question for [Old Wiess](../../places/old-wiess.md) and the architecture page [@riceinfo-architecture]. The 1994 glossary puts the Backabowl "between the singles wing and the three story wing" [@handbook-1994].
+
+    **Still don't know.**
+
+    - When Jock Row started or ended. The Thresher of the 1950s–70s and the Campanile are the places to look [@thresher-portal].
+    - Whether Rice athletics ever housed athletes at Wiess informally. The handbook only denies the formal version [@riceinfo-history].
+    - Whether the printed 1994 handbook says more than the website copy [@handbook-1994].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

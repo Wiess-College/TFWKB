@@ -7,8 +7,15 @@ reviewed_by: unreviewed
 
 # The Web
 
-Wiess has described itself online since 1997, and the Wayback Machine kept most of it. The first site was hand-built with Frontier on a Macintosh under `riceinfo.rice.edu/projects/colleges/wiess/`, and three of its sections are transcriptions of the 1994 Freshman Handbook—the oldest O-Week-book text we hold [@riceinfo-site]. The college bought `teamwiess.com` in 2000, announced the move in May of that year [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/], and rebuilt the site roughly every two years for two decades: a Flash homepage in 2003, three generations of PHP, a phpBB forum that spam killed, a static site with a mobile mirror in 2014, and a React app in the 2020s. `wiess.rice.edu` has been the official address since 2014. Around the main site students kept blogs, Twitter accounts, a Rice-hosted Associates site and, in the 1990s, personal servers with hostnames under `*.wiess.rice.edu`. Most of the evidence on this site comes from these captures, so knowing which era a page belongs to is the first step in reading it.
+Wiess has been online since 1997, and the Wayback Machine kept most of it. Most of the evidence on this site comes from those old pages, so it helps to know which era a page is from.
 
-**[The Wiess website through the years](the-wiess-website-through-the-years.md)**—the eras, the webmasters named in the sources, the off-site homes, and one representative archived homepage for each era.
+!!! abstract "TL;DR"
+    - **1997:** the first site, hand-built on a Mac at `riceinfo.rice.edu/projects/colleges/wiess/`. Some of its pages copy the 1994 Freshman Handbook [@riceinfo-site].
+    - **2000:** the move to `teamwiess.com` is announced; it gets rebuilt every couple of years for two decades [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/] [@teamwiess-site].
+    - **2014 on:** `wiess.rice.edu` is the official address [@wb 20141009085809 http://wiess.rice.edu:80/].
+
+Along the way: a Flash homepage, a forum killed by spam, blogs, Twitter, and students running web servers from their dorm rooms.
+
+**[The Wiess website through the years](the-wiess-website-through-the-years.md)**: the eras, the webmasters, the off-site homes, and one archived homepage for each era.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
