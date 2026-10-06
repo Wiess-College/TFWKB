@@ -16,7 +16,7 @@ The readers are college students skimming on a phone between classes. Write for 
 - **Say the uncertain thing plainly.** "We haven't found when this started yet." "The sources disagree: 1974 or 1975." Not "the provenance remains contested."
 - **Give the record the benefit of the doubt.** What we've gathered is a thin slice of what exists. Rice's Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files. If we haven't found something, nobody failed, and nothing is lost, missing, forgotten or undocumented. We just haven't found it yet. Write "the earliest mention we've found so far is 2021", not "nobody wrote it down until 2021". Write "last seen in the 2017 book", not "it vanished after 2017". No hyperbole, no drama.
 - **No jargon without a translation.** The first time a Wiess or Rice word shows up on a page, explain it in a few plain words and link it:
-  - **Magister**: the professor who lives next to the college with their family and looks out for it (used to be called "Master"). Link [Magisters](docs/people/masters-and-magisters.md).
+  - **Magister**: the professor who lives next to the college with their family and looks out for it (used to be called "Master"). Link [Magisters](docs/people/magisters.md).
   - **Commons**: the dining hall, Wiess's biggest room. Link [The Commons](docs/places/commons.md).
   - **jack / jacking**: a prank, usually on another college. Explain it inline.
   - **O-Week**: Orientation Week, when new students arrive. Link [O-Week](docs/traditions/o-week.md).

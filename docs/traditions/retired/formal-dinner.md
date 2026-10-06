@@ -17,7 +17,7 @@ Formal Dinner and freshman waiting were Wiess's sit-down dinner traditions. From
 
 ## What it was
 
-The O-Week histories start with the first master (now called [Magister](../../people/masters-and-magisters.md)), Dr. Roy Talmage. He "instituted mandatory Wiess blazers (complete with crests) for formal Sunday dinners, where freshmen served upperclassmen a family-style dinner" [@oweek-2006 p.37].
+The O-Week histories start with the first master (now called [Magister](../../people/magisters.md)), Dr. Roy Talmage. He "instituted mandatory Wiess blazers (complete with crests) for formal Sunday dinners, where freshmen served upperclassmen a family-style dinner" [@oweek-2006 p.37].
 
 Weeknights were family style too. In 1991 it was in the Rules: "Freshmen shall serve at seated weekday dinners on a rotating basis." Skip your shift without a sub and you got fined [@rules-1991 §VI].
 

@@ -24,7 +24,7 @@ It got big. Almost a thousand people came in 2003; "upwards of 1400" in 2014; "a
 
 ## How it started
 
-A future Wiess Magister (the professor who lives next door and looks out for the college; see [Magisters](../people/masters-and-magisters.md)) remembered going to the first NOD in 1972, with about 30 other guys [@rice-magazine-2016-wiess-traditions]. The Thresher backs him up: in 1975 it announced Wiess's "fourth annual Night of Decadence," the first in "the new Wiess Commons" [@thresher-1975-11-03-nod-fourth-annual].
+A future Wiess Magister (the professor who lives next door and looks out for the college; see [Magisters](../people/magisters.md)) remembered going to the first NOD in 1972, with about 30 other guys [@rice-magazine-2016-wiess-traditions]. The Thresher backs him up: in 1975 it announced Wiess's "fourth annual Night of Decadence," the first in "the new Wiess Commons" [@thresher-1975-11-03-nod-fourth-annual].
 
 The name first shows up in print on a 1973 campus calendar: "Night of Decadence? This must needs be checked" [@thresher-1973-10-11-nod-calendar]. That year even had sequels, "Beyond the Night of Decadence" and "Son of the Night of Decadence" [@thresher-1973-11-08-beyond-nod] [@thresher-1973-11-15-son-of-nod].
 

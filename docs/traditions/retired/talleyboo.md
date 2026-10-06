@@ -21,7 +21,7 @@ So: something disgusting, and already fading by 1997. The 1999 revision kept the
 
 ## Where the name might come from
 
-In the Thresher's April Fool issue of 1968, a joke list of the college masters includes "Rue Tallyboo" [@thresher-1968-04-01-tallyboo]. That looks like a pun on Roy Talmage, Wiess's first master [@oweek-2006 p.36] (see [Magisters](../../people/masters-and-magisters.md)). It *might* be where "Talleyboo" came from. Nothing connects the two yet.
+In the Thresher's April Fool issue of 1968, a joke list of the college masters includes "Rue Tallyboo" [@thresher-1968-04-01-tallyboo]. That looks like a pun on Roy Talmage, Wiess's first master [@oweek-2006 p.36] (see [Magisters](../../people/magisters.md)). It *might* be where "Talleyboo" came from. Nothing connects the two yet.
 
 ## Last seen
 
