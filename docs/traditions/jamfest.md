@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # JamFest
 
-JamFest was Wiess's spring music festival: a free day of live bands, food and hanging out in the [Acabowl](../places/acabowl.md) (the lawn in the middle of Wiess), usually on a Friday in mid-April during Owl Weekend, when admitted students visit [@oweek-2003 p.4] [@portal metapth246567 p.15]. It began as a talent show in the [Commons](../places/commons.md) by 1987, moved outdoors by 1993, and from 2010 shared its place with [Wiess Day](wiess-day.md), until the 2014 book said it had "come and gone" [@thresher-1987-03-20-jamfest] [@portal metapth245840 p.20] [@oweek-2010 p.91] [@oweek-2014 p.37].
+JamFest was Wiess's spring music festival: a free day of live bands and food in the [Acabowl](../places/acabowl.md), usually on a Friday in mid-April during Owl Weekend, when admitted students visit [@oweek-2003 p.4] [@portal metapth246567 p.15]. It began as a talent show in the [Commons](../places/commons.md) by 1987, moved outdoors by 1993, and from 2010 shared its place with [Wiess Day](wiess-day.md), until the 2014 book said it had "come and gone" [@thresher-1987-03-20-jamfest] [@portal metapth245840 p.20] [@oweek-2010 p.91] [@oweek-2014 p.37].
 
 !!! abstract "TL;DR"
     - Wiess, Rice and Houston bands played, and later touring headliners too [@wb 19990220115332 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/jamfest.html] [@teamwiess-jamfest-site].
@@ -17,11 +17,11 @@ JamFest was Wiess's spring music festival: a free day of live bands, food and ha
 
 ## How it worked
 
-Bands in the Acabowl, towels on the grass, hamburgers all day. "Spend the whole day lying on a towel, eating hamburgers and hanging with your friends," the 2003 book said [@oweek-2003 35-44 wiess.pdf p.9]. It was free, and from 1993 it usually ran from the afternoon deep into the night [@portal metapth245840 p.20] [@portal metapth443074 p.31].
+"Spend the whole day lying on a towel, eating hamburgers and hanging with your friends," the 2003 book said [@oweek-2003 35-44 wiess.pdf p.9]. It was free, and from 1993 it usually ran from the afternoon deep into the night [@portal metapth245840 p.20] [@portal metapth443074 p.31].
 
 **The music.** Student bands from around Rice played, plus Houston bands and, in the 2000s, a touring headliner [@portal metapth246676 p.19] [@wb 20070206202205 http://www.teamwiess.com/Jamfest/main.htm]. In 2005 there were two stages [@wb 20070206202123 http://www.teamwiess.com/Jamfest/playlist.htm]. By 2008, "Bands from around Rice audition to get a timeslot" (so far only the college website says this) [@wb 20090917020034 http://teamwiess.com/activities.php].
 
-**The sound.** Dr. Bill Wilson, a longtime Wiess RA (a grown-up who lives in the college), ran "pretty much all the 'tech'" for Wiess events, JamFest included, and lent students his audio gear [@portal metapth443181 p.1] [@portal metapth443018 p.6]. In 2006 a Fellow "ran the soundboard for all 10 hours" [@oweek-2006 p.23]. In 2007 the [Dr. Bill Wilson Student Initiative Grant](https://drbillgrant.rice.edu/recipient-history/) lists "Wiess JamFest Audio Equipment" among its awards (one source so far). More on him at [Resident Associates](../people/resident-associates.md).
+**The sound.** Dr. Bill Wilson, a longtime Wiess RA , ran "pretty much all the 'tech'" for Wiess events, JamFest included, and lent students his audio gear [@portal metapth443181 p.1] [@portal metapth443018 p.6]. In 2006 a Fellow "ran the soundboard for all 10 hours" [@oweek-2006 p.23]. In 2007 the [Dr. Bill Wilson Student Initiative Grant](https://drbillgrant.rice.edu/recipient-history/) lists "Wiess JamFest Audio Equipment" among its awards (one source so far). More on him at [Resident Associates](../people/resident-associates.md).
 
 **The extras.** Over the years there was free pizza and drinks (1993), tie-dyeing (1997), barbecue and beer with a canned-food drive and $2 T-shirts (1998), face painting and henna (2005), and an iPod raffle for T-shirt buyers (2007) [@portal metapth245840 p.20] [@portal metapth246567 p.15] [@portal metapth246621 p.19] [@wb 20070206202205 http://www.teamwiess.com/Jamfest/main.htm] [@portal metapth443077 p.23]. In 2009 there was a Rock Band set, a moonbounce and sumo suits [@portal metapth443096 p.19]. In 1997–98 the Princeton Review counted JamFest among the groups it had worked with, the first outside sponsor we've found (one ad, printed twice) [@portal metapth246622 p.9] [@portal metapth246624 p.14].
 

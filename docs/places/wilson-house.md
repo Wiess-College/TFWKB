@@ -16,7 +16,7 @@ Wilson House is where the [Magisters](../people/masters-and-magisters.md) live: 
 
 ## Dr. Bill's house
 
-In 2011 the house was dedicated to Dr. Bill Wilson, a longtime Wiess RA (a grown-up who lives in the college) [@wiess-60th-faq-2017 p.4]. That year's glossary added a second meaning: "Dr. Bill House" [@oweek-2011 p.93]. We haven't found yet whether 2011 brought a new house or a new name for the one "right next door" in 2006 [@oweek-2006 p.84]. Read more about him on [Resident Associates](../people/resident-associates.md).
+In 2011 the house was dedicated to Dr. Bill Wilson, a longtime Wiess RA  [@wiess-60th-faq-2017 p.4]. That year's glossary added a second meaning: "Dr. Bill House" [@oweek-2011 p.93]. We haven't found yet whether 2011 brought a new house or a new name for the one "right next door" in 2006 [@oweek-2006 p.84]. Read more about him on [Resident Associates](../people/resident-associates.md).
 
 The Byrds' 2015 welcome promised "ample opportunity to hang out with them at 'the house'": "Solos and Duets study break, Twenty Minute Jazz Festival, Brunch Book Club" [@wb 20150313224617 http://teamwiess.com/master.html]. The house even had its own Twitter, @ricewilsonhouse [@wb 20140627224545 http://teamwiess.com/master.html].
 
