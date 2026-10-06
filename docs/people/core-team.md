@@ -24,9 +24,9 @@ As the 2024 and 2025 O-Week books name them [@oweek-2025 p.60]:
 
 ## The three jobs
 
-**Magisters** are "professors and their families who have volunteered to be helpful, loving and supportive people" [@oweek-2003 intro p.7]. They sit on Cabinet without a vote but with a veto [@constitution-1993] [@constitution-2026 p.9]. More: [Magisters](masters-and-magisters.md).
+**Magisters** are "professors and their families who have volunteered to be helpful, loving and supportive people" [@oweek-2003 intro p.7]. They sit on Cabinet without a vote but with a veto [@constitution-1993] [@constitution-2026 p.9]. More: [Magisters](magisters.md).
 
-**RAs** "offer advice, guide college activities, volunteer their time and are always up for conversations and silliness" [@oweek-2006 p.9]. They're "not primarily rule enforcers… (that's what your justices are for)" [@oweek-2024 p.30]. More: [Resident Associates](resident-associates.md).
+**RAs** "offer advice, guide college activities, volunteer their time and are always up for conversations and silliness" [@oweek-2006 p.9]. They're "not primarily rule enforcers… (that's what your justices are for)" [@oweek-2024 p.30]. More: [Resident Associates](associates.md).
 
 **The College Coordinator** started out as the college secretary in 1994 [@handbook-1994]. The job has meant mail, packages, stamps, spare keys and candy since 2003 [@oweek-2003 intro p.9]. Today it's "all administrative duties at Wiess," from an office "adjacent to the mailroom" [@oweek-2025 p.33].
 

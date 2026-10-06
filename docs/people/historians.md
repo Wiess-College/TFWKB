@@ -25,7 +25,7 @@ The O-Week books name a Cabinet ([student government](../governance/cabinet.md))
 
 The college's previous archivist was Dr. Bill Wilson, an RA for some thirty years. He was "taking pictures of almost every Wiess event" by 1997 [@riceinfo-associates]. In 2006, the Historian's job was literally to organize "the pictures Dr. Bill takes" [@oweek-2006 p.39].
 
-Rice's archivist found "hundreds of photographs that were taken by Dr. Bill Wilson" [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. In 2021 his papers arrived with "hundreds of recordings of Rice events" [@rhc 2021-11-15 secession-1992]. The Wiess College Records at the Woodson hold Cabinet minutes and governing documents back to 1950 [@woodson-ua0079]. More on him: [Resident Associates](resident-associates.md).
+Rice's archivist found "hundreds of photographs that were taken by Dr. Bill Wilson" [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. In 2021 his papers arrived with "hundreds of recordings of Rice events" [@rhc 2021-11-15 secession-1992]. The Wiess College Records at the Woodson hold Cabinet minutes and governing documents back to 1950 [@woodson-ua0079]. More on him: [Resident Associates](associates.md).
 
 The student record is the O-Week books, the websites and the glossaries. See [How we described ourselves](../traditions/glossary-series.md) and [The Wiess website through the years](../web/the-wiess-website-through-the-years.md). None of it is specifically credited to a Historian, though the Wiess Historian captures photos and shares them online and oartners with other positions and people in the college to preserve memories for Wiess.
 

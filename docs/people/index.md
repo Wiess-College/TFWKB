@@ -22,13 +22,13 @@ This section is about the people of Wiess: the grown-ups who live with the colle
 
     Start here. Who's who now, plus every Magister, RA and Coordinator captured here so far.
 
--   :material-school: **[Magisters](masters-and-magisters.md)**
+-   :material-school: **[Magisters](magisters.md)**
 
     ---
 
     The faculty family next door, from Dr. Roy Talmage (1957) to today.
 
--   :material-home-account: **[Resident Associates](resident-associates.md)**
+-   :material-home-account: **[Resident Associates](associates.md)**
 
     ---
 

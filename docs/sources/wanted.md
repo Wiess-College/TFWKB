@@ -53,7 +53,7 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ta
 | ~~The 2021–22 constitution with the first hate-speech clause~~ Partly found: Article XV is in the undated c. early 2025 text [@constitution-hate-speech]; the ratified 2021–22 wording and vote date are still wanted (ask the 2021–22 Parliamentarian or Secretary) | 2021–22 | [Court](../governance/court.md), [Constitution history](../governance/constitution-history.md) |
 | ~~Bylaws 2016–2026~~ Partly found: the Bylaws of 12 February 2020, the last separate text [@bylaws-2020]; Bylaws 2016–2020 still wanted | 2016–2020 | [Constitution history](../governance/constitution-history.md) |
 | Magister search committee records (2005–06; the Schaefers 2015–16; Cunha and Santos 2020–21) | 2006–2021 | [Core team](../people/core-team.md) |
-| RA search materials, 2017 (application, the "What an RA means to Wiessmen" video) | 2017 | [Resident Associates](../people/resident-associates.md) |
+| RA search materials, 2017 (application, the "What an RA means to Wiessmen" video) | 2017 | [Resident Associates](../people/associates.md) |
 | Court abstracts filed with the Coordinator | 2016–2026 | [Court](../governance/court.md) |
 | The Wiess Associates Guide | c.2023–25 | [Core team](../people/core-team.md) |
 | The Wiess side of the NOD decision: Cabinet minutes or a written record of the Magisters' recommendation, 2023–24 | 2023–24 | The "To be supplied" sections of the [NOD decision record](../decisions/nod-2026.md) |

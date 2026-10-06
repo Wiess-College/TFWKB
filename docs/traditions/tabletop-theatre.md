@@ -30,7 +30,7 @@ Recent runs: spring 2012, 2016, 2021 and 2024 [@oweek-2014 p.37] [@oweek-2024 p.
 
 ## The grown-ups behind the scenes
 
-Two Resident Associates (see [Resident Associates](../people/resident-associates.md)) are part of the story. Physics professor Stan Dodds was "Often seen working hard on Tabletop sets" in 1994 [@handbook-1994]. Dr. Bill Wilson recorded the shows. His collection at Fondren Library "includes every college theatre production during his time at Rice" [@oweek-2014 p.102].
+Two Resident Associates (see [Resident Associates](../people/associates.md)) are part of the story. Physics professor Stan Dodds was "Often seen working hard on Tabletop sets" in 1994 [@handbook-1994]. Dr. Bill Wilson recorded the shows. His collection at Fondren Library "includes every college theatre production during his time at Rice" [@oweek-2014 p.102].
 
 ??? info "The receipts: shows we can source"
     | Season | Show | Kind | Source |
