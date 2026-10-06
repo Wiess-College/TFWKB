@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Wiess House / Wilson House
 
-Wilson House is where the [Magisters](../people/masters-and-magisters.md) live: the professor and family who live next door and look out for the college. It has carried RA Dr. Bill Wilson's name since 2011; at Old Wiess it was Wiess House [@wiess-60th-faq-2017 p.4] [@riceinfo-masters]. The motto since 2006: "Where everybody knows your name, and the door is always open" [@oweek-2006 p.84].
+Wilson House is where the [Magisters](../people/magisters.md) live: the professor and family who live next door and look out for the college. It has carried RA Dr. Bill Wilson's name since 2011; at Old Wiess it was Wiess House [@wiess-60th-faq-2017 p.4] [@riceinfo-masters]. The motto since 2006: "Where everybody knows your name, and the door is always open" [@oweek-2006 p.84].
 
 !!! abstract "TL;DR"
     - At Old Wiess it was **Wiess House**, "a small house attached to the college," built around 1957 [@riceinfo-masters] [@edesigns-old-wiess-2002].

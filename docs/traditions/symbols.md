@@ -18,7 +18,7 @@ Wiess's symbols are its crest, a griffin on a shield split black over gold with 
 
 A shield split black over gold. On it, a griffin: gold on the black half, black on the gold half. On top, a knight's helmet, with an owl standing on it [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png] [@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif].
 
-The crest was stitched on the blazers the first Magister (the professor who lives next door and looks out for the college) required at Sunday dinner [@oweek-2006 p.37]. Today it hangs in Sparky's, the basement room [@oweek-2014 p.46]. More on the people at [Magisters](../people/masters-and-magisters.md).
+The crest was stitched on the blazers the first Magister (the professor who lives next door and looks out for the college) required at Sunday dinner [@oweek-2006 p.37]. Today it hangs in Sparky's, the basement room [@oweek-2014 p.46]. More on the people at [Magisters](../people/magisters.md).
 
 ## Where the crest came from
 

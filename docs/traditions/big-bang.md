@@ -17,16 +17,17 @@ It's coming.
     Big Bang is Wiess's party for new students after they survive their first round of exams [@oweek-2003 35-44 wiess.pdf p.8]. The Internal Vice President, a [Cabinet](../governance/cabinet.md) officer, plans it "with the Head Fellow(s)" [@constitution-2026 p.6].
 
     !!! abstract "TL;DR"
-        - It goes back to at least 1984, when it was "Big Bang Nite" at the Pub [@thresher-1984-10-05-big-bang] [@thresher-1986-09-19-big-bang].
-        - The 2026 Constitution is the first one we have that writes it in [@constitution-2026 p.6].
+        - Big Bang is Wiess's party for new students after they survive their first round of exams [@oweek-2003 35-44 wiess.pdf p.8].
+        - It goes back to at least 1984, when it was "Big Bang Nite" at Pub [@thresher-1984-10-05-big-bang] [@thresher-1986-09-19-big-bang].
+        - Since 2026 the Constitution says the Internal VP plans it "with the Head Fellow(s)" [@constitution-2026 p.6].
 
     **What it is.** The O-Week books promise "a variety of games, dancing and, of course, goldenrod T-shirts" [@oweek-2003 35-44 wiess.pdf p.8]. From 2014 they add, helpfully: "The exact details are a mystery…" [@oweek-2014 p.43]. That's the point.
 
+    **How Old is Big Bang?** In 1984 a Thresher personal asked, "Or didn't you know it was Big Bang Nite?" [@thresher-1984-10-05-big-bang]. In 1986 the Thresher called it "the third annual Big Bang Night," held after the first Physics 101 test [@thresher-1986-09-19-big-bang]. So it probably started in 1984.
+
+    In 1997, a Wiess webmaster wrote: "is that supposed article of the Wiess Constitution gone now? *sigh...*" [@riceinfo-traditions-1997]. No constitution from 1993 to 2017 mentions Big Bang. The 2026 Constitution is the first contemporsty mention of it  [@constitution-2026 p.6].
+
     **Who runs it.** The Internal Vice President (an officer on [Cabinet](../governance/cabinet.md), Wiess's student government) has had it on the list since at least 2006 [@oweek-2006 p.39]. In 2017 the job was coordinating "Summit, Wiess Shark Tank, Pumpkin Caroling, and Big Bang, whatever that is" [@oweek-2017 p.25].
-
-    **How old it is.** In 1984 a Thresher personal asked, "Or didn't you know it was Big Bang Nite?" [@thresher-1984-10-05-big-bang]. In 1986 the Thresher called it "the third annual Big Bang Night," held after the first Physics 101 test [@thresher-1986-09-19-big-bang]. So it probably started in 1984.
-
-    **The Constitution article.** The 1997 website sighed about it: "is that supposed article of the Wiess Constitution gone now? *sigh...*" [@riceinfo-traditions-1997]. None of the constitutions we have from 1993 to 2017 mention Big Bang. The 2026 Constitution is the first one we have that writes it in [@constitution-2026 p.6].
 
     ??? info "The receipts: timeline"
         | When | What | Evidence |

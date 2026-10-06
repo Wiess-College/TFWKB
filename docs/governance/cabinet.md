@@ -12,6 +12,119 @@ Cabinet is Wiess's student government. The Constitution grants it legislative po
 The size of cabinet has varied: from "fifteen members" (1993) to "seventeen" (2007) to "nineteen" (2013–2017) to "17 voting members" plus a separate list of non-voting ones (2020 onward) [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4] [@constitution-2013 Art. III §4] [@constitution-2020 Art. III §§12–13] [@constitution-2026 Art. V §1]. 
 The core offices—President, Vice Presidents, Treasurer, Secretary, representatives, Parliamentarian and Historian—have been there throughout; what changes typically is who is elected vs appointed, who votes, and finer details of its composition.
 
+Cabinet meets on Wednesdays.
+
+## Presidents
+Below is  a list of former presidents of Wiess , with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
+ - Grant Wilson (2025)
+ - Christina Chen (2024)
+ - Blaine Samson (2023)
+ - Kirsty Leech (2022)
+ - Varun Kukunoor (2021)
+ - Lauren Biegel (2020)
+ - Tim Thomas II (2019)
+ - Mike Dai (2018)
+ - Tay Jacobe (2017)
+ - Yasmin Khalfe (2016)
+ - Alexander Q. Tran (2015)
+ - [not named] (2014)
+ - J Bernard Miller II (2013)
+ - David Payne (2012)
+ - Charles Dai (201)
+ - Molly Bryan (2010)
+ - Alex Bonnel (2009)
+ - Bo Qiu (2008)
+ - Jon Harris Maurer (2007)
+ - Chris Kudron (2006)
+ - Jack Hardcastle (2005)
+ - Edith Arnold (2004)
+ - Andrew Perez (2003)
+ - Robert J. Morgan (2002)
+ - Amy Schindler (2001)
+ - Joshua Katz (2000)
+ - Robery A. Lundin (1999)
+ - Ethan M. Schultz (1998)
+ - George A. Fotinos (1997)
+ - David J McCann (1996)
+ - Art R. Tontiplaphol (1995)
+ - Diane E. Tata (1994)
+ - Celeste H. Campbell (1993)
+ - J David Roberts (1992)
+ - Pier J. Abrams (1991)
+ - Steve Eubank (1990)
+ - Bradley Hamer (1989)
+ - Michael J. Yanochik (1988)
+ - William A. Davis (1987)
+ - Alexander Pellow (1986)
+ - Bob Casey (1985)
+ - Ty Buthod (1984)
+ - Jeff Zweg (1983)
+ - Terry H.R. Phillips (1982)
+ - Bob Canby (1981)
+ - George Hall (1980)
+ - Steve Bohannon (1979)
+ - Chuck Newell (1978)
+ - David White (1977)
+ - Asuka Nakahara (1976)
+ - John Lederer (1975)
+ - Joseph J. Finger (1974)
+ - Paul R. Lederer (1973)
+ - Robert S Dickenson (1972)
+ - Robert J Hilton (1971)
+ - John R. Hayes Jr. (1970)
+ - George C. Greanias (1969)
+ - William N. Blanton III (1968)
+ - J Thomas Bertrand (1967)
+ - Donaldo Q. Lamb Jr. (1966)
+ - Charles G. King III (1965)
+ - William T. McGregor (1964)
+ - Jan M. Lodal (1965)
+ - Melvin Lack (1962)
+ - James R. Doty (1961)
+ - Francies B. Thompson (1960)
+ - Stephen B. Doty (1959)
+ - Jack Wertheimer Jr. (1958)
+ - Edwin S. Keasler Jr. (1957)
+ - Mathias F. Gorges (1957)
+ - John R. Gorman (1957)
+
+## Chief Justices
+Below is  a list of former chief justices of Wiess , with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
+ - Virginia Mynard (2026)
+ - Ben Bridges (2025)
+ - Ryan Lu (2024)
+ - Renzo Espinoza (2023)
+ - Myritney Saint-Cloud (2022)
+
+## Proxy Cab
+
+Wiessmen who are not members of Cab fill in for members as proxies, debating on unique ways to spend a $100 and $500 prize. Past winners have included Project 1000, which involved all of Wiess attempting to eat 1000 chicken nuggets in one night, and the neon “Team Family Wiess” sign found in UpCo. Debate is always fiery, with each “proxy” bringing their idea to the table and Wiess Cabinet at large voting for the best, the funniest, or the most outlandish.
+
+## Timeline
+
+Much more information on cabinet composition likely exists in the Wiess archives and has not yet been retrieved digitally.
+
+| When | What | Evidence |
+|---|---|---|
+| 1993-08-05 | Constitution: Cabinet of "fifteen members", twelve offices, elected in spring except Freshman Representatives; appointed members "selected by the Cabinet"; Parliamentarian and Historian non-voting [@constitution-1993 Art. III §§3–4, 6] | [P] |
+| 1993-08-05 | Bylaws: minutes "published within one week of the meeting", signed by the Secretary and two other members; meetings announced 24 hours ahead so "all members of the College may attend" [@constitution-1993 Bylaws Art. II §§2, 6] | [P] |
+| 1998-07-19 | Website: "twelve elected and three appointed offices"; an $18,000 annual budget; the Secretary "providing the agenda and minutes of cabinet meetings"; a Game Room Chairman among the appointees [@riceinfo-cabinet-1998] | [P] |
+| 2003 | O-Week glossary: "Governing body of Wiess. Throws great parties—er meetings—every other Wednesday." [@oweek-2003 p.3] | [P] |
+| 2007-02-06 | "Seventeen members": two Social Vice Presidents and two Treasurers; attendance mandatory; Appropriations and Budget committees [@constitution-2007 Art. III §§4, 9; Art. VII] | [P] |
+| 2008-08-28 | "Last Cabinet Notes" on teamwiess.com: the O-Week themed Cabinet approves the budget, hears Freshman Rep speeches [@teamwiess-lastnotes-2008] | [P] |
+| 2009-09-09 | "Silly Hats Cabinet Minutes": a new Capital Improvements Rep approved by motion [@teamwiess-cabinetminutes-2010] | [P] |
+| 2013-02-08 | "Nineteen members": Academics and Career Chair added; two-year Treasurer terms with a head and an apprentice treasurer; hand-over of documents to successors required [@constitution-2013 Art. III §§4 F, 4 K, 10] | [P] |
+| 2016-01-26 | Appointed members "selected by the President with the approval of Cabinet"; SA Senator listed as a non-voting Cabinet member; Internal Vice President; resign if placed on probation or going abroad [@constitution-2016 Art. III §§3, 4 B, 4 N, 5, 12] | [P] |
+| 2016-01-26 | Bylaws: minutes within two weeks; closed "Executive Council" sessions allowed until spring 2017 elections [@constitution-2016 Bylaws Art. II §6; Art. XI] | [P] |
+| 2017-03-29 | Appointed members again "selected by the Cabinet" [@constitution-2017 Art. III §3] | [P] |
+| 2020-02-12 | Constitution "Last Amended February 12, 2020": "The legislative powers shall be vested in the Cabinet"; "17 voting members"—President, two Vice Presidents, two Social VPs, two First-Year, two Sophomore, one Junior and one Senior Representative, two Off-Campus Representatives, Treasurer, Assistant Treasurer, two Diversity Chairs; Parliamentarian, Secretary, Historian(s), Capital Improvements Liaison, Academics and Career Chair appointed and non-voting; SA Senator, Chief Justice ("observing member"), Magisters and RAs non-voting; Cultural and At-Large Representatives gone [@constitution-2020 Art. III §§1, 12–13] | [P] |
+| 2020-02-12 | Bylaws: proxies must relay information; new or abolished positions take effect at the next annual election; President's Endowment "subject to approval by the Magisters" [@bylaws-2020 Art. II §§5, 8; Art. IV §6] | [P] |
+| 2020-10-02 | Website lists Treasurer and Apprentice Treasurer, Senior and Junior Representatives, Diversity Chairs [@teamwiess-cabinet-2020] | [P] |
+| 2021-09-24 | Roster: President Varun Kukunoor; two Diversity Chairs; two Historians; meetings "every Wednesday… (and now on Zoom!)" [@teamwiess-cabinet-2021] | [P] |
+| 2023-09-15 | Roster on wiess.rice.edu: President Blaine Samson; Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
+| c. early 2025 | Undated "Complete Guiding Documents": Voting (Art. V) and Non-Voting (Art. VI) Members as separate articles; Apprentice Treasurer; two Secretaries; quorum "(9)"; a Representatives article (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday); Cabinet may dissent from a Magister veto by two-thirds; no Executive Cabinet yet [@constitution-hate-speech Arts. IV–VII] | [P] |
+| 2026-02-23 | "17 voting members" (Article V) and non-voting members (Article VI); quorum "a simple majority (9)… not including proxies"; two unproxied absences grounds for impeachment; an Executive Cabinet; Cabinet may dissent from a Magister veto by two-thirds [@constitution-2026 Arts. IV §§6, 8, 14; V; VI] | [P] |
+
 ## Who Is in Cabinet
 
 The table lists the offices each constitution names. "E" is elected by the College (or by a class), "A" is appointed, "nv" is non-voting. 

@@ -1,25 +1,36 @@
 ---
-title: Resident Associates
+title: Associates
 status: draft
 last_reviewed: 2026-10-04
 reviewed_by: unreviewed
 ---
 
-# Resident Associates
+# Types of Associates
 
-Resident Associates (RAs) are the grown-ups who live in the college: Rice faculty and staff with apartments among the students [@oweek-2024 p.28]. At Rice they're "not primarily rule enforcers like they are at other universities (that's what your justices are for)" [@oweek-2024 p.30]. They're there to be "reliable old(er) people who are always available for you."
+## University Associates
+There shall be associates who shall be faculty or staff of the university. The magister of Wiess College shall be the highest-ranking faculty associate.
+
+## Community Associates
+There may be any number of community associates not chosen from the faculty or staff of Rice University, but based on service to the college or community. The associates shall advise and assist the college.
+
+## Resident Associates
+
+RAs are "full-time faculty and staff" who live in the college. At Rice they're "not primarily rule enforcers like they are at other universities (that's what your justices are for)" [@oweek-2024 p.30]. They're there to be "reliable old(er) people who are always available for you." They've helped with "leadership challenges," "roommate conflicts," and even helped "students rescue injured wildlife" [@oweek-2024 p.30].
+
+# Associates Program and Events
+
+The associates program is run in tight partnership between the college coordinator and external vice president. The EVP plans events and helps with the recruiting of university and community associates.
+
+# Associate Roles
+
+Assocuates plan study breaks, engage with students intentionally (community and university associates often times "adopt" an o-week group) and support Wiessmen in their academic and social journey.
+
+Associates have joined students for lunch in commons, promoted career networking events, organized game nights, leadg cooking tutorials cheered at intramural games and attended Associate's nights.
 
 !!! abstract "TL;DR"
     - Wiess got its first two RAs in 1957. One, Dr. John E. Parish, stayed 23 years [@riceinfo-history].
     - Dr. William "Dr. Bill" Wilson was an RA for about thirty years, from the 1970s to 2006. [Wilson House](../places/wilson-house.md) is named for him [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates] [@wiess-60th-faq-2017 p.4].
-    - RAs sit on Cabinet without a vote. Since 2016 a student-led committee helps pick them [@constitution-1993] [@constitution-2016 p.1]. The 2026 Constitution calls them "Residential Associates" [@constitution-2026 p.3].
-    - In 2024 and 2025: Lach and Kari Mullen, and Carissa Zimmerman and Nick Espinosa [@oweek-2024 p.30] [@oweek-2024 p.31] [@oweek-2025 p.31].
-
-## RAs today
-
-Today's RAs are "full-time faculty and staff at Rice who live among the students… often inviting students to their 'apartments'" [@oweek-2024 p.28]. They've helped with "leadership challenges," "roommate conflicts," and even helped "students rescue injured wildlife" [@oweek-2024 p.30].
-
-Want to find them? "We eat dinner in the Commons most days around 5:30, and we keep our apartment blinds open when we're home and up for visitors" [@oweek-2025 p.32].
+    - RAs sit on Cabinet without a vote. A student-led committee helps pick them [@constitution-1993] [@constitution-2016 p.1]. The 2026 Constitution calls them "Residential Associates" [@constitution-2026 p.3].
 
 ## Dr. Bill, the legend
 

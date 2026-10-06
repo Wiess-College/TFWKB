@@ -16,7 +16,7 @@ A study break is a short, casual event, usually in the evening and usually with 
 
 ## Who throws them
 
-- **The Magisters** (the professor and family who live next to the college and look out for it): "The masters throw study breaks" (2003) [@oweek-2003 intro p.7]. See [Magisters](../people/masters-and-magisters.md).
+- **The Magisters** (the professor and family who live next to the college and look out for it): "The masters throw study breaks" (2003) [@oweek-2003 intro p.7]. See [Magisters](../people/magisters.md).
 - **The RAs** ([Resident Associates](../people/resident-associates.md), grown-ups who live in the college): "informal and fairly unstructured," about twice a month (2024) [@oweek-2024 p.30].
 - **The Associates** (faculty, staff or community members tied to the college, and "Darned good people to know" [@oweek-2003 p.5]): they "host study breaks around finals" [@oweek-2024 p.28].
 - **Reps and committees**: First-Year Reps, the Outreach Committee, the Mentors and more [@oweek-2016 p.26] [@teamwiess-lastnotes-2008].
