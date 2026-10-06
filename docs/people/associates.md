@@ -2,6 +2,7 @@
 title: Associates
 status: draft
 last_reviewed: 2026-10-04
+reviewed_by: unreviewed
 ---
 
 # Types of Associates
