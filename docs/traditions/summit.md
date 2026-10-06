@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Summit
 
-Every fall, Wiess leaves campus to talk about the college, make plans, and get sunburned together.
+Every fall, Wiess leaves campus enjoy a day in the sun (formerly, to talk about the college, make plans, and get sunburned together).
 
 !!! abstract "TL;DR"
     - Summit is Wiess's early-fall retreat: a day (or weekend) away to discuss the college, plan the year, and bond [@oweek-2003 35-44 wiess.pdf p.8] [@oweek-2015 p.23].
@@ -71,18 +71,5 @@ The books caught up in 2011: "lately we've enjoyed holding Summit on a boat (and
     | 2024–2025 | Glossary unchanged ("to Galveston"); traditions text unchanged since 2015, "a day-long retreat at the beach (or on a boat depending on what era of Wiess history we are in)" [@oweek-2024 p.25] [@oweek-2024 p.38] [@oweek-2025 p.26] [@oweek-2025 p.39] | [P] |
     | 2026-02-23 | Constitution: the Internal Vice President shall "Plan Wiess College Summit and Big Bang" [@constitution-2026 p.6] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **A weekend or a day?** Every glossary says "Weekend"; every traditions page since 2015 says "day-long," sometimes in the same book [@oweek-2015 p.23] [@oweek-2015 p.119] [@oweek-2019 p.15] [@oweek-2019 p.32] [@oweek-2025 p.26] [@oweek-2025 p.39]. The 2008 minutes say a Saturday [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes]. The glossary line was copied from 2003; the 2015 rewrite is the better guide.
-    - **When did the boat start?** The books say 2011 [@oweek-2011 p.45], but the 2008 minutes say "like last year," so fall 2007 [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes]. The 2008 and 2010 books were still copying 2003 [@oweek-2008 part 3 p.8] [@oweek-2010 p.44].
-    - **First mention.** The traditions index here says 2003; the 1999 Cabinet page is four years earlier [@riceinfo-cabinet]. The 1994 handbook's "Summit" is the Houston arena, not this [@handbook-1994]. A search of the Thresher to 1994 found only the arena.
-
-    **Still don't know.**
-
-    - When Summit began. Try the 1999 Cabinet minutes and the Woodson Cabinet records [@woodson-ua0079].
-    - Which boat club, and which beach? The 2008 minutes also float "Treasure Island" [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes].
-    - Is it still a boat in 2026? The `summit2023` photo hasn't been looked at [@wiess-rice-edu asset-manifest.json].
-    - The Wiess Associates traditions page is quoted from the archive index; check it against the archived page [@wiessassociates-site].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

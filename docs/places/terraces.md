@@ -23,23 +23,19 @@ New Wiess has just one courtyard, [the Acabowl](acabowl.md). So the "back" names
 
 ## The great terrace name shuffle
 
-The big terrace sits on top of South Servery, "overlooking the playing fields," shared by Wiess and Hanszen [@machado-silvetti-wiess] [@rice-facilities-first-100-years]. In 2003 it was the **Backaterrace**, "the terrace behind the Commons that we unfortunately have to share with Hanszen" [@oweek-2003 p.3]. From 2006 to 2017 it was the **Acaterrace** [@oweek-2006 p.83] [@oweek-2017 p.14]. In 2019 and 2021 it was the **Bacaterrace** [@oweek-2019 p.14] [@oweek-2021 p.18].
+The big terrace sits on top of South Servery, "overlooking the playing fields," shared by Wiess and Hanszen [@machado-silvetti-wiess] [@rice-facilities-first-100-years]. In 2003 it was the **Backaterrace**, "the terrace behind the Commons that we unfortunately have to share with Hanszen" [@oweek-2003 p.3].
 
-The fourth-floor balcony was the **Bacaterrace** in 2014: "Great spot to hang out or watch the sunset" [@oweek-2014 p.102]. In 2019 it became the **Acaterrace**, and in 2021 just the "Fourth Floor Balcony" [@oweek-2019 p.14] [@oweek-2021 p.18].
 
-In 2021, a third spot took the name **Acaterrace**: "The terrace connecting the second floor and the Upper Commons" [@oweek-2021 p.18]. Confused? Everyone is. The full table is in the receipts below.
+There is also an Acaterrace "The terrace connecting the second floor and the Upper Commons" [@oweek-2021 p.18]. Confused? Everyone is. The full table is in the receipts below.
 
 ## Life on the terrace
 
 In 2009 the website said the servery-roof terrace was "shared by our lackluster rivals, the Hanszenites" and "Rarely is this area being used" [@wb 20090827020025 http://teamwiess.com/areas.php]. A Cabinet member wanted to turn it "into a giant chessboard" [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]. Jazz Night was held "on the terrace" in the 2000s [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.9] [@oweek-2006 p.44].
 
-By 2025 there's a firepit, with "Firepit Cab 2025" on the college website and Head Fellows serving as "firepit reps" [@wb 20251013212528 https://wiess.rice.edu/] [@oweek-2025 p.44].
-
 ## Toke
 
-A 2025 Fellow is found "hanging out at Toke for the views (sort of)" [@oweek-2025 p.48]. That hints at somewhere high up, but no written source says which space it is.
-
-The earliest written trace is July 2022: "TOKE" painted on a graffiti-covered table in an O-Week photo [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg]. The photo doesn't show where the table stands.
+A 2025 Fellow is found "hanging out at Toke for the views (sort of)" [@oweek-2025 p.48]. That hints at somewhere high up, it is indeed on the 4th floor, sometimes called the 4th floor balcony.
+In a July 2022 photo there is "TOKE" painted on a graffiti-covered table in an O-Week photo [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg].
 
 ## Photographs
 
@@ -119,22 +115,5 @@ The earliest written trace is July 2022: "TOKE" painted on a graffiti-covered ta
 
     The glossary entries by year: [Backaterrace / Acaterrace](../traditions/glossary-series.md#backaterrace), [Bacaterrace](../traditions/glossary-series.md#bacaterrace).
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Backaterrace → Acaterrace (2003 → 2006).** Same definition word for word, so same space, new name [@oweek-2003 p.3] [@oweek-2006 p.83]. Nobody explains why. One guess: Old Wiess had an Acabowl and a Backabowl; New Wiess has one Acabowl, so the terrace was renamed to match.
-    - **Bacaterrace: fourth floor or roof?** The fourth-floor balcony in 2014–17 [@oweek-2014 p.102]; the servery roof in 2019 and 2021 [@oweek-2019 p.14] [@oweek-2021 p.18]. Hanszen's website says nothing about terraces [@hanszen-traditions].
-    - **Is the maps' "4: Patio" the Bacaterrace?** Probably. Maps 2006–2017 show a fourth-floor "Patio" atop the laundry stack [@oweek-2006 p.15] [@oweek-2017 p.28], and the only fourth-floor outdoor space in the glossaries is the Bacaterrace [@oweek-2014 p.102]. No source links the two.
-    - **Backabowl or Bacabowl.** "Backabowl" in 1994 and the 2006–2017 histories [@handbook-1994] [@oweek-2006 p.36]; "Bacabowl" on the 1999 photo pages [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html].
-    - **"Unfortunately."** Dropped in 2014: "that we share with Hanszen" [@oweek-2011 p.92] [@oweek-2014 p.102]. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md).
-    - **Which terrace hosted Jazz Night?** Probably the big servery-roof one; the books just say "on the terrace" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.9] [@oweek-2006 p.44].
-
-    **Still don't know.**
-
-    - **Toke.** Which space, where the word comes from, when it started. The 2021 glossary still says "Fourth Floor Balcony" [@oweek-2021 p.18]; the 2022 table is the earliest trace [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg].
-    - When "Acaterrace" came to mean the small terrace by UpCo: by summer 2021 [@oweek-2021 p.18]; in 2019 it still meant the balcony [@oweek-2019 p.14].
-    - Was the 2009 chessboard ever built [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]?
-    - When "Bacaterrace" was first used. It first appears in 2014; there are no O-Week books for 2012 or 2013.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

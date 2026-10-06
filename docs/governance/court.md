@@ -2,18 +2,18 @@
 title: Court
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # Court
 
-Wiess Court is the college's own student-run discipline. Break a college rule and you deal with your peers first, not the campus police.
+Wiess Court is the college's own student-run discipline. Break a college rule and you deal with your peers first, not the campus authorities.
 
 !!! abstract "TL;DR"
-    - Since 1993 the Court's job has been the same: to make sure "the College is responsible for the self-discipline of its own members" [@constitution-1993 Art. IV §1] [@constitution-2026 Art. VIII §1].
+    - The Court's job is to make sure "the College is responsible for the self-discipline of its own members" [@constitution-1993 Art. IV §1] [@constitution-2026 Art. VIII §1].
     - It enforces the College Rules and can fine you [@rules-1991 §VIII] [@constitution-2013 Art. IX].
     - Today it has eight members: a Chief Justice elected by the whole college, six Associate Justices, a Deputy Justice from the new class, and an Ombudsman [@constitution-2026 Art. VIII §2].
-    - It went from "maintaining some semblance of order" (1998) to "not a punitive force" (2021–23) [@riceinfo-court-1998] [@wiess-rice-edu-court-2023].
+    - It bas been described as "maintaining some semblance of order" (1998) and "not a punitive force" (2021–23) [@riceinfo-court-1998] [@wiess-rice-edu-court-2023].
 
 ## What it does
 
@@ -21,22 +21,25 @@ The Court can "investigate, to hold hearings and trials, to reprimand, and to pr
 
 If you don't like the verdict, you can appeal to the Magister [@constitution-2026 Art. VIII §6]. If a Justice misbehaves, the rest of the Court tries them [@constitution-2026 Art. VIII §4].
 
-## Who sits on it
+## Who is Court
 
-The job barely changed. The lineup kept changing:
+The job barely changed. The lineup changed slightly:
 
 - **1993–2013:** five Associate Justices, who pick a Chief Justice among themselves, plus two junior Assistant Justices [@constitution-1993 Art. IV §2].
 - **2016:** three Deputy Justices replace the Assistants, one seat for a new student [@constitution-2016 Art. IV §2].
 - **2020:** "eight members": seven Associates (still picking their own Chief), one Deputy, an Ombudsman [@constitution-2020 Art. IV §2].
 - **By early 2025:** the whole college elects the Chief Justice, with six Associates and one Deputy, still eight in all [@constitution-hate-speech Art. VIII §2] [@constitution-2026 Art. VIII §2].
 
-## Fines, roofs and flying food
+## Ex officio
+ The President (2007, 2013), the RAs (2016, 2017), then both "The Resident Associates and the College President" (2020 on) [@constitution-2007 Art. IV §8] [@constitution-2016 Art. IV §8] [@constitution-2020 Art. IV §9] [@constitution-2026 Art. VIII §9].
 
-The 1991 Rules spell it out. Anyone on the tiled roof "will be fined, regardless of whether any damages to the tiles were made". Freshmen who skipped their waiting shift "shall be fined" [@rules-1991 §§IV, VI]. Each spring the incoming Chief Justice set the penalty list [@rules-1991 §VIII].
+## Fines, Roofs and Flying Food
+
+As early as 1991 anyone on the tiled roof "will be fined, regardless of whether any damages to the tiles were made". Freshmen who skipped their waiting shift "shall be fined" [@rules-1991 §§IV, VI]. Each spring the incoming Chief Justice set the penalty list [@rules-1991 §VIII].
 
 Today fines are "at the discretion of the Court" [@constitution-2007 Art. IX] [@constitution-2026 Art. XII §4]. The witness oath hasn't changed since 1993: "the truth, the whole truth, and nothing but the truth… and I will maintain secrecy about this trial" [@constitution-1993 Bylaws Art. V §§5–7] [@constitution-2026 Art. VIII §§12–14].
 
-## The 2021 hate-speech clause
+## The 2021 Hate-speech Clause
 
 In September 2021 the Thresher reported that students had been reported to Wiess Court for casual use of a racial slur, and that Wiess was adding a clause banning hate speech [@thresher-2021-09-15]. It became Article XV. The Court enforces it "regardless of intent", "in partnership with the Diversity Facilitators", and can choose "restorative justice" [@constitution-hate-speech Art. XV §§2–7] [@constitution-2026 Art. XV §§2–7].
 
@@ -93,19 +96,5 @@ In September 2021 the Thresher reported that students had been reported to Wiess
 
 > "Wiess Court is not a punitive force, but instead acts to promote an environment of mutual respect." [@wiess-rice-edu-court-2023]
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Five Associates, or four, in 1998?** The Constitution says five [@constitution-1993 Art. IV §2]; the July 1998 roster has a Chief and four Associates [@riceinfo-court-1998]. Most likely the Chief counts as one of the five.
-    - **Who's ex officio?** The President (2007, 2013), the RAs (2016, 2017), then both "The Resident Associates and the College President" (2020 on) [@constitution-2007 Art. IV §8] [@constitution-2016 Art. IV §8] [@constitution-2020 Art. IV §9] [@constitution-2026 Art. VIII §9].
-    - **"Not a punitive force"** vs a Constitution that still says "trials", "sentences" and fines [@wiess-rice-edu-court-2023] [@constitution-2026 Art. VIII §4; Art. XII §4]. Both are the college's words: one is tone, one is powers.
-
-    **Still don't know.**
-
-    - No copy of the Court Procedures and Code of Conduct (required since 2007). Ask the Chief Justice.
-    - No abstract of verdicts (required since 1993) has been captured.
-    - When the Court lost two Deputies and reached eight (between March 2017 and February 2020) [@constitution-2017] [@constitution-2020 Art. IV §2]; when the Chief Justice became directly elected (between February 2020 and September 2023) [@wiess-rice-edu-court-2023] [@constitution-hate-speech Art. VIII §2].
-    - The fine amounts of the 1990s and 2000s. The Rules said they'd be "posted in the commons and filed in the College office at all times" [@rules-1991 §VIII]; none are online.
-    - The 2021 cases: what the Court decided is private and should stay that way. What's missing is the date Cabinet adopted the clause.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

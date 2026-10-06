@@ -50,21 +50,4 @@ Fun fact: the name was used once before, for something else. In 1981 "Wiess Day"
     | 2021 | The same text with "originating in Spring 2018" [@oweek-2021 p.38]; glossary unchanged [@oweek-2021 p.19] | [P] |
     | 2024–2025 | Wiess Day absent from the glossary and the traditions pages; the history drops "Wiess Day has become an annual tradition" [@oweek-2024 p.25] [@oweek-2024 p.37] [@oweek-2024 p.24] [@oweek-2025 p.38] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **New tradition, or JamFest renamed?** The traditions index here once called it a rebranding. But the 2008 book, written right after the first one, describes Wiess Day as a new party *and* JamFest as a separate concert [@oweek-2008 part 3 p.8] [@oweek-2008 part 3 p.9]. The 2010–11 books still have both, though the glossary merges them [@oweek-2010 p.44] [@oweek-2010 p.45] [@oweek-2010 p.91]. Best reading: a new event, founded 2008, that absorbed JamFest by 2014 [@oweek-2014 p.37].
-    - **Whose idea?** "Our amazing socials" (2008) [@oweek-2008 part 3 p.8]; "planned by the Social Vice Presidents" (2015) [@oweek-2015 p.24]. No one person is credited.
-    - **A copy-paste slip.** In June 2014 the website gave "Jazz Night" the Wiess Day paragraph by mistake [@teamwiess-traditions-2014].
-    - **2008 or 2018?** The 2021 book says "Spring 2018" [@oweek-2021 p.38]; everything earlier says 2008 [@oweek-2019 p.33] [@wb 20140627224527 http://teamwiess.com/traditions.html]. A typo; 2008 stands.
-    - **Gone or just unmentioned?** It's missing from the 2024 and 2025 books [@oweek-2024 p.37] [@oweek-2025 p.38]. Unknown which.
-    - **The 1981 "Wiess Day"** was a Brown–Wiess day, unrelated [@thresher-1981-09-04-wiess-day].
-
-    **Still don't know.**
-
-    - The exact date of the first Wiess Day, and whether the Thresher covered it. The 2008 Cabinet minutes may help.
-    - Who the 2007–08 Social VPs were [@oweek-2008 part 3 p.4].
-    - When the petting zoo started, and whether the crawfish was a Wiess Day thing or a separate dinner [@oweek-2006 p.42].
-    - Does Wiess Day still happen? The current website hasn't been captured [@wiess-rice-edu].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

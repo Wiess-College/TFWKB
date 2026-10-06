@@ -13,7 +13,6 @@ Two words. Roared slowly. Over and over. From the gut.
     - "TEAM WIESS" is the college's cheer, yelled at Beer Bike, Powderpuff, matriculation, the end of every [Ubangee](ubangee.md) and "any damn time" [@riceinfo-teamwiess].
     - The Thresher heard it at Beer Bike in April 1975, as "Wiess Team. Wiess Team!" [@thresher-1975-04-07-beer-bike]. Wiess's own histories said 1974 or 1975; a 2002 Thresher said 1984 [@oweek-2010 p.39] [@thresher-2002-02-01 p.11].
     - It became the web address (teamwiess.com) in 2000 [@wb 20000818090739 http://riceinfo.rice.edu/projects/colleges/wiess/].
-    - TFW means "Team Family (or anything else that starts with F) Wiess" [@oweek-2015 p.119].
 
 ## How to yell it
 
@@ -27,7 +26,7 @@ The O-Week books call it "The most powerful cheer on campus" (2003) and "Our one
 
 The chant shows up at the 1975 race. Wiess won the men's title and gave "a chorus of 'Wiess Team. Wiess Team!' before the rest of the pack could make it back" [@thresher-1975-04-07-beer-bike]. That matches the 2010 O-Week book's story of a debut at Beer Bike 1975, the team's "second win ever" [@oweek-2010 p.39] [@thresher-1985-04-12-beer-bike-history].
 
-Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39]. Nobody has ever sourced that.
+Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39].
 
 ## The banners { #the-banners }
 
@@ -96,26 +95,5 @@ Paper banners reading TEAM, FAMILY and WIESS hang in the [Commons](../places/com
     | 2021 | The 2021 Head Fellows sign "Team Family Wiess, Your Head Fellows"; the thanks call the college "your (Team) Family (Wiess)" [@oweek-2021 p.2] [@oweek-2021 p.73] | [P] |
     | 2024 | Glossary: "Our **one and only** cheer"; the Head Fellows: "Team Family Wiess is our motto, and, at Wiess, we support and celebrate each other"; the President: "Our motto of 'Team Family Wiess' encapsulates our culture of care, inclusion, and respect" [@oweek-2024 p.25] [@oweek-2024 p.2] [@oweek-2024 p.36] | [P] |
     | 2025 | "Team Family Wiess is our motto that we live by"; the President: "our motto is Team Family Wiess (often abbreviated TFW)"; the neon "Team Family Wiess" sign in UpCo, a Proxy Cab prize [@oweek-2025 p.2] [@oweek-2025 p.37] [@oweek-2025 p.38] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **When did it start?**
-        - **1974:** the 2003 history ("around the time of Beer-Bike in 1974"), copied in 2005–2008 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)] [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] [@oweek-2008 part 3 p.3]. No source given.
-        - **1975:** the 2010 rewrite, "second win ever," kept on the college site [@oweek-2010 p.39] [@wiess-rice-edu about/history]; softened to "our glorious win" from 2015 [@oweek-2015 p.11] [@oweek-2019 p.13] [@oweek-2025 p.25]. The April 1975 Thresher report backs it: Wiess won and chanted "Wiess Team" [@thresher-1975-04-07-beer-bike]. A 1985 winners' table lists Wiess for 1958, 1975 and 1982, so 1975 was the second (1958 was the beer-drinking contest) [@thresher-1985-04-12-beer-bike-history] [@thresher-1958-05-09-beer-drinking].
-        - **1984:** a 2002 Thresher feature [@thresher-2002-02-01 p.11]. That's too late: the War Pig's inventor called it "the traditional TEAM WIESS" at the 1983 matriculation [@maxham-pig-document], it's on the 1984 Campanile senior page [@campanile-1984], and a shirt is placed in 1983 or 1984 [@rhc 2018-02-02 friday-follies-bananas comment by Ann Peterson '86, 5 Feb 2018].
-        - **The 1970s, undated:** Lancaster's shirts [@lancaster-wiess-memorabilia], a "'70s era" collection [@rhc 2013-02-19 mixed-nuts-a-dr-baker-update-a-link-to-wiess-memorabilia-and-a-bobby-soxer-on-the-phone].
-    - **The words.** Xerox plus *The Longest Yard*, and in 2010 also "the TeamBank chain of banks" [@oweek-2010 p.39]. Nobody is named as a source. *The Longest Yard* came out in late August 1974, after that spring's Beer Bike. So a 1974 debut and the movie story can't both be right. 1975 has no such problem.
-    - **The F.** "TFW" unexplained in 1999 [@riceinfo-teamwiess]; "a little emphasis" in 2003 [@oweek-2003 p.4]; "Family, right?" in 2006 [@oweek-2006 p.84]; "Team 'Family' Wiess" in 2014 [@oweek-2014 p.36]; "or anything else that starts with F" in 2015 [@oweek-2015 p.119]. The polite version came later.
-    - **Beer with the alcohol boiled out?** Not about the chant. See [Beer Bike](beer-bike.md).
-
-    **Still don't know.**
-
-    - Who rewrote the history between the 2008 and 2010 books, and why? The 2009 book is partly missing.
-    - The exact wording and page id of the 1 Feb 2002 Thresher feature.
-    - Kermit Lancaster's class year, and whether his shirts are dated.
-    - Someone should save a text copy of wiess.rice.edu/about/history; its 1975 wording is cited from an earlier reading.
-    - When the TEAM / FAMILY / WIESS banners were first made. The 2017 stills are the earliest images [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png].
-    - When the three slow "TEAM WIESS" cries at the end of an Ubangee became fixed (first described in 2003) [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.6 (printed 40)].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

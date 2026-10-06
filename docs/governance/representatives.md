@@ -2,7 +2,7 @@
 title: Representatives
 status: draft
 last_reviewed: 2026-10-05
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # Representatives
@@ -120,20 +120,5 @@ Some positions on the 2005–06 list (Historian, Parliamentarian, Capital Improv
 > "Our representatives help us manage the responsibility that comes with some of the privilege that we have… Certain people are in charge of scheduling, others may have keys to certain rooms that we don't allow general access to - the point is, they're all here." [@wb 20080709215012 http://teamwiess.com/index.php?r=representatives]
 
 > "Have a problem with the height of your bed? Contact the Student Maintence Representative." [@wb 20140627224604 http://teamwiess.com/representatives.html]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Who appoints them?** The 1998 Game Room Chairman was a presidential appointee [@riceinfo-cabinet-1998]; in 2014 reps were "chosen by leadership" [@wb 20140627224604 http://teamwiess.com/representatives.html]; in 2025–26 the seven named reps are "selected by the Internal Vice President", except Housing, who pick their own apprentice [@constitution-hate-speech Art. VII §1]. How the unnamed reps are chosen isn't written down.
-    - **The Firepit Rep.** Two at once in 2025 [@oweek-2025 p.44]; no rep list after 2023 is held, so the first year is unknown. The firepit is in a 2025 website banner captioned "Firepit Cab 2025" [@wb 20251013212528 https://wiess.rice.edu/] (see [The terraces](../places/terraces.md)).
-    - **Study breaks.** Study Break Reps (2005–06) and Coordinators (2014) are gone from every later list; see [Study breaks](../traditions/study-breaks.md).
-    - **Yeah Wiess.** Plain "YEAH WIESS" in 2010 and 2012 [@wb 20100826015923 http://teamwiess.com/reps.php] [@wb 20120817225627 http://teamwiess.com/people.php?who=reps]; glossed as "T-Shirt Screening Representative" in 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]; see [Beer Bike](../traditions/beer-bike.md#screen-printing-yeah-wiess).
-
-    **Still don't know.**
-
-    - Lists for 1999–2004, 2007–2009, 2011, 2013, 2016, 2018–2019, 2022 and 2024–26. Cabinet minutes would show each new position; the Notion "Wiess Database" may hold the current list.
-    - When the Firepit Rep started, who held it first, and whether it still exists.
-    - What the 2023 Music reps do: is the Friday music in the servery theirs (see [The Commons](../places/commons.md#friday-music))?
-    - What the Lilie, Remote and Positive Reinforcement reps did in 2020–21 (Remote was presumably for students away during the pandemic).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

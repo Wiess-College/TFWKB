@@ -2,7 +2,7 @@
 title: People
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # People
@@ -20,7 +20,7 @@ The grown-ups, the offices, the Idiot, and the man on the sign. Start with the C
 
     ---
 
-    Start here. Who's who now, plus every Magister, RA and Coordinator on record.
+    Start here. Who's who now, plus every Magister, RA and Coordinator captured here so far.
 
 -   :material-school: **[Magisters](masters-and-magisters.md)**
 
@@ -44,7 +44,7 @@ The grown-ups, the offices, the Idiot, and the man on the sign. Start with the C
 
     ---
 
-    Wiess has had a Historian on paper since 1991. Where did the history go?
+    Wiess has had a Historian on paper for a long time.
 
 -   :material-account-tie: **[Harry Carothers Wiess](the-man.md)**
 

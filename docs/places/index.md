@@ -26,7 +26,7 @@ Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
     ---
 
-    Today's building. Students fought to keep the outdoor hallways, and won.
+    Today's building. Students wanted to keep outdoor hallways.
 
 -   :material-grass: **[The Acabowl](acabowl.md)**
 
@@ -38,7 +38,7 @@ Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
     ---
 
-    Backaterrace, Acaterrace, Bacaterrace, Toke: which name means which spot.
+    Backaterrace, Acaterrace, Toke: which name means which spot?
 
 -   :material-silverware-fork-knife: **[The Commons and UpCo](commons.md)**
 
@@ -56,7 +56,7 @@ Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
     ---
 
-    2FK, 3FK, the Movie Room, the Dance Room, the 5-mans and the rest.
+    2FK, 3FK, JFK (JFC, JK) the Movie Room, the Dance Room, the 5-mans and the rest.
 
 -   :material-ghost: **[Building lore](lore.md)**
 

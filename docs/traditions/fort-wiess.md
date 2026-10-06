@@ -34,17 +34,4 @@ Some alumni remember a wooden pig from the Old Wiess days. They're probably reme
     | 2002-08 | Old Wiess emptied; Colin Delany's photographs of the abandoned building [@edesigns-old-wiess-2002]—the last season the fort could have been built there | [P] |
     | 2012-04 | First wooden War Pig, "Trojan Warpig", built by the Class of 2012 [@campanile-2012 p.172]—see [The War Pig](warpig.md) | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **A wooden pig in 2002?** The record shows a balloon in the air and a fort on the ground [@thresher-2002-04-05 p.6]. The first wooden pig is 2012 [@campanile-2012 p.172].
-    - **Which pig?** The Thresher called the 2002 balloon a "battle sow"; the college glossary called it the War Pig [@oweek-2003 p.4]. Both names were in use. See [Battle Sows & Powderpuff](battle-sows-powderpuff.md).
-    - **One season or two?** Notes say "2001–02," but only the 2002 captions name the fort.
-
-    **Still don't know.**
-
-    - What it looked like, who built it, and whether it had a real name. The 6 April 2001 and 5 April 2002 Thresher pages should be read in full.
-    - Did the 2001 or 2002 Campanile photograph it? The college's Campanile scans skip from 1999 to 2012 [@campanile-1999 p.238] [@campanile-2012 p.172].
-    - Did Wiess build any other non-pig parade structure? See [Beer Bike](beer-bike.md).
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

@@ -60,17 +60,5 @@ The old building is gone, but New Wiess kept the outdoor corridors and balconies
 
     > **Rice History Corner, 2016:** "As a Weiss man myself, [I] thought is was functional and practical. Kinda Motel Sexy." [@rhc 2016-05-24 hanging-out-at-wiess comment by Buddy Chuoke '75, 25 May 2016]
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Insult or boast?* Both, from the start. The 1972 handbook mocks its own building [@handbook-1972]. Hanszen used it as an insult in the 1980s, and Wiess turned it into a NOD theme [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]. Since 2006 the books use it as a boast [@oweek-2006 p.37].
-    - *Motel Wiess or Motel 6?* "Motel Wiess" is Wiess's own version (the late-1980s NOD, the 1998 website) [@riceinfo-associates]. "Motel 6" was the outsiders' version, Hanszen's "Early Motel 6" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012], and the books' version from 2006.
-    - *Which NOD, which year?* The undated themes graphic puts "Sanitized for your protection" with a 1977 "Wiess Palms Motel 6," and lists "Motel Wiess" for 1988. The 1977 Thresher confirms "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms]. George Webb '88 gives the tagline to the late-1980s "Motel Wiess" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]. Both may be right: it's the obvious tagline for any motel theme. Details on [Night of Decadence](night-of-decadence.md#themes-year-by-year).
-    - *Old building, new building.* The books apply "Motel 6" to Old Wiess, the 1949 design [@oweek-2025 p.24]. New Wiess kept the layout on purpose [@riceinfo-news-2000-lundin].
-
-    **Still don't know.**
-
-    - Whether other colleges' "Motel 6" for New Wiess is in writing anywhere: a Thresher column, a Hanszen jack, a College Night chant.
-    - The late-1980s banner flight. The Thresher's football coverage of 1986–89 might have it.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

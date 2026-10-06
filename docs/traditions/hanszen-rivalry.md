@@ -67,20 +67,5 @@ It didn't last. In 2021 the Wiess President wrote that "Even typing their name m
 
     The glossary, year by year: "Hanszen—1. A lesser college distinguished by its lack of anything cool. 2. A lesser college indistinguishable from a pile of bricks" 2003–2011 [@oweek-2003 p.5] [@oweek-2011 p.95]; "Hanszenite—A resident of Hanszen College" 2014 and the 2016 Owlmanac [@oweek-2014 p.105] [@owlmanac-2016 p.55]; a table of demonyms, "Hanszen—Hanszenite", 2015–2017 [@oweek-2015 p.123].
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *How old is it?* No source dates it. In 1999 the hatred was already "traditional" [@riceinfo-hanszensucks]. The 1961 water war between the two buildings is the oldest Hanszen–Wiess scuffle in print, but it involved other colleges too [@thresher-1961-04-07-water-wars]. The 1992 "Secession" papers may be an early trace, but nobody knows what they are [@rhc 2021-11-15 secession-1992].
-    - *The "Weiss Wall."* Hanszen's page describes a "Weiss Wall" it puts up in the shared passage during Beer Bike Week, and a "Jailbreak" during O-Week [@hanszen-traditions]. The misspelling is on purpose. No Wiess source mentions either.
-    - *How hostile?* "Lesser college" and "accursed neighbor" (2003–2014) [@oweek-2014 p.36]; Hanszen "lovingly known as 'the Family College'" (2015) [@oweek-2015 p.50]; "forever enemy" (2024–25) [@oweek-2024 p.4]; "(mostly) facetious" from Hanszen [@hanszen-traditions].
-    - *"Sadly."* The 2005 website said Hanszen's "gentlemen's college" reputation "failed to stick, primarily because Hanszen sucks" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]. The 2014 book says it "sadly failed to stick" [@oweek-2014 p.36].
-    - *When was the corridor jack?* The books say only "While Hanszen's Commons was being built" [@oweek-2006 p.52]. The shared servery opened in 2002 [@kirksey-wiess], so probably 2002–03.
-
-    **Still don't know.**
-
-    - What the 1992 "Secession" documents are. They're in Bill Wilson's papers at the Woodson [@rhc 2021-11-15 secession-1992] [@woodson-ua0079].
-    - When "Hanszen sucks" entered Wiess speech. 1999 is the earliest, and it's already "traditional" [@riceinfo-hanszensucks].
-    - The exact date of the corridor jack, and whether the Thresher covered it.
-    - When Hanszen's roast pig, Jailbreak and wall began. Hanszen's page is undated and has no Wayback capture yet [@hanszen-traditions].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

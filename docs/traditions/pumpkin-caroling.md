@@ -2,7 +2,7 @@
 title: Pumpkin Caroling
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: lm
 ---
 
 # Pumpkin Caroling
@@ -69,25 +69,5 @@ The Thresher lists "College Idiot" on a Wiess election ballot in 1977 [@thresher
     | 2019 | Traditions unchanged from 2015, "it gets even better when we visit the library"; glossary: "led by the elected College Idiots… visits to the other colleges"; the Internal VP coordinates it [@oweek-2019 p.33] [@oweek-2019 p.15] [@oweek-2019 p.25] | [P] |
     | 2021–2025 | "…it gets even better when we visit Fondren"—the library named for the first time; otherwise the 2015 text [@oweek-2021 p.38] [@oweek-2024 p.38] [@oweek-2025 p.39]; the 2021 President: "running around campus for Halloween" [@oweek-2021 p.30] | [P] |
     | 2023-10 / 2025 | The college site publishes `pumpkin2023.jpeg` and a `PumpkinCaroling.jpg` banner for spring 2025 [@wb 20231202004324 https://wiess.rice.edu/images/home/pumpkin2023.jpeg] [@wb 20250124231355 https://wiess.rice.edu/images/s2025-banner/PumpkinCaroling.jpg] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Whose carols?** Wiess's, said 1994 and 1997 [@handbook-1994] [@riceinfo-pumpkin]. Mostly Schulz's, said Wiess in 1999 [@riceinfo-pumpkin] [@rhc 2016-10-28 friday-follies-halloween-1969]. Which of the nine 1997 carols are local is unknown; "We the Clowns of Wiess College" at least is Wiess's.
-    - **Whose tradition first?** Baker revived it in 1965; in 1966 a Baker troupe sang at Wiess, "which ignored them" [@thresher-1966-11-03]. Wiess was caroling by 1969 [@rice-archives-pumpkin-caroling-1969]. Before 1994 the Thresher reports caroling groups from Baker, not Wiess [@thresher-1966-11-03]. When Wiess took it up is not known.
-    - **One Idiot or several?** "One … (or more …)" in 1994 [@handbook-1994]; "Idiots, lately" in 1997 [@riceinfo-pumpkin]; one a year in 2003–2010 [@oweek-2003 p.3] [@oweek-2010 p.90]; an upperclassman and a freshman in 2014 [@oweek-2014 p.102]; "the elected College Idiots" from 2015 [@oweek-2015 p.119]. The 2019–2025 books still say both "a College Idiot" and "Idiots" [@oweek-2019 p.33] [@oweek-2019 p.15] [@oweek-2025 p.39] [@oweek-2025 p.26]. George Hall was Idiot four years running, 1979–82 [@handbook-1994].
-    - **Who runs it?** The Executive VP in 1998 [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html]; the Internal VP in 2003 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4 (printed 38)]. The 2026 Constitution doesn't mention caroling [@constitution-2026].
-    - **The President's house.** On the route in 1997 and 2003 [@riceinfo-pumpkin] [@oweek-2003 p.4]; replaced by "the other colleges" in 2006 [@oweek-2006 p.84].
-    - **DWE.** The 1997 page's opposite of the Idiot. Never explained anywhere [@riceinfo-pumpkin].
-    - **Who wrote the 1997 page?** David Cunningham, 8/11/97 [@wb 19990117034518 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/pumpkin.html]; Ray Wagner only added the Schulz note in 1999 [@riceinfo-pumpkin].
-    - **Pumpkin Grades** come out around Halloween too [@oweek-2015 p.122], but nothing connects them to caroling. See [Pumpkin Grades](pumpkin-grades.md).
-
-    **Still don't know.**
-
-    - When Wiess caroling first shows up in print. The Thresher from 1956 to January 1994 has no Wiess pumpkin caroling in its searchable text, only the College Idiot (1977, 1980) [@thresher-1977-09-08-college-idiot] [@thresher-1980-11-13-college-idiot-pumpkin].
-    - Are the 1969 lyric sheets Wiess's, Baker's or Schulz's [@rhc 2019-10-30 im-dreaming-of-the-great-pumpkin-1969]?
-    - A list of College Idiots by year. Cabinet minutes at Woodson (UA 0079) would have it.
-    - Does the route still include Willy's statue and the President's house? The last full route is 1997 [@oweek-2015 p.24].
-    - What the 2023 and 2025 photos on wiess.rice.edu show.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

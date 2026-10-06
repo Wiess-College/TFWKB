@@ -114,25 +114,4 @@ Inside: [Rooms and spaces of New Wiess](rooms-and-spaces.md). Up top, including 
 
     "The architectural language, while contemporary, also takes cues from the historic character of the campus." — Machado and Silvetti [@machado-silvetti-wiess]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **228 or 230 beds.** "228-bed" say the designers [@machado-silvetti-wiess]; "230-bed" says the project architect [@kirksey-wiess]. Both are portfolio copy written later.
-    - **Move-in date.** Lundin expected December 2001 completion and January 2002 move-in [@riceinfo-news-2000-lundin]. Every O-Week book from 2003 says "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] [@oweek-2006 p.37]. Delany found the old building abandoned in August 2002 [@edesigns-old-wiess-2002], which fits either. Did anyone sleep in New Wiess in spring 2002?
-    - **Dedication date.** Planned for Saturday 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Kean dates the dedication photo to 2002, though her file is named "…2006" [@rhc 2014-11-19 wiess-college-luminaries]. Nobody confirms the date held.
-    - **"First new dormitory in 25 years."** Kirksey's brochure line [@kirksey-wiess], like the 1994 handbook's "first new dormitory in thirty-two years" for 1949 [@riceinfo-history]. Not checked.
-    - **Spelling.** Kirksey's page says "New Weiss College" and "Hanson College" [@kirksey-wiess]. Kean's editor once changed every "Wiess" to "Weiss" [@rhc 2016-05-24 hanging-out-at-wiess]. The 1997 homepage mocked a spam mailing's "Weiss (note the misspelling)" [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-    - **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; no one gives a species.
-    - **Sharing with Hanszen.** The terrace "we unfortunately have to share with Hanszen" (2003–2011) became "that we share with Hanszen" from 2014 [@oweek-2003 p.3] [@oweek-2011 p.92] [@oweek-2014 p.102]. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md).
-
-    **Still don't know.**
-
-    - The real 2002 move-in date, and whether the 7 September dedication happened. Check the 2002 Thresher and late-2002 teamwiess.com (Photo of the Week started 29 September 2002 with "the Acaslide") [@wb 20021013235815 http://www.teamwiess.com:80/pow.html].
-    - The time capsule, the "children at play" sign and the dedication murals [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Did they happen? Where are they?
-    - Did Hanszen borrow the new commons in 2000–01 [@riceinfo-news-2000-lundin]?
-    - The 2014–17 site's "Old Wiess" and "New Wiess" pages are empty in every capture [@wb 20140627224504 http://teamwiess.com/]. Whoever wrote them may still have the text.
-    - The vines: what species, and what became of them after 2017? The architects' renderings, including a west-façade elevation, should be found and cited [@machado-silvetti-wiess].
-    - Budgets and Cabinet minutes would date the Acaglider and Acagrill more exactly than "2008" [@oweek-2010 p.39].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

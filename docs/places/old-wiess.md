@@ -246,25 +246,4 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
 
     "I doubt anybody ever called Wiess pretty and meant it." — Colin Delany '91, August 2002 [@edesigns-old-wiess-2002]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Who wrote the architecture page.** The bibliography credits webmaster David Cunningham, but the page is headed "From 1972 Freshman Handbook" [@handbook-1972]. So the "motel" line is a 1972 student opinion, which Kean (2012) and Delany (2002) reached on their own.
-    - **Temporary housing?** Delany: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. The books: a myth, "built to last" [@oweek-2006 p.37]. Kean: the 1949 papers presented it as permanent [@rhc 2012-12-04 wiess-hall-construction-1949]. Both can be true: permanent, but cheap and fast.
-    - **Why it came down.** Plumbing, electricity, foundation [@riceinfo-news-2000-lundin]; "slowly sinking into the ground" [@oweek-2006 p.37]; too small, too open, too poorly built [@edesigns-old-wiess-2002]. Jeff Ross, reading the construction photos: floors on uncompacted fill, so inside and outside moved separately [@rhc 2012-12-04 wiess-hall-construction-1949 comment by Jeff Ross, 6 Dec 2012]. His is the only engineering explanation, and it's testimony.
-    - **Capacity.** "200 spaces" [@riceinfo-history] vs "only 100 rooms" [@oweek-2006 p.36]. Same thing if rooms were doubles, which they were [@riceinfo-rooms].
-    - **The balconies.** Kean: "this sounds like trouble." George Webb '88: "a great ingredient of life at Wiess, and one that the students insisted be preserved" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012] [@riceinfo-news-2000-lundin].
-    - **Nicknames.** "Early Motel 6" (Hanszen, early 1980s) and a plane towing "Motel Wiess: Hourly Rates Available" in the late 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012]; NOD's "Motel Wiess. Sanitized for your protection!" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]; "Motel Wiess" on the 1997 site [@riceinfo-associates]; "the unique 'Motel 6' design" from 2006 [@oweek-2006 p.36].
-
-    **Still don't know.**
-
-    - **Demolition date.** Empty in August 2002 [@edesigns-old-wiess-2002]; the dedication plan still needed the old Acabowl on 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]; a Sid Rich builder claims the demolition [@rhc 2016-05-24 hanging-out-at-wiess comment by JD Miner, 25 May 2016]. The fall 2002–spring 2003 Thresher should say when.
-    - **Move-out date.** January 2002 planned [@riceinfo-news-2000-lundin]; "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3]. See [New Wiess](new-wiess.md).
-    - **The 1975 plaque.** From Delany's photo (details, photo 6) [@edesigns-old-wiess-2002]: "WIESS COLLEGE / ESTABLISHED IN MEMORY OF / HARRY CAROTHERS WIESS (1887 – 1948) / HONORED FRIEND AND BENEFACTOR OF THE RICE INSTITUTE IN ALL ITS ASPECTS. A MAN OF FARSIGHTED VISION AND STEADFASTNESS, PENETRATING INTUITION AND INITIATIVE, FAITHFUL TRUSTEESHIP AND PHILANTHROPY. TO WHATEVER HE TURNED HIS HAND HE GAVE OF HOPE AND JOY, BEAUTY AND SPLENDOR, WISDOM AND STRENGTH. / SOCRATES SAID HE WAS NOT AN ATHENIAN OR A GREEK BUT A CITIZEN OF THE WORLD.—PLUTARCH / ANNO DOMINI 1975". The small lines are hard to read; the Socrates line follows the 1994 "Man" page [@riceinfo-theman]. Why 1975? The c.1974 commons remodel is the obvious guess [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. Did it move to the new building? See [Building lore](lore.md#the-cornerstone-medallions-and-plaques).
-    - **Architects.** Every 1949 photo label reads "Staub & Rather, Architects" and "W. S. Bellows Construction Corp., Contractors" [@rhc 2012-12-04 wiess-hall-construction-1949] [@rhc 2012-12-04 wiess-hall-construction-1949 comment by marmer01, 5 Dec 2012]. Which partner designed it? The Woodson files would show.
-    - **Undated additions.** The central-wing expansion funded by Olga Keith Wiess [@riceinfo-theman], the "extra wings, a second Commons area, and a basement" [@oweek-2006 p.36], and the c.1974 commons remodel.
-    - **The 1949 Thresher.** The first fall 1949 issue (Portal ark `metapth230815`) may describe moving in before the building was done [@rhc 2012-12-04 wiess-hall-construction-1949 comment by almadenmike, 5 Dec 2012]. Not yet read.
-    - **A 1970s memorabilia site** at lancasterteam.com/wiess [@rhc 2013-02-19 mixed-nuts-a-dr-baker-update-a-link-to-wiess-memorabilia-and-a-bobby-soxer-on-th]. Worth a Wayback check.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

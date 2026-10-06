@@ -31,13 +31,6 @@ Free food. Half an hour off. Back to the problem set. That's a study break.
 - Dog study breaks from the Cute Dog Rep, and a Canadian-themed one (2017) [@wb 20170421224822 http://teamwiess.com/reps.html].
 - "s'mores night, a movie watch party, a homemade cookie baking session, a zoo field trip" (the RAs, 2024–25) [@oweek-2024 p.30].
 
-## Add yours
-
-Most study breaks get announced on a listserv or a chalkboard and never written down. So this list is far from complete. Threw one? Went to a legendary one? [Add your story](../about/contribute.md).
-
-## What about screen printing? { #screen-printing }
-
-The screen-printing rep ("YEAH WIESS," 2010–2017) planned a "T-shirt design contest (one each semester)" [@wb 20170421224822 http://teamwiess.com/reps.html]. But no study break by that name shows up. See [Beer Bike](beer-bike.md#screen-printing-yeah-wiess).
 
 ??? info "The receipts: who holds them"
     | Host | What the record says | Evidence |
@@ -92,17 +85,5 @@ The screen-printing rep ("YEAH WIESS," 2010–2017) planned a "T-shirt design co
     > **O-Week Book 2003:** "The masters throw study breaks, are available if you are sick or need someone to talk to, offer academic advising whenever you need it, and are great to talk to." [@oweek-2003 intro p.7]
 
     > **O-Week Book 2024:** "We try to host something for students about twice a month like s'mores night, a movie watch party, a homemade cookie baking session, a zoo field trip, or invite you just to listen to records." [@oweek-2024 p.30]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *A rep, or everyone's job?* Wiess had Study Break Reps or Coordinators from at least 2005–06 to 2015 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wb 20150313224645 http://teamwiess.com/representatives.html]. The job is gone from the 2015–2017 lists and every list since 2020 [@wb 20150612230047 http://teamwiess.com/reps.html] [@wiess-rice-edu-representatives-2023]. By then everybody was doing it. See [Representatives](../governance/representatives.md).
-    - *The word.* The books use "study break" for the event and for any rest ("Filmfest can be the perfect way to take a study break") [@oweek-2015 p.23]. The tables mostly keep the uses that name an event or a host.
-
-    **Still don't know.**
-
-    - Which study breaks happen every year. Is the "Annual" Christmas Tree one still going [@oweek-2016 p.26]?
-    - When the Study Break Rep was dropped, and whether its budget line went with it.
-    - Everything the listservs and chalkboards announced.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

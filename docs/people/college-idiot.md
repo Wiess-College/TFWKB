@@ -2,7 +2,7 @@
 title: College Idiot & other offices
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # College Idiot & other offices
@@ -60,22 +60,5 @@ The record holder: George Hall was Idiot in 1979, 1980, 1981 and 1982, and Colle
     "A highly-prized honor here at Wiess (I'm told people have actually *tried* to be named Idiot in past years)… Being elected Idiot's not really a bad thing, per se - if you were an asshole, you would've been elected DWE, instead. Count your blessings." — riceinfo Pumpkin Caroling page, 1999 [@riceinfo-pumpkin]
 
     "**Pumpkin Caroling.** The spreading of Halloween cheer, led by the elected College Idiots. Features Halloween songs and visits to the other colleges." — O-Week Book 2017 [@oweek-2017 p.15]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **One Idiot or several.** "One… each year (or more…)" in 1994 [@handbook-1994]; "(or Idiots, lately)" in 1999, with two in the webmaster's freshman year [@riceinfo-pumpkin]; "one deserving Wiessmen" 2003–2011 [@oweek-2003 p.3] [@oweek-2011 p.92]; one upperclassman and one freshman in 2014 [@oweek-2014 p.102]; "the elected College Idiots" 2015–17 [@oweek-2015 p.119]. The practice may always have been looser than the books.
-    - **Elected or conferred.** Glossaries say "conferred" [@handbook-1994]; tradition pages say "elects" [@oweek-2006 p.43]; 1999 uses both [@riceinfo-pumpkin]. The 1977 Thresher lists it among real elections [@thresher-1977-09-08-college-idiot]. How the vote works today isn't described.
-    - **The prize.** "Not as large as in years past" (1994) [@handbook-1994]; no money mentioned later. In 2015 the Idiot gets a speech instead [@oweek-2015 p.24].
-    - **"Usually a freshman."** The 1999 rule [@riceinfo-pumpkin] doesn't fit George Hall, Idiot for four years [@handbook-1994]. By 2014 it's formally one of each [@oweek-2014 p.102].
-    - **How old?** The 1994 handbook's George Hall gives "by 1979" [@handbook-1994]; the Thresher pushes it to 1977 [@thresher-1977-09-08-college-idiot].
-
-    **Still don't know.**
-
-    - What "DWE" stands for, and whether it was ever a real election [@riceinfo-pumpkin].
-    - Is the Idiot still elected? The last glossary entry we have is 2017 [@oweek-2017 p.15]; the current site's Traditions page isn't readable in the archive [@wiess-rice-edu].
-    - Any Idiot before 1977. Earlier Thresher Halloween coverage might name one.
-    - Was it ever in a Constitution or Bylaw? None of the versions mention it [@gov-repo].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

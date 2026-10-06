@@ -84,22 +84,6 @@ If you lose the draw, there's now a backup. Since 2026, Rice's Main Street Resid
     | 2026-03-02 | Main Street Residence opens to rising sophomores, juniors and seniors who lost their college's draw [@rice-news-2026-03-02-main-street] | [P] |
     | 2026-10 | Rice: "On-campus housing is not guaranteed beyond the first year at Rice" [@rice-ga-student-life] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **"Necessary" or just helpful?** The glossary has said service points are "Necessary to enter the housing jack" since 2014, and still did in 2025 [@oweek-2014 p.102] [@oweek-2025 p.26]. The 2013 rules don't shut anyone out; they put freshmen without the hours in the bottom drawing [@housing-rules-2013 §II]. The 2024 and 2025 books say the points "increase your odds" [@oweek-2024 p.34] [@oweek-2025 p.35]. That matches the written rule better.
-    - **Pairs.** The 2024 Thresher says Wiess lets students enter in pairs [@thresher-2024-03-kicked-off-campus]. Neither the 2008 nor the 2013 rules say so.
-    - **Do incoming students "jack" upperclassmen off campus?** No source says that. The written order runs the other way: everyone guaranteed, then incoming students, then seniors and juniors, with rising sophomores sixth [@housing-rules-2013 §I].
-
-    **Still don't know.**
-
-    - **What is "the election game"?** The phrase has come up as a Wiess custom, but no source found uses it. The Constitution's elections article describes no game [@constitution-2026]. It may be another name for the almost-pong cup game, which "elects" who stays on campus. Or it may be something else entirely.
-    - When did the cup game start, and who invented it? It isn't in either written rulebook.
-    - Is there a Housing Rules text after 2013? The 2026 guiding documents don't include one. Are the draws still split by gender?
-    - How many service hours count today, and who signs off on them? In 2013 it was four hours, reported to the sophomore representatives [@housing-rules-2013 §II].
-    - Is Presidential Privilege still in force?
-    - How many freshmen get bumped each year? No numbers found.
-
 ## See also
 
 - [Rooms and spaces](../places/rooms-and-spaces.md): the suites people are jacking for.

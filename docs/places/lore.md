@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Building lore
 
-Every building collects stories. These are the Wiess ones: named oddities, habits and rumors that aren't on any calendar. Customs with their own pages, like the Dangle, just get a link.
+Every building collects stories. These are the Wiess ones: named oddities, habits and rumors that aren't on a calendar. Customs with their own pages, like the Dangle, just get a link.
 
 !!! abstract "TL;DR"
     - Old Wiess had "the tower" and the famous "O/C Bathroom" [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html] [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html].
@@ -47,7 +47,7 @@ In 1999 Rice promised: "The new building will incorporate the medallions, plaque
 
 ### The architect's geometry
 
-"There is a joke that the architect who designed this had some basic geometry issues" (of the Commons). "See Dr. Dodds… for some great stories" [@wb 20090827020025 http://teamwiess.com/areas.php]. Nobody wrote the stories down. See [The Commons](commons.md).
+"There is a joke that the architect who designed this had some basic geometry issues" (of the Commons). "See Dr. Dodds… for some great stories" [@wb 20090827020025 http://teamwiess.com/areas.php]. Unsure if these stories were formally recorded. See [The Commons](commons.md).
 
 ### Off the fourth floor
 
@@ -76,19 +76,5 @@ This one is Hanszen's custom, not ours. Wiessmen usually cut through the Hanszen
     | 2009-08 | "A joke that the architect who designed this had some basic geometry issues" [@wb 20090827020025 http://teamwiess.com/areas.php] | [P] |
     | undated | Hanszen's "Wiess Wall" in Beer Bike Week [@hanszen-traditions] | [R] |
     | 2015–2021 | The O-Week maps mark three stair towers, each simply "stairs", without letters [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33] | [P] |
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **The cornerstone.** The 1999 promise is clear [@rice-news-1999-10-14-groundbreaking], but Rice Facilities says the old building was "completely demolished in 2002" and says nothing of salvage [@rice-facilities-first-100-years].
-    - **Glossaries are silent.** A search of every glossary (1994–2017) for *elevator*, *roof*, *tunnel*, *ledge*, *tower* and *wall* found no Wiess building entries, only campus ones: the Campanile, the Steam Tunnels and Anderson Hall's Frog Wall [@oweek-2003 p.5] [@owlmanac-2016 p.56] [@oweek-2015 p.121].
-
-    **Still don't know.**
-
-    - Where the Old Wiess cornerstone, medallions and plaques are now.
-    - What "the tower" was called after 2002.
-    - When the TEAM / FAMILY / WIESS banners were first made.
-    - More lore. The Thresher and Rice History Corner comment threads are the best places to look.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

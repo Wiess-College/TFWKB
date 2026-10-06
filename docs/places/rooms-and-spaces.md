@@ -146,21 +146,5 @@ Many suites open off the outdoor hallways through a little alcove with a bench [
 
     "If you have any ideas about how to improve our rooms, talk to our Capital Improvements Rep." — O-Week Book 2015 [@oweek-2015 p.21]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **The 5-man is older than New Wiess.** Old Wiess's Central Wing had "five-man" suites and "the presidential suite" in 1999 [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html]; see [Old Wiess, wing by wing](old-wiess.md#old-wiess-wing-by-wing-1999).
-    - **How big is a double?** "2x 20 by 10" (2008) vs "each approximately 16' x 12'" (2015) [@wb 20080625214656 http://teamwiess.com/index.php?r=rooms] [@oweek-2015 p.20]. 200 vs 192 square feet: probably rounding.
-    - **The RUPD office.** On the maps 2006–2014, gone in 2015 [@oweek-2006 p.15] [@oweek-2015 p.19]. Maybe the map just stopped naming it.
-    - **Computer Lab or Room.** "Lab" 2006–2014, "Room" from 2015 [@oweek-2014 p.14] [@oweek-2015 p.19] [@wiess-rice-edu-representatives-2023]. Same room.
-    - **Which kitchen cooks?** 3FK is the real one, 2FK the Thursday-night one, 2009–2014 [@wb 20090827015957 http://teamwiess.com/rooms.php] [@oweek-2014 p.103]. By 2021–25, 2FK is the only kitchen the books describe [@oweek-2021 p.35] [@oweek-2025 p.11].
-    - **"Unique to Wiess."** The college says so about the dance room and the recording studio [@wb 20080709214915 http://teamwiess.com/index.php?r=otherrooms] [@oweek-2015 p.21]. Not checked against other colleges.
-
-    **Still don't know.**
-
-    - When "2FK/3FK" caught on: between 2017 (spelled out) and 2019 (in the glossary) [@oweek-2019 p.14].
-    - What RUPD used the office for, and what it's been since 2015.
-    - When the Small Classroom was created; it first appears on the 2015 map [@oweek-2015 p.19].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

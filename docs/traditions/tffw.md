@@ -18,7 +18,7 @@ reviewed_by: unreviewed
 
 The O-Week books paint the picture: "There's Wiessmen in the acabowl playing volleyball and throwing around a football. Maybe there are puppies?" [@oweek-2016 p.31] Each one has a theme and activities to match.
 
-The **stacks** are the big speakers you hear across the Acabowl on Friday afternoons [@oweek-2014 p.103]. The **Acabowl** is Wiess's courtyard. These days the Socials committee plans TFFWs [@oweek-2024 p.34], and the RAs (Resident Associates, the grown-ups who live in the college) invite new students to "de-stress with us during TFFWs" [@oweek-2025 p.32].
+The **stacks** are the big speakers you hear across the Acabowl on Friday afternoons [@oweek-2014 p.103]. The **Acabowl** is Wiess's courtyard. These days the Socials committee plans TFFWs [@oweek-2024 p.34], and the RAs invite new students to "de-stress with us during TFFWs" [@oweek-2025 p.32].
 
 ## How often?
 
@@ -26,7 +26,7 @@ Depends who you ask. "A few times a month" (2016) [@oweek-2016 p.31]. "One frida
 
 ## Where the name came from
 
-The college's own papers from 2014 to 2017 spell it out: Team **Fun** Friday Wiess [@wb 20140627224604 http://teamwiess.com/representatives.html] [@oweek-2016 p.31]. It's a play on [TFW](team-wiess.md#the-banners), whose F has been "Family (or anything else that starts with F)" since 2015 [@oweek-2015 p.119].
+Team **Fun** Friday Wiess [@wb 20140627224604 http://teamwiess.com/representatives.html] [@oweek-2016 p.31]. It's a play on [TFW](team-wiess.md#the-banners), whose F has been "Family (or anything else that starts with F)" since 2015 [@oweek-2015 p.119].
 
 ## Older than its name
 
@@ -68,22 +68,5 @@ Other colleges do the same thing in their own quads. Will Rice has KITQ ("Keg in
 
     > **O-Week Book 2024, glossary:** "Held every other week, this event features food and fun for everyone in the Acabowl. What other colleges call Friday in the Quad (FITQ)." [@oweek-2024 p.25]
 
-    > **Will Rice College, 'Traditions':** "KITQ (Keg in the Quad) is a great time to relax after a long week of classes." [@willrice-traditions]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *FITQ at Wiess?* In 2024 the Thresher called a Wiess Friday event "Wiess' Oct. 18 FITQ" [@thresher-2024-10-mad-announced]. Fair enough: from 2019 the books call TFFW Wiess's Friday in the Quad, and add "(FITQ)" in 2024 [@oweek-2019 p.15] [@oweek-2024 p.25].
-    - *Who started it?* A 2017 profile credits a Fellow with starting "Wiess traditions like TFFW" [@oweek-2017 p.51]. But TFFW Representatives already existed in 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html], and the 2017 programme calls it "A Traditional Wiess TG" [@wb 20171108201719 http://teamwiess.com/60/]. "Started" probably means revived or reshaped. 2014 is the earliest date for the name, not a founding date.
-    - *The Associates' 2017 post* isn't where the name came from (that's 2014). It shows the Associates were invited by 2017 [@wiessassociates-site Team Fun Friday 2017].
-    - *TG to TFFW.* TGs at Wiess in 1981 and 1994 [@thresher-1981-09-04-wiess-day] [@handbook-1994], and TFFW called a TG in 2017 [@wb 20171108201719 http://teamwiess.com/60/]. A straight line is plausible but not documented. No source between 1994 and 2014 mentions Friday TGs at Wiess.
-    - *How often.* Monthly (2019), every other week (2021–25), "bi-weekly" (2024–25), "a few times a month" (the traditions text since 2016) [@oweek-2019 p.15] [@oweek-2021 p.19] [@oweek-2024 p.34] [@oweek-2025 p.39].
-
-    **Still don't know.**
-
-    - When "Team Fun Friday Wiess" was coined. Representatives lists before June 2014 would say; we have none for 2013–14.
-    - What the Associates' 2017 "Team Fun Friday" post said. Only the archive index survives [@wiessassociates-site].
-    - Whether TFFW has a budget line or reps today. The books name a "TFFW Committee," and from 2024 put TFFWs under Socials [@oweek-2019 p.32] [@oweek-2024 p.34]. The 2023 reps list doesn't show TFFW [@wiess-rice-edu-representatives-2023].
-    - Whether Friday TGs ran nonstop from the 1980s to 2014.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

@@ -138,25 +138,5 @@ In 2003, new students were "greeted by a sea of goldenrod T-shirts" [@oweek-2003
     | 2025-08-18 | The university-wide O-Week shirt gives Wiess a panel with "a nod to its 'Wiess and Easy' spirit" [@rice-news-2025-08-18-oweek-shirt] | [P] |
     | 2026-02-23 | Constitution, Art. IX: "Three Head Fellows shall be selected to coordinate O-Week by the previous O-Week's Head Fellow team"; Co-Fellows "currently enrolled members of another residential college"; Head Fellows plan [Big Bang](big-bang.md) with the Internal VP [@constitution-2026 p.13] [@constitution-2026 p.14] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Theme or no theme?** The Thresher reports "Team Family Wiess" as the theme [@thresher-2023-08-29-every-theme] [@thresher-2024-02-oweek-themes] [@thresher-2025-02-05-oweek-ranking]; Rice News says Wiess "traditionally doesn't adopt a specific O-Week theme" [@rice-news-2025-08-18-oweek-shirt]. Same practice, two descriptions. "Team Family Wiess" is in the welcome letters from 2014 [@oweek-2014 p.2]. See [Team Wiess](team-wiess.md).
-    - **How old is "no theme"?** The 1998 Campanile ("O-Week rebels without a theme") is the oldest witness, quoted secondhand [@thresher-2024-02-oweek-themes]. Theme puns at other colleges came after the early 1980s, alumni recall [@rhc 2018-01-31 when-did-it-become-o-week comment by Marty Merritt (Hanszen '84/85), 1 Feb 2018].
-    - **Who wears goldenrod?** Greeters in 2003 [@oweek-2003 conclusions p.9]; Co-Fellows thanked "for proudly wearing goldenrod" in 2015 and, word for word, every book through 2025 [@oweek-2015 p.114] [@oweek-2019 p.68] [@oweek-2025 p.59]. Maybe still true, maybe just never rewritten.
-    - **How goldenrod happened.** A switch from "brown and green" in the 1980s (2006 book) [@oweek-2006 p.38], or gold "voted on in the early days" that became goldenrod "probably through a joke" in the '80s (2010 book), when early freshmen wore "goldenrod and navy beanies" [@oweek-2010 p.38].
-    - **One coordinator, two Head Fellows, three.** A single "Orientation Week Coordinator" in the 1999 Bylaws [@wb 19990220014631 http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html]; a coordinator in 2003 [@oweek-2003 intro p.2]; two Head Fellows 2006–2015 [@oweek-2006 p.2] [@oweek-2015 p.2]; three from 2016, fixed in the 2026 Constitution [@oweek-2016 p.3] [@constitution-2026 p.13].
-    - **Gofer, Gopher, Affiliate.** "Gofer" in 1994 [@handbook-1994]; "Gopher" from 2003, helping Head Fellows from 2008 [@oweek-2003 p.4] [@oweek-2008 part 7 p.4]; a kind of Affiliate by 2017 [@oweek-2015 p.43] [@oweek-2017 p.14]; still three or four a year [@oweek-2021 p.70] [@oweek-2025 p.43].
-    - **Head Fellow or Coord?** The books explained the difference through 2021 [@oweek-2019 p.36] [@oweek-2021 p.40]. But Wiessmen say "Coord" too [@oweek-2021 p.43] [@oweek-2024 p.43] [@oweek-2025 p.37]. The glossary became "Fellows/Advisors" in 2024 [@oweek-2024 p.25].
-    - **2021 group names, web vs. book.** Three differ [@wb 20210724003059 http://teamwiess.com/new-students] [@oweek-2021 p.61] [@oweek-2021 p.57] [@oweek-2021 p.65]. The book is the later, more careful text.
-
-    **Still don't know.**
-
-    - The pun for each year since 2018. The 2019 cover still says "O-WEEK 2016," and 2025's says "2024." The 4 Feb 2026 Thresher round-up couldn't be fetched.
-    - Missing books: 1995–2002, 2004–05, 2012–13, 2018, 2020, 2022–23, 2026, and the 2009 cover. See [Wanted](../sources/wanted.md).
-    - How O-Week 2020 ran: in person, online, or both [@oweek-2021 p.73].
-    - What Fellows and Head Fellows wear today.
-    - The 1998 Campanile page itself.
-    - When the 1990s faculty advisor disappeared, and when the Coordinator became the Head Fellows.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

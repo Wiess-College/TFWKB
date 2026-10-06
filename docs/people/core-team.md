@@ -2,12 +2,12 @@
 title: "The Core Team: Magisters, Resident Associates and Coordinators"
 status: draft
 last_reviewed: 2026-10-05
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # The Core Team: Magisters, Resident Associates and Coordinators
 
-The Core Team is the grown-ups who run Wiess with the students.[^magister] "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
+The Core Team are trusted adults who live at Wiess with the students.[^magister] "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
 
 !!! abstract "TL;DR"
     - Three roles: the **Magisters** (a faculty family next door), the **RAs** (faculty or staff who live in the college) and the **College Coordinator** (who runs the college office) [@wiess-rice-edu-coreteam].
@@ -21,8 +21,6 @@ As the 2024 and 2025 O-Week books name them [@oweek-2025 p.60]:
 - **Magisters:** Flavio Cunha and Fabiana Santos, since 2021 [@oweek-2021 p.24] [@oweek-2024 p.29] [@oweek-2025 p.30].
 - **RAs:** Carissa Zimmerman and Nick Espinosa, since 2018 [@oweek-2024 p.31] [@oweek-2025 p.32]; Lach and Kari Mullen, since 2023, on the fourth floor [@oweek-2024 p.30] [@oweek-2025 p.31].
 - **College Coordinator:** Jenny Toups [@oweek-2024 p.32] [@oweek-2025 p.33].
-
-Whether everyone is still in place in 2026 waits on the 2026 book.
 
 ## The three jobs
 
@@ -209,35 +207,6 @@ Their house: [Wiess House / Wilson House](../places/wilson-house.md).
     "The A-Team is the adult team of Wiess and has been an integral part of keeping Wiess traditions and culture alive throughout the years." — O-Week Book 2019 [@oweek-2019 p.13]; renamed "The Core Team" in 2021 [@oweek-2021 p.17]
 
     "At Rice, the residential college system isn't just a feature of campus life. It is campus life." — the Magisters, O-Week Book 2025 [@oweek-2025 p.30]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Magister dates and names.** The disputes over the Hutchinsons' start and length of service (c.1990–2001 in the contemporary sources, "1994" and "seven years" in later ones), Stephen versus Stewart Baker, and Talmage's span are set out on [Magisters](masters-and-magisters.md); this page follows that page's readings.
-    - **George Pharr.** Rice Magazine (2016) calls George Pharr '75 a man "who became master of Wiess in the early 1990s" [@rice-magazine-2016-wiess-traditions]. The 1994 handbook, written in office, has the Hutchinsons "in their fifth year as Masters" [@riceinfo-masters], and the 2017 anniversary site lists Pharr on its committee as an alumnus, not as a former Master [@wb 20171108201719 http://teamwiess.com:80/60/]. The row is kept, marked as a claim; a late-1980s or acting term is possible, an early-1990s one is not.
-    - **Dr. Bill's span.** "Almost thirty years" (2003), "countless years" (2007), "almost as long" as his thirty-plus years of teaching (2014) [@oweek-2003 intro p.8] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates] [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. The new evidence narrows the start: he was an Associate on the Pub committee in 1974–75 "before he became resident associate", and an RA in the 1976 Campanile [@rhc 2017-05-08 name-that-pub-1975 comment by Kermit Lancaster, 12 May 2017] [@rhc 2014-11-19 wiess-college-luminaries comment by rcspitzer, 21 Nov 2014]—so c.1975–2006, about thirty-one years. Detail on [Resident Associates](resident-associates.md).
-    - **Is the 1994 "Sue" Sue Gauthier?** The 1994 glossary gives only "Sue", the college secretary who "just started at the beginning of summer" [@handbook-1994]; the 1999 photo page has "Sue (our College Coordinator)" and the 1999 Associates list "Sue Gauthier" [@wb 19991010205138 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos] [@riceinfo-associates]; the 2003 book has "Sue Gauthier… our Wiess College Coordinator" [@oweek-2003 intro p.9]. The same first name in the same office across nine years makes one person likely, but no source joins them. The glossary is "From the 1994 Freshman Handbook (and undoubtedly those of many years preceding)" and was edited on the website to 1999, so "just started" may date from 1994 or from a later edit.
-    - **The Houchenses' dates.** The year-counts do not add up: Brent Houchens is "a first year resident associate" in 2006, "a second year resident associate" in 2008, "a third year" on the 2009 site, "a resident associate living on the fourth floor of Wiess since 2006" in 2010, and in "BC's 5th (!!!) year" in 2011 [@oweek-2006 p.9] [@oweek-2008 part 1 p.8] [@wb 20090827020003 http://teamwiess.com/wiesspeople.php] [@oweek-2010 p.8] [@oweek-2011 p.8]. The 2006 book and the 2010 "since 2006" agree on a 2006 start; the counts in between were carried forward from year to year. His end date (2013) rests on one capture of a page that also misspells him "Brett" [@wb 20120914230519 http://teamwiess.com/people.php] [@wb 20130802224531 http://teamwiess.com/people.php].
-    - **Zimmerman or Espinosa.** The new RAs of 2018 are "Carissa, Nick, and [their daughter] Espinosa" in July 2018, "Carissa & Nick Zimmerman" on 2 October 2020, and "Carissa Zimmerman & Nick Espinosa" from 9 October 2020 [@wb 20180725085131 http://teamwiess.com:80/people/index.html] [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20201009230137 http://teamwiess.com/government/ateam.html]. The last, corrected a week after the first, is followed here.
-    - **When the 2018 RAs were announced.** The announcement first appears in a capture of 30 March 2018 under the date "May 16, 2017" copied from the previous year's announcement, and by June 2018 under "May 16, 2018" [@wb 20180330224555 http://teamwiess.com/home.html] [@wb 20180615224619 http://teamwiess.com/home.html]. Neither date is reliable; the search finished by late March 2018.
-    - **Lorie Zepeda's term.** The 2007 book and site introduce her as new in summer 2007 [@oweek-2007 p.10]; by July 2008 Nancy Letness had come "last November" [@wb 20080709214940 http://teamwiess.com/index.php?r=coordinator]. A term of a few months is what the sources show; why is not recorded.
-    - **A-Team or Core Team.** The college's current Core Team page dates the name to the new site [@wiess-rice-edu-coreteam], and teamwiess.com said "A-Team" to its last capture in January 2023 [@teamwiess-ateam-2016-2023]. The O-Week books changed first: "the Wiess A-Team" in 2019, "the Wiess Core Team" in 2021 [@oweek-2019 p.8] [@oweek-2021 p.6]. The 2021 book is mid-change—its Court page, PDR description and President's letter still say "A-Team" [@oweek-2021 p.31] [@oweek-2021 p.35] [@oweek-2021 p.30]—and by 2024 "Core Team" is the only name in the book [@oweek-2024 p.28].
-    - **Carissa and Nick's "final" year.** The 2024 book has them in "our seventh (and final *cry*) year at Wiess" [@oweek-2024 p.31]; the 2025 book has "our eighth (!!) year" [@oweek-2025 p.32]. The later book wins: they stayed. Their year-counts are otherwise consistent with a 2018 start ("second year" in 2019, "fourth" in 2021) [@oweek-2019 p.21] [@oweek-2021 p.25].
-    - **The 2014 book's "Meagan".** Meagan in the 2014 book's acknowledgements is a student photographer (later Cabinet Secretary and a Head Fellow), not the coordinator; the 2014 coordinator is Ewart [@oweek-2014 p.9] [@oweek-2015 p.115].
-    - **Dodds and Wilson at the dedication.** Kean's 2014 post dates the photograph of Dr. Bill and Dr. Dodds to "the dedication of the new Wiess building in 2002"; the image file is named `pj-abrams-b-wilson-s-dodds-2006.jpg` [@rhc 2014-11-19 wiess-college-luminaries]. The text is followed.
-    - **Stale rosters.** College pages often outlived the people on them: "brand new to Wiess" still said of the Byrds in 2014 [@wb 20140627224545 http://teamwiess.com/master.html]; "This will be their 5th year as RAs" on a 2017 page when it was their seventh [@teamwiess-ra-search-2017] [@oweek-2017 p.21]; "Ewart Jones" as coordinator on a page last captured in January 2023 [@wb 20230114014600 http://teamwiess.com/government/ateam]. End dates taken from a page's last capture are upper bounds on what we know, not dates of departure.
-
-    **Still don't know.**
-
-    - **Magisters 1957–1990.** Talmage's end, Rudee's start, everyone between Stewart Baker (about 1977) and the Hutchinsons (about 1990), and the Pharr claim. The PDR's "pictures of all our former Masters" [@wb 20140719005702 http://teamwiess.com/amenities.html], the Campaniles and the Woodson records [@woodson-ua0079] would settle it.
-    - **RAs 1957–1992.** The second RA of 1957, who followed Parish in 1980, the 1980s RAs besides Dr. Bill, and John Bennett's dates.
-    - **Coordinators before 1994**, and when "Secretary" became "College Coordinator" (between 1994 and 1999).
-    - **Coordinator handovers.** Nancy Letness to Ewart Jones (between September 2012 and August 2013). Ewart Jones to Jenny Toups: he's last in the 2021 book [@oweek-2021 p.26] [@oweek-2021 p.74] and on a stale January 2023 page [@wb 20230114014600 http://teamwiess.com/government/ateam]; she's in the 2024 book [@oweek-2024 p.32], and a `jenny.jpg` was among the A-Team photos in October 2023 [@wb 20231007011331 https://wiess.rice.edu/images/ateam/jenny.jpg]. No 2022 or 2023 book is held.
-    - **The current roster.** The Core Team page is empty in every capture [@wiess-rice-edu-coreteam]. The books carry it to August 2025 [@oweek-2025 p.60]; Toups is also on the site in August 2025 [@wiess-rice-edu-associates-2025].
-    - **When Esther Fernández left.** Listed January 2023 [@wb 20230114014600 http://teamwiess.com/government/ateam], gone from the 2024 book [@oweek-2024 p.59]; the Mullens' "second year" in 2024 points to 2023 [@oweek-2024 p.30].
-    - **The 2013 RA.** Nico Orlandi shows up in one capture (August 2013) [@wb 20130802224531 http://teamwiess.com/people.php]; floor and term are guesses.
-    - **Search records** for the Schaefers (2015–16), Cunha and Santos (2020–21) and the 2007 "Master's Search Committee" [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] aren't in hand.
 
 [^magister]: Called "Master" until 2017; this site uses "Magister" for every period. Quotations keep their original wording.
 

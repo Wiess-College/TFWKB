@@ -107,12 +107,4 @@ reviewed_by: unreviewed
 
     Ray Wagner's December 1999 revision moved Unnecessary Tie Day and Norse Night down to "Dying Out" and promoted No-Theme Wiess out of it [@riceinfo-traditions-1999]. Four-square stayed in the middle both years.
 
-??? info "Arguments & loose ends"
-    - *When did Wiess Day begin?* The 2015 website says spring 2008 [@wb 20150313224552 http://teamwiess.com/traditions.html]. The O-Week books call the same spring Acabowl party JamFest from 2003 [@oweek-2003 p.4], "Jamfest/Wiess Day" in 2010–11 [@oweek-2010 p.91] [@oweek-2011 p.93], and Wiess Day alone from 2014 [@oweek-2014 p.103]. Probably a rebranding remembered as a founding.
-    - *Which tier?* Cunningham (1997) and Wagner (1999) disagree on three traditions [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. Each is one writer in one year.
-    - *Is the War Pig the mascot?* "The Wiess mascot" in 1994 and 2003 [@handbook-1994] [@oweek-2003 p.4]; "Former Wiess mascot" 2006–2011 [@oweek-2006 p.84] [@oweek-2011 p.93]; the mascot again from 2014, "embodied by the giant wooden pig" [@oweek-2014 p.103].
-    - *Hanszen.* A terrace "that we unfortunately have to share with Hanszen" (2003–2011) became one "that we share with Hanszen" in 2014 [@oweek-2003 p.3] [@oweek-2011 p.92] [@oweek-2014 p.102]. Hanszen tells it from its side [@hanszen-traditions].
-    - *The current college site.* wiess.rice.edu builds its Traditions page in the browser, and we have no capture of it. So the statuses lean on the 2026 Constitution, the Thresher and the site's image names [@wiess-rice-edu asset-manifest.json]. Someone with a browser should read the page and record what it says.
-    - *The glossaries.* Every O-Week book since 2003 ends with a glossary, and the 1994 handbook's survives too. [How we described ourselves, by year](glossary-series.md) lines them up term by term, so you can watch a tradition change in the college's own words.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

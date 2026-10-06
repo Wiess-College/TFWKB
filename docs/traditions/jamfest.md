@@ -58,21 +58,5 @@ Wiess Day began in spring 2008 as a separate party [@oweek-2008 part 3 p.8]. By 
     | 2011 | Last book with a Jamfest essay [@oweek-2011 p.46]; glossary still "Jamfest/Wiess Day" [@oweek-2011 p.93] | [P] |
     | 2014 | "Wiess Day has become an annual tradition… and things like Jamfest have come and gone" [@oweek-2014 p.37]; no glossary entry | [R] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Did Wiess Day replace JamFest, or rename it?** In 2008 they were separate events [@oweek-2008 part 3 p.8] [@oweek-2008 part 3 p.9]. In 2010–11 the books still describe both, while the glossary merges them [@oweek-2010 p.91]. So a new event absorbed the old one over a few years. See [Wiess Day](wiess-day.md).
-    - **When in spring?** Owl Weekend in 2003–2007 [@oweek-2003 p.4]; just "the spring" from 2008 [@oweek-2008 part 7 p.4]. In 1987 it was 27 March [@thresher-1987-03-20-jamfest].
-    - **Commons or Acabowl?** The 1987 notice puts it in the Commons [@thresher-1987-03-20-jamfest]; every later source puts it in the Acabowl.
-    - **A wrong weekday.** The 2007 site says "Friday April 14th, 2007," but that was a Saturday [@wb 20070709183135 http://teamwiess.com/Jamfest/main.htm].
-    - **Bowling for Soup.** 2002 and 2003 per the 2003 book; "before" in later books [@oweek-2003 35-44 wiess.pdf p.9] [@oweek-2006 p.44] [@oweek-2010 p.45]. No Thresher confirmation yet.
-    - **The 1997 page** was written just before a spring show, 1997 or 1998 [@wb 19990220115332 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/jamfest.html].
-
-    **Still don't know.**
-
-    - Did it begin in 1987, or earlier? The 1987 notice is the earliest found [@thresher-1987-03-20-jamfest].
-    - The 2002 and 2003 line-ups.
-    - The last JamFest. The 2012 and 2013 books are missing [@oweek-2011 p.46].
-    - Photos from 1997 and 2005–07 are in the mirror but unexamined [@teamwiess-jamfest-site].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

@@ -84,19 +84,4 @@ Both O-Week histories say it became goldenrod in the 1980s [@oweek-2006 p.38]. T
 
     > **O-Week Book 2014:** "The color yellow will never be the same, for it is not yellow, it is Goldenrod, Wiess' cherished college color." [@oweek-2014 p.10]
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Which colors?* Four answers: brown and green, then goldenrod in the 1980s (2006) [@oweek-2006 p.38]; gold from "the early days," turning goldenrod in the '80s (2010) [@oweek-2010 p.38]; black and gold (1994) [@handbook-1994]; goldenrod (from 2003) [@oweek-2003 p.4]. They fit if the arms were black and gold from 1957 and the college color was gold, then goldenrod. Brown and green has only the 2006 book behind it, and the 2010 book rewrote that passage. The 1970s purple-and-green Commons was decoration, not a college color.
-    - *The beanies.* 1950s freshmen wore "green beanies" (2006) or "goldenrod and navy beanies" (2010) [@oweek-2006 p.37] [@oweek-2010 p.38]. One book is wrong.
-    - *Blue and white?* The 1997 webmaster wasn't sure of the family's original colors and said so: "(???)" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Still unsettled.
-    - *Is it a griffin?* It has an eagle's head, wings and front legs and a lion's back half. That's a griffin. No college source names it, though.
-
-    **Still don't know.**
-
-    - What the Wiess family arms looked like originally. The Trustees' 1948 tribute to Harry Wiess, in the Woodson, may show them [@riceinfo-theman].
-    - Who drew Wiess's arms, and when they were first used. Try the 1957–58 Thresher and the Campanile.
-    - Whether a 1950s blazer or crest patch survives.
-    - When goldenrod replaced gold. The "joke of a Wiessman of the '80s" is the only clue [@oweek-2010 p.38].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

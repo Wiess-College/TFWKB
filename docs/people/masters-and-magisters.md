@@ -2,7 +2,7 @@
 title: Magisters
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # Magisters
@@ -26,7 +26,8 @@ The list is solid from about 1990 and patchy before. The full table with sources
 - **2006–2011.** Mike Gustin and Denise Klein [@oweek-2006 p.8].
 - **2011–2016.** Alexander and Jeanette Byrd [@oweek-2011 p.92].
 - **2016–2021.** Andrew and Laura Schaefer, both Wiess alums, who met "at (Old) Wiess in 1991" [@oweek-2016 p.19].
-- **2021–.** Flavio Cunha and Fabiana Santos [@oweek-2021 p.24] [@oweek-2024 p.29].
+- **2021–2026.** Flavio Cunha and Fabiana Santos [@oweek-2021 p.24] [@oweek-2024 p.29].
+- **2026-** 
 
 The Magisters, RAs and Coordinators together: [The Core Team](core-team.md). Their house: [Wilson House](../places/wilson-house.md).
 
@@ -58,7 +59,7 @@ The Magister can veto Cabinet. Since about 2025, Cabinet can answer with "an off
     | 2016–2021 | Andrew and Laura Schaefer (Wiess '94 and '95) | "Although this is the Schaefers' first year as Masters of Wiess, they have a long history with the college" (2016) [@oweek-2016 p.19]; "second year as Magisters" (2017) [@oweek-2017 p.20]; "Although this is the Schaefers' fourth year as Magisters of Wiess" (2019) [@oweek-2019 p.20]; "Magisters: Drs. Andrew & Laura Schaefer" on the A-Team page, October 2020 and March 2021 [@wb 20201002232553 http://teamwiess.com/government/ateam.html]; still listed on 6 August 2021, replaced by 13 August [@wb 20210806225935 http://teamwiess.com/government/ateam] | [P] |
     | 2021– | Flavio Cunha and Fabiana Santos | The A-Team page lists "Magisters: Drs. Andrew & Laura Schaefer" on 6 August 2021 and "Magisters: Flavio Cunha & Fabiana Santos" on 13 August 2021 and in every capture to January 2023 [@wb 20210806225935 http://teamwiess.com/government/ateam] [@wb 20210813231021 http://teamwiess.com/government/ateam] [@wb 20230114014600 http://teamwiess.com/government/ateam]; an image `flavio-fabiana.jpeg` under the new site's `images/ateam/`, December 2023 [@wb 20231208232723 https://wiess.rice.edu/images/ateam/flavio-fabiana.jpeg]; "This will be the first year that F&F will serve as Magisters of Wiess College" (2021) [@oweek-2021 p.24]; "We are Fabiana and Flavio, the Wiess College Magisters" (2024) and "the Magisters of Wiess College" (2025) [@oweek-2024 p.29] [@oweek-2025 p.30] | [P] |
 
-??? info "The receipts: how the rule changed"
+??? info "The receipts: how the rule evolves"
 
     | Version | Rule |
     |---|---|
@@ -75,27 +76,5 @@ The Magister can veto Cabinet. Since about 2025, Cabinet can answer with "an off
     "**Dr. Byrd.** Wiess Master and History Professor. Starting off his first year as Wiess Master, he can't wait to join TFW and get to know you!" — O-Week Book 2011 [@oweek-2011 p.92]
 
     "The Schaefers feel that the Rice college system (and Wiess in particular) is 'in their DNA'." — O-Week Book 2016 [@oweek-2016 p.19]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **The Hutchinsons' dates.** The 1994 handbook says "their fifth year as Masters," so a start around 1989–90 [@riceinfo-masters]. A 2014 bio says they became masters in 1994 and served seven years [@oweek-2014 p.57]; a 2025 profile also says 7 years [@wb 20250806020200 https://wiess.rice.edu/resources/associates]. But they were still in office in 1999 and 2000 [@rhc 2017-11-17 friday-follies-cheers] [@riceinfo-news-2000-lundin] and on the 2001 dedication plan [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. About eleven years (c.1990–2001) fits the sources from the time.
-    - **Masters or Magisters.** The O-Week book switched in 2017 and made Talmage "The first Magister" [@oweek-2016 p.19] [@oweek-2017 p.12] [@oweek-2017 p.15]. The November 2017 anniversary site still said "Masters" [@wb 20171108201719 http://teamwiess.com:80/60/]. The Constitution kept "Master" through March 2017 and had switched by February 2020, not in 2026 as once claimed here [@constitution-2017] [@constitution-2020] [@bylaws-2020] [@gov-repo CHANGES.md].
-    - **Two Dr. Bakers.** Physicist Stephen Baker was acting Magister in 1971–72 while Rudee was on sabbatical, by his and his daughter's account [@rhc 2013-02-19 dr-baker-rocks comment by Stephen Baker, 19 Feb 2013] [@rhc 2013-02-19 dr-baker-rocks comment by Sarah Baker Topper, 19 Feb 2013]; another daughter says "late 60s (69 maybe?)" [@rhc 2013-02-19 dr-baker-rocks comment by Hannah Baker Hitzhusen, 19 Feb 2013]. Stewart Baker of English was Magister in the mid-1970s [@rhc 2013-02-19 dr-baker-rocks comment by Kelty Baker, 15 Jul 2020]. Kean called Stephen "master of Wiess" [@rhc 2013-02-19 dr-baker-rocks]; his "ACTING master" correction is better.
-    - **George Pharr.** Rice Magazine (2016) says he "became master of Wiess in the early 1990s" [@rice-magazine-2016-wiess-traditions]. That clashes with the Hutchinsons being in office [@riceinfo-masters] [@riceinfo-news-2000-lundin]. The 2017 anniversary site lists him without a title [@wb 20171108201719 http://teamwiess.com:80/60/]. Wrong, earlier, or acting? Unresolved, so he's not in the table.
-    - **Talmage's dates.** Alumni place him in office in 1961–62 and the late 1960s [@rhc 2011-05-06 friday-afternoon-follies-plus-a-campus-quiz comment by Dagobert Brito (Wiess '63), 7 May 2011] [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016]. Continuous from 1957 to about 1971? Not established.
-    - **Stale copy.** The 2014 website still called the Byrds "brand new" in year four [@wb 20140627224545 http://teamwiess.com/master.html]; it was 2011 text [@oweek-2011 p.7] [@oweek-2014 p.102].
-    - **Talleyboo.** One alum says a 1970s award was "called the Tallyboo, named for the former master" Talmage [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016]. See [Talleyboo](../traditions/retired/talleyboo.md).
-
-    **Still don't know.**
-
-    - **1957–1990.** Who served when. The Campaniles and the Woodson's Wiess College Records would tell [@woodson-ua0079]. The PDR's "pictures of all our former Masters" could give a first list [@wb 20140719005702 http://teamwiess.com/amenities.html].
-    - **2026.** Cunha and Santos are confirmed through the 2025 book [@oweek-2025 p.30]; the current Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam].
-    - Was Dr. Bill's spring 1983 interim term [@handbook-1994] a sabbatical or a vacancy?
-    - Exact start and end dates for Donato–Kalb and Gustin–Klein. A Thresher search would fix them.
-    - Mrs. Byrd's first name appears only once, as "Alex & Jeanette Byrd" [@oweek-2011 p.97].
-
-[^magister]: The office was titled "Master" from the founding of the college system in 1957 until the college adopted "Magister" in 2017 (O-Week book 2017 [@oweek-2017 p.20]); the Constitution and Bylaws followed by 12 February 2020 [@constitution-2020] [@bylaws-2020]. Quotations keep the word their sources used.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

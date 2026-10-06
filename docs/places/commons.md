@@ -35,7 +35,7 @@ The RAs "eat dinner in the Commons most days around 5:30" [@oweek-2025 p.32]. Go
 
 **UpCo** is the second floor of the Commons. In 2014 it had "a pool table, ping pong table, TV, and lots of couches" [@oweek-2014 p.103]. Cabinet meets here [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4]. The nickname first shows up in print in 2021: "UpCo (Wiess upper commons)" [@oweek-2021 p.63].
 
-The **PDR** is the smaller room next to the Commons. It's been a study room and a Tabletop dressing room [@oweek-2003 p.4]. It holds "pictures of all our former Masters, and a lot of old Campanile books" [@oweek-2015 p.21]. More rooms: [Rooms and spaces of New Wiess](rooms-and-spaces.md).
+The **PDR** is the smaller room next to the Commons. It's been a study room and a Tabletop dressing room [@oweek-2003 p.4]. It holds "pictures of all our former [magisters], and a lot of old Campanile books" [@oweek-2015 p.21]. More rooms: [Rooms and spaces of New Wiess](rooms-and-spaces.md).
 
 ## Customs
 
@@ -116,25 +116,5 @@ The 2023 representatives list has three Music reps, job not described [@wb 20230
     "Try to find pictures of Dr. Byrd as a student!" — O-Week Book 2015, on the PDR [@oweek-2015 p.21]
 
     The glossary entries year by year: [Commons](../traditions/glossary-series.md#commons), [PDR](../traditions/glossary-series.md#pdr), [Upper Commons](../traditions/glossary-series.md#upper-commons).
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Is UpCo the Upper Commons?** Yes. "Upper Commons" runs 2003–2017 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4] [@oweek-2017 p.15]; the 2021 book glosses "UpCo (Wiess upper commons)" [@oweek-2021 p.63]; there's an UpCo rep in 2023 [@wiess-rice-edu-representatives-2023]. Same room, no separate page.
-    - **One commons or two in Old Wiess?** 1994 has a "Commons" and an "outer commons" [@handbook-1994]; Cabinet met in "the outer commons" in 1999 [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html]. The 2003 history makes the Outer Commons the 1949 lobby [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]; from 2006 the books say "a small Commons" in 1949 and "a second Commons area" later [@oweek-2006 p.36]. Both fit if the lobby became the outer commons.
-    - **When was the mezzanine built?** "Probably 1974," from memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. A 1975 plaque shows up in Delany's 2002 photos; see [Old Wiess](old-wiess.md).
-    - **Colors.** Purple and lime green in the 1970s (two separate memories) [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016] [@rhc 2016-03-07 barbara-jordan-1977 comment by Marty Merritt, 8 Mar 2016]; black and gold by 1994 [@handbook-1994].
-    - **Portraits: Commons or PDR?** Every source puts the Masters' pictures in the PDR, 2014–17 [@oweek-2014 p.46] [@oweek-2017 p.30]. The only Commons portrait on record is Harry Wiess's, in Old Wiess, 1998 [@wb 19980131012133 http://riceinfo.rice.edu/projects/colleges/wiess/college/index.html].
-    - **"Largest commons on campus."** The books' claim from 2014 [@oweek-2014 p.46]. Kirksey gives Hanszen's dining hall as 13,000 sq ft and no figure for Wiess [@kirksey-wiess].
-
-    **Still don't know.**
-
-    - When "UpCo" caught on: sometime between 2017 [@oweek-2017 p.15] and summer 2021 [@oweek-2021 p.63].
-    - Where the PDR portraits came from, and whether they include the Magisters since 2017.
-    - Where the Old Wiess portrait of Harry Wiess went in 2002. The move promised "medallions, plaques and original cornerstone," not portraits [@rice-news-1999-10-14-groundbreaking].
-    - Did Hanszen borrow the new Wiess Commons in 2000–01, as planned [@riceinfo-news-2000-lundin]?
-    - Who plays the Friday servery music now, and when it moved in from the Acabowl stacks (if it did).
-    - The 2009 site says to ask "Dr. Dodds… for some great stories about the design of New Wiess" [@wb 20090827020025 http://teamwiess.com/areas.php]. Nobody wrote them down.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

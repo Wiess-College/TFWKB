@@ -7,8 +7,6 @@ reviewed_by: unreviewed
 
 # The Ubangee
 
-Part group hug, part dog pile, all grunting. If you've never had one, you will.
-
 !!! abstract "TL;DR"
     - A Ubangee is Wiess's way of celebrating someone: a crowd grunts around (or on) them, then ends with three slow cries of [TEAM WIESS](team-wiess.md) [@oweek-2019 p.31].
     - A "brace" guards the person in the middle so nobody gets hurt [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.6 (printed 40)].
@@ -31,7 +29,7 @@ The 2017 book explains: now there's a "person of interest" in the middle of "a c
 
 The college's own history lists the Ubangee and [the Dangle](retired/the-dangle.md) as "unorthodox customs" from the early years, with no date [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)]. The 1994 handbook called it "A unique Wiess mass celebration of life" [@handbook-1994].
 
-The oldest written traces are in the Thresher. The word turns up in a 1975 personal ad, with no college named [@thresher-1975-12-01-ubangi]. The first Wiess notice using it is from 1986: anyone caught in Mudd "will be ubangeed" [@thresher-1986-09-12-ubangeed].
+The oldest written traces we've seen are in the Thresher. The word turns up in a 1975 personal ad, with no college named [@thresher-1975-12-01-ubangi]. The first Wiess notice using it is from 1986: anyone caught in Mudd "will be ubangeed" [@thresher-1986-09-12-ubangeed].
 
 ??? quote "In the college's own words"
     "A ubangee is not a random dogpile." [@riceinfo-ubangee]
@@ -62,24 +60,5 @@ The oldest written traces are in the Thresher. The word turns up in a 1975 perso
     | 2017 | The pile is gone from the description: "the fun of tag… jumping up and down and grunting. Every Ubangee has a 'person of interest,' who lies in the center of a circle of jumping and yelling Wiessmen and one brace" [@oweek-2017 p.31] | [P] |
     | 2019–2025 | The 2017 description, word for word, in all four books—"A Ubangee is, first and foremost, an expression of love… After a satisfactory number of grunts have been emitted, the Ubangee ends with three triumphant, loud, and slow cries of TEAM WIESS"—still "at their most prominent during the Beer Bike water balloon fight"; the history keeps "still proudly practiced in a slightly modified form"; glossary: "A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessman" [@oweek-2019 p.31] [@oweek-2021 p.36] [@oweek-2024 p.37] [@oweek-2025 p.38] [@oweek-2019 p.12] [@oweek-2024 p.25] | [P] |
     | 2021 | The President's letter: "we have a long history of traditions, from birthday celebrations, to running around campus for Halloween" [@oweek-2021 p.30]; 2024 President: "Fellows, Core Team, Acabowl, Publics, Beer Bike, Baker 13, Ubangees… the list goes on" among the terms that baffled her as a freshman [@oweek-2024 p.36] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Pile or circle?** A pile from 1999 to 2016 [@riceinfo-ubangee] [@oweek-2015 p.22]; "a slightly modified form" in 2015–16 [@oweek-2015 p.10] [@oweek-2016 p.11]; a jumping circle in 2017, where only the brace may "tackle" [@oweek-2017 p.31]. The glossary stayed the same [@oweek-2017 p.15]. Nobody says who changed it or why.
-    - **Victim or person of interest?** "Victim" from 2003 to the Associates' page [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/]; "person of interest" in 2017 [@oweek-2017 p.31].
-    - **Don't tell anyone, or tell everyone?** "Don't tell anyone" in 2003 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.6 (printed 40)]; "tell everyone!" on the 2014 website [@wb 20140627224527 http://teamwiess.com/traditions.html]. Same joke, flipped.
-    - **The three cries.** "Three triumphant cries" in 2003; "loud and slow" from 2014 [@wb 20140627224527 http://teamwiess.com/traditions.html] [@oweek-2015 p.22]. The 1999 page doesn't mention the chant at all.
-    - **Ceiling Ubangees.** Only the 1999 page describes them, and says most Ubangees were done by guys [@riceinfo-ubangee]. No later source repeats this. Treat it as one writer's view of the mid-1990s.
-    - **"Mass."** The 1994 "mass celebration" lost "mass" in 2003 [@handbook-1994] [@oweek-2003 p.4].
-    - **Old text, new readers.** The 2006–07 website reused the 1999 page word for word [@wb 20070801184957 http://teamwiess.com/the-ubangee.html] [@wb 20060629212514 http://teamwiess.com/index.php?module=page&page=nod].
-
-    **Still don't know.**
-
-    - **Origin.** No source dates the first Ubangee or explains the word [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]. The 1975 and 1985 Thresher uses don't name a college [@thresher-1975-12-01-ubangi] [@thresher-1985-04-23-ubangiing]. Try 1960s–70s alumni and Woodson's Wiess records (UA 0079).
-    - **Spelling.** "Ubangee," "ubangeeee" (the person underneath, 1999), "Ubange" (2014), "Ubangi" and "ubangiying" (Thresher 1975, 1985). No etymology anywhere.
-    - **The 2015–17 change.** Who made it? The 2012 and 2013 books are missing, so it may be earlier.
-    - **Photos.** The 1999 gallery was behind a login and wasn't saved [@riceinfo-ubangee].
-    - **Does it still happen?** The last description is 2017's, repeated through 2025 [@oweek-2017 p.31] [@oweek-2025 p.38].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

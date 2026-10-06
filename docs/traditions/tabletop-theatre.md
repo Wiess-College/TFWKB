@@ -31,7 +31,7 @@ Recent runs: spring 2012, 2016, 2021 and 2024 [@oweek-2014 p.37] [@oweek-2024 p.
 
 ## The grown-ups behind the scenes
 
-Two Resident Associates (grown-ups who live in the college; see [Resident Associates](../people/resident-associates.md)) are part of the story. Physics professor Stan Dodds was "Often seen working hard on Tabletop sets" in 1994 [@handbook-1994]. Dr. Bill Wilson recorded the shows. His collection at Fondren Library "includes every college theatre production during his time at Rice" [@oweek-2014 p.102].
+Two Resident Associates (see [Resident Associates](../people/resident-associates.md)) are part of the story. Physics professor Stan Dodds was "Often seen working hard on Tabletop sets" in 1994 [@handbook-1994]. Dr. Bill Wilson recorded the shows. His collection at Fondren Library "includes every college theatre production during his time at Rice" [@oweek-2014 p.102].
 
 ??? info "The receipts: shows we can source"
     | Season | Show | Kind | Source |
@@ -98,24 +98,5 @@ Two Resident Associates (grown-ups who live in the college; see [Resident Associ
     | 2021 | The book, unrevised: *Hello, Hamlet!* "will next be performed in Fall 2020" [@oweek-2021 p.37] [@oweek-2021 p.16] | [P] |
     | 2024 | History: "It was last performed in Spring 2016, 2021, and most recently in Spring 2024!"; Tabletop drops out of the glossary and the traditions pages [@oweek-2024 p.24] [@oweek-2024 p.37] | [P] |
     | 2025 | Back among the traditions: "Wiess' very own theater company featuring many Wiessmen and non-wiessmen, making its mark with amazing plays presented once a year such as 'Hello Hamlet!' and 'Company' that takes place in our very own Commons!!" [@oweek-2025 p.38] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Who wrote *Hello, Hamlet!*, and when?** The 2003 book: "two Wiessmen 40 years ago" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.7 (printed 41)]. The 2005–2017 histories: one Wiessman in 1964, named "George Grenias" from 2014, written in "a matter of two weeks" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] [@oweek-2014 p.36]. Rice Magazine: George Greanias '70, first performed 1967 [@rice-magazine-2016-wiess-traditions]. The 1967 Thresher settles it: one author, Greanias, opening 5 October 1967 [@thresher-1967-09-28-hello-hamlet] [@thresher-1967-10-05-hello-hamlet-review]. Nothing from 1963–66 mentions it. The 1964 date is unsupported.
-    - **Who founded Tabletop?** A 1979 Thresher history credits Wiess president Tom Bertrand (1967–68) with "establishing the Wiess Table Top Theater, which produced Hello, Hamlet! in its first year" [@thresher-1979-wiess-first-fifteen-years]. But a "Wiess Tabletop Theatre" was already producing *Doctor Faustus* in 1966, after *Antigone* at Wiess in 1965–66 [@thresher-1966-10-20-tabletop]. Bertrand probably reorganised or named it rather than founding it.
-    - **Which shows in 2012–14?** The 2014 book says "last year" was *The Brothers Grimm Spectaculathon* and *The Producers* [@oweek-2014 p.42]. The website for the same year lists *Glengarry Glen Ross* and *Into the Woods* [@wb 20140704224725 http://teamwiess.com/glengarry-glen-ross.html] [@wb 20140704224728 http://teamwiess.com/into-the-woods.html]. The book text was probably carried over from 2013, so those shows are likely 2012–13.
-    - **Three shows or four?** Three (2006) [@oweek-2006 p.61], four (2014) [@oweek-2014 p.63], three counting the One-Acts as one (2015) [@wb 20150313224607 http://teamwiess.com/tabletop.html]. It depends how you count the One-Acts.
-    - **Who may act?** One-Acts auditions were "open to all Rice first-year students" in 2014 [@oweek-2014 p.42]. Whether they were Wiess-only before that isn't stated.
-    - **"Theater" or "Theatre"?** The college uses both, often on the same page.
-
-    **Still don't know.**
-
-    - **The name.** Nobody explains "Tabletop." Were the first shows really staged on tables? Unsourced guess.
-    - **The full show list.** Only a few seasons out of sixty. The Thresher mentions *Hello, Hamlet!* in 1969, 1972, 1976, 1980, 1984, 1988 and 1992, but those runs haven't been checked one by one [@thresher-1972-10-19-hello-hamlet-revival]. The Campanile and Dr. Bill's recordings would help.
-    - **Dr. Bill's recordings.** Where in Fondren, and what's there [@oweek-2014 p.102]?
-    - The 2014–15 website's *Hello, Hamlet!* page is empty in every capture [@wb 20140704224732 http://teamwiess.com/hello%2c-hamlet.html].
-    - A 2008 run is implied by the cycle but unsourced.
-    - **Dodds's start year.** 1992 or 1993; the sources are a year apart [@handbook-1994] [@wb 19990222090643 http://riceinfo.rice.edu/projects/colleges/wiess/people/associates.html].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

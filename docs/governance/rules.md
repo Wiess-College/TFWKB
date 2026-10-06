@@ -10,19 +10,19 @@ reviewed_by: unreviewed
 Under the Constitution sit two short codes. The **College Rules** say what you can't do (and what the Court can fine you for). The **Housing Rules** decide who gets which room.
 
 !!! abstract "TL;DR"
-    - We have two versions of the College Rules, 1991 and 2012. They're almost the same length and say almost the same things [@rules-1991] [@college-rules-2012] [@gov-repo CHANGES.md].
+    - We have old versions of the College Rules, 1991 and 2012. They're almost the same length and say almost the same things [@rules-1991] [@college-rules-2012] [@gov-repo CHANGES.md].
     - The big losses by 2012: Freshman Waiting, and signing a promise that you've read the rules [@rules-1991 §§VI, IX] [@college-rules-2012 §VIII].
     - The Housing Rules (2008 and 2013) run room draw, the "jack": a pecking order, points, squatting, and first pick for the President [@housing-rules-2008] [@housing-rules-2013].
     - "Room Jack" is in print by 1981: "Say goodbye to your favorite freshmen at Room Jack Thursday night in the commons" [@thresher-1981-04-09-room-jack].
 
-## The College Rules: what changed, 1991 → 2012
+## The College Rules 1991 → 2012
 
 Same skeleton: property, room searches, noise, roofs, the Commons, guests, enforcement, orientation, amendments [@rules-1991] [@college-rules-2012]. The 2012 version adds a preamble: behave "at all times" so you don't "discredit Wiess College or Rice University", on campus and off [@college-rules-2012 Preamble].
 
 What got dropped:
 
 - **Freshman Waiting.** "Freshmen shall serve at seated weekday dinners on a rotating basis." Miss your shift without a sub and you're fined [@rules-1991 §VI]. Gone by 2012.
-- **The tiled roof.** "Any person seen on the tiled roof will be fined, regardless of whether any damages to the tiles were made" [@rules-1991 §IV]. In 2012, just "Unauthorized access to any roof of Wiess College is forbidden" [@college-rules-2012 §IV].
+- **The tiled roof.** "Any person seen on the tiled roof will be fined, regardless of whether any damages to the tiles were made" [@rules-1991 §IV]. In 2012, just "Unauthorized access to any roof of Wiess College is forbidden," probably just because of the new metal roof [@college-rules-2012 §IV].
 - **Food fights.** "No food or ice will be thrown in the Commons", and the Headwaiter could throw you out [@rules-1991 §V]. By 2012 the Headwaiter is gone, and you must clean up after yourself and "respect both Wiess Commons & Housing & Dining staff" [@college-rules-2012 §V].
 
 ## Freshman Waiting: from serving dinner to service points
@@ -110,18 +110,5 @@ The freshman jack works backwards: "The first name selected goes at the bottom o
 > "Freshmen Service Points—Four hours of required service to Wiess. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities to get them!" [@oweek-2014 p.102]
 
 ## Arguments & loose ends { #variants-disputes }
-
-??? info "Where sources disagree, and what we don't know"
-    **Where sources disagree.**
-
-    - **When did Freshman Waiting end?** Required in 1991 [@rules-1991 §VI], still a Sophomore Rep job in 1998 [@riceinfo-cabinet-1998], replaced by service points by 2006–07 [@oweek-2006 p.84] [@constitution-2007 Art. III §4 I]. The 2003 O-Week book mentions neither. So: between 1998 and 2006, and the Rules didn't catch up until 2012. The [Formal dinner](../traditions/retired/formal-dinner.md) page narrows it further.
-    - **How many Housing Rules versions?** The 2010 and 2011 PDFs have different filenames but are the same file, and both are the 2008 PDF [@housing-rules-2010] [@housing-rules-2008]. So two known texts: fall 2008 and February 2013. The 2008 date is when the scan was saved; the rules may be older.
-
-    **Still don't know.**
-
-    - Who were "MMM, BVA, LMH" (probably the 2008–09 housing coordinator or committee)? The 2008 text should be added to the governance repository as `housing-2008`.
-    - Were there College Rules between 1991 and 2012? Twenty-one years with one amendment seems unlikely; the 1997 webmaster thought a newer copy existed [@riceinfo-rules-index-1997].
-    - Did the Rules or Housing Rules change after 2013, and do they still exist in 2026? Ask the Parliamentarian and the Housing Reps. When did the Almost-Pong Game start? It isn't in either written text [@thresher-2024-03-kicked-off-campus].
-    - The 1993 Bylaws required a damage deposit and a signed "Honor System" pledge about damages [@constitution-1993 Bylaws Art. VII]. Both are gone from the 2016 Bylaws. When, and why?
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

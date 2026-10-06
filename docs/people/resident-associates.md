@@ -76,22 +76,4 @@ Want to find them? "We eat dinner in the Commons most days around 5:30, and we k
 
     "**Dr. Bill.** The Man. The Legend. Ex-Wiess RA who started the Dr. Bill Grant program at Wiess, shirt screening, and whose section in Fondren Library includes every college theatre production during his time at Rice." — O-Week Book 2014 [@oweek-2014 p.102]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **How long was Dr. Bill an RA?** "Almost thirty years" (2003) [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]; "countless years" (2007) [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates]; "almost as long" as his thirty-plus years teaching [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. An alum puts him among the RAs in the 1976 Campanile [@rhc 2014-11-19 wiess-college-luminaries comment by rcspitzer, 21 Nov 2014]. Roughly 1975–2006; exact start unknown.
-    - **Dr. Parish's end.** 23 years from 1957 lands in 1980 [@riceinfo-history]; an alumna remembers his death in office "in either '79 or '80" [@rhc 2014-11-19 wiess-college-luminaries comment by Gloria Tarpley '81, 19 Nov 2014]. They agree. Spelled "Parish" and "Parrish."
-    - **"The dark side."** The 1994 glossary doesn't say where John Bennett went [@handbook-1994]. The War Pig deck calls him "Sid Magister" [@warpig-core-deck slide 27], but that's testimony compiled around 2024.
-    - **The Parish Grants** fund "self directed travel abroad" [@oweek-2010 p.91]. Named for Dr. Parish? Likely, but no source says so.
-    - **Associate or RA?** Kean calls Stan Dodds a "stalwart Wiess associate" [@rhc 2014-11-19 wiess-college-luminaries]. He was an RA from 1992 to at least 1999 [@handbook-1994] [@riceinfo-associates], and not one of the three RAs by 2003 [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8].
-
-    **Still don't know.**
-
-    - The second RA of 1957, and RAs between Parish and 1992. Only Don Clayton and his wife are named for the mid-1970s [@rhc 2014-11-19 wiess-college-luminaries comment by Stan Dodds, 20 Nov 2014]. Old Campaniles would help.
-    - Dr. Bill's dates, and when the "Dr. Bill Grant program" began and what it funds [@oweek-2010 p.90].
-    - The "Pleasure Palace" [@handbook-1994].
-    - The video on the 2014–17 Dr. Bill page (Rice mediacosmos ID `0arp-mpAjEusO24So4vULQ`) [@wb 20140719005650 http://teamwiess.com/dr.-bill.html]; the 1989 Sallyport profile [@rhc 2018-11-15 two-views-of-dr-bill-wilson-no-date comment by George Webb '88, '91, 15 Nov 2018]; whether the Woodson has processed the 2021 Wilson materials [@rhc 2021-11-15 secession-1992].
-    - RAs after January 2023 [@wb 20230114014600 http://teamwiess.com/government/ateam]: the current Core Team page is empty in every capture [@wb 20241006035649 https://wiess.rice.edu/government/coreteam]. The 2024 and 2025 books name the Mullens and Carissa and Nick [@oweek-2024 p.59] [@oweek-2025 p.60]. Still open: when Esther Fernández left in 2023, and the 2026 roster.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
