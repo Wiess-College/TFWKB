@@ -7,25 +7,24 @@ reviewed_by: unreviewed
 
 # Wiess Day
 
-A spring day in the Acabowl. Food, games, and sometimes a very small horse.
+Wiess Day was Wiess's spring party in the Acabowl, a day of food and games planned by the Social Vice Presidents to celebrate "the fact that we're from Wiess and Wiess is great" [@oweek-2015 p.24]. It was last seen in the 2021 O-Week book [@oweek-2021 p.38].
 
 !!! abstract "TL;DR"
-    - Wiess Day is a spring party in the Acabowl, planned by the Social Vice Presidents [@oweek-2015 p.24].
     - It started in spring 2008: "a new tradition began... and it was named Wiess Day!" [@oweek-2008 part 3 p.8].
     - It ran next to [JamFest](jamfest.md) for a few years, then outlasted it [@oweek-2010 p.91] [@oweek-2014 p.37].
-    - The 2024 and 2025 books don't mention it at all [@oweek-2024 p.37] [@oweek-2025 p.38].
-
-## The first one
-
-In spring 2008 the Socials threw "a party in the Acabowl complete with games and food." There was "a slip-n-slide, food fight, tug-of-war, eating contest, and other fun in the sun!" [@oweek-2008 part 3 p.8].
-
-Later years added "300 lbs of crawfish, an ice-cream truck, and a petting zoo" [@oweek-2014 p.43]. The zoo had "goats and a very small horse," and by 2019 "a kangaroo" [@oweek-2015 p.24] [@oweek-2019 p.33].
+    - The 2024 and 2025 books don't bring it up [@oweek-2024 p.37] [@oweek-2025 p.38].
 
 ## Only at Wiess
 
 "While every residential college can celebrate with a College Night, only Wiess has Wiess Day" [@oweek-2015 p.24]. It "centers around the fact that we're from Wiess and Wiess is great" [@oweek-2015 p.24]. What happens is up to the Social VPs, so "Nobody knows what Wiess Day will hold" [@oweek-2015 p.24].
 
 Fun fact: the name was used once before, for something else. In 1981 "Wiess Day" was a Brown–Wiess day with an afternoon party and cookout at Wiess [@thresher-1981-09-04-wiess-day]. It has nothing to do with the 2008 party.
+
+## The first one
+
+In spring 2008 the Socials threw "a party in the Acabowl complete with games and food." There was "a slip-n-slide, food fight, tug-of-war, eating contest, and other fun in the sun!" [@oweek-2008 part 3 p.8]. The 2021 book says "Spring 2018," but every earlier source says 2008, so that's a typo [@oweek-2021 p.38] [@oweek-2019 p.33].
+
+Later years added "300 lbs of crawfish, an ice-cream truck, and a petting zoo" [@oweek-2014 p.43]. The zoo had "goats and a very small horse," and by 2019 "a kangaroo" [@oweek-2015 p.24] [@oweek-2019 p.33].
 
 ??? quote "In the college's own words"
     "In the spring of 2008, a new tradition began: Wiess Day! Our socials had a brilliant idea to throw a party in the Acabowl complete with games, food, and fun." [@wb 20150313224552 http://teamwiess.com/traditions.html]

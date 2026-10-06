@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # Court
 
-Wiess Court is the college's own student-run discipline. Break a college rule and you deal with your peers first, not the campus authorities.
+Wiess Court is the college's own student-run discipline: a panel of students, led by a Chief Justice the whole college elects, that hears cases when someone breaks a college rule [@constitution-2026 Art. VIII §§2, 4]. Break a rule and you deal with your peers first, not the campus authorities.
 
 !!! abstract "TL;DR"
     - The Court's job is to make sure "the College is responsible for the self-discipline of its own members" [@constitution-1993 Art. IV §1] [@constitution-2026 Art. VIII §1].

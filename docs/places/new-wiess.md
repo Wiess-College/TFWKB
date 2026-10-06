@@ -7,13 +7,21 @@ reviewed_by: unreviewed
 
 # New Wiess (2002–)
 
-New Wiess sits "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. Students fought to keep what they loved about the old place, and they won.
+New Wiess is the building Wiess College has lived in since fall 2002: open-air hallways and balconies wrapped around the [Acabowl](acabowl.md) courtyard [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3] [@machado-silvetti-wiess]. It sits "immediately south of 'Old Wiess', in what used to be the Wiess/Hanszen parking lot" [@wiess-60th-faq-2017 p.4]. Students fought to keep what they loved about the old place, and they won.
 
 !!! abstract "TL;DR"
     - Ground broke on 5 October 1999. The building opened in fall 2002 [@riceinfo-news-2000-lundin] [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3].
     - Wiessmen pushed for five years to keep the outdoor hallways, balconies and one big courtyard, and got them [@riceinfo-news-2000-lundin].
     - Designed by Machado and Silvetti (Boston), with Kirksey (Houston). It won a design award in 2004 [@machado-silvetti-wiess] [@kirksey-wiess].
     - About 228–230 beds around a courtyard still called [the Acabowl](acabowl.md) [@machado-silvetti-wiess] [@kirksey-wiess] [@oweek-2006 p.37].
+
+## What it looks like
+
+The dorm wraps three sides of the courtyard. Open-air hallways are "shaded by ivy-covered metal screens" [@machado-silvetti-wiess]. The fourth side is the new [Commons](commons.md), which shares a servery with Hanszen, topped by a public terrace [@machado-silvetti-wiess].
+
+Kirksey called it "the first new dormitory in 25 years," at 163,500 square feet [@kirksey-wiess]. The bed count differs by two: the designers say 228, the project architect says 230 [@machado-silvetti-wiess] [@kirksey-wiess]. The Boston Society of Architects gave it a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Photos from 2017 show the vines in full growth [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]. We haven't found what happened to them since.
+
+Inside: [Rooms and spaces of New Wiess](rooms-and-spaces.md). Up top, including the balcony called Toke: [The terraces](terraces.md). Next door: the Magisters' [Wilson House](wilson-house.md).
 
 ## Keeping the good parts
 
@@ -26,14 +34,6 @@ The O-Week books put it simply: "We made sure to bring all the cool parts of Old
 Ground broke on 5 October 1999 [@riceinfo-news-2000-lundin]. Fences and utility tunnels followed in 2000. The plan said move-in by January 2002 [@riceinfo-news-2000-lundin]. The O-Week books say it "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3].
 
 The 2001 dedication planners had big ideas: "Have both war pigs flying first thing in the morning!" [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. One fan wanted a torch relay ending with someone who "lights an arrow on fire and then launches it to set a 40 foot torch on fire, or something like that?" [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html].
-
-## What it looks like
-
-The dorm wraps three sides of the courtyard. Open-air hallways are "shaded by ivy-covered metal screens" [@machado-silvetti-wiess]. The fourth side is the new [Commons](commons.md), which shares a servery with Hanszen, topped by a public terrace [@machado-silvetti-wiess].
-
-Kirksey called it "the first new dormitory in 25 years," at 163,500 square feet [@kirksey-wiess]. The Boston Society of Architects gave it a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Photos from 2017 show the vines in full growth [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]. What happened to them since is not on record.
-
-Inside: [Rooms and spaces of New Wiess](rooms-and-spaces.md). Up top, including the balcony called Toke: [The terraces](terraces.md). Next door: the Magisters' [Wilson House](wilson-house.md).
 
 ## Photographs
 

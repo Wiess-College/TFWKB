@@ -7,18 +7,17 @@ reviewed_by: unreviewed
 
 # TFFW (Team Fun Friday Wiess)
 
-"It's Friday! There's music on the stacks." [@oweek-2016 p.31] You're in the Acabowl. Something fun is happening.
+TFFW (Team Fun Friday Wiess) is Wiess's Friday-afternoon hangout in the Acabowl, every other week, with food, music and a theme [@oweek-2016 p.31] [@oweek-2024 p.25]. The Socials committee plans it [@oweek-2024 p.34].
 
 !!! abstract "TL;DR"
-    - TFFW is Wiess's Friday-afternoon hangout in the Acabowl, with food, music and a theme [@oweek-2016 p.31] [@oweek-2024 p.25].
     - It's Wiess's version of what other colleges call Friday in the Quad (FITQ) [@oweek-2019 p.15] [@oweek-2024 p.25].
     - The name first shows up in June 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]. The Friday party itself is older: TGs at Wiess go back to at least 1981 [@thresher-1981-09-04-wiess-day] [@handbook-1994].
 
 ## What happens
 
-The O-Week books paint the picture: "There's Wiessmen in the acabowl playing volleyball and throwing around a football. Maybe there are puppies?" [@oweek-2016 p.31] Each one has a theme and activities to match.
+The O-Week books paint the picture: "It's Friday! There's music on the stacks. There's Wiessmen in the acabowl playing volleyball and throwing around a football. Maybe there are puppies?" [@oweek-2016 p.31] Each one has a theme and activities to match.
 
-The **stacks** are the big speakers you hear across the Acabowl on Friday afternoons [@oweek-2014 p.103]. The **Acabowl** is Wiess's courtyard. These days the Socials committee plans TFFWs [@oweek-2024 p.34], and the RAs invite new students to "de-stress with us during TFFWs" [@oweek-2025 p.32].
+The **stacks** are the big speakers you hear across the Acabowl on Friday afternoons [@oweek-2014 p.103]. The **Acabowl** is Wiess's courtyard. The RAs invite new students to "de-stress with us during TFFWs" [@oweek-2025 p.32].
 
 ## How often?
 

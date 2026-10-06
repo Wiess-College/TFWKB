@@ -7,12 +7,12 @@ reviewed_by: unreviewed
 
 # Pumpkin Grades
 
-Your first report card at Rice shows up around Halloween. Hence the pumpkin.
+Pumpkin Grades are the mid-semester grades Rice gives first-years in their first fall. They come out "around Halloween," and they're just for your information: they never go on your transcript [@oweek-2015 p.122] [@rice-registrar-midterm-grades].
 
 !!! abstract "TL;DR"
-    - "Pumpkin Grades" are the mid-semester grades Rice gives first-years in their first fall [@oweek-2003 p.6] [@rice-registrar-midterm-grades].
-    - They're just for your information. They never go on your transcript [@rice-registrar-midterm-grades].
-    - They come out "around Halloween," say the O-Week books since 2015 [@oweek-2015 p.122].
+    - Every O-Week glossary since 2003 defines them [@oweek-2003 p.6].
+    - The Registrar calls them mid-term grades and doesn't use the word "pumpkin" [@rice-registrar-midterm-grades].
+    - It's Rice slang, not just Wiess slang: the campus-wide Owlmanac has it too [@owlmanac-2016 p.56].
 
 ## What they are
 
@@ -22,7 +22,7 @@ The Registrar calls them mid-term grades. They only apply to first-years and fir
 
 ## Why "pumpkin"?
 
-Nobody wrote it down. Halloween timing is the obvious answer, but no source says so. The university itself never uses the word [@rice-registrar-midterm-grades].
+We haven't found an explanation in writing yet. Halloween timing is the obvious answer, but the sources we have don't say so. The Registrar's page doesn't use the word [@rice-registrar-midterm-grades].
 
 It's Rice slang, not just Wiess slang. The campus-wide Owlmanac defined it too in 2016 [@owlmanac-2016 p.56].
 

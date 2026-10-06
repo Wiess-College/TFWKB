@@ -4,7 +4,7 @@ title: Evidence classes
 
 # Evidence classes
 
-Every timeline row has a letter: P, R or T. It tells you what *kind* of proof you're looking at, not how much to trust it.
+This page explains the evidence letters in our timelines. Every timeline row has a letter: P, R or T. It tells you what *kind* of proof you're looking at, not how much to trust it.
 
 !!! abstract "TL;DR"
     - **P** = written at the time. **R** = written later by someone who'd know. **T** = someone's memory.
@@ -25,7 +25,7 @@ Old text gets copied. The War Pig glossary entry ran unchanged for six years, an
 
 ## When sources disagree
 
-Each page's "Arguments & loose ends" box lays them out. Usually:
+Pages say so in a plain sentence where it matters; the full back-and-forth goes in an issue (see `issues/open-questions.tsv`). Usually:
 
 - written at the time beats written later;
 - a named witness beats an anonymous page;
@@ -37,4 +37,4 @@ A source that gets its own history wrong (like the college misdating its own cha
 
 ## What isn't evidence
 
-A search result. An AI summary. This site, or another page on it (link to it instead). "Everyone knows." If you can't cite it, it goes in the page's open questions or the Commons (see the [page template](../contributing/page-template.md)).
+A search result. An AI summary. This site, or another page on it (link to it instead). "Everyone knows." If you can't cite it, it goes in an open question (`issues/open-questions.tsv`) or the Commons (see the [page template](../contributing/page-template.md)).

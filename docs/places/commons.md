@@ -7,11 +7,10 @@ reviewed_by: unreviewed
 
 # Commons and UpCo
 
-The Commons is the dining hall, the biggest room in Wiess, and pretty much the center of the universe. "You will eat here, study here, act here, play here, party here, hangout here and well, live here" [@oweek-2003 p.3].
+The Commons is Wiess's dining hall and its biggest room, on one edge of the [Acabowl](acabowl.md), with the Upper Commons ("UpCo") on the floor above [@machado-silvetti-wiess] [@oweek-2014 p.103]. It's pretty much the center of the universe. "You will eat here, study here, act here, play here, party here, hangout here and well, live here" [@oweek-2003 p.3].
 
 !!! abstract "TL;DR"
-    - Old Wiess got its Commons in 1957, when the dorm became a college [@delany-about-wiess-2002]. By 1994 it was "Reputed as the best room for a BIG party on campus" [@handbook-1994].
-    - The New Wiess Commons (2002) faces the Acabowl and shares South Servery with Hanszen [@machado-silvetti-wiess] [@rice-facilities-first-100-years].
+    - Today's Commons opened with New Wiess in 2002 and shares South Servery with Hanszen [@machado-silvetti-wiess] [@rice-facilities-first-100-years].
     - **UpCo** = the Upper Commons, the second floor, where Cabinet meets [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4] [@oweek-2021 p.63].
     - The **PDR** (Private Dining Room) next door has "pictures of all our former Masters" [@oweek-2014 p.46].
     - The Cozy Corner is the part of commons with the couches, rug, TV and games. 
@@ -28,7 +27,7 @@ Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc
 
 The new Commons, designed by Machado and Silvetti, "defines one edge of the courtyard" [@machado-silvetti-wiess]. It shares South Servery with Hanszen, and the servery's roof is a big terrace [@rice-facilities-first-100-years].
 
-The books call it "the largest commons on campus." That means "lots of space and shockingly effective sound muffling" [@oweek-2014 p.46] [@oweek-2015 p.21]. Big events happen here, and [Tabletop](../traditions/tabletop-theatre.md) plays "take place in our very own Commons!!" [@oweek-2025 p.38]. The TEAM / FAMILY / WIESS banners hang here too (see [Team Wiess](../traditions/team-wiess.md#the-banners)).
+The books call it "the largest commons on campus." That means "lots of space and shockingly effective sound muffling" [@oweek-2014 p.46] [@oweek-2015 p.21]. We haven't checked that against the other colleges yet; Kirksey gives Hanszen's dining hall as 13,000 square feet and no figure for Wiess [@kirksey-wiess]. Big events happen here, and [Tabletop](../traditions/tabletop-theatre.md) plays "take place in our very own Commons!!" [@oweek-2025 p.38]. The TEAM / FAMILY / WIESS banners hang here too (see [Team Wiess](../traditions/team-wiess.md#the-banners)).
 
 The RAs "eat dinner in the Commons most days around 5:30" [@oweek-2025 p.32]. Go say hi.
 
@@ -53,6 +52,14 @@ A popular arrangement for tables in commons is one or two tables with chairs on 
 Friday music has been somebody's job for a long time, [@oweek-2016 p.31] recently the music reps have born the weight of this responsibility. One O-Week Fellow had "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58]. [TFFW](../traditions/tffw.md) opens with "It's Friday! There's music on the stacks" [@oweek-2016 p.31].
 
 The 2023 representatives list has three Music reps, job not described [@wb 20230114021659 http://teamwiess.com/government/representatives]. Wiess isn't alone: in 2006, Brown's "speakers blast Happy Friday music all over the north side" [@oweek-2006 p.53].
+
+## The Old Wiess Commons
+
+The 1949 dorm had only "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]. The real Commons came with the switch to a college around 1957 [@delany-about-wiess-2002].
+
+It saw some famous guests. Muhammad Ali visited in 1967, wearing a Wiess tie [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons]. Barbara Jordan spoke there in 1977 [@rhc 2016-03-07 barbara-jordan-1977].
+
+Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. The 1970s decor? "It really was decorated in purple and lime green" [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016]. By 1994 it was black and gold, and "the current decor is apparently much better than what it used to be" [@handbook-1994].
 
 ## Photographs
 

@@ -7,12 +7,12 @@ reviewed_by: unreviewed
 
 # The Acatramp
 
-A trampoline in the middle of the Acabowl. For at least twenty-five years, that was the whole tradition, and it was enough.
+The Acatramp was a trampoline in the middle of the [Acabowl](../../places/acabowl.md), Wiess's courtyard field, where Wiessmen lined up to jump. It shows up in the sources from 1994 through the 2019 O-Week book [@handbook-1994] [@oweek-2019 p.14].
 
 !!! abstract "TL;DR"
-    - 1994: "The purple and black trampoline majestically situated in the middle of the Acabowl" [@handbook-1994]. The [Acabowl](../../places/acabowl.md) is Wiess's courtyard field.
+    - In 1994 it was purple and black, "majestically situated in the middle of the Acabowl" [@handbook-1994].
     - It moved to the New Wiess Acabowl in 2002 and stayed in every O-Week glossary through 2019 [@warpig-core-deck slide 32] [@oweek-2019 p.14].
-    - Gone from the glossary in 2021 [@oweek-2021 p.18]. Nobody wrote down why.
+    - Not in the 2021 glossary [@oweek-2021 p.18]. We haven't found why yet.
 
 ## What it was
 
@@ -24,11 +24,11 @@ People really used it. A Fellow sat on "the beloved acatramp shouting at passers
 
 In January 1997 the mat had "grown a large hole which makes it unusable." The Cabinet (Wiess's student government) "can not purchase a replacement trampoline or trampoline parts due to insurance liability" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html].
 
-So a freshman wrote an open letter to Bill Gates: "If Stanford deserves a hall, doesn't Rice at least deserve a trampoline?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. No reply is known.
+So a freshman wrote an open letter to Bill Gates: "If Stanford deserves a hall, doesn't Rice at least deserve a trampoline?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. We haven't found a reply.
 
-## Why it stopped
+## Last seen
 
-No written source says. The glossary drops it somewhere between the 2019 and 2021 books, a window that includes the pandemic year [@oweek-2019 p.14] [@oweek-2021 p.18]. The only written word on trampolines and risk is that 1997 "insurance liability" line.
+We haven't found a source that says. The glossary drops it somewhere between the 2019 and 2021 books, a window that includes the pandemic year [@oweek-2019 p.14] [@oweek-2021 p.18]. The only written word on trampolines and risk is that 1997 "insurance liability" line.
 
 ??? info "The receipts: timeline"
 
@@ -54,20 +54,5 @@ No written source says. The glossary drops it somewhere between the 2019 and 202
     "Wiessmen are an inclusive bunch who look out for one another whether it be helping one another with that pesky Orgo problem set or taking some time to hang out on the Acatramp." [@oweek-2010 p.1]
 
     The entry year by year is in [How we described ourselves, by year](../glossary-series.md#acatramp).
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Why it ended.** No source says who decided, or when. The 1997 "insurance liability" line is the only hint in writing [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html].
-    - **One trampoline or several?** Purple and black in 1994 [@handbook-1994]; broken in 1997, with the college asking for "donations of trampoline parts" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; one in the new Acabowl by 2002–04 [@warpig-core-deck slide 32]. The Acatramp was an institution, not one object.
-    - **Did the glossary outlive the trampoline?** Glossary entries were often copied forward unchanged. The RA and Fellow profiles of 2014–2017, which mention people using it, are better proof it was still there [@oweek-2014 p.8] [@oweek-2016 p.50] [@oweek-2017 p.21].
-
-    **Still don't know.**
-
-    - When it first appeared. "A long-standing tradition" in 1997 [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; 1994 is the first entry [@handbook-1994].
-    - Whether the 1997 appeal raised anything.
-    - Who removed the last one, between 2019 and 2021, and why: an injury, an insurer, Rice Risk Management, or Housing & Dining. Cabinet minutes of 2019–21 might say.
-    - Whether other colleges had trampolines.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

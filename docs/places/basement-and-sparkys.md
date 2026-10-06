@@ -7,13 +7,12 @@ reviewed_by: unreviewed
 
 # The basement and Sparky's
 
-Sparky's is Wiess's game-and-hangout room. It has lived in two places, and its name comes from one of the most infamous objects in Wiess history.
+Sparky's is Wiess's game-and-hangout room, up on the fourth floor of New Wiess, with "lots of tables, big speakers, large windows, and of course, the Wiess crest" [@oweek-2010 p.91] [@oweek-2024 p.11]. The basement, under the Commons, is for storage and shirt screen making [@oweek-2014 p.102]. Sparky's has lived in two places, and its name comes from one of the most infamous objects in Wiess history.
 
 !!! abstract "TL;DR"
     - "Sparky" was a rude NOD decoration that showed up at the 1981 A&M football game and got Wiess in big trouble [@thresher-1981-10-30-a-and-m-game] [@thresher-1981-12-04-sparky-letter].
     - In Old Wiess, the basement game room was named Sparky's, with the big TV and FilmFest [@thresher-1986-09-19-big-bang] [@handbook-1994].
     - In New Wiess, the basement is just storage (and shirt screen making and photo developing); Sparky's moved to a fourth-floor room in 2002 [@oweek-2003 p.3] [@oweek-2014 p.102] [@oweek-2010 p.91].
-    - Today: "lots of tables, big speakers, large windows, and of course, the Wiess crest" [@oweek-2024 p.11].
 
 ## Who was Sparky?
 

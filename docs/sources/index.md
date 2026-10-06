@@ -4,7 +4,7 @@ title: Sources
 
 # Sources
 
-This site holds the short version, not the evidence. The evidence lives in places that will outlast us: the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts. Every claim here links to one of them.
+This section explains where the evidence behind this site lives and how to find more. This site holds the short version, not the evidence. The evidence lives in places that will outlast us: the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts. Every claim here links to one of them.
 
 !!! abstract "TL;DR"
     - Want to check a fact? Click its citation, or look it up in the [bibliography](bibliography.md).
@@ -12,7 +12,7 @@ This site holds the short version, not the evidence. The evidence lives in place
 
 ## What's here
 
-- **[Annotated bibliography](bibliography.md)**: every source the pages cite, what it is, where it lives, what it's good for, and its gaps. Built automatically from `sources/bibliography/*.yaml`; the keys there are the keys the pages cite.
+- **[Annotated bibliography](bibliography.md)**: every source the pages cite, what it is, where it lives, what it's good for, and its limits. Built automatically from `sources/bibliography/*.yaml`; the keys there are the keys the pages cite.
 - **[Where to look](where-to-look.md)**: which archive holds what, and the tricks that worked.
 - **[Evidence classes](evidence-classes.md)**: what the P / R / T tags mean.
 - **[Search log](search-log.md)**: what's been searched, where, what turned up, and the leads not yet followed.

@@ -1,0 +1,93 @@
+# Sources for Wiess Skate and broomball (added 6 Oct 2026).
+# Same fields as the other files. Evidence: P = period/primary record, R = reference or secondary account,
+# T = testimony. Thresher pages from the Portal are cited inline as [@portal metapthNNNNNN p.N] and need no entry.
+# GroupMe posts come from the members-only "Wiess Announcements" group (export held by the maintainer, 2024-05 to
+# 2026-09). They are cited by date and the poster's role only; no names, links or contact details are published.
+
+- key: groupme-2025-02-13-wiess-skate
+  title: "Wiess Announcements (GroupMe), college president's post announcing Wiess Skate, 13 Feb 2025"
+  type: message
+  date: 2025-02-13
+  evidence: P
+  notes: >
+    "wiess skate is happening tuesday, feb 25th from 9-10:30pm!!! sign up to come/drive here". Follow-ups on
+    19 and 23 Feb move the start to 8:30 pm, ask for more drivers, and describe "free ice skating (and class
+    speed races) at the galleria". Sign-up was by online form; riders and drivers were matched by the organiser.
+
+- key: groupme-2025-02-25-wiess-skate
+  title: "Wiess Announcements (GroupMe), college president's thank-you post after Wiess Skate, 25 Feb 2025"
+  type: message
+  date: 2025-02-25
+  evidence: P
+  notes: >
+    "thank you so so much to everyone who came to wiess skate tonight!! it was my last official event as
+    president ... (our highest turnout yet!!) ... skating, chatting, speed race spectating (and participating),
+    o-week dancing, and eating yummy pastries!!"
+
+- key: groupme-2026-02-02-wiess-skate
+  title: "Wiess Announcements (GroupMe), organiser's post announcing Wiess Skate, 2 Feb 2026"
+  type: message
+  date: 2026-02-02
+  evidence: P
+  notes: >
+    "TLDR: Wiess Skate is our annual ice skating event at the Galleria. The event will be happening on SUNDAY,
+    FEBRUARY 22ND at 7:30PM. Signup closes on Feb 18th ... if you can sign up to drive that would be awesome!!"
+    A reminder on 9 Feb calls it "this Wiess tradition".
+
+- key: groupme-2026-02-22-wiess-skate
+  title: "Wiess Announcements (GroupMe), posts on the night of Wiess Skate, 22 Feb 2026"
+  type: message
+  date: 2026-02-22
+  evidence: P
+  notes: >
+    A photo album of "Wiess skate photos" was posted to the college's Facebook page the same night. A separate
+    post reports the Wiess men's flag football team beating McMurtry "DURING WIESS SKATE".
+
+- key: wikipedia-galleria-houston
+  title: "'The Galleria (Houston)', Wikipedia (consulted 6 Oct 2026)"
+  type: website
+  date: 2026-10-06
+  url: https://en.wikipedia.org/wiki/The_Galleria
+  evidence: R
+  notes: >
+    The mall opened 16 November 1970 with "a large, floor-level, ice rink open year-round" (citing the Houston
+    Chronicle, 11 Nov 1990, "20 Candles Afire on Galleria Ice").
+
+- key: rice-admission-blog-2012-12-24-mcskate
+  title: "'McSkate', Owl Admission Blog, Rice University, 24 Dec 2012"
+  type: website
+  date: 2012-12-24
+  url: https://web.archive.org/web/20150104204306/http://admission.blogs.rice.edu/tag/ice-skating/
+  evidence: P
+  notes: >
+    McMurtry rented the Galleria rink for the college the Sunday before finals; the post notes other colleges
+    held skating outings too.
+
+- key: thresher-2023-11-29-dead-days
+  title: "'Live your best dead days life', Rice Thresher, 29 Nov 2023"
+  type: newspaper
+  date: 2023-11-29
+  url: https://www.ricethresher.org/article/58cce199-af04-4943-9764-da13d5ebbb6d
+  evidence: P
+  notes: >
+    Lists "Sid Skates" at the Galleria rink on 5 Dec and "Hanszen on Ice": other colleges' skating nights.
+
+- key: wikipedia-broomball
+  title: "'Broomball', Wikipedia (consulted 6 Oct 2026)"
+  type: website
+  date: 2026-10-06
+  url: https://en.wikipedia.org/wiki/Broomball
+  evidence: R
+  notes: >
+    Reference description of the game: played on ice in shoes rather than skates, two teams, a ball moved with a
+    stick that has a broom-like head, goals at each end, scoring like hockey.
+
+- key: thresher-2012-08-18-purity-test
+  title: "'Release of new purity test long overdue', Rice Thresher, 18 Aug 2012"
+  type: newspaper
+  date: 2012-08-18
+  url: https://www.ricethresher.org/article/ba2d4acb-1552-4ba9-adc7-a9284cd9eac2
+  evidence: P
+  notes: >
+    Opinion piece that treats broomball as a standard orientation icebreaker: "many of the recreational
+    activities that occur on campus are far more hedonistic than broomball."

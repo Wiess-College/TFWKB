@@ -7,12 +7,11 @@ reviewed_by: unreviewed
 
 # Unnecessary Tie Day
 
-Exactly what it sounds like.
+Unnecessary Tie Day was a Wiess day for wearing a tie for no reason. The rules, in full: "Wear a tie. What could be simpler?" [@riceinfo-tieday]
 
 !!! abstract "TL;DR"
-    - The rules, in full: "Wear a tie. What could be simpler?" [@riceinfo-tieday]
     - Listed with an exclamation mark among the traditions "We'd Sure Like To See Continue" in 1997 [@riceinfo-traditions-1997].
-    - By December 1999 it had slid to "Sadly Seem To Be Dying Out." Nothing after [@riceinfo-traditions-1999].
+    - By December 1999 it had slid to "Sadly Seem To Be Dying Out." That's the latest mention we've found so far [@riceinfo-traditions-1999].
 
 ## What it was
 
@@ -20,9 +19,9 @@ Exactly what it sounds like.
 
 Who picked the day? Once a year, or whenever someone yelled it? The page doesn't say [@riceinfo-tieday].
 
-## Why it stopped
+## Last seen
 
-Nobody says. Six months after writing the page, Wagner himself moved it to "Dying Out" [@riceinfo-traditions-1999]. No O-Week book from 2003 on mentions it [@oweek-2003 p.3] [@oweek-2017 p.14].
+We haven't found a source that says why it faded. Six months after writing the page, Wagner himself moved it to "Dying Out" [@riceinfo-traditions-1999]. The O-Week books we have, from 2003 on, don't mention it [@oweek-2003 p.3] [@oweek-2017 p.14].
 
 ??? info "The receipts: timeline"
 
@@ -36,15 +35,5 @@ Nobody says. Six months after writing the page, Wagner himself moved it to "Dyin
 ??? quote "In the college's own words"
 
     "Anybody got a really horrendous tie I can put in here? … That'll do nicely." [@riceinfo-tieday]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.** "Continue" in 1997, "dying" in 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The second call is Wagner's, who had just written its page, so it reads as a report, not a typo.
-
-    **Still don't know.**
-
-    - When it was held, and who declared it [@riceinfo-tieday].
-    - Whether a later class revived it. A one-day joke might never reach a glossary.
-    - The `elvistie` image is in the riceinfo mirror and hasn't been looked at [@riceinfo-site].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

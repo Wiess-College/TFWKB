@@ -7,17 +7,18 @@ reviewed_by: unreviewed
 
 # FilmFest
 
-Classes are over. Finals are coming. Obviously, the answer is 24 straight hours of movies.
+FilmFest was Wiess's 24-hour movie marathon at the end of classes, before finals: first in the Old Wiess basement, later in the New Wiess movie room [@oweek-2015 p.23] [@handbook-1994]. The latest book we've found that mentions it is 2017's [@oweek-2017 p.14].
 
 !!! abstract "TL;DR"
-    - FilmFest was a 24-hour movie marathon at the end of classes, before finals [@oweek-2015 p.23].
     - It's in the 1994 handbook, in the Old Wiess basement [@handbook-1994].
     - In New Wiess it moved to the fourth-floor TV room, later the "legendary movie room" [@oweek-2003 p.4] [@oweek-2015 p.23].
-    - The last book to mention it is 2017's. It's missing from every book since [@oweek-2017 p.14] [@oweek-2019 p.30].
+    - The latest book we've found that mentions it is 2017's. The 2019–2025 books don't bring it up [@oweek-2017 p.14] [@oweek-2019 p.30].
 
 ## How it worked
 
-Movies from every genre, "from midnight to midnight" [@oweek-2015 p.23]. The 1997 website put it best: "24 *solid* hours of movies. Caffeine is good for the soul" [@riceinfo-traditions-1997].
+Classes are over. Finals are coming. Obviously, the answer is 24 straight hours of movies. Movies from every genre, "from midnight to midnight" [@oweek-2015 p.23]. The 1997 website put it best: "24 *solid* hours of movies. Caffeine is good for the soul" [@riceinfo-traditions-1997].
+
+How often depends on who you ask. The books say once a semester in 1994 and 2017, but the 1994 webmaster didn't recall it "ever happening more than once a year" [@handbook-1994] [@oweek-2017 p.14].
 
 The books sold it honestly. It's "The best way to waste time when you should be studying" (2003) [@oweek-2003 p.4]. It's "the perfect way to take a study break or to procrastinate—whichever you prefer" (2015) [@oweek-2015 p.23].
 
@@ -55,18 +56,5 @@ Wiess has loved movies for a long time. In 1965 it started "a yearlong film fest
     | c.2015–2017 | Wiess Associates site, "Wiess Traditions", carries the 2015 paragraph [@wb 20170101000000 https://wiessassociates.rice.edu/wiess-101-for-associates/wiesstraditions/] | [P] |
     | 2017 | Glossary: "24-hour film marathon held once a semester"—the 1994 frequency returns [@oweek-2017 p.14] | [P] |
     | 2019–2025 | FilmFest is in none of the four books: gone from the glossary after 2017, and the movie room—"the stuff of legend and the desire of every other college on campus"—is now "a great place to spend a Friday night with some friends rewatching all of Game of Thrones", with no marathon [@oweek-2019 p.30] [@oweek-2021 p.35] [@oweek-2024 p.11] [@oweek-2025 p.11] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Once a semester or once a year?** "Once a semester" in 1994 and 2017 [@handbook-1994] [@oweek-2017 p.14]; the 1997 webmaster didn't believe it [@handbook-1994]. 2003–2016 just say "Dead Week" or "Dead Days" [@oweek-2003 p.4] [@oweek-2016 p.13]. It probably varied.
-    - **Where?** The basement (1994) [@handbook-1994]; the fourth-floor TV room (2003–2011) [@oweek-2003 p.4]; the Movie Room with "a big projector" (2014) [@oweek-2014 p.103]. Both 2006 and 2014 say it seats about 35 [@oweek-2006 p.42] [@oweek-2014 p.42]. See [New Wiess](../places/new-wiess.md).
-    - **The name.** "Filmfest," "FilmFest," "Filmest" (a 2003 typo), "film fest." This page uses the 1997 form.
-
-    **Still don't know.**
-
-    - When it began. The Thresher from 1956 to January 1994 has no 24-hour FilmFest, only the 1965 and 1975 film series [@thresher-1965-09-30-film-festival] [@portal metapth245231 p.12].
-    - Does it still run? The last description is 2017 [@oweek-2017 p.32]; the 2019–2025 books don't mention it [@oweek-2019 p.30] [@oweek-2025 p.11]. The current website's traditions page hasn't been captured [@wiess-rice-edu].
-    - Who ran it? No book names an officer.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

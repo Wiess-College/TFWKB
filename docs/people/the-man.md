@@ -7,10 +7,10 @@ reviewed_by: unreviewed
 
 # Harry Carothers Wiess
 
-The college is named for an oilman who never saw the building. Here's who he was.
+Harry Carothers Wiess (1887–1948) was a Texas oilman, a founder of Humble Oil and a Rice trustee, and the man Wiess College is named for [@riceinfo-theman]. He never saw the building.
 
 !!! abstract "TL;DR"
-    - Harry Carothers Wiess (1887–1948) was born in Beaumont and helped found Humble Oil in 1917 [@riceinfo-theman].
+    - He was born in Beaumont and helped found Humble Oil in 1917 [@riceinfo-theman].
     - He was a Rice trustee from 1944 until he died in 1948, "only… four years" [@riceinfo-theman] [@rhc 2020-05-20 harry-wiess-and-rices-first-strategic-plan-1945].
     - The dorm being built as "North Hall" was renamed for him, becoming Wiess Hall in 1950 [@rhc 2012-12-04 wiess-hall-construction-1949] [@riceinfo-history].
     - The Constitution still opens with his name and his "generosity, with time, mind, and resources" [@constitution-2026 p.3].
@@ -28,6 +28,8 @@ He died in August 1948. Rice's archivist put it simply: "We really could have us
 ## The name on the building
 
 The new dorm was designed as "North Hall" and renamed for him after his death [@rhc 2012-12-04 wiess-hall-construction-1949]. It was named Wiess Hall in 1950 [@riceinfo-history]. Olga Keith Wiess later paid for expanding its central wing [@riceinfo-theman]. More on the building: [Old Wiess](../places/old-wiess.md).
+
+The O-Week books say he left "a big chunk of cash… for the building of Wiess College" [@oweek-2006 p.36]. The 1994 "Man" page and Rice's archivist tell it differently: a 1946 pledge to Rice, and a dorm renamed for him after he died [@riceinfo-theman] [@rhc 2012-12-04 wiess-hall-construction-1949].
 
 The O-Week books have their own spin. The 2016 Owlmanac calls him "a respected and beautiful oil tycoon" [@owlmanac-2016 p.12].
 

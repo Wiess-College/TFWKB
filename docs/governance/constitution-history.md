@@ -7,7 +7,9 @@ reviewed_by: LM
 
 # How the Constitution changed
 
-The Constitution is the college's rulebook. Here's how it changed from 1993-onward: from a twelve-article document to a much, much larger sixteen-article one in 2026.
+The Constitution is Wiess's rulebook. The current text, last amended on 23 February 2026, sets up [Cabinet](cabinet.md) and the [Court](court.md), and has the Bylaws folded in [@constitution-2026 Art. IV §1; Art. VIII §1] [@constitution-hate-speech].
+
+This page is how it got there from 1993 onward: from a twelve-article document to a much, much larger sixteen-article one in 2026.
 
 !!! abstract "TL;DR"
     - Eight Constitutions have been captured digitally and recorded here: 1993, 2007, 2013, 2016, 2017, 2020, 2025, and 2026. So do the 1991 Rules and four sets of Bylaws [@gov-repo CHANGES.md].

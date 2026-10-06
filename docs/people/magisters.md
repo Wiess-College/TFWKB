@@ -15,6 +15,18 @@ The Magister[^magister] is a professor who lives next to the college with their 
     - Since August 2021: Flavio Cunha and Fabiana Santos [@wb 20210813231021 http://teamwiess.com/government/ateam] [@oweek-2025 p.30].
     - Since 2016, a student committee helps pick the Magister [@constitution-2016 p.1].
 
+## What they actually do
+
+The 2024 book has the Magisters' own job description: "As magisters, we have four main roles." They advise student government, help with academic advising, support students in emergencies, and work with Housing & Dining on the buildings [@oweek-2024 p.29] [@oweek-2025 p.30].
+
+They're "the middlemen between students and Rice administration" [@oweek-2024 p.28]. Also: "They are always around Wiess eating meals with you, playing volleyball, taking their dogs on walks" [@oweek-2024 p.28]. And go to their teas: "Get to know the masters. You will not regret it" [@wb 20080625214650 http://teamwiess.com/index.php?r=masters].
+
+## How they're picked
+
+At first the administration just appointed them [@constitution-1993]. From 2007, Cabinet recommended [@constitution-2007 p.1]. Since 2016, a committee of at least six Wiess members recommends, and the administration appoints [@constitution-2016 p.1]. Newer versions ask the committee to "reflect the diversity of interests and identities present across Wiess" [@constitution-2026 p.3].
+
+The Magister can veto Cabinet. Since about 2025, Cabinet can answer with "an official statement of dissent by a two-thirds vote" [@constitution-hate-speech Art. VI §5] [@constitution-2026 p.9]. Details: [@gov-repo].
+
 ## Who they've been
 
 The list is solid from about 1990 and patchy before. The full table with sources is in the receipts below.
@@ -30,18 +42,6 @@ The list is solid from about 1990 and patchy before. The full table with sources
 - **2026-** 
 
 The Magisters, RAs and Coordinators together: [The Core Team](core-team.md). Their house: [Wilson House](../places/wilson-house.md).
-
-## What they actually do
-
-The 2024 book has the Magisters' own job description: "As magisters, we have four main roles." They advise student government, help with academic advising, support students in emergencies, and work with Housing & Dining on the buildings [@oweek-2024 p.29] [@oweek-2025 p.30].
-
-They're "the middlemen between students and Rice administration" [@oweek-2024 p.28]. Also: "They are always around Wiess eating meals with you, playing volleyball, taking their dogs on walks" [@oweek-2024 p.28]. And go to their teas: "Get to know the masters. You will not regret it" [@wb 20080625214650 http://teamwiess.com/index.php?r=masters].
-
-## How they're picked
-
-At first the administration just appointed them [@constitution-1993]. From 2007, Cabinet recommended [@constitution-2007 p.1]. Since 2016, a committee of at least six Wiess members recommends, and the administration appoints [@constitution-2016 p.1]. Newer versions ask the committee to "reflect the diversity of interests and identities present across Wiess" [@constitution-2026 p.3].
-
-The Magister can veto Cabinet. Since about 2025, Cabinet can answer with "an official statement of dissent by a two-thirds vote" [@constitution-hate-speech Art. VI §5] [@constitution-2026 p.9]. Details: [@gov-repo].
 
 ??? info "The receipts: the Magisters, as the sources name them"
 

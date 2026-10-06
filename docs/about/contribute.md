@@ -51,6 +51,8 @@ Not sure yet? Just want to argue about when Team Wiess started? Start a conversa
 
 A maintainer reads every form. If your story has something we can source, they go looking (Thresher, O-Week books, old websites) and add it to the page with a citation. If it can't be sourced yet, it goes in the [Commons](https://github.com/Wiess-College/TFWKB/wiki) and the [wanted list](../sources/wanted.md).
 
+Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues). If you know something the site doesn't, that's normal: it draws on a small part of what exists, and the Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079]. Tell us, or tell us where to look.
+
 ## What we can't use
 
 - Anything about a private person beyond their college job.

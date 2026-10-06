@@ -45,7 +45,7 @@ P = [
      UNREC, "[@riceinfo-history]", "1969", "Old Wiess"),
     # --- Old Wiess: Delany, Aug 2002
     ("photos-old-wiess/details-photo6.jpg", "oldwiess",
-     "The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions.",
+     "The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page.",
      DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/spaces-photo13.jpg", "oldwiess",
      "The entrance under the WIESS COLLEGE lettering, abandoned, August 2002.",

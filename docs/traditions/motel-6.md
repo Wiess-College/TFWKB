@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Motel 6 / Motel Wiess
 
-Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. People have been calling Wiess a motel for over 50 years, and Wiess decided to own it.
+"Motel 6" (or "Motel Wiess") is the nickname for Wiess's building, with its outdoor hallways and wrap-around balconies. The O-Week books still use it in 2025 [@oweek-2014 p.36] [@oweek-2025 p.24].
 
 !!! abstract "TL;DR"
     - Wiess's own 1972 Freshman Handbook said the building was built "in the best motel tradition" [@handbook-1972].
@@ -15,6 +15,8 @@ Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. Peop
     - Since 2006 every O-Week book has credited "the unique 'Motel 6' design" with the college's social reputation [@oweek-2006 p.37] [@oweek-2025 p.24].
 
 ## Wiess roasted itself first
+
+Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. People have been calling Wiess a motel for over 50 years, and Wiess decided to own it.
 
 In 1972 the handbook joked that the dining hall, lounge and office were "all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972].
 

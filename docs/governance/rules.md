@@ -7,13 +7,21 @@ reviewed_by: unreviewed
 
 # Rules & Housing Rules
 
-Under the Constitution sit two short codes. The **College Rules** say what you can't do (and what the Court can fine you for). The **Housing Rules** decide who gets which room.
+The College Rules and the Housing Rules are Wiess's two short codes, sitting under the Constitution and set by Cabinet [@constitution-2026 Art. IV §2]. The **College Rules** say what you can't do (and what the Court can fine you for). The **Housing Rules** decide who gets which room.
 
 !!! abstract "TL;DR"
     - We have old versions of the College Rules, 1991 and 2012. They're almost the same length and say almost the same things [@rules-1991] [@college-rules-2012] [@gov-repo CHANGES.md].
     - The big losses by 2012: Freshman Waiting, and signing a promise that you've read the rules [@rules-1991 §§VI, IX] [@college-rules-2012 §VIII].
     - The Housing Rules (2008 and 2013) run room draw, the "jack": a pecking order, points, squatting, and first pick for the President [@housing-rules-2008] [@housing-rules-2013].
     - "Room Jack" is in print by 1981: "Say goodbye to your favorite freshmen at Room Jack Thursday night in the commons" [@thresher-1981-04-09-room-jack].
+
+## The Housing Jack
+
+Wiess doesn't have room for everyone, so rooms go by draw, the "jack" [@oweek-2003 p.65] [@oweek-2014 pp.102–103]. The written rules have a seven-tier pecking order, points by class year (seniors 4, juniors 3, sophomores 2, fifth-years 1), and squatting: keep your suite if you have at least 7 points [@housing-rules-2013 §§I, IV, V].
+
+And there's **Presidential Privilege**: "The president with a full suite trumps squatters and gets first choice of room at the college" [@housing-rules-2013 §III].
+
+The freshman jack works backwards: "The first name selected goes at the bottom of the waiting list" [@housing-rules-2008 §II]. By 2024 the Thresher describes Wiess drawing names with ping-pong balls tossed into cups, "The Almost-Pong Game" [@thresher-2024-03-kicked-off-campus]. In 2026 three Housing Representatives "execute all housing jacks by the end of the Spring Semester" [@constitution-2026 Art. VII §1].
 
 ## The College Rules 1991 → 2012
 
@@ -30,14 +38,6 @@ What got dropped:
 In 1976 a student at another college teased that the "'animals' at Wiess still engage in … freshman waiting" [@thresher-1976-11-15-freshman-waiting]. The Wiess reply: freshmen wait about eight weeks, and it's "far superior to the 'hep yersef' system at the other colleges" [@thresher-1976-11-22-freshman-waiting-reply].
 
 By 2006 the glossary has "Freshmen Service Points… Four hours of required service for freshmen" instead [@oweek-2006 p.84]. The 2007 Constitution has the Sophomore Reps organizing service points, not waiting [@constitution-2007 Art. III §4 I]. More on the dinners: [Formal dinner](../traditions/retired/formal-dinner.md).
-
-## The Housing Jack
-
-Wiess doesn't have room for everyone, so rooms go by draw, the "jack" [@oweek-2003 p.65] [@oweek-2014 pp.102–103]. The written rules have a seven-tier pecking order, points by class year (seniors 4, juniors 3, sophomores 2, fifth-years 1), and squatting: keep your suite if you have at least 7 points [@housing-rules-2013 §§I, IV, V].
-
-And there's **Presidential Privilege**: "The president with a full suite trumps squatters and gets first choice of room at the college" [@housing-rules-2013 §III].
-
-The freshman jack works backwards: "The first name selected goes at the bottom of the waiting list" [@housing-rules-2008 §II]. By 2024 the Thresher describes Wiess drawing names with ping-pong balls tossed into cups, "The Almost-Pong Game" [@thresher-2024-03-kicked-off-campus]. In 2026 three Housing Representatives "execute all housing jacks by the end of the Spring Semester" [@constitution-2026 Art. VII §1].
 
 ??? info "The details: College Rules, 1991 → 2012"
     - **Flatware.** "Flatware and silverware shall not leave the commons area" becomes "shall be used in accordance with Housing and Dining Policy" [@rules-1991 §I] [@college-rules-2012 §I G].
@@ -108,7 +108,5 @@ The freshman jack works backwards: "The first name selected goes at the bottom o
 > "Even the Animal House has to have rules, so here are ours." [@riceinfo-rules-index-1997]
 
 > "Freshmen Service Points—Four hours of required service to Wiess. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities to get them!" [@oweek-2014 p.102]
-
-## Arguments & loose ends { #variants-disputes }
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

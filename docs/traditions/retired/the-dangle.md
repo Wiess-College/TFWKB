@@ -7,17 +7,16 @@ reviewed_by: unreviewed
 
 # The Dangle
 
-Wiess's most famous dead tradition. Also its least explained.
+The Dangle, "the third-floor dangle," was one of Wiess's early "unorthodox customs" [@oweek-2003 35-44 wiess.pdf p.3]. A 1990 student history of Wiess put it plainly: "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity].
 
 !!! abstract "TL;DR"
-    - "The third-floor dangle" was one of Wiess's early "unorthodox customs," right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3].
-    - The oldest clue is from 1990: a student history of Wiess said "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity].
+    - The books list it right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3]. We haven't found the rules written down.
     - It was over by 1997: "I'm glad 'dangling' doesn't happen anymore" [@riceinfo-traditions-1997].
     - The books' verdict: it "disappeared as human life became more valuable" [@oweek-2017 p.12].
 
 ## What it was
 
-Nobody wrote down the rules. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/masters-and-magisters.md), is the professor who lives next door and looks out for the college.)
+We haven't found the rules written down. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/masters-and-magisters.md), is the professor who lives next door and looks out for the college.)
 
 Old Wiess had "outside balconies connecting all rooms" [@riceinfo-history]. So picture someone held over a third-floor railing. That part is a guess from the name and the floor, not a record.
 
@@ -47,18 +46,5 @@ The 1997 website sounded relieved, and hinted it wasn't *that* long ago: "Ask so
     "(I mean, I dunno about you, but *I'm* glad 'dangling' doesn't happen anymore. Ask somebody who's already graduated, young ones.)" [@riceinfo-traditions-1997]
 
     "Although the Ubangee is still proudly practiced in a slightly modifed form, the dangle disappeared as human life became more valuable." [@oweek-2017 p.12]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **When it died.** The books make it sound ancient. The 1997 website's "Ask somebody who's already graduated" suggests recent alumni remembered it, so maybe the early 1990s [@riceinfo-traditions-1997]. Both can be true. Neither gives a date.
-    - **"Dangling" vs. "the third-floor dangle."** The 1997 site uses the verb; the books from 2003 use the noun with its floor [@riceinfo-traditions-1997] [@oweek-2003 35-44 wiess.pdf p.3]. Fifteen years of books copy that one 2003 sentence.
-    - **Ubangee "in a slightly modified form."** Added in 2015 [@oweek-2015 p.10]. That's a change to the [Ubangee](../ubangee.md), not the Dangle.
-
-    **Still don't know.**
-
-    - Exactly what happened, and how often. "Strength of Identity" (c.1990) is the best lead; finding a copy would help [@thresher-1990-11-09-strength-of-identity]. Alumni of the 1980s and early 1990s are the other.
-    - What ended it: a rule, an accident, or Old Wiess being torn down in 2002 (see [Old Wiess](../../places/old-wiess.md)). The 1991 Rules and 1993 Constitution don't mention it [@rules-1991] [@constitution-1993].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

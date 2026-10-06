@@ -7,27 +7,20 @@ reviewed_by: unreviewed
 
 # Beer Bike
 
-It starts at 4 a.m. with loud music and ends soaking wet. Rice's spring relay race has run since 1957; this page is about how Wiess does it.
+Beer Bike is Rice's spring relay race between the colleges, held since 1957: each college has ten bikers and ten chuggers, taking turns, and the chuggers drink water [@oweek-2006 p.51] [@oweek-2003 p.5] [@oweek-2024 p.39]. This page is about how Wiess does it.
 
 !!! abstract "TL;DR"
-    - Beer Bike is a spring relay between the colleges: ten bikers and ten chuggers each, taking turns [@oweek-2003 p.5]. The chuggers drink water [@oweek-2024 p.39].
     - Wiess's day: a pre-dawn wake-up, a parade, water balloons, and the [War Pig](warpig.md) [@riceinfo-beerbike] [@oweek-2024 p.39].
     - Wiess won the beer-drinking contest in 1958 and the men's race in 1975. That 1975 win is where the [Team Wiess](team-wiess.md) chant first shows up [@thresher-1958-05-09-beer-drinking] [@thresher-1975-04-07-beer-bike].
     - The week before used to be Willy Week. Since 2021 Wiess calls it Piggy Week [@oweek-2019 p.19] [@oweek-2021 p.19].
 
 ## The Wiess day
 
-Some "cruel upperclassman" wakes the whole college with loud music. In 1997 the favorites were "Ride of the Valkyries," AC/DC and Black Sabbath's "War Pigs" [@riceinfo-beerbike]. In 2024 it was "All I Do Is Win," at 4 a.m. [@oweek-2024 p.39].
+It starts at 4 a.m. with loud music and ends soaking wet. Some "cruel upperclassman" wakes the whole college with loud music. In 1997 the favorites were "Ride of the Valkyries," AC/DC and Black Sabbath's "War Pigs" [@riceinfo-beerbike]. In 2024 it was "All I Do Is Win," at 4 a.m. [@oweek-2024 p.39].
 
-Then everyone gathers in the Acabowl, and the parade heads down the Inner Loop to the track [@riceinfo-beerbike]. Expect water balloons, a firehose, and in 2024 a color war with powder [@oweek-2024 p.39]. The 2015 glossary says it's "Often compared to Christmas" [@oweek-2015 p.120].
+Then everyone gathers in the Acabowl, and the parade heads down the Inner Loop to the track [@riceinfo-beerbike]. Expect water balloons, a firehose, and in 2024 a color war with powder [@oweek-2024 p.39]. The chuggers drink water in the 2006, 2016 and 2024 books; the 1997 website guessed "beer with the alcohol boiled out of it" [@oweek-2006 p.51] [@owlmanac-2016 p.43] [@oweek-2024 p.39] [@riceinfo-beerbike]. The 2015 glossary says it's "Often compared to Christmas" [@oweek-2015 p.120].
 
 The week before is for jacks (pranks on other colleges) and filling water balloons [@oweek-2006 p.51]. The best-known Wiess one: around 2001, Wiess hung all of Jones's bikes "about 15 feet off the ground in front of Fondren" with a banner reading "Who wins now, Jones?" [@oweek-2006 p.52].
-
-## Winning (sometimes)
-
-Wiess's first win was in 1958, in the beer-drinking contest; the bike race was rained out [@thresher-1958-05-09-beer-drinking]. In 1968 the team used a slingshot to launch its riders faster [@thresher-1985-04-12-beer-bike-history].
-
-In 1975 Wiess won the men's title and broke out the "Wiess Team!" chant [@thresher-1975-04-07-beer-bike]. A 1985 table of winners lists Wiess for 1958, 1975 and 1982 [@thresher-1985-04-12-beer-bike-history]. By 1997 the website admitted "we've lost the last few years (the bikes were rigged! I swear, it's true!)" [@riceinfo-beerbike].
 
 ## The War Pig at Beer Bike
 
@@ -35,12 +28,12 @@ The pig has its own page: [The War Pig](warpig.md). Short version: the first bal
 
 ## Beer Bike hair
 
-The O-Week books never explain it, but they assume it. Fellows are known for "bright goldenrod hair" (2014) [@oweek-2014 p.10], and one "used to have purple hair (and not just for Beer Bike…)" (2017) [@oweek-2017 p.41]. In 2024: "ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54].
+The O-Week books we have don't explain it, but they assume it. Fellows are known for "bright goldenrod hair" (2014) [@oweek-2014 p.10], and one "used to have purple hair (and not just for Beer Bike…)" (2017) [@oweek-2017 p.41]. In 2024: "ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54].
 
 Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). There was even a Haircutting representative in 2020–21, later just "Hair" [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023].
 
 ??? info "The receipts: Beer Bike hair"
-    The O-Week books never describe a Beer Bike hair custom, but their Fellow profiles assume one. 2009: a Co-Fellow recognisable by "a 'sidewalk' shaved through his head", a style he "once sported" [@oweek-2009 part 2 p.6]. 2014 and 2016: Fellows known by their "bright goldenrod hair" and the "sunshine from his goldenrod hair" [@oweek-2014 p.10] [@oweek-2016 p.54]. 2017: a Fellow who "used to have purple hair (and not just for Beer Bike – it was a much more serious relationship than that)", which takes colored Beer Bike hair for granted [@oweek-2017 p.41]. 2024: "for the newcomers to Rice, ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54]. The college has had a Haircutting representative (2020–21), renamed Hair (2023) [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [P]; the list does not say what the job involves. Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). The written record says little about the custom itself so far.
+    The O-Week books we have don't describe a Beer Bike hair custom, but their Fellow profiles assume one. 2009: a Co-Fellow recognisable by "a 'sidewalk' shaved through his head", a style he "once sported" [@oweek-2009 part 2 p.6]. 2014 and 2016: Fellows known by their "bright goldenrod hair" and the "sunshine from his goldenrod hair" [@oweek-2014 p.10] [@oweek-2016 p.54]. 2017: a Fellow who "used to have purple hair (and not just for Beer Bike – it was a much more serious relationship than that)", which takes colored Beer Bike hair for granted [@oweek-2017 p.41]. 2024: "for the newcomers to Rice, ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54]. The college has had a Haircutting representative (2020–21), renamed Hair (2023) [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [P]; the list does not say what the job involves. Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). The sources we've found so far say little about the custom itself.
 
     An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair grow until Thanksgiving" as part of Freshman Guidance [@rhc 2020-04-20 not-hamman-hall-at-night-circa-1970 comment by Galloway Hudson. Wiess '60, 20 Apr 2020] [T].
 
@@ -48,7 +41,7 @@ Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). Th
 
 Wiess has printed its own T-shirts since at least the 1980s [@rhc 2018-02-02 friday-follies-bananas comment by Ann Peterson '86, 5 Feb 2018]. From 2010 to at least 2017 there was a representative for it, named after the slogan "YEAH WIESS" [@wb 20100826015923 http://teamwiess.com/reps.php] [@wb 20170421224822 http://teamwiess.com/reps.html]. The screens lived in the basement under the Commons [@oweek-2014 p.102].
 
-More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens). The rep's study-break plans: [Study breaks](study-breaks.md#screen-printing).
+More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens).
 
 ??? info "The receipts: screen printing"
     Wiess has printed its own T-shirts since at least the 1980s.
@@ -66,7 +59,13 @@ More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md
     | 2021 | The O-Week coordinators photographed in YEAH WIESS shirts [@wb 20210619003837 http://teamwiess.com/images/oweek2021/coords.jpg] (see [O-Week](o-week.md#photographs)) | [P] |
     | 2021– | No Yeah Wiess or screening representative on the lists of 2020–2023; no "shirt screening" in the 2021–2025 glossaries [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [@oweek-2021 p.18] | [P] |
 
-    **What the corpus confirms.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); the rep's study-break plans are on [Study breaks](study-breaks.md#screen-printing).
+    **What the sources confirm.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); the rep's study-break plans are on [Study breaks](study-breaks.md).
+
+## Winning (sometimes)
+
+Wiess's first win was in 1958, in the beer-drinking contest; the bike race was rained out [@thresher-1958-05-09-beer-drinking]. In 1968 the team used a slingshot to launch its riders faster [@thresher-1985-04-12-beer-bike-history].
+
+In 1975 Wiess won the men's title and broke out the "Wiess Team!" chant [@thresher-1975-04-07-beer-bike]. A 1985 table of winners lists Wiess for 1958, 1975 and 1982 [@thresher-1985-04-12-beer-bike-history]. By 1997 the website admitted "we've lost the last few years (the bikes were rigged! I swear, it's true!)" [@riceinfo-beerbike].
 
 ## Photographs
 
@@ -122,28 +121,5 @@ More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md
     | 2023–2024 | The college site publishes `beerbike-low.jpg`, `BeerBike2024.jpg` and `WarPig2024.jpg` [@wb 20240719230359 https://wiess.rice.edu/images/home/BeerBike2024.jpg]; the Thresher: "a Wiess tradition that got resurrected this year after dying out in years past" [@thresher-2024-04-10] | [P] |
     | 2024 | The book gives Beer Bike its own page, "What is Beer Bike?": the 4 am wake-up to "All I Do Is Win," by DJ Khaled", bikers, "chuggers (chugging water, of course)" and pit crew, "a full day of water balloon fights, a color war (throwing colored powder on all of your friends)", "four hundred students in matching t-shirts"; a Beer Bike committee does decorations, merch and "painting our mascot, the Warpig" [@oweek-2024 p.39] [@oweek-2024 p.34] | [P] |
     | 2025 | The 2024 page unchanged; the RAs promise "our over-the-top goldenrod spirit during Piggy Week" [@oweek-2025 p.40] [@oweek-2025 p.32] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Who wrote the 1997 page?** It says "Last Updated 6/25/99 by Ray Wagner" [@riceinfo-beerbike], but a January 1999 copy has the same text by David M. Cunningham, 8/11/97 [@wb 19990117000719 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/beerbike.html]. So it describes 1997, and "a few years back" means the 1993 attacks or soon after.
-    - **What do the chuggers drink?** "Beer with the alcohol boiled out of it" (1997, a guess) [@riceinfo-beerbike]; water (2006, 2016, 2024) [@oweek-2006 p.51] [@owlmanac-2016 p.43] [@oweek-2024 p.39]. Did it change, or was 1997 wrong? Unknown.
-    - **Rules.** Only the outline: 24 oz for men and 12 for women and alumni; a mile and two-thirds of a mile [@owlmanac-2016 p.43]. The Rice Program Council's rules are the real source.
-    - **Wake-up music.** Only 1997 gives a list [@riceinfo-beerbike]. 2016 confirms the 4 a.m. wake-up but not the songs [@oweek-2016 p.58].
-    - **Themes.** Only 2012's "Trojan Warpig / Beerseige our enemies!" is recorded [@campanile-2012]. A 2014 "Goldenrod Monkey" is mentioned in the archive index but not confirmed.
-    - **Winning.** The books say 1975 was the "second win ever" [@oweek-2010 p.39]. The 1985 table supports that (1958, 1975), and adds 1982 [@thresher-1985-04-12-beer-bike-history]. The 1958 "win" was the drinking contest, not the race [@thresher-1958-05-09-beer-drinking]. Other colleges won in 2006 and 2009 [@oweek-2006 p.53] [@wb 20090824073318 http://www.teamwiess.com/downloads/o-week/Part_4_2009.pdf p.10].
-    - **Willy Week or Piggy Week?** "Willy Week" 2006–2019, "Piggy Week" from 2021, same definition [@oweek-2006 p.51] [@oweek-2019 p.19] [@oweek-2021 p.19]. 2024 just says "An entire week of themed festivities" [@oweek-2024 p.39]. Nobody says why it changed.
-    - **Since 1957?** That's the books' date, not checked against the Thresher [@oweek-2024 p.39] [@oweek-2006 p.51].
-
-    **Still don't know.**
-
-    - What Beer Bike hair is, and when it started. What the Hair rep does.
-    - Does a dated screen or shirt survive?
-    - A full Wiess results table, year by year, from the Thresher's April race reports.
-    - The playlist after 1997.
-    - The 2014 "Goldenrod Monkey" blog post (the blog is private).
-    - The 2016 Thresher "Beer Bike Violations & Fines" item about the wooden pig's wheels.
-    - The Jones bike jack's real year.
-    - Were Fort Wiess and the 2001 "giant Macy's parade-style balloon" the same Beer Bike? See [Fort Wiess](fort-wiess.md).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

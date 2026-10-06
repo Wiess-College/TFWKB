@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # People
 
-The grown-ups, the offices, the Idiot, and the man on the sign. Start with the Core Team.
+This section is about the people of Wiess: the grown-ups who live with the college, its offices, the Idiot, and the man on the sign. Start with the Core Team.
 
 !!! abstract "TL;DR"
     - Wiess is run with help from Magisters[^magister], Resident Associates and a College Coordinator: the [Core Team](core-team.md) [@wiess-rice-edu-coreteam].

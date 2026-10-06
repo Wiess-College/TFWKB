@@ -7,33 +7,32 @@ reviewed_by: lm
 
 # Pumpkin Caroling
 
-Christmas carols. Halloween words. Candles, a crowned Idiot, and a pumpkin on Willy's head.
+Pumpkin Caroling is Wiess's Halloween night parade. The college picks a [College Idiot](../people/college-idiot.md) to be the Great Pumpkin, then marches around campus with candles, singing Christmas carols with Halloween lyrics [@oweek-2015 p.24] [@oweek-2021 p.38].
 
 !!! abstract "TL;DR"
-    - Every Halloween, Wiess picks a [College Idiot](../people/college-idiot.md) to be the Great Pumpkin, then parades around campus singing carols with spooky lyrics [@oweek-2015 p.24].
     - Wiess students were photographed caroling with candles at Halloween 1969 [@rice-archives-pumpkin-caroling-1969]. Baker did it even earlier, in 1965 and 1966 [@thresher-1966-11-03].
     - Many of the lyrics came from Charles Schulz's Peanuts Halloween cards. Wiess admitted it in a 1999 post called "We Goofed" [@riceinfo-pumpkin].
     - The College Idiot was an elected office by 1977 [@thresher-1977-09-08-college-idiot].
 
 ## The route
 
-The 1997 guide maps it out. Crown the Idiot with a pumpkin at Wiess ("please don't let the Idiot(s) run into any trees"). Sing at the other colleges [@riceinfo-pumpkin].
-
-At Willy's statue, "Get some agile Wiessman to climb up and place a pumpkin with a candle in it on Willy's head" [@riceinfo-pumpkin]. In Fondren Library, "file in quiet like mice," then "yell and scream on the way out." Then the President's house, and back to Wiess for cookies [@riceinfo-pumpkin].
-
 Today's books keep it short: candles, lyrics, "tasty fall treats," and "it gets even better when we visit Fondren" [@oweek-2021 p.38] [@oweek-2025 p.39].
 
-## The songs
+The 1997 guide maps it out in more detail. Crown the Idiot with a pumpkin at Wiess ("please don't let the Idiot(s) run into any trees"). Sing at the other colleges [@riceinfo-pumpkin].
 
-Favorites include "You Better Watch Out" and "I'm Dreaming of the Great Pumpkin" [@handbook-1994]. For years Wiess called them "The Official Wiess College Pumpkin Carols" [@riceinfo-pumpkin].
-
-Then in December 1999, a publisher's offer revealed the truth. "Some of the lyrics were borrowed way back from Peanuts creator Charles Schulz," from Halloween cards "around 1969" [@riceinfo-pumpkin]. The college thanked Schulz and gave him credit. The fad likely started with the 1966 TV special *It's the Great Pumpkin, Charlie Brown* [@rhc 2016-10-28 friday-follies-halloween-1969].
+At Willy's statue, "Get some agile Wiessman to climb up and place a pumpkin with a candle in it on Willy's head" [@riceinfo-pumpkin]. In Fondren Library, "file in quiet like mice," then "yell and scream on the way out." Then the President's house, and back to Wiess for cookies [@riceinfo-pumpkin].
 
 ## The Idiot
 
 The College Idiot is "somebody, usually a freshman, who a large part of Wiess views as being incurably goofy/dumb/silly" [@riceinfo-pumpkin]. It's an honor. People have "*tried* to be named Idiot" [@riceinfo-pumpkin].
 
 The Thresher lists "College Idiot" on a Wiess election ballot in 1977 [@thresher-1977-09-08-college-idiot]. By 1980, the Idiot was speaking for the Great Pumpkin in print [@thresher-1980-11-13-college-idiot-pumpkin]. These days there are usually two, an upperclassman and a freshman [@oweek-2014 p.102].
+
+## The songs
+
+Favorites include "You Better Watch Out" and "I'm Dreaming of the Great Pumpkin" [@handbook-1994]. For years Wiess called them "The Official Wiess College Pumpkin Carols" [@riceinfo-pumpkin].
+
+Then in December 1999, a publisher's offer revealed the truth. "Some of the lyrics were borrowed way back from Peanuts creator Charles Schulz," from Halloween cards "around 1969" [@riceinfo-pumpkin]. The college thanked Schulz and gave him credit. The fad likely started with the 1966 TV special *It's the Great Pumpkin, Charlie Brown* [@rhc 2016-10-28 friday-follies-halloween-1969].
 
 ??? quote "In the college's own words"
     "Pumpkin Caroling!—Wiess' spreading of good Halloween cheer. … (...with every pumpkin card I write...)" [@handbook-1994]

@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # Governance
 
-Wiess runs itself. Students write the rules, elect the people who enforce them, and change them by vote. This section is the paperwork behind that.
+This section covers how Wiess governs itself: the Constitution, [Cabinet](cabinet.md), the [Court](court.md), the [Rules](rules.md) and the [reps](representatives.md). Wiess runs itself. Students write the rules, elect the people who enforce them, and change them by vote. This section is the paperwork behind that.
 
 !!! abstract "TL;DR"
     - The **Constitution** is the college's rulebook. It sets up [Cabinet](cabinet.md) (the student government) and the [Court](court.md) (student discipline) [@constitution-2026 Art. IV §1; Art. VIII §1].
@@ -33,7 +33,7 @@ The dated entries also feed the [Changes](../changes/index.md) chronicle.
 
 ## Versions reviewed
 
-Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [the arguments](constitution-history.md#variants-disputes)).
+Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [the arguments](constitution-history.md)).
 
 | Tag | Date | Document | Where the copy came from | Evidence |
 |---|---|---|---|---|

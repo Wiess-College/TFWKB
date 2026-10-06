@@ -7,12 +7,14 @@ reviewed_by: unreviewed
 
 # Old Wiess (1949–2002)
 
+Old Wiess was the college's home from 1949 to 2002: a W-shaped dorm of five wings, with outdoor balconies around two courtyards, the Acabowl and the Backabowl [@riceinfo-history] [@wb 19990501150106 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/index.html] [@oweek-2006 p.36]. It stood just north of [New Wiess](new-wiess.md) and was torn down after the move [@wiess-60th-faq-2017 p.4] [@edesigns-old-wiess-2002].
+
 Nobody ever called Old Wiess pretty. Its own 1972 handbook said it was built "in the best motel tradition" [@handbook-1972]. But its balconies and courtyards made Wiess what it is, and students made sure the new building kept them [@riceinfo-news-2000-lundin].
 
 !!! abstract "TL;DR"
     - Opened in 1949 as Rice's fourth dorm, named Wiess Hall in 1950 for trustee Harry Carothers Wiess [@riceinfo-history].
     - Became Wiess College in 1957, when Rice started the college system [@riceinfo-history].
-    - Every room opened onto an outdoor balcony, around two courtyards: the Acabowl and the Backabowl [@riceinfo-history] [@oweek-2006 p.36].
+    - Every room opened onto an outdoor balcony [@riceinfo-history].
     - Students moved to [New Wiess](new-wiess.md) in 2002. The old building was empty that August, then torn down [@edesigns-old-wiess-2002].
 
 ## A dorm shaped like a W
@@ -31,7 +33,7 @@ Rice's archivist agreed: "It looks to me, honestly, like a motel" [@rhc 2012-12-
 
 ## Why it came down
 
-Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37].
+Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37]. Delany saw it differently: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. Both can be true: permanent, but cheap and fast.
 
 But it had problems: "plumbing, electricity, or the foundation itself" [@riceinfo-news-2000-lundin]. By the '90s, "Old Wiess was literally sinking into the ground" [@oweek-2015 p.10]. Alum Colin Delany '91 said it was "too poorly constructed to be worth saving… It will be a good Wiess, but it won't be OUR Wiess" [@edesigns-old-wiess-2002].
 
@@ -168,8 +170,8 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
 </figure>
 
 <figure markdown="span">
-  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions.](../assets/photos/photos-old-wiess/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed under Open questions." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="oldwiess" }
-  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
+  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page.](../assets/photos/photos-old-wiess/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed on the Old Wiess page." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="oldwiess" }
+  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -237,6 +239,12 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
     | 2006 | O-Week book history: "Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37] | [R] |
     | 2012-12-06 | Jeff Ross, on the construction photographs: interior walls and floors "supported by the uncompacted fill… No wonder the interior walls and floors moved independently and led to the need to demolish the building" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by Jeff Ross, 6 Dec 2012] | [T] |
     | 2016-05-25 | J. Miner (Sid Rich '88), a builder: "One of my greatest achievements in my professional career as a builder was the complete and utter destruction of Weiss itself" [@rhc 2016-05-24 hanging-out-at-wiess comment by JD Miner, 25 May 2016] | [T] |
+
+??? info "The receipts: the 1975 plaque"
+
+    Transcribed from Delany's August 2002 photograph (details, photo 6) [@edesigns-old-wiess-2002]: "WIESS COLLEGE / ESTABLISHED IN MEMORY OF / HARRY CAROTHERS WIESS (1887 – 1948) / HONORED FRIEND AND BENEFACTOR OF THE RICE INSTITUTE IN ALL ITS ASPECTS. A MAN OF FARSIGHTED VISION AND STEADFASTNESS, PENETRATING INTUITION AND INITIATIVE, FAITHFUL TRUSTEESHIP AND PHILANTHROPY. TO WHATEVER HE TURNED HIS HAND HE GAVE OF HOPE AND JOY, BEAUTY AND SPLENDOR, WISDOM AND STRENGTH. / SOCRATES SAID HE WAS NOT AN ATHENIAN OR A GREEK BUT A CITIZEN OF THE WORLD.—PLUTARCH / ANNO DOMINI 1975".
+
+    The small lines are hard to read; the Socrates line follows the 1994 "Man" page [@riceinfo-theman]. Where the plaque went after 2002: see [Building lore](lore.md#the-cornerstone-medallions-and-plaques).
 
 ??? quote "In the college's own words"
 

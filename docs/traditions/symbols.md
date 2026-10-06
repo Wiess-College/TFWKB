@@ -7,24 +7,24 @@ reviewed_by: unreviewed
 
 # Crest, colors and symbols
 
-It's not yellow. It's goldenrod. Get that right and you're halfway there.
+Wiess's symbols are its crest, a griffin on a shield split black over gold with an owl on top, and its official color, **goldenrod** [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png] [@oweek-2003 p.4]. You'll see both all over the college.
 
 !!! abstract "TL;DR"
-    - The Wiess crest is the Wiess family's coat of arms, with two changes: black and gold colors, and a Rice owl where the family's goose used to be [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
-    - The official color is **goldenrod**. Every O-Week glossary since 2003 says so, and since 2014 adds "Remember it's not yellow!" [@oweek-2003 p.4] [@oweek-2014 p.103].
+    - The crest is the Wiess family's coat of arms, with two changes: black and gold colors, and a Rice owl where the family's goose used to be [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
+    - It's not yellow. Since 2014 the O-Week glossary adds "Remember it's not yellow!" [@oweek-2014 p.103].
     - The mascot, the War Pig, has [its own page](warpig.md). TFW is on [Team Wiess](team-wiess.md).
-
-## Where the crest came from
-
-When the colleges started in 1957, each of the first four took a coat of arms. The idea was to tell apart "four relatively identical dormitories" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
-
-Wiess took "the crest of the Wiess family for which the college is named." It changed the colors "from blue and white (???) to black and gold," and swapped the goose on the helmet for a Rice Owl [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Yes, the "(???)" is in the original. Nobody was sure.
 
 ## What's on it
 
 A shield split black over gold. On it, a griffin: gold on the black half, black on the gold half. On top, a knight's helmet, with an owl standing on it [@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png] [@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif].
 
 The crest was stitched on the blazers the first Magister (the professor who lives next door and looks out for the college) required at Sunday dinner [@oweek-2006 p.37]. Today it hangs in Sparky's, the basement room [@oweek-2014 p.46]. More on the people at [Magisters](../people/masters-and-magisters.md).
+
+## Where the crest came from
+
+When the colleges started in 1957, each of the first four took a coat of arms. The idea was to tell apart "four relatively identical dormitories" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
+
+Wiess took "the crest of the Wiess family for which the college is named." It changed the colors "from blue and white (???) to black and gold," and swapped the goose on the helmet for a Rice Owl [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Yes, the "(???)" is in the original. The webmaster wasn't sure.
 
 ## The color story
 

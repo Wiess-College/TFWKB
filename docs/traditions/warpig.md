@@ -7,13 +7,19 @@ reviewed_by: unreviewed
 
 # The War Pig
 
-Wiess's mascot is a giant pig that was supposed to fly. Mostly, it didn't. That never stopped anyone.
+The War Pig (spelled "Warpig" these days) is Wiess's mascot. Today it's a giant wooden pig on wheels, first built by the Class of 2012, that Wiess paints and hauls out for Beer Bike [@campanile-2012 p.172] [@oweek-2024 p.25] [@oweek-2024 p.34].
 
 !!! abstract "TL;DR"
     - The name "War Pig" dates to 1982, from the Black Sabbath song [@maxham-pig-document].
     - From 1986 Wiess built huge trash-bag and plastic pigs for Beer Bike. One really flew in 1991, on helium balloons [@thresher-portal 5 Apr 1991 p.16] [@campanile-1991 p.281].
     - A store-bought helium pig floated away at Beer Bike 2004 when its cord was cut [@thresher-2004-03-26 p.9].
-    - The Class of 2012 built a wooden pig on wheels. "The pig will fly" became "the pig will roll" [@campanile-2012 p.172] [@oweek-2014 p.103].
+    - With the wooden pig, the old chant "The pig will fly" became "the pig will roll" [@oweek-2014 p.103].
+
+## The pig will roll
+
+The Class of 2012 built a wooden "Trojan Warpig" on a trailer for Beer Bike 2012 [@campanile-2012 p.172]. The chant changed to "the pig will roll!" [@oweek-2014 p.103]. In 2016 Wiess got fined because too many people rode it [@thresher-web "Beer Bike Violations & Fines", Mar 2016].
+
+The wooden pig has been rebuilt at least once, around 2017–21. A builder left a note inside: "do NOT just copy each piece. They are not equal.. It is a nightmare" [@warpig-note-loryn]. In 2024 an inflatable came back too, and it "flew (fell with style)" [@warpig-core-deck slides 35–46] [@thresher-2024-04-10].
 
 ## Where the pig came from
 
@@ -22,6 +28,8 @@ In spring 1982, a Wiess student (Class of '84) started calling Wiessmen "War Pig
 The first real pig was tiny: an 8–10-inch pig-iron statue carried around the college [@maxham-pig-document] [@rice-magazine-2016-wiess-traditions]. The first *big* one was a 12-foot chicken-wire pig at [Night of Decadence](night-of-decadence.md) 1984. Sid Rich guys tore it apart the same night [@portal metapth245573 p.27] [@campanile-1985 p.283].
 
 ## The pigs that (mostly) didn't fly
+
+For decades the pig was supposed to fly. Mostly, it didn't. That never stopped anyone.
 
 **1986:** A 15-foot trash-bag hot-air balloon went to Beer Bike, floated off and landed blocks away [@maxham-pig-document]. **1987–89:** A 30-by-60-foot black plastic pig lettered "TEAM WIESS." Other colleges attacked it in 1988, and it never flew [@campanile-1987 p.320] [@campanile-1988 p.268].
 
@@ -34,12 +42,6 @@ By 1999, twenty-five students still woke at 4:30 a.m. to inflate "a giant pig ma
 By 2002 Wiess had bought a $4,500 commercial helium pig, bright orange [@thresher-2004-03-26 p.9]. At Beer Bike on 20 March 2004, its cord was cut. It floated away and was never found [@thresher-2004-03-26 p.9].
 
 For the next six years, the O-Week books called the pig a "**Former** Wiess mascot" [@oweek-2006 p.84] [@oweek-2011 p.93]. Ouch.
-
-## The pig will roll
-
-The Class of 2012 built a wooden "Trojan Warpig" on a trailer for Beer Bike 2012 [@campanile-2012 p.172]. The chant changed to "the pig will roll!" [@oweek-2014 p.103]. In 2016 Wiess got fined because too many people rode it [@thresher-web "Beer Bike Violations & Fines", Mar 2016].
-
-The wooden pig has been rebuilt at least once, around 2017–21. A builder left a note inside: "do NOT just copy each piece. They are not equal.. It is a nightmare" [@warpig-note-loryn]. In 2024 an inflatable came back too, and it "flew (fell with style)" [@warpig-core-deck slides 35–46] [@thresher-2024-04-10].
 
 ## Photographs
 
@@ -117,7 +119,7 @@ The wooden pig has been rebuilt at least once, around 2017–21. A builder left 
 ??? info "The receipts: the pigs, numbered"
     | # | Years | Builder | What it was | Fate |
     |---|---|---|---|---|
-    |—| 1983 | Jeff Zweig '84 | pig-iron statuette, 8–10 in. | whereabouts unknown |
+    |—| 1983 | Jeff Zweig '84 | pig-iron statuette, 8–10 in. | not yet traced |
     |—| NOD 1984 | Wiess | chicken wire and newspaper, 12 ft, hung from the ceiling | torn apart by Sid men the same night |
     | 1 | Beer Bike 1986 | Jorge Martin de Nicolas '85 | ~15 ft trash-bag hot-air balloon | floated off, landed blocks away |
     | 2 | 1987–89 | Jorge Martin de Nicolas, "Pig Master" | 30 × 60 ft black 4-mil plastic, TEAM WIESS | attacked 1988, repaired 1989, tore |
@@ -128,27 +130,6 @@ The wooden pig has been rebuilt at least once, around 2017–21. A builder left 
     |—| 2006–11 |—| **no pig** | "Former Wiess mascot" |
     | W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note) |
     |—| 2024 | core team | inflatable, blower-filled, carried | "flew (fell with style)"; damaged |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **When did it start?** Four dates, four different things: 1982 the name [@maxham-pig-document]; 1983 the statuette and first squeals (what "1983" means on wiess.rice.edu and in Rice Magazine) [@rice-magazine-2016-wiess-traditions] [@wiess-rice-edu about/history]; 1984 the NOD effigy [@portal metapth245573 p.27]; 1986 the first Beer Bike balloon, the "first pig" to its builders [@maxham-pig-document] [@thresher-2004-03-26 p.9].
-    - **Pig #2: 1987 or 1988?** 1987. The 1987 Campanile shows it at the race [@campanile-1987 p.320]; 1988 was its second outing [@campanile-1988 p.268]. The core-team deck's "Pig 3—1988" is really the pig built in 1989–90 [@maxham-pig-document].
-    - **Pink Floyd?** Some date Pink Floyd's flying-pig show at Rice Stadium to 1974 and call it the origin. That concert was 28 April 1994, after the first pigs. The name comes from Black Sabbath [@maxham-pig-document] [@rhc 2021-12-10 im-pissed-no-date comment by Dave McCooey, Dec 2021].
-    - **A wooden pig in 2002?** Alumni remember one, but the wooden build was [Fort Wiess](fort-wiess.md), with the balloon above it [@thresher-2002-04-05 pp.6, 27]. The first wooden pig is 2012 [@campanile-2012 p.172].
-    - **Mascot or not?** The books say "mascot" (1994, 2003), "Former" (2006–2011), then "mascot" again (2014–). wiess.rice.edu's Traditions page skips the pig; its History page keeps it.
-    - **False alarms.** Apparent 1984–87 pig photos and a March 1984 "War Pigs" hit were OCR or caption errors. The earliest written "Warpig" is a senior's sign-off in the 1984 Campanile [@campanile-1984 p.371].
-
-    **Still don't know.**
-
-    - Does the 1983 pig-iron statuette survive?
-    - When did Pig #3 stop showing up (last seen 1996, "seen better days" 1997)?
-    - A photo and date for the 1997–98 mylar pig. Dr. Bill Wilson's papers at Woodson may help [@woodson-ua0079].
-    - Was today's wooden pig built for 2018, 2019 or 2021? The 2021 book points to 2021: a Gopher who was a first-year in 2020–21 "helped build most of the Warpig" [@oweek-2021 p.55].
-    - Who was on the 2012 "Warpig Taskforce," and what did it cost? The 2012 and 2013 O-Week books are missing.
-    - Deck slide 33 shows a black pig under a "WELCOME TO WIESS" banner, maybe 2002–04. Did a black pig outlive the orange one?
-    - Exact page ids for the 1 Feb 2002, 26 Mar 2004, 7 Apr 2000 and 6 Apr 2001 Thresher pages.
-    - Someone should measure and scan the wooden pig before a steel one replaces it. See the [WarPig repository](https://github.com/Wiess-College/WarPig).
 
 ## Sources
 

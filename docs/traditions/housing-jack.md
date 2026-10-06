@@ -7,17 +7,17 @@ reviewed_by: unreviewed
 
 # The Housing Jack
 
-Wiess has more members than beds. Every spring, the Housing Jack decides who gets one.
+The Housing Jack is Wiess's spring housing draw. Freshmen are drawn at random to decide who stays on campus, then upperclassmen pick rooms by points in the Room Jack, all run by three Housing Representatives [@housing-rules-2013 §II] [@housing-rules-2013 §IV] [@constitution-2026 p.10].
 
 !!! abstract "TL;DR"
     - Rice guarantees you a room only for your first year. After that, each college decides who lives on campus [@rice-ga-student-life].
     - Wiess doesn't have room for everyone, so "some people get bumped off campus" [@oweek-2003 61-74 college.pdf p.4 (printed 64)].
-    - Freshmen enter a random draw, the Freshman Jack. In 2024 it was a ping-pong cup game in the [Commons](../places/commons.md) [@housing-rules-2013 §II] [@thresher-2024-03-kicked-off-campus].
-    - Upperclassmen then pick rooms by points, in the Room Jack. Wiess was holding a "Room Jack" by 1981 [@housing-rules-2013 §IV] [@thresher-1981-04-09-room-jack].
+    - In 2024 the freshman draw was a ping-pong cup game in the [Commons](../places/commons.md) [@thresher-2024-03-kicked-off-campus].
+    - Wiess was holding a "Room Jack" by 1981 [@thresher-1981-04-09-room-jack].
 
 ## Why there's a jack at all
 
-Rice promises housing for your first year only. "The determination of available housing for sophomores, juniors, and seniors ... is made by each residential college's government" [@rice-ga-student-life].
+Wiess has more members than beds. Every spring, the Housing Jack decides who gets one. Rice promises housing for your first year only. "The determination of available housing for sophomores, juniors, and seniors ... is made by each residential college's government" [@rice-ga-student-life].
 
 Wiess has had fewer beds than members for a long time. The O-Week books of 2003, 2006 and 2007 put it plainly: "since we don't have room for everyone, some people get bumped off campus" [@oweek-2003 61-74 college.pdf p.4 (printed 64)] [@oweek-2006 p.65] [@oweek-2007 p.65].
 

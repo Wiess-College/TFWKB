@@ -7,14 +7,16 @@ reviewed_by: unreviewed
 
 # Die
 
-A table, four cups and one very bouncy die. Catch it with one hand or lose the point.
+Die (also "beer die" or "snappa") is a table game that Wiess plays: toss a die high, bounce it off the table, and make the other side miss the catch [@wikipedia-beer-die] [@eli-2023-10-21-beer-die] [@oweek-2025 p.36].
 
 !!! abstract "TL;DR"
-    - Die (also "beer die" or "snappa") is a table game: toss a die high, bounce it off the table, and make the other side miss the catch [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
-    - Nobody agrees where it came from. Maine, Colby or the Navy, depending who you ask [@vinepair-2016-11-09-beer-die].
-    - Wiess plays it. The 2025 O-Week book calls one of its Fellows a "die demon" and doesn't bother to explain [@oweek-2025 p.36].
+    - Two players a side, a cup on each corner, and one-handed catches only [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
+    - The stories of where it came from disagree: Maine, Colby or the Navy, depending who you ask [@vinepair-2016-11-09-beer-die].
+    - The 2025 O-Week book calls one of its Fellows a "die demon" and doesn't bother to explain [@oweek-2025 p.36].
 
 ## How it works
+
+A table, four cups and one very bouncy die. Catch it with one hand or lose the point.
 
 - **The table.** About 4 by 8 feet, often plywood, with a cup on each corner [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
 - **The teams.** Two a side, one player at each corner [@wikipedia-beer-die].
@@ -27,11 +29,15 @@ Then there are house rules. Lots of them, mostly passed on by word of mouth. A f
 
 ## At Wiess
 
-At Wiess, people say the cups hold water. No written source says so yet, and we don't know how long Wiess has played or what its house rules are. If you know, [add your story](../about/contribute.md).
+At Wiess, people say the cups hold water. We haven't found that in writing yet, or how long Wiess has played, or its house rules. If you know, [add your story](../about/contribute.md).
 
 The one printed trace is the 2025 O-Week book. It calls a Fellow "an Intramural (IM) king, die demon," as if everyone already knows the game [@oweek-2025 p.36].
 
 For context only: since at least 2013, Rice's alcohol policy has banned "any form of competitive drinking" [@thresher-2013-04-18-alcohol-policy].
+
+## What to call it
+
+**Die** is what Wiess says. **Beer die** is the usual name elsewhere, for the standing game. **Snappa** is the sitting-down version, and Wikipedia says the standing game grew out of it [@wikipedia-beer-die] [@aggie-2019-05-17-beer-die].
 
 ## Where it came from
 
@@ -40,10 +46,6 @@ Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-
 1. **University of Maine, 1972.** Four fraternity men tossing a die above a table. This is the Beer Die League's story.
 2. **Colby College, 1978**, per Colby's student paper. A 1996 Colby rules sheet is the oldest written rulebook anyone cites [@wikipedia-beer-die].
 3. **The Navy, 1970s.** A "legend" that officers on guard duty played it, and it passed to Santa Clara University.
-
-## What to call it
-
-**Die** is what Wiess says. **Beer die** is the usual name elsewhere, for the standing game. **Snappa** is the sitting-down version, and Wikipedia says the standing game grew out of it [@wikipedia-beer-die] [@aggie-2019-05-17-beer-die].
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |
@@ -55,17 +57,5 @@ Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-
     | 2013-04-18 | Rice alcohol policy restates the ban on competitive drinking [@thresher-2013-04-18-alcohol-policy] | [P] |
     | 2023-10-21 | Modern rules: 4 × 8 ft table, to 11 win by two, one-handed catches, a "sink" scores three [@eli-2023-10-21-beer-die] | [R] |
     | 2025 | Wiess O-Week book: a Fellow is "an Intramural (IM) king, die demon" [@oweek-2025 p.36] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Origin.* Maine 1972, Colby 1978, or the Navy and Santa Clara in the 1970s [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-2017]. Unsettled.
-    - *Points.* How much a plunk or sink is worth varies from place to place [@eli-2023-10-21-beer-die] [@wikipedia-beer-die].
-
-    **Still don't know.**
-
-    - When Wiess started playing, and how.
-    - Wiess's own house rules.
-    - Whether any Thresher article or O-Week book before 2025 mentions it. Nothing found so far.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

@@ -7,10 +7,10 @@ reviewed_by: LM
 
 # The Core Team: Magisters, Resident Associates and Coordinators
 
-The Core Team are trusted adults who live at Wiess with the students.[^magister] "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
+The Core Team is the group of trusted adults who live and work at Wiess with the students: the Magisters,[^magister] the Resident Associates (RAs) and the College Coordinator [@wiess-rice-edu-coreteam]. "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
 
 !!! abstract "TL;DR"
-    - Three roles: the **Magisters** (a faculty family next door), the **RAs** (faculty or staff who live in the college) and the **College Coordinator** (who runs the college office) [@wiess-rice-edu-coreteam].
+    - The **Magisters** are a faculty family next door, the **RAs** are faculty or staff who live in the college, and the **College Coordinator** runs the college office [@wiess-rice-edu-coreteam].
     - The books called them "The Adults (The A-team)" from 2003; "Core Team" shows up in 2021 [@oweek-2003 p.8] [@oweek-2021 p.6].
     - The longest stints on record: Dr. John E. Parish (23 years) and Dr. Bill Wilson (about 30), both RAs [@riceinfo-history] [@oweek-2003 intro p.8].
 
@@ -30,10 +30,10 @@ As the 2024 and 2025 O-Week books name them [@oweek-2025 p.60]:
 
 **The College Coordinator** started out as the college secretary in 1994 [@handbook-1994]. The job has meant mail, packages, stamps, spare keys and candy since 2003 [@oweek-2003 intro p.9]. Today it's "all administrative duties at Wiess," from an office "adjacent to the mailroom" [@oweek-2025 p.33].
 
-## A few legends
+## A few names to know
 
 - **Dr. Bill Wilson** (RA about 1975–2006): "around at Wiess as an RA for almost thirty years so he knows everything. Literally." [@oweek-2003 intro p.8]. The Magisters' house is named for him [@wiess-60th-faq-2017 p.4].
-- **Sue Gauthier** (coordinator about 1994–2007): "Be nice to her--we want her to stay for a long time" [@handbook-1994]. She did, for about thirteen years.
+- **Sue Gauthier** (coordinator about 1994–2007): "Be nice to her--we want her to stay for a long time" [@handbook-1994]. She did, for about thirteen years. (The 1994 handbook gives only "Sue"; the full name first shows up in 1999 [@riceinfo-associates].)
 - **Ewart G. Jones, Jr.** (coordinator 2013–about 2023): "the only male college coordinator at Rice" [@wb 20140627224550 http://teamwiess.com/coordinator.html], self-described "mail guru… fax master… daytime RA… and human almanac" [@oweek-2015 p.14]. The 2021 Head Fellows called him "the fourth Head Fellow" [@oweek-2021 p.73].
 - **The Schaefers** (Magisters 2016–2021): Wiess '94 and '95, who "met as undergrads at (Old) Wiess in 1991" [@oweek-2016 p.19].
 
@@ -131,7 +131,7 @@ Their house: [Wiess House / Wilson House](../places/wilson-house.md).
     | c.1974–77 | Magister | Stewart Baker (English) | Chose the commons furniture c.1974 | [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016] [@rhc 2013-02-19 dr-baker-rocks comment by Kelty Baker, 15 Jul 2020] [T] |
     | c.1975–2006 | RA (senior RA) | Dr. William "Dr. Bill" Wilson (Electrical Engineering) | An Associate on the 1974–75 Pub committee "before he became resident associate"; an RA in the 1976 Campanile; on the fourth floor "through the end of the 2005-2006 school year" | [@rhc 2017-05-08 name-that-pub-1975 comment by Kermit Lancaster, 12 May 2017] [@rhc 2014-11-19 wiess-college-luminaries comment by rcspitzer, 21 Nov 2014] [@handbook-1994] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates] [T] [P] |
     | spring 1983 (interim) | Magister | Dr. William Wilson | "Senior Resident Associate and interim master in Spring '83" | [@handbook-1994] [P] |
-    | before 1991 | RA | John Bennett | Wiess alumnus, "Former Faculty Associate… and previous Resident Associate"; dates unknown | [@handbook-1994] [P] |
+    | before 1991 | RA | John Bennett | Wiess alumnus, "Former Faculty Associate… and previous Resident Associate"; dates not found yet | [@handbook-1994] [P] |
     | early 1990s? (claimed) | Magister | George Pharr '75 | "who became master of Wiess in the early 1990s"—contradicted by the contemporary record; see Variants | [@rice-magazine-2016-wiess-traditions] [R] |
     | c.1990–2001 | Magisters | John and Paula Hutchinson | "in their fifth year as Masters" in 1994; at the 1999 groundbreaking; on the December 2001 dedication plan with their successors | [@riceinfo-masters] [@rhc 2017-11-17 friday-follies-cheers] [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html] [P] |
     | 1992–c.2001 | RA | Dr. Stan Dodds (Physics) | "starting his third year as a Resident Associate" (1994); "his sixth year living at Motel Wiess" (c.1997); not among the RAs by 2003 | [@handbook-1994] [@riceinfo-associates] [@oweek-2003 intro p.8] [P] |

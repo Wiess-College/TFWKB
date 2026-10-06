@@ -1,42 +1,55 @@
 ---
 title: Wiess Skate
 status: draft
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 reviewed_by: unreviewed
 ---
 
 # Wiess Skate
 
-An annual tradition at the Galleria Mall ice rink in the early spring semester.
+Wiess Skate is the college's yearly night at the Galleria ice rink, early in the spring semester. Wiessmen carpool over, skate, and race class against class [@oweek-2021 p.37] [@groupme-2026-02-02-wiess-skate] [@oweek-2025 p.39].
 
 !!! abstract "TL;DR"
-    - Wiess Day is a spring party in the Acabowl, planned by the Social Vice Presidents [@oweek-2015 p.24].
-    - It started in spring 2008: "a new tradition began... and it was named Wiess Day!" [@oweek-2008 part 3 p.8].
-    - It ran next to [JamFest](jamfest.md) for a few years, then outlasted it [@oweek-2010 p.91] [@oweek-2014 p.37].
-    - The 2024 and 2025 books don't mention it at all [@oweek-2024 p.37] [@oweek-2025 p.38].
+    - You don't need to know how to skate. People come for the company, the snacks and the photos [@oweek-2024 p.38].
+    - An organiser handles sign-ups and drivers; in 2025 skating was free for Wiessmen [@groupme-2025-02-13-wiess-skate].
+    - The earliest write-up we've found so far is the 2021 O-Week book. When it started is still to be found.
 
+## How it works
 
-??? quote "In the college's own words"
-    "In the spring of 2008, a new tradition began: Wiess Day! Our socials had a brilliant idea to throw a party in the Acabowl complete with games, food, and fun." [@wb 20150313224552 http://teamwiess.com/traditions.html]
+The college's own description, word for word in the 2021, 2024 and 2025 O-Week books: "Once everyone returns from winter break, Wiess starts off the spring semester and the new year by carpooling to the ice skating rink in The Galleria" [@oweek-2021 p.37] [@oweek-2024 p.38] [@oweek-2025 p.39].
 
-    "Regardless of what our socials choose to do this year, get excited" [@oweek-2014 p.43]
+In practice:
 
-    "Nobody knows what Wiess Day will hold, but it will surely be a day to remember." [@oweek-2015 p.24]
+- **Sign up.** An organiser sends an email and an online form a few weeks ahead. You sign up to skate, to drive, or both [@groupme-2025-02-13-wiess-skate] [@groupme-2026-02-02-wiess-skate].
+- **Carpool.** Drivers take everyone else. When there are more riders than seats, the organiser asks for more drivers [@groupme-2025-02-13-wiess-skate].
+- **Skate.** In 2025, skating was free for Wiessmen [@groupme-2025-02-13-wiess-skate]. Expect snacks (pastries, in 2025) and plenty of photos [@groupme-2025-02-25-wiess-skate] [@groupme-2026-02-22-wiess-skate].
+- **Race.** Each class puts up skaters for a speed race. Everyone else watches and yells [@oweek-2025 p.39] [@groupme-2025-02-25-wiess-skate].
+
+In 2025 the night also had O-Week dancing on the ice, and the organiser called it "our highest turnout yet" [@groupme-2025-02-25-wiess-skate].
+
+## When it happens
+
+"Once everyone returns from winter break," say the books [@oweek-2025 p.39]. Lately that has meant late February: Tuesday 25 February 2025 and Sunday 22 February 2026 [@groupme-2025-02-13-wiess-skate] [@groupme-2026-02-02-wiess-skate].
+
+## Where it came from
+
+The rink opened with the Galleria mall in November 1970 [@wikipedia-galleria-houston], and Rice students have been skating there ever since. Other colleges were holding skating nights by the late 1970s: Will Rice took about 200 freshmen from the coed colleges to the Galleria in 1978 [@portal metapth245376 p.8]. McMurtry started a college-wide Galleria trip by 2010, later called McSkate [@portal metapth443066 p.6] [@rice-admission-blog-2012-12-24-mcskate]. Sid and Hanszen hold their own skating nights now [@thresher-2023-11-29-dead-days].
+
+Wiess Skate is in the 2021 O-Week book, so it was established by then [@oweek-2021 p.37]. Earlier Wiess records will likely date it more exactly. If you went to an early one, [add your story](../about/contribute.md).
+
+See also [Broomball](broomball.md), Wiess's other game on the ice.
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |
     |---|---|---|
-    | 1981-09-04 | An earlier, unrelated use of the name: "Friday is Wiess Day—TG and cookout at Wiess … Match Dance that night at Wiess", a Brown–Wiess sibling-college day [@thresher-1981-09-04-wiess-day] | [P] |
-    | 2008 (spring) | First Wiess Day: "Our amazing socials decided to throw a party in the Acabowl complete with games and food. Wiessmen celebrated with first annual Wiess day with a slip-n-slide, food fight, tug-of-war, eating contest, and other fun in the sun!" [@oweek-2008 part 3 p.8] | [P] |
-    | 2008 | The same book still describes JamFest as a separate event [@oweek-2008 part 3 p.9] | [P] |
-    | 2010 | Glossary merges the two: "Jamfest/Wiess Day—Held during the spring, Wiess books live bands and people hang out in the Acabowl all day" [@oweek-2010 p.91]; history: "Wiess Day in the spring to celebrate all things Wiess" [@oweek-2010 p.39] | [P] |
-    | 2011 | "Since then, we have made great additions like 300 lbs of crawfish and an ice-cream truck" [@oweek-2011 p.45]; glossary still "Jamfest/Wiess Day" [@oweek-2011 p.93] | [P] |
-    | 2014 | "…300 lbs of crawfish, an ice-cream truck, and a petting zoo! Regardless of what our socials choose to do this year, get excited" [@oweek-2014 p.43]; own glossary entry: "Held during the spring, Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities" [@oweek-2014 p.103]; "Wiess Day has become an annual tradition" [@oweek-2014 p.37] | [P] |
-    | 2014-06-27 | teamwiess.com traditions page, three entries—Ubangee, Wiess Day, Summit: "In the spring of 2008, a new tradition began: Wiess Day!" [@wb 20140627224527 http://teamwiess.com/traditions.html]; still there March 2015 [@wb 20150313224552 http://teamwiess.com/traditions.html] | [P] |
-    | 2015 | "While every residential college can celebrate with a College Night, only Wiess has Wiess Day. This is a relatively new tradition, originating in the spring of 2008… planned by the Social Vice Presidents… a petting zoo (complete with goats and a very small horse)" [@oweek-2015 p.24]; unchanged 2016, 2017 [@oweek-2016 p.32] [@oweek-2017 p.33] | [P] |
-    | 2015–2017 | Glossary: "Held during the spring semester, when Wiess hangs out in the Acabowl all day to eat good food and participate in various fun activities" [@oweek-2015 p.119] [@oweek-2017 p.15] | [P] |
-    | 2019 | "This is a relatively new tradition, originating in the spring of 2008… planned by the Social Vice Presidents… a slip-n-slide, an ice cream truck, and a petting zoo (complete with goats, a very small horse, and a kangaroo)"; glossary: "A day to celebrate Wiess, held in the Acabowl during the spring semester"; the Social VPs "threw an awesome Wiess Day in the spring" [@oweek-2019 p.33] [@oweek-2019 p.15] [@oweek-2019 p.25] | [P] |
-    | 2021 | The same text with "originating in Spring 2018" [@oweek-2021 p.38]; glossary unchanged [@oweek-2021 p.19] | [P] |
-    | 2024–2025 | Wiess Day absent from the glossary and the traditions pages; the history drops "Wiess Day has become an annual tradition" [@oweek-2024 p.25] [@oweek-2024 p.37] [@oweek-2024 p.24] [@oweek-2025 p.38] | [P] |
+    | 1970-11-16 | The Galleria opens with a year-round ice rink [@wikipedia-galleria-houston] | [R] |
+    | 1978-08-31 | Will Rice's freshman-week skating party for the three coed colleges at the Galleria rink: "200 or so freshmen and advisors slid, slipped, and bounced around the ice" [@portal metapth245376 p.8] | [P] |
+    | 2010-02-12 | McMurtry, new that year, starts "a college-wide skating trip at the Galleria" [@portal metapth443066 p.6] | [P] |
+    | 2012-12-24 | McMurtry's trip, now "McSkate", rents the Galleria rink [@rice-admission-blog-2012-12-24-mcskate] | [P] |
+    | 2021 | First Wiess Skate write-up found so far: the O-Week book's "Wiess Skate", with the inter-class race [@oweek-2021 p.37] | [P] |
+    | 2024 | Same text in the O-Week book [@oweek-2024 p.38] | [P] |
+    | 2025-02-25 | Tuesday night at the Galleria; "class speed races", pastries, O-Week dancing; "our highest turnout yet" [@groupme-2025-02-13-wiess-skate] [@groupme-2025-02-25-wiess-skate] | [P] |
+    | 2025 | Same text in the O-Week book [@oweek-2025 p.39] | [P] |
+    | 2026-02-22 | Sunday, 7:30 pm. Called "our annual ice skating event at the Galleria" and "this Wiess tradition"; photo album posted that night [@groupme-2026-02-02-wiess-skate] [@groupme-2026-02-22-wiess-skate] | [P] |
 
-<div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
+<div class="reviewed" markdown>Last reviewed 2026-10-06 by unreviewed · [Edit this page](#)</div>

@@ -7,13 +7,17 @@ reviewed_by: unreviewed
 
 # College Night
 
-Every Rice college has a College Night once a semester. Wiess will tell you, loudly, that its own is the best.
+College Night is Wiess's themed day each semester: fun all afternoon, a fancy dinner, then "a night full of celebrations" [@oweek-2015 p.24]. Two College Night Representatives run it [@constitution-2026 p.10].
 
 !!! abstract "TL;DR"
-    - College Night is a themed day each semester: fun all afternoon, a fancy dinner, then "a night full of celebrations" [@oweek-2015 p.24].
     - It goes back to the colleges' first spring. Wiess planned one in 1957, as a formal dinner with a guest speaker [@thresher-1957-04-12-college-nights] [@thresher-1961-03-17-college-night].
     - For years Wiess held it on the last day of classes, with a show called "Entertainment" afterward [@riceinfo-collegenight] [@oweek-2003 p.3].
-    - Two College Night Representatives run it today [@constitution-2026 p.10].
+
+## Themes take over
+
+Every Rice college has a College Night once a semester. Wiess will tell you, loudly, that its own is the best.
+
+Since 2015 the books describe a themed day, "typically on Fridays," and the Entertainment show isn't mentioned [@oweek-2015 p.24]. Recent themes are mostly pig puns: Peppa the War Pig, Vineyard Swines, Pigagonia, Infinity War Pig [@oweek-2019 p.33] [@oweek-2024 p.38]. "Team Flag Wiess" got so popular it became its own event [@oweek-2019 p.33].
 
 ## Coat and tie (1957–60s)
 
@@ -24,22 +28,6 @@ The first College Nights were formal dinners with a speaker. In the colleges' fi
 By the 1990s, dinner was "very nice'n'polite, so we Wiessmen can demonstrate just how smooth we can be in nice clothes" [@riceinfo-collegenight]. Then came "the fun part, usually called 'Entertainment'": music, skits, and a Freshman Song, "mostly to vent their repressed rage at all us nasty upperclassmen" [@riceinfo-collegenight].
 
 The 1997 website bragged about the other colleges: "Entertainment at their College Nights? Nope. They're just lame" [@riceinfo-traditions-1997]. The 2003 dinner came "complete with a theme, tablecloths and 1,000 cheesesticks" [@oweek-2003 35-44 wiess.pdf p.9].
-
-## Intramural Sports
-Over the years, Wiess has competed in many IM sports:
- - Flag Football (men): champions in 2021-2023, 2025
- - Flag Football (women): champions in 2022
- - Vollyball  (mens) champions in 2022-2023
- - Basketball (men) champions in 2023
- - Basketball (womae) champions in 2023-2024
- - Softball (women) champions in 2025
- - Swimming (women) champions in 2024
-
- Wiess has won the PResident's Cup twice, once in 1994, 1997 and 2025.
-
-## Themes take over
-
-Since 2015 the books describe a themed day, "typically on Fridays," and the Entertainment show isn't mentioned [@oweek-2015 p.24]. Recent themes are mostly pig puns: Peppa the War Pig, Vineyard Swines, Pigagonia, Infinity War Pig [@oweek-2019 p.33] [@oweek-2024 p.38]. "Team Flag Wiess" got so popular it became its own event [@oweek-2019 p.33].
 
 ??? quote "In the college's own words"
     "Wisely, Wiess puts theirs on the last night of the semester to make things extra special… (you think it's a lot, but you better get there early)." [@oweek-2003 35-44 wiess.pdf p.9]
@@ -73,21 +61,5 @@ Since 2015 the books describe a themed day, "typically on Fridays," and the Ente
     | 2023–2024 | `fallcollegenight`, `collegenightpic2023` and `CollegeNight2024` photographs on the college sites [@wb 20240719230401 https://wiess.rice.edu/images/home/CollegeNight2024.jpg] [@wiess-rice-edu asset-manifest.json] | [P] |
     | 2024–2025 | The same themes less Team Flag Wiess; College Night drops out of the Wiess Speak glossary [@oweek-2024 p.38] [@oweek-2025 p.39] [@oweek-2024 p.25] | [P] |
     | 2026-02-23 | Constitution: "At least 2 College Night Representatives who shall: a. Coordinate fall and spring college nights; b. Plan events, merchandise, and food & drinks for college night; c. Apply in tandem" [@constitution-2026 p.10] | [P] |
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **What "College Night" means.** In 1957–64 it was a formal dinner with a guest speaker, coat and tie [@thresher-1957-04-12-college-nights] [@thresher-1961-03-17-college-night]. Waiters were paid for Wiess College Night by 1978 [@portal metapth245371 p.16]. The dinner-plus-Entertainment of the 1990s is a later version [@riceinfo-collegenight].
-    - **Themes.** In 1999, themes were what *other* colleges did [@riceinfo-collegenight]. The dinner had a theme by 2003 [@oweek-2003 35-44 wiess.pdf p.9]; from 2015 the theme is the headline [@oweek-2015 p.24]. Maybe that's what the 1997 site's dying "No-Theme Wiess" meant, but nothing connects them. See [No-Theme Wiess](retired/no-theme-wiess.md).
-    - **The date.** "Last day of classes" in 1999 and every book to 2014 [@riceinfo-collegenight] [@oweek-2014 p.102]; "typically on Fridays" from 2015 [@oweek-2015 p.24].
-    - **Entertainment.** A full show with a Freshman Song in 1999 [@riceinfo-collegenight]; "performances, a senior slide show in the spring" to 2011 [@oweek-2006 p.44] [@oweek-2011 p.46]; "bonding, pictures, and memories" in 2014 [@oweek-2014 p.43]; "celebrations" from 2015 [@oweek-2015 p.24].
-    - **Afternoon.** Not in 1999; "play all afternoon" from 2003 [@oweek-2003 35-44 wiess.pdf p.9]; "a full day" in 2016 [@owlmanac-2016 p.55].
-
-    **Still don't know.**
-
-    - When the dinner-and-Entertainment version began. "Older Than Time" in 1997 [@riceinfo-traditions-1997].
-    - Any Freshman Song lyrics. The 1999 page asked for them and never posted any [@riceinfo-collegenight].
-    - When College Night Reps were created: by April 2017 [@wb 20170421224901 http://teamwiess.com/profiles/reps/collegenightreps.jpg], in the Constitution by 2026 [@constitution-2026 p.10], not in the 2013–2017 constitutions [@gov-repo].
-    - The 1,000 cheesesticks. In every book 2003–2014. Still unexplained.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
