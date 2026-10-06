@@ -5,7 +5,7 @@ last_reviewed: 2026-10-05
 reviewed_by: unreviewed
 ---
 
-# The Commons and UpCo
+# Commons and UpCo
 
 The Commons is the dining hall, the biggest room in Wiess, and pretty much the center of the universe. "You will eat here, study here, act here, play here, party here, hangout here and well, live here" [@oweek-2003 p.3].
 
@@ -14,6 +14,7 @@ The Commons is the dining hall, the biggest room in Wiess, and pretty much the c
     - The New Wiess Commons (2002) faces the Acabowl and shares South Servery with Hanszen [@machado-silvetti-wiess] [@rice-facilities-first-100-years].
     - **UpCo** = the Upper Commons, the second floor, where Cabinet meets [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4] [@oweek-2021 p.63].
     - The **PDR** (Private Dining Room) next door has "pictures of all our former Masters" [@oweek-2014 p.46].
+    - The Cozy Corner is the part of commons with the couches, rug, TV and games. 
 
 ## The Old Wiess Commons
 
@@ -31,6 +32,10 @@ The books call it "the largest commons on campus." That means "lots of space and
 
 The RAs "eat dinner in the Commons most days around 5:30" [@oweek-2025 p.32]. Go say hi.
 
+### Piano Money
+
+Wiess has three commons pianos: the black Stienway in lower Commons, an pright in UpCo and an upright in the PDR.
+
 ## UpCo and the PDR
 
 **UpCo** is the second floor of the Commons. In 2014 it had "a pool table, ping pong table, TV, and lots of couches" [@oweek-2014 p.103]. Cabinet meets here [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4]. The nickname first shows up in print in 2021: "UpCo (Wiess upper commons)" [@oweek-2021 p.63].
@@ -41,11 +46,11 @@ The **PDR** is the smaller room next to the Commons. It's been a study room and 
 
 ### Square tables
 
-A 2017 photo shows square tables in pairs, chairs on all four sides [@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg]. The custom that goes with them is **cornering**: pulling up an extra chair at a table's corner, in every glossary from 2003 to 2025 [@oweek-2003 conclusions p.3] [@oweek-2025 p.26]. The full story: [Formal Dinner, waiting and long tables](../traditions/retired/formal-dinner.md#square-tables).
+A popular arrangement for tables in commons is one or two tables with chairs on all four sides [@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg]. A custom that goes with them is **cornering**: pulling up an extra chair at a table's corner, in every glossary from 2003 to 2025 [@oweek-2003 conclusions p.3] [@oweek-2025 p.26]. The full story: [Formal Dinner, waiting and long tables](../traditions/retired/formal-dinner.md#square-tables).
 
 ### Friday music
 
-Friday music has been somebody's job since at least 2016. One O-Week Fellow had "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58]. [TFFW](../traditions/tffw.md) opens with "It's Friday! There's music on the stacks" [@oweek-2016 p.31].
+Friday music has been somebody's job for a long time, [@oweek-2016 p.31] recently the music reps have born the weight of this responsibility. One O-Week Fellow had "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58]. [TFFW](../traditions/tffw.md) opens with "It's Friday! There's music on the stacks" [@oweek-2016 p.31].
 
 The 2023 representatives list has three Music reps, job not described [@wb 20230114021659 http://teamwiess.com/government/representatives]. Wiess isn't alone: in 2006, Brown's "speakers blast Happy Friday music all over the north side" [@oweek-2006 p.53].
 

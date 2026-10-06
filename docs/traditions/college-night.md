@@ -25,6 +25,18 @@ By the 1990s, dinner was "very nice'n'polite, so we Wiessmen can demonstrate jus
 
 The 1997 website bragged about the other colleges: "Entertainment at their College Nights? Nope. They're just lame" [@riceinfo-traditions-1997]. The 2003 dinner came "complete with a theme, tablecloths and 1,000 cheesesticks" [@oweek-2003 35-44 wiess.pdf p.9].
 
+## Intramural Sports
+Over the years, Wiess has competed in many IM sports:
+ - Flag Football (men): champions in 2021-2023, 2025
+ - Flag Football (women): champions in 2022
+ - Vollyball  (mens) champions in 2022-2023
+ - Basketball (men) champions in 2023
+ - Basketball (womae) champions in 2023-2024
+ - Softball (women) champions in 2025
+ - Swimming (women) champions in 2024
+
+ Wiess has won the PResident's Cup twice, once in 1994, 1997 and 2025.
+
 ## Themes take over
 
 Since 2015 the books describe a themed day, "typically on Fridays," and the Entertainment show isn't mentioned [@oweek-2015 p.24]. Recent themes are mostly pig puns: Peppa the War Pig, Vineyard Swines, Pigagonia, Infinity War Pig [@oweek-2019 p.33] [@oweek-2024 p.38]. "Team Flag Wiess" got so popular it became its own event [@oweek-2019 p.33].
