@@ -36,14 +36,4 @@ The Reps weren't a [Cabinet](../../governance/cabinet.md) office (Cabinet is Wie
     | 2007 | Same paragraph—last appearance [@oweek-2007 p.43] | [P] |
     | 2008 | Not in the 2008 book's traditions pages, which otherwise repeat the 2007 set and add Wiess Day [@oweek-2008 part 3 p.8] | [P] |
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.** The 1997 site says "Freshman Weenie Roast" [@riceinfo-traditions-1997]; the books say "The Weenie Roast," "Weenie Reps" and "the Weenies" [@oweek-2003 35-44 wiess.pdf p.8]. Same event. This site keeps the older name.
-
-    **Still don't know.**
-
-    - When it began. 1997 is the first mention, with no date [@riceinfo-traditions-1997].
-    - Whether a roast happened in fall 2007 or 2008, and why it stopped. The 2007–08 Cabinet minutes on teamwiess.com (index.php?r=lastnotes) might say.
-    - Whether the all-college cookouts at Beer Bike or [Wiess Day](../wiess-day.md) took over its job.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

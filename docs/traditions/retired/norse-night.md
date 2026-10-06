@@ -56,18 +56,4 @@ We haven't found a source that says why it faded. The 1997 website wanted it to 
 
     "The best days to do it are on Fridays, 'cause there's no family-style and folks who don't wanna Vike (is that a verb?) will probably go out to eat anyway… You shouldn't [throw food], since the Court may still fine you, and besides that, you'll get to clean it all up." [@riceinfo-norse]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Who started it.** Even the 1999 writer hedges: "somebody came up with the idea… (although it may not have been the first; I can't say for sure)" [@riceinfo-norse]. He writes like he was there in 1991 ("we were told afterwards"), so the page is partly a memory.
-    - **Continue, or dying?** "We'd Sure Like To See Continue" in 1997; "Sadly Seem To Be Dying Out" in 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The June 1999 page already talks about it in the past tense.
-    - **Why Fridays.** "There's no family-style" on Fridays [@riceinfo-norse]. That fits the Old Wiess years, when family-style dinner ran on weeknights; it ended around 2004 [@oweek-2006 p.42]. See [Formal Dinner](formal-dinner.md).
-
-    **Still don't know.**
-
-    - Whether any Norse Night happened after 1991 [@riceinfo-norse].
-    - Which Campanile volume has the "Bloomie" photo; the image file `norse1small` is in the riceinfo mirror [@riceinfo-site].
-    - Whether other colleges still do Viking tables; the page says the custom "isn't just at Wiess" [@riceinfo-norse].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

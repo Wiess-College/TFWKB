@@ -41,16 +41,4 @@ In the sources we have so far, it's a student party. No source says whether it's
 ??? quote "In the college's own words"
     "As legend has it, the first DOME party was started when a 4th floor room of girls wrote [the name] … on their window. It turned into a party, and has been celebrated every year since!" [@teamwiess-activities-2009]
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Why "DOME & Big Bang"?* The 2008 menu paired DOME with [Big Bang](big-bang.md), and the 2009 page printed them one after the other [@teamwiess-activities-2009]. Nobody explains it. Both happen in new students' first fall.
-
-    **Still don't know.**
-
-    - When DOME began, and whether the legend has a real witness. Look in the 2007–08 Cabinet minutes (never captured) and the Woodson (UA 0079) [@woodson-ua0079].
-    - Whether the Thresher ever covered it. Search "DOME party" and "Wiess" for 2000–2012.
-    - What DOME is like now. Nothing written since 2010; the O-Week books of 2019–2025 skip it too [@oweek-2019 p.31] [@oweek-2025 p.38].
-    - Whether the college or the Magisters have ever written about it.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

@@ -65,18 +65,4 @@ By the end of 1999 Ray Wagner had moved Unnecessary Tie Day and Norse Night onto
     | Formal Dinner and freshman waiting | 1950s, as the books tell it [@oweek-2006 p.37]; Thresher 1976 [@thresher-1976-11-15-freshman-waiting]; "Freshman Waiting" in the 1991 Rules [@rules-1991 §VI] | weekly family style in 2003 [@oweek-2003 wiess p.6]; ended c.2004 ("Until two years ago", 2006) [@oweek-2006 p.42]; cornering survives in the glossary to 2025 [@oweek-2025 p.26] | [Formal Dinner, waiting and long tables](formal-dinner.md) |
     | The Acatramp | 1994 [@handbook-1994]; "a long-standing tradition" in 1997 [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html] | glossary 2019 [@oweek-2019 p.14]; absent 2021 [@oweek-2021 p.18] | [The Acatramp](acatramp.md) |
 
-??? info "Arguments & loose ends"
-
-    **Named once, no page.** Three things on the 1997 lists have only a name:
-
-    - ***The Princess Bride***, "Dying Out" in 1997 and 1999. Probably a screening, but no source says so [@riceinfo-traditions-1997].
-    - **Wiess Films**, "We'd Sure Like To See Continue" in 1997 and 1999 [@riceinfo-traditions-1997].
-    - **Four-square in the Acabowl**: "Foursquare—Good Fourplay" in the 1994 glossary, and on the 1997 keep list [@handbook-1994] [@riceinfo-traditions-1997]. It belongs with [the Acabowl](../../places/acabowl.md).
-
-    **Still don't know.**
-
-    - Any of these may have kept going in 2000–2003, between the last old website and the first O-Week book we have.
-    - The printed 1994 Freshman Handbook, and older ones, would show which were still taught to freshmen [@handbook-1994].
-    - The Thresher after 1999 hasn't been searched for these names [@thresher-web]. The pre-1994 Thresher has, and it turned up early dates for several (see each page).
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

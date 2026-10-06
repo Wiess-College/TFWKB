@@ -109,6 +109,4 @@ The freshman jack works backwards: "The first name selected goes at the bottom o
 
 > "Freshmen Service Points—Four hours of required service to Wiess. Necessary to enter the housing jack at the end of your first year. There are plenty of opportunities to get them!" [@oweek-2014 p.102]
 
-## Arguments & loose ends { #variants-disputes }
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

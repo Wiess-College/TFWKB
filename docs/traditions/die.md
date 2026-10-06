@@ -56,16 +56,4 @@ Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-
     | 2023-10-21 | Modern rules: 4 × 8 ft table, to 11 win by two, one-handed catches, a "sink" scores three [@eli-2023-10-21-beer-die] | [R] |
     | 2025 | Wiess O-Week book: a Fellow is "an Intramural (IM) king, die demon" [@oweek-2025 p.36] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Origin.* Maine 1972, Colby 1978, or the Navy and Santa Clara in the 1970s [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-2017]. Unsettled.
-    - *Points.* How much a plunk or sink is worth varies from place to place [@eli-2023-10-21-beer-die] [@wikipedia-beer-die].
-
-    **Still don't know.**
-
-    - When Wiess started playing, and how.
-    - Wiess's own house rules.
-    - Whether any Thresher article or O-Week book before 2025 mentions it. Nothing found so far.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

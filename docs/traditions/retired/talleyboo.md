@@ -37,14 +37,4 @@ By 1997 it was "dying out." The 1999 list is the latest mention we've found so f
     | 1999-12-30 | Unchanged in Ray Wagner's revision [@riceinfo-traditions-1999] | [P] |
     | 2003–2017 | Not in any O-Week book [@oweek-2003 p.3] [@oweek-2017 p.14] | [P] |
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.** There's only one source, so nothing to argue about. It's missing from the 1994 handbook glossary on the same site [@handbook-1994]. Maybe it was too gross to print for freshmen. Maybe it was already gone.
-
-    **Still don't know.**
-
-    - What Talleyboo was. This is the biggest gap in the traditions record: the 1997 writer expected readers to know. Alumni of the late 1980s and early 1990s are the best bet.
-    - The spelling, and whether it's a name, a place, or a pun. The 1968 "Rue Tallyboo" is the only lead so far [@thresher-1968-04-01-tallyboo].
-    - Whether the Thresher of the 1980s–90s ever printed the word [@thresher-portal].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

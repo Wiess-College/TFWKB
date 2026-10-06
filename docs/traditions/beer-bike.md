@@ -123,27 +123,4 @@ More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md
     | 2024 | The book gives Beer Bike its own page, "What is Beer Bike?": the 4 am wake-up to "All I Do Is Win," by DJ Khaled", bikers, "chuggers (chugging water, of course)" and pit crew, "a full day of water balloon fights, a color war (throwing colored powder on all of your friends)", "four hundred students in matching t-shirts"; a Beer Bike committee does decorations, merch and "painting our mascot, the Warpig" [@oweek-2024 p.39] [@oweek-2024 p.34] | [P] |
     | 2025 | The 2024 page unchanged; the RAs promise "our over-the-top goldenrod spirit during Piggy Week" [@oweek-2025 p.40] [@oweek-2025 p.32] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Who wrote the 1997 page?** It says "Last Updated 6/25/99 by Ray Wagner" [@riceinfo-beerbike], but a January 1999 copy has the same text by David M. Cunningham, 8/11/97 [@wb 19990117000719 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/beerbike.html]. So it describes 1997, and "a few years back" means the 1993 attacks or soon after.
-    - **What do the chuggers drink?** "Beer with the alcohol boiled out of it" (1997, a guess) [@riceinfo-beerbike]; water (2006, 2016, 2024) [@oweek-2006 p.51] [@owlmanac-2016 p.43] [@oweek-2024 p.39]. Did it change, or was 1997 wrong? Unknown.
-    - **Rules.** Only the outline: 24 oz for men and 12 for women and alumni; a mile and two-thirds of a mile [@owlmanac-2016 p.43]. The Rice Program Council's rules are the real source.
-    - **Wake-up music.** Only 1997 gives a list [@riceinfo-beerbike]. 2016 confirms the 4 a.m. wake-up but not the songs [@oweek-2016 p.58].
-    - **Themes.** Only 2012's "Trojan Warpig / Beerseige our enemies!" is recorded [@campanile-2012]. A 2014 "Goldenrod Monkey" is mentioned in the archive index but not confirmed.
-    - **Winning.** The books say 1975 was the "second win ever" [@oweek-2010 p.39]. The 1985 table supports that (1958, 1975), and adds 1982 [@thresher-1985-04-12-beer-bike-history]. The 1958 "win" was the drinking contest, not the race [@thresher-1958-05-09-beer-drinking]. Other colleges won in 2006 and 2009 [@oweek-2006 p.53] [@wb 20090824073318 http://www.teamwiess.com/downloads/o-week/Part_4_2009.pdf p.10].
-    - **Willy Week or Piggy Week?** "Willy Week" 2006–2019, "Piggy Week" from 2021, same definition [@oweek-2006 p.51] [@oweek-2019 p.19] [@oweek-2021 p.19]. 2024 just says "An entire week of themed festivities" [@oweek-2024 p.39]. Nobody says why it changed.
-    - **Since 1957?** That's the books' date, not checked against the Thresher [@oweek-2024 p.39] [@oweek-2006 p.51].
-
-    **Still don't know.**
-
-    - What Beer Bike hair is, and when it started. What the Hair rep does.
-    - Does a dated screen or shirt survive?
-    - A full Wiess results table, year by year, from the Thresher's April race reports.
-    - The playlist after 1997.
-    - The 2014 "Goldenrod Monkey" blog post (the blog is private).
-    - The 2016 Thresher "Beer Bike Violations & Fines" item about the wooden pig's wheels.
-    - The Jones bike jack's real year.
-    - Were Fort Wiess and the 2001 "giant Macy's parade-style balloon" the same Beer Bike? See [Fort Wiess](fort-wiess.md).
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

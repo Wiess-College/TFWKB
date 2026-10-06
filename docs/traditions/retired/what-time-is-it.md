@@ -40,17 +40,4 @@ The words did get one more outing. Around 2002–03, Hanszen labelled the server
 
     "This is a tradition that unfortunately seems to be dying out. In times past, many of us were so used to screaming 'And Hanszen still sucks!' anytime somebody asked us the time that we did it even when at home, where nobody got it. But it was fun anyway…" [@riceinfo-hanszensucks]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Continue, or dying?** The 1997 and 1999 lists said "We'd Sure Like To See Continue" while the 1999 page said "dying out" [@riceinfo-traditions-1999] [@riceinfo-hanszensucks]. Same writer. The list was hope; the page was reality.
-    - **The Backabowl railing.** "The college sucks so hard it's weakening the Backabowl railing!" [@riceinfo-hanszensucks]. The Backabowl was Old Wiess's back field "between the singles wing and the three story wing" [@handbook-1994], the side facing Hanszen. The joke is a map.
-
-    **Still don't know.**
-
-    - When it started. "In times past," says 1999 [@riceinfo-hanszensucks]. Nothing earlier.
-    - Whether anyone revived it. A two-word comeback doesn't need a glossary entry.
-    - Whether Hanszen had a comeback. Its traditions page doesn't list one [@hanszen-traditions].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

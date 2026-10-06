@@ -100,25 +100,6 @@ The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@cam
     | current | Hanszen's traditions page: "since Wiess's mascot is the pig, each year when we play Wiess at Powderpuff, we devour a full roasted pig and bacon on the sidelines" [@hanszen-traditions] (read live 2026-10-04; no saved copy yet) | [R] |
     | 2024–2025 | Powderpuff folded into a new "Intramural (IM) Sports" tradition—"'Champions,' 'Legendary,' 'Undefeatable,' 'Way sexier than all the other colleges'"—with the 2021 championship sentence; Sparky's is a place to "watch some powderpuff"; a 2025 Head Fellow is a "Powderpuff Blocker" [@oweek-2024 p.37] [@oweek-2025 p.38] [@oweek-2024 p.11] [@oweek-2025 p.44] | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **How many titles?** Five between 1995 and 2002 by the record above. The 2006 book says "four times" in six years [@oweek-2006 p.41]; 2007 and 2008 say "eight times" in 15 years [@oweek-2007 p.41] [@oweek-2008 part 3 p.6]. From 2014, just "more than any other college" [@oweek-2014 p.41]. These are the college's own counts, not a league record.
-    - **One word or two?** "Battle Sows" in 1983, 1984, 1994, 1999 and 2009 [@portal metapth245539 p.15] [@campanile-1984 p.371] [@handbook-1994] [@riceinfo-battlesows] [@oweek-2009 part 2 p.19]. "Battlesows" in the glossaries from 2003 and every book 2019–2025 [@oweek-2003 p.3] [@oweek-2007 p.19] [@oweek-2019 p.14] [@oweek-2025 p.26]. Both are the college's.
-    - **Whose name is it?** In 1994, the Powder-Puff team "and most other women's college sports teams" [@handbook-1994], which matches its origin [@maxham-pig-document]. From 2003, the powderpuff team only.
-    - **The sow that flies.** The pig balloon was sometimes called "the Battle Sow" (1987, 2002) [@campanile-1987 p.320] [@thresher-2002-04-05 p.6], though the glossary called it the War Pig [@handbook-1994].
-    - **"Back-to-back."** The glossary kept "back-to-back defending champion" from 2003 to 2010, eight years after those titles [@oweek-2003 p.3] [@oweek-2010 p.90], then dropped it [@oweek-2011 p.92] [@oweek-2017 p.14].
-    - **The schedule page's year** is 2004, not 2005 [@wb 20041207030444 http://www.teamwiess.com/view.php?Page=ppuff.php].
-    - **Before 1983.** Powderpuff was played at Rice by 1972 [@rhc 2016-09-28 powder-puff-1972]. A search of the Thresher found no Wiess team before 1983.
-
-    **Still don't know.**
-
-    - The exact wording of the 30 Sep and 7 Oct 1983 Thresher standings.
-    - A season-by-season championship list.
-    - Is the 1986 Powderpuff game with the first pig in the Thresher [@maxham-pig-document]?
-    - Someone should archive Hanszen's traditions page and date its roast-pig line.
-    - Is "Battle Sows" still the team's name in 2026 [@wiess-rice-edu asset-manifest.json]?
-
 ## Sources
 
 The Thresher pages for 1983 are cited from the War Pig research notes; the Portal to Texas History could not be reached from the build environment, so the OCR text has not been re-read for this page. Hanszen's page is a live site read on the review date, not an archived capture.

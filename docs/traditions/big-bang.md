@@ -58,20 +58,4 @@ It's coming.
 
         The glossary line was "Party held for the freshmen after they ace their first round of exams" 2003–2011 [@oweek-2003 p.3] [@oweek-2011 p.92], "Event held for the new students after they ace their first round of exams" in 2014 [@oweek-2014 p.102], and absent 2015–2017.
 
-    ??? info "Arguments & loose ends"
-        **Where sources disagree.**
-
-        - *The constitutional article.* The 1997 site believed Big Bang was once in the Constitution [@riceinfo-traditions-1997]. The 1993 text doesn't have it [@constitution-1993], and neither do 2007, 2013, 2016, 2017 or the 2010 Bylaws [@gov-repo]. Maybe it was in a pre-1993 constitution, or maybe it was a campus legend. The Woodson records could settle it [@woodson-ua0079].
-        - *Party or event?* "Party" with "games, dancing" and T-shirts in 2003 [@oweek-2003 35-44 wiess.pdf p.8]; "Event" and "a mystery" from 2014 [@oweek-2014 p.43] [@oweek-2014 p.102]. The 1986 Thresher ties it to the first Physics 101 test [@thresher-1986-09-19-big-bang].
-        - *Did it lapse?* It vanishes from the 2015 and 2016 books and comes back in 2017 as "whatever that is" [@oweek-2017 p.25]. Maybe a joke, maybe a sign it had gone quiet. The 2026 Constitution treats it as alive [@constitution-2026 p.6].
-        - *DOME and Big Bang.* The 2008 menu put them under one heading [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb] and the 2009 page printed them back to back [@teamwiess-activities-2009]. Nobody says why. Both are early-fall events. See [DOME](dome.md).
-
-        **Still don't know.**
-
-        - Whether a pre-1993 constitution had a Big Bang article [@riceinfo-traditions-1997] [@woodson-ua0079].
-        - Exactly when it began. "Third annual" in 1986 points to 1984 [@thresher-1984-10-05-big-bang] [@thresher-1986-09-19-big-bang]; the 1983–85 Thresher should be checked.
-        - What it looked like in 2024–2026. The O-Week books of those years don't say [@oweek-2024 p.37] [@oweek-2025 p.38].
-        - Whether it was held in 2014–2016.
-        - What the empty 2008 "DOME & Big Bang" page was meant to say.
-
     <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

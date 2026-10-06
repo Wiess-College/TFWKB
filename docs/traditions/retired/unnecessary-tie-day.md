@@ -37,14 +37,4 @@ We haven't found a source that says why it faded. Six months after writing the p
 
     "Anybody got a really horrendous tie I can put in here? … That'll do nicely." [@riceinfo-tieday]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.** "Continue" in 1997, "dying" in 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The second call is Wagner's, who had just written its page, so it reads as a report, not a typo.
-
-    **Still don't know.**
-
-    - When it was held, and who declared it [@riceinfo-tieday].
-    - Whether a later class revived it. A one-day joke might never reach a glossary.
-    - The `elvistie` image is in the riceinfo mirror and hasn't been looked at [@riceinfo-site].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

@@ -55,19 +55,4 @@ We haven't found a source that says. The glossary drops it somewhere between the
 
     The entry year by year is in [How we described ourselves, by year](../glossary-series.md#acatramp).
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Why it ended.** No source says who decided, or when. The 1997 "insurance liability" line is the only hint in writing [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html].
-    - **One trampoline or several?** Purple and black in 1994 [@handbook-1994]; broken in 1997, with the college asking for "donations of trampoline parts" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; one in the new Acabowl by 2002–04 [@warpig-core-deck slide 32]. The Acatramp was an institution, not one object.
-    - **Did the glossary outlive the trampoline?** Glossary entries were often copied forward unchanged. The RA and Fellow profiles of 2014–2017, which mention people using it, are better proof it was still there [@oweek-2014 p.8] [@oweek-2016 p.50] [@oweek-2017 p.21].
-
-    **Still don't know.**
-
-    - When it first appeared. "A long-standing tradition" in 1997 [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; 1994 is the first entry [@handbook-1994].
-    - Whether the 1997 appeal raised anything.
-    - Who removed the last one, between 2019 and 2021, and why: an injury, an insurer, Rice Risk Management, or Housing & Dining. Cabinet minutes of 2019–21 might say.
-    - Whether other colleges had trampolines.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

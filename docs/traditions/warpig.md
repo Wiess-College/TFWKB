@@ -129,27 +129,6 @@ The wooden pig has been rebuilt at least once, around 2017–21. A builder left 
     | W1 | 2012– | Class of 2012 ("Warpig Taskforce") | wooden pig on a trailer; shark teeth | rebuilt or re-cut c.2017–21 (Loryn H. '21's note) |
     |—| 2024 | core team | inflatable, blower-filled, carried | "flew (fell with style)"; damaged |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **When did it start?** Four dates, four different things: 1982 the name [@maxham-pig-document]; 1983 the statuette and first squeals (what "1983" means on wiess.rice.edu and in Rice Magazine) [@rice-magazine-2016-wiess-traditions] [@wiess-rice-edu about/history]; 1984 the NOD effigy [@portal metapth245573 p.27]; 1986 the first Beer Bike balloon, the "first pig" to its builders [@maxham-pig-document] [@thresher-2004-03-26 p.9].
-    - **Pig #2: 1987 or 1988?** 1987. The 1987 Campanile shows it at the race [@campanile-1987 p.320]; 1988 was its second outing [@campanile-1988 p.268]. The core-team deck's "Pig 3—1988" is really the pig built in 1989–90 [@maxham-pig-document].
-    - **Pink Floyd?** Some date Pink Floyd's flying-pig show at Rice Stadium to 1974 and call it the origin. That concert was 28 April 1994, after the first pigs. The name comes from Black Sabbath [@maxham-pig-document] [@rhc 2021-12-10 im-pissed-no-date comment by Dave McCooey, Dec 2021].
-    - **A wooden pig in 2002?** Alumni remember one, but the wooden build was [Fort Wiess](fort-wiess.md), with the balloon above it [@thresher-2002-04-05 pp.6, 27]. The first wooden pig is 2012 [@campanile-2012 p.172].
-    - **Mascot or not?** The books say "mascot" (1994, 2003), "Former" (2006–2011), then "mascot" again (2014–). wiess.rice.edu's Traditions page skips the pig; its History page keeps it.
-    - **False alarms.** Apparent 1984–87 pig photos and a March 1984 "War Pigs" hit were OCR or caption errors. The earliest written "Warpig" is a senior's sign-off in the 1984 Campanile [@campanile-1984 p.371].
-
-    **Still don't know.**
-
-    - Does the 1983 pig-iron statuette survive?
-    - When did Pig #3 stop showing up (last seen 1996, "seen better days" 1997)?
-    - A photo and date for the 1997–98 mylar pig. Dr. Bill Wilson's papers at Woodson may help [@woodson-ua0079].
-    - Was today's wooden pig built for 2018, 2019 or 2021? The 2021 book points to 2021: a Gopher who was a first-year in 2020–21 "helped build most of the Warpig" [@oweek-2021 p.55].
-    - Who was on the 2012 "Warpig Taskforce," and what did it cost? The 2012 and 2013 O-Week books are missing.
-    - Deck slide 33 shows a black pig under a "WELCOME TO WIESS" banner, maybe 2002–04. Did a black pig outlive the orange one?
-    - Exact page ids for the 1 Feb 2002, 26 Mar 2004, 7 Apr 2000 and 6 Apr 2001 Thresher pages.
-    - Someone should measure and scan the wooden pig before a steel one replaces it. See the [WarPig repository](https://github.com/Wiess-College/WarPig).
-
 ## Sources
 
 The timeline is built from the Thresher at the Portal to Texas History, Campanile pages held by the college ([@campanile-1984] through [@campanile-2012]), Mark Maxham's 1998 design document [@maxham-pig-document], the O-Week books 1994–2017, the first Wiess website, the Rice History Corner comment thread of December 2021 [@rhc-2021-12-10-im-pissed], and the core team's pitch deck and photographs [@warpig-core-deck]. The research notes behind it, with the OCR queries used, are in the working archive.

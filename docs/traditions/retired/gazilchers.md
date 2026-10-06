@@ -64,17 +64,4 @@ Stuff broke. One alum recalls 1970s damage to Wiess's clay roof tiles of "around
     | early 2000s | "Possession of one in the early 2000s was a rusticatable offense" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by CW McCullagh, 1 May 2011] | [T] |
     | 2010-02-01 | A physics-forum question describes the Rice gazilcher — surgical tubing, a silverware basket, five operators, "well over 100 meters" — and asks how far it could throw a water balloon through a dormitory window [@physicsforums-gazilcher-2010] | [T] |
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **When the ban came.** The sources give a direction, not a date: still around in 1987 (Childs), "suppressed" by about 1991 (Lockett), a serious offense by the early 2000s (McCullagh). A rule may be in [the 1991 Rules](../../governance/rules.md) or the Thresher.
-    - **The word.** "Gazilcher" is the only spelling found. Where it came from is unknown. The 1956–1994 Thresher never uses it; it says "slingshot" and "water balloon" instead [@thresher-1961-04-07-water-wars].
-
-    **Still don't know.**
-
-    - The rule or announcement that banned them, and its date (Thresher 1985–95; Rice's student handbook).
-    - Whether Wiess had a named crew or weapon, like Hanszen's "Artillery."
-    - Photos of a gazilcher in action. The 1960 Rice History Corner images might show one; the 2011 commenters thought so.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 · unreviewed draft</div>

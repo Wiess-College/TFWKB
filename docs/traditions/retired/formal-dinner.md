@@ -74,21 +74,4 @@ The 2003 family-style table seated eight [@oweek-2003 wiess p.6], two to a side 
 
     "…while sporting goldenrod and navy beanies to distinguish themselves (a tradition which also, thankfully, died out quickly)." [@oweek-2014 p.36]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Formal dinner or family style?** The blazer-and-crest "formal Sunday dinners" are a 1950s memory [@oweek-2006 p.37]. "Family style" is the seated weekday dinner, four nights a week until about 2004 [@oweek-2006 p.42], weekly in 2003 [@oweek-2003 wiess p.6]. Freshmen served at both. In the late 1950s and early 1960s the Thresher also reports Wiess "College Night" dinners with a guest speaker [@thresher-1957-04-12-college-nights] [@thresher-1961-03-17-college-night].
-    - **When it ended.** "Lasted almost 50 years" (2006); "died out soon after the move to our current home" (2010) [@oweek-2006 p.37] [@oweek-2010 p.38]. "Until two years ago" in 2006 puts the end around 2004 [@oweek-2006 p.42]. The 2006 book blames quicker lines and more choice; the alum blames shared serveries [@rhc 2013-03-15 friday-afternoon-follies-one-of-the-best-beanie-shots-of-all-times comment by George Webb, 21 Mar 2013]. Both mean the same building: South Servery, shared with Hanszen, opened with New Wiess (see [The Commons and UpCo](../../places/commons.md)). This settles the open question on [Rules & Housing Rules](../../governance/rules.md), which had "between 1998 and 2006".
-    - **Weekly or every weekday?** "Seated weekday dinners" (1991) [@rules-1991 §VI]; "5 days a week" (late 1980s) [@rhc 2013-03-15 friday-afternoon-follies-one-of-the-best-beanie-shots-of-all-times comment by George Webb, 21 Mar 2013]; "once a week" after O-Week (2003) [@oweek-2003 wiess p.6]; "every Monday through Thursday" (2006, looking back) [@oweek-2006 p.42]. The 2003 book, written at the time, is the best witness for the last years.
-    - **How long freshmen waited.** "Approximately 8 weeks" in 1976 [@thresher-1976-11-22-freshman-waiting-reply]; "on a rotating basis" in 1991 [@rules-1991 §VI].
-    - **Not the Gofer.** The 1994 glossary's "Gofer. The 'Fellows'' flunkies" is an O-Week helper, not a waiter [@handbook-1994]. That glossary has no entry for waiting, family style or the Headwaiter.
-    - **Beanie color.** "Green beanies" in 2003 [@oweek-2003 wiess p.2]; "goldenrod and navy beanies" from 2010 [@oweek-2010 p.38].
-
-    **Still don't know.**
-
-    - Was the 1991 Headwaiter elected, appointed, or staff [@rules-1991 §V]?
-    - How Wiess's Commons tables compare with other colleges' furniture.
-    - Photos of family style in either building. The Campanile of the 1980s–90s is the best bet.
-
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

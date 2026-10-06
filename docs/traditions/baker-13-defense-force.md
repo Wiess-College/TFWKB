@@ -58,18 +58,4 @@ The books changed their story in 2015: the water line went out and "all undergra
 
     > **O-Week Book 2015:** "**Baker 13**—An event where participants undress, smear shaving cream on their bodies, and run around campus, leaving a trail of body prints. A proud Baker institution for over thirty years; all undergrads are invited to participate." [@oweek-2015 p.120]
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - *Club 13 or Baker 13?* The Wiess glossary said "Club 13" until 2008 and "Baker 13" from 2010 [@oweek-2008 part 7 p.5] [@oweek-2010 p.92]. But the 2006 book already said "Baker 13" elsewhere [@oweek-2006 p.53], and so did the 2008 website [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. The glossary just caught up late.
-    - *Obliteration or defense?* "Utter and complete obliteration" (1997) [@riceinfo-traditions-1997], "Defense Force" (2008) [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df], "buckets of water" (the glossaries) [@oweek-2003 p.5]. Same thing, different moods.
-    - *Water or welcome?* In 2015 the books dropped the water and added the invitation [@oweek-2015 p.120]. That changed what freshmen were told. It doesn't prove the water stopped, though nothing after 2014 says it kept going. The 2019–2025 books only describe the runners' side [@oweek-2019 p.16] [@oweek-2024 p.27].
-    - *"Slimy."* The "slimy trail" of 2003–2014 became just "a trail" in 2015 [@oweek-2015 p.120].
-
-    **Still don't know.**
-
-    - When Wiess first met Baker 13 with water. 1997 is the earliest word, and it already sounds old [@riceinfo-traditions-1997].
-    - What the 2008 "Baker 13 Defense Force" page was meant to say, and whether the name was used before then.
-    - Whether water is still thrown. The Thresher's Baker 13 coverage, about 2009 on, might say [@thresher-web].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

@@ -49,19 +49,4 @@ The 1997 and 1999 websites wanted it to continue [@riceinfo-traditions-1997] [@r
 
     "Just what is the *Wiesscrack*? Well, it's a clever, witty and satirical parody of both the 'official' Rice paper, the *Thresher*, [and the] *Thresher* staff's own pathetic attempt at funniness, the *Trasher*. (I can actually remember a time when the *Trasher* was funny, but it was a long time ago.)" [@riceinfo-crack]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **One paper or two?** The archivist calls the 1968 Crack a college newsletter from the 1960s "Golden Age of college newsletters" [@rhc 2015-01-23 friday-follies-wiess-crack]. The 1994 and 1999 sources describe an annual parody [@handbook-1994] [@riceinfo-crack]. Same name; maybe not the same thing. The 1970 "underground newspaper" and 1972 "very funny" sit in between [@thresher-1970-09-03-wiess-crack] [@thresher-1972-08-25-wiess-crack].
-    - **The 1968 date.** The post says "the fall of 1968," but the image files are named "wiess-crack-2-29-68" (29 Feb 1968) [@rhc 2015-01-23 friday-follies-wiess-crack]. The filename is probably the issue date. The cover, at the Woodson, would settle it.
-    - **Spelling.** "WiessCrack" (1994, 1997), "Wiesscrack" and "'Crack" (1999), "Wiess Crack" (1968, 1970). This site uses the 1994 form.
-    - **The comments.** None of the fifteen comments on the 2015 post describe the Crack; they drift to beanies, NOD and *Hello, Hamlet* [@rhc 2015-01-23 friday-follies-wiess-crack].
-
-    **Still don't know.**
-
-    - Any actual issue, from any decade. The Woodson has at least the 1968 one [@rhc 2015-01-23 friday-follies-wiess-crack]; the Wiess College Records may hold more [@woodson-ua0079].
-    - When the last issue came out. The page was live in 1999 and 2001 [@riceinfo-crack]; it's gone by the 2003 book.
-    - Who Jeremy Hart (the 1999 page's original author) was, and when he wrote it [@riceinfo-crack].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

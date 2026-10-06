@@ -48,17 +48,4 @@ The 1997 website sounded relieved, and hinted it wasn't *that* long ago: "Ask so
 
     "Although the Ubangee is still proudly practiced in a slightly modifed form, the dangle disappeared as human life became more valuable." [@oweek-2017 p.12]
 
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **When it died.** The books make it sound ancient. The 1997 website's "Ask somebody who's already graduated" suggests recent alumni remembered it, so maybe the early 1990s [@riceinfo-traditions-1997]. Both can be true. Neither gives a date.
-    - **"Dangling" vs. "the third-floor dangle."** The 1997 site uses the verb; the books from 2003 use the noun with its floor [@riceinfo-traditions-1997] [@oweek-2003 35-44 wiess.pdf p.3]. Fifteen years of books copy that one 2003 sentence.
-    - **Ubangee "in a slightly modified form."** Added in 2015 [@oweek-2015 p.10]. That's a change to the [Ubangee](../ubangee.md), not the Dangle.
-
-    **Still don't know.**
-
-    - Exactly what happened, and how often. "Strength of Identity" (c.1990) is the best lead; finding a copy would help [@thresher-1990-11-09-strength-of-identity]. Alumni of the 1980s and early 1990s are the other.
-    - What ended it: a rule, an accident, or Old Wiess being torn down in 2002 (see [Old Wiess](../../places/old-wiess.md)). The 1991 Rules and 1993 Constitution don't mention it [@rules-1991] [@constitution-1993].
-
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>
