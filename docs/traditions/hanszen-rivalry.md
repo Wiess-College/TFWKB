@@ -7,14 +7,19 @@ reviewed_by: unreviewed
 
 # Hanszen (the rivalry)
 
-"From the beginning of O-Week, every Wiess freshman has learned to say Hanszen with true disgust." [@oweek-2003 35-44 wiess.pdf p.3]
+Hanszen is the college next door to Wiess, and its "forever enemy": the two share a servery, a terrace and a long, mostly joking rivalry [@oweek-2015 p.119] [@oweek-2014 p.102] [@hanszen-traditions] [@oweek-2024 p.4].
 
 !!! abstract "TL;DR"
-    - Hanszen is the college next door. Wiess and Hanszen share a servery, a terrace and a long, mostly joking rivalry [@oweek-2015 p.119] [@oweek-2014 p.102] [@hanszen-traditions].
     - From 2003 to 2011 the Wiess glossary called Hanszen "A lesser college distinguished by its lack of anything cool" [@oweek-2003 p.5] [@oweek-2011 p.95].
     - The books toned it down in 2014–15, then brought it back: "Our neighbor and forever enemy. Hanszen still sucks!" (2024–25) [@oweek-2014 p.105] [@oweek-2024 p.4].
 
+## Hanszen's side
+
+Hanszen's own traditions page fires back: "they can't even spell their own name right." It also calls the rivalry "(mostly) facetious" [@hanszen-traditions]. Fair.
+
 ## Why Hanszen?
+
+"From the beginning of O-Week, every Wiess freshman has learned to say Hanszen with true disgust." [@oweek-2003 35-44 wiess.pdf p.3]
 
 Location, location, location. The 2003 book's only explanation: "Probably because of their proximity" [@oweek-2003 35-44 wiess.pdf p.3]. Water-balloon fights were already rolling through "the Hanszen-Wiess courtyard" in 1961 [@thresher-1961-04-07-water-wars].
 
@@ -25,10 +30,6 @@ The 1999 website made one thing clear: "this doesn't mean we hate the *people* a
 - **The chant.** "It's (whatever) – *and Hanszen still sucks!*" It was already "dying out" in 1999 [@riceinfo-hanszensucks]. See ["What time is it?"](retired/what-time-is-it.md).
 - **The corridor jack** (a jack is a prank on another college). The books don't give a year, only that it happened while Hanszen's Commons was being built. The shared servery opened in 2002, so probably around 2002–03 [@kirksey-wiess]. While Hanszen was eating in the Wiess Commons, Wiessmen flipped and repainted the "Welcome to Hanszen" corridor panels. The new message: "Welcome to the Wiess Commons and Hanszen still sucks" [@oweek-2006 p.52].
 - **Powderpuff.** The two colleges play each other, and Hanszen roasts a whole pig on the sidelines, since Wiess's mascot is a pig [@hanszen-traditions]. See [Battle Sows & Powderpuff](battle-sows-powderpuff.md).
-
-## Hanszen's side
-
-Hanszen's own traditions page fires back: "they can't even spell their own name right." It also calls the rivalry "(mostly) facetious" [@hanszen-traditions]. Fair.
 
 ## Softer, then not
 

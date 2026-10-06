@@ -7,12 +7,12 @@ reviewed_by: LM
 
 # Historians
 
-Wiess has had a Historian on paper since at least 1991. 
+The Historian is the [Cabinet](../governance/cabinet.md) officer in charge of "recording, archiving, and presenting the history of the College," including its Facebook and Instagram [@constitution-2026 p.8]. It's an appointed seat without a vote, and there can be more than one [@constitution-2026 Arts. V–VI]. Wiess has had a Historian on paper since at least 1991.
 
 !!! abstract "TL;DR"
     - The 1991 Rules mention "The Historian of the Cabinet" [@rules-1991]. Every Constitution from 1993 to 2017 has "a College Parliamentarian and Historian" [@constitution-1993] [@constitution-2017 p.5].
     - The job, per the O-Week books: "organizes all of the pictures taken by Wiessmen and keeps records of all the random stuff we do" [@oweek-2007 p.39].
-    - The 2026 Constitution finally spells it out: "recording, archiving, and presenting the history of the College," plus Facebook and Instagram [@constitution-2026 p.8].
+    - The 2026 Constitution is the first text we've found that spells the job out [@constitution-2026 p.8].
     - What survives was mostly made by RA Dr. Bill Wilson, now at the Woodson Research Center [@rhc 2021-11-15 secession-1992].
 
 ## The office on paper

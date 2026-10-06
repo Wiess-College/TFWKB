@@ -7,12 +7,14 @@ reviewed_by: unreviewed
 
 # Old Wiess (1949–2002)
 
+Old Wiess was the college's home from 1949 to 2002: a W-shaped dorm of five wings, with outdoor balconies around two courtyards, the Acabowl and the Backabowl [@riceinfo-history] [@wb 19990501150106 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/index.html] [@oweek-2006 p.36]. It stood just north of [New Wiess](new-wiess.md) and was torn down after the move [@wiess-60th-faq-2017 p.4] [@edesigns-old-wiess-2002].
+
 Nobody ever called Old Wiess pretty. Its own 1972 handbook said it was built "in the best motel tradition" [@handbook-1972]. But its balconies and courtyards made Wiess what it is, and students made sure the new building kept them [@riceinfo-news-2000-lundin].
 
 !!! abstract "TL;DR"
     - Opened in 1949 as Rice's fourth dorm, named Wiess Hall in 1950 for trustee Harry Carothers Wiess [@riceinfo-history].
     - Became Wiess College in 1957, when Rice started the college system [@riceinfo-history].
-    - Every room opened onto an outdoor balcony, around two courtyards: the Acabowl and the Backabowl [@riceinfo-history] [@oweek-2006 p.36].
+    - Every room opened onto an outdoor balcony [@riceinfo-history].
     - Students moved to [New Wiess](new-wiess.md) in 2002. The old building was empty that August, then torn down [@edesigns-old-wiess-2002].
 
 ## A dorm shaped like a W

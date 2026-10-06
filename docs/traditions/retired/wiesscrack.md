@@ -7,11 +7,11 @@ reviewed_by: unreviewed
 
 # The WiessCrack
 
-Wiess's own joke newspaper. Say it out loud: "Wise Crack."
+The WiessCrack was Wiess's own joke newspaper; say it out loud: "Wise Crack." By 1994 it was "Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher" [@handbook-1994].
 
 !!! abstract "TL;DR"
     - A Wiess paper from at least 1968 [@rhc 2015-01-23 friday-follies-wiess-crack]. The Thresher called it "an underground newspaper" in 1970 [@thresher-1970-09-03-wiess-crack] and "always pretty bad and very funny" in 1972 [@thresher-1972-08-25-wiess-crack].
-    - By 1994: "Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher. Funnier than Letterman" [@handbook-1994].
+    - "Funnier than Letterman," the 1994 handbook added [@handbook-1994].
     - Last seen on the college website in 1999–2001. It isn't in the O-Week glossaries we have from 2003 on [@riceinfo-crack].
 
 ## What it was

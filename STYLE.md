@@ -36,7 +36,10 @@ Every Record page (traditions, places, people, governance, changes) uses this sh
 
 # Page title
 
-One or two short sentences that hook the reader. Optional.
+**One clear description, in current terms.** One or two plain sentences that say what the thing is today,
+or what it was if it has ended: "Cabinet is Wiess's student government." "JamFest was Wiess's spring music
+festival in the Acabowl." "The Acabowl is the lawn in the middle of Wiess." Cite it. This comes first,
+before any joke, hook or history.
 
 !!! abstract "TL;DR"
     - 2–4 bullets. The short version.
@@ -46,6 +49,8 @@ One or two short sentences that hook the reader. Optional.
 ## A fun, plain heading
 
 Two to five short sections. Plain words. Each fact keeps its [@citation].
+Order: **how it works now** (or how it worked, for something that ended) first, then **how it got this
+way**: the history and changes over time. Readers want the present before the past.
 Headings can be playful ("Where the name came from", "The year it floated away",
 "Why it stopped") — but they should still say what the section is about.
 

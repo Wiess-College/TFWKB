@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Retired traditions
 
-Traditions we haven't seen lately, or that a source says ended. Know one that's still going? Tell us.
+This page lists Wiess traditions we haven't seen lately, or that a source says ended. Know one that's still going? Tell us.
 
 !!! abstract "TL;DR"
     - Most of these are traditions whose sources stop. **Last seen** is the latest mention we've found so far, which doesn't mean it stopped.

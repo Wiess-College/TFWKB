@@ -7,10 +7,10 @@ reviewed_by: LM
 
 # The Core Team: Magisters, Resident Associates and Coordinators
 
-The Core Team are trusted adults who live at Wiess with the students.[^magister] "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
+The Core Team is the group of trusted adults who live and work at Wiess with the students: the Magisters,[^magister] the Resident Associates (RAs) and the College Coordinator [@wiess-rice-edu-coreteam]. "Our Core Team does not act like guardians and patrol your life at college." They're "engaged members of your college community" [@oweek-2024 p.28].
 
 !!! abstract "TL;DR"
-    - Three roles: the **Magisters** (a faculty family next door), the **RAs** (faculty or staff who live in the college) and the **College Coordinator** (who runs the college office) [@wiess-rice-edu-coreteam].
+    - The **Magisters** are a faculty family next door, the **RAs** are faculty or staff who live in the college, and the **College Coordinator** runs the college office [@wiess-rice-edu-coreteam].
     - The books called them "The Adults (The A-team)" from 2003; "Core Team" shows up in 2021 [@oweek-2003 p.8] [@oweek-2021 p.6].
     - The longest stints on record: Dr. John E. Parish (23 years) and Dr. Bill Wilson (about 30), both RAs [@riceinfo-history] [@oweek-2003 intro p.8].
 

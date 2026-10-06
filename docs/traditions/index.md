@@ -7,6 +7,8 @@ reviewed_by: unreviewed
 
 # Traditions
 
+This page lists every Wiess tradition we've found, A to Z, with a line on what each one is and whether it's still going.
+
 "Traditions come and go, like anything else… but don't worry; somebody'll come up with something else cool to do. Change can be good." That's the 1997 Wiess website [@riceinfo-traditions-1997]. Still true.
 
 !!! abstract "TL;DR"

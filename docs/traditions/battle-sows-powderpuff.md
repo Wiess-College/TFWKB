@@ -7,25 +7,26 @@ reviewed_by: unreviewed
 
 # Battle Sows & Powderpuff
 
-If the guys are War Pigs, the women are Battle Sows. And they play football.
+The Battle Sows are Wiess's team in Powderpuff, Rice's women's flag football league, played in the fall [@oweek-2015 p.122] [@handbook-1994].
 
 !!! abstract "TL;DR"
-    - The Battle Sows are Wiess's team in Powderpuff, Rice's women's flag football league, played in the fall [@oweek-2015 p.122] [@handbook-1994].
     - The name dates to fall 1983, Wiess's first coed semester, and was in the Thresher by 30 September 1983 [@maxham-pig-document] [@portal metapth245539 p.15].
     - Wiess counts titles in 1995, 1998, 1999, 2001 and 2002 [@campanile-1999 p.239] [@riceinfo-battlesows] [@oweek-2003 35-44 wiess.pdf p.7].
     - The college says it has "won the championship more than any other college" [@oweek-2014 p.41] [@oweek-2016 p.30].
+
+## Game day
+
+If the guys are War Pigs, the women are Battle Sows. And they play football.
+
+The 2003 book says the games "turn into an event for the entire college, complete with raucus cheering, wild halftime shows and the semi-regular BBQ" [@oweek-2003 35-44 wiess.pdf p.7]. No experience necessary.
+
+Alumni show up too, "women telling of their great touchdown of '95" [@oweek-2006 p.41]. Next door, Hanszen roasts a whole pig on its sideline when it plays Wiess [@hanszen-traditions]. See [The Hanszen rivalry](hanszen-rivalry.md).
 
 ## Where the name came from
 
 Wiess went coed in 1983 [@oweek-2003 35-44 wiess.pdf p.3]. The women's teams needed a name, and the student behind "War Pig" proposed "Battle Sows" [@maxham-pig-document]. It hit the Thresher's intramural standings that September [@portal metapth245539 p.15].
 
 That makes it the first pig name in print, a semester before "Warpig" [@campanile-1984 p.371]. The first War Pig balloon was even built for a Powderpuff game [@maxham-pig-document]. See [The War Pig](warpig.md).
-
-## Game day
-
-The 2003 book says the games "turn into an event for the entire college, complete with raucus cheering, wild halftime shows and the semi-regular BBQ" [@oweek-2003 35-44 wiess.pdf p.7]. No experience necessary.
-
-Alumni show up too, "women telling of their great touchdown of '95" [@oweek-2006 p.41]. Next door, Hanszen roasts a whole pig on its sideline when it plays Wiess [@hanszen-traditions]. See [The Hanszen rivalry](hanszen-rivalry.md).
 
 ## Winning
 

@@ -4,7 +4,7 @@ title: Evidence classes
 
 # Evidence classes
 
-Every timeline row has a letter: P, R or T. It tells you what *kind* of proof you're looking at, not how much to trust it.
+This page explains the evidence letters in our timelines. Every timeline row has a letter: P, R or T. It tells you what *kind* of proof you're looking at, not how much to trust it.
 
 !!! abstract "TL;DR"
     - **P** = written at the time. **R** = written later by someone who'd know. **T** = someone's memory.

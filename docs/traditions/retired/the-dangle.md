@@ -7,11 +7,10 @@ reviewed_by: unreviewed
 
 # The Dangle
 
-Wiess's most famous ended tradition. Also one of the least explained.
+The Dangle, "the third-floor dangle," was one of Wiess's early "unorthodox customs" [@oweek-2003 35-44 wiess.pdf p.3]. A 1990 student history of Wiess put it plainly: "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity].
 
 !!! abstract "TL;DR"
-    - "The third-floor dangle" was one of Wiess's early "unorthodox customs," right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3].
-    - The oldest clue is from 1990: a student history of Wiess said "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity].
+    - The books list it right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3]. We haven't found the rules written down.
     - It was over by 1997: "I'm glad 'dangling' doesn't happen anymore" [@riceinfo-traditions-1997].
     - The books' verdict: it "disappeared as human life became more valuable" [@oweek-2017 p.12].
 

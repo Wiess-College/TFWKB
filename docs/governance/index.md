@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # Governance
 
-Wiess runs itself. Students write the rules, elect the people who enforce them, and change them by vote. This section is the paperwork behind that.
+This section covers how Wiess governs itself: the Constitution, [Cabinet](cabinet.md), the [Court](court.md), the [Rules](rules.md) and the [reps](representatives.md). Wiess runs itself. Students write the rules, elect the people who enforce them, and change them by vote. This section is the paperwork behind that.
 
 !!! abstract "TL;DR"
     - The **Constitution** is the college's rulebook. It sets up [Cabinet](cabinet.md) (the student government) and the [Court](court.md) (student discipline) [@constitution-2026 Art. IV §1; Art. VIII §1].

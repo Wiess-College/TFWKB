@@ -7,12 +7,11 @@ reviewed_by: LM
 
 # The Acabowl
 
-The Acabowl is the Wiess courtyard. Other colleges call theirs a "quad," "but that's just 'cause they suck" [@handbook-1994].
+The Acabowl is the big courtyard in the middle of Wiess, where people "hang out, play frisbee or football, and study here, especially on nice days" [@oweek-2019 p.14]. New Wiess kept the name from the main courtyard of Old Wiess [@oweek-2006 p.37]. Other colleges call theirs a "quad," "but that's just 'cause they suck" [@handbook-1994].
 
 !!! abstract "TL;DR"
-    - The Acabowl is the big Wiess courtyard, where people hang out, play games and study [@oweek-2019 p.14].
     - The name is in print by 1963, when Wiess offered "the less formal sports of Acabowl (touch football a la Kennedy)" [@thresher-1963-03-13-mel-lack].
-    - When Wiess moved in 2002, the new courtyard kept the old name [@oweek-2006 p.37].
+    - Old Wiess had two courtyards, the Acabowl and the quieter Backabowl; New Wiess has one [@oweek-2006 p.36] [@oweek-2006 p.37].
     - The "Aca-" prefix spread: Acatramp, Acahammock, Acaglider, Acagrill, even Acababy [@handbook-1994] [@oweek-2003 p.3] [@oweek-2008 part 7 p.3] [@oweek-2014 p.102].
 
 ## Where the name came from
@@ -38,7 +37,7 @@ Once you have an Acabowl, everything in it gets the prefix:
 - **Acaglider**: a "Giant swinging covered picnic table of glory," plus the **Acagrill**, both from 2008 alumni gifts [@oweek-2008 part 7 p.3] [@oweek-2010 p.39].
 - **Acababy**: yes, a real kid "often found playing in the acabowl" (2014) [@oweek-2014 p.102].
 
-Today it's still where people "hang out, play frisbee or football, and study here, especially on nice days" [@oweek-2019 p.14]. The 2024 and 2025 books dropped the glossary entry, but the courtyard is all over the rest of the book [@oweek-2024 p.25] [@oweek-2024 p.30].
+The 2024 and 2025 books dropped the glossary entry, but the courtyard is all over the rest of the book [@oweek-2024 p.25] [@oweek-2024 p.30].
 
 ## Photographs
 

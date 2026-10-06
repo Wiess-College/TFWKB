@@ -7,13 +7,20 @@ reviewed_by: unreviewed
 
 # Night of Decadence
 
-For about fifty years, the biggest party at Rice was a Wiess Halloween costume party. Then it ended.
+Night of Decadence (NOD) was Wiess's Halloween costume party, held in the [Commons](../places/commons.md) and the Acabowl on a weekend at the end of October, from around 1972 until it was cancelled for good on 5 June 2024 [@handbook-1994] [@oweek-2015 p.24] [@thresher-1975-11-03-nod-fourth-annual] [@thresher-2024-06-05-nod-canceled].
 
 !!! abstract "TL;DR"
-    - NOD was Wiess's Halloween costume party, in the [Commons](../places/commons.md) and the Acabowl, on a weekend at the end of October [@handbook-1994] [@oweek-2015 p.24].
     - It started in 1972: the Thresher called the 1975 party the "fourth annual" [@thresher-1975-11-03-nod-fourth-annual] [@rice-magazine-2016-wiess-traditions].
     - From 1999 it was a running argument about safety, and the university added rules [@thresher-1999-04-23-presidents].
     - After the 2023 party was shut down early, NOD was cancelled for good on 5 June 2024. Wiess's public is now "Masquerade After Dark" [@thresher-2024-06-05-nod-canceled] [@thresher-2024-10-mad-announced].
+
+## What it was like
+
+For about fifty years, the biggest party at Rice was a Wiess Halloween costume party.
+
+Every year had a theme, from "Fall of Rome" in 1976 to "NODie Dreamhouse" in 2023 [@thresher-2023-10-50-years] [@thresher-2023-10-sex-doll]. The War Pig's first big effigy hung at the "Animal Farm" NOD in 1984 [@portal metapth245573 p.27]. See [The War Pig](warpig.md).
+
+It got big. Almost a thousand people came in 2003; "upwards of 1400" in 2014; "around 1200" by 2019 [@wb 20041204030907 http://www.teamwiess.com/nod/] [@oweek-2014 p.44] [@oweek-2019 p.33]. Wiess students ran their own security force: at least 50 in 1998, around 200 later [@thresher-1998-10-30-nod-security] [@oweek-2019 p.33].
 
 ## How it started
 
@@ -24,12 +31,6 @@ The name first shows up in print on a 1973 campus calendar: "Night of Decadence?
 The sources disagree a little on the first year. The Thresher of 1998–99 counted from 1973 or 1974, and a Wiess '75 alumnus signed himself organiser of the 1973 and 1974 parties [@thresher-1998-10-30-nod-security] [@thresher-1999-10-29-nod-tonight] [@thresher-1999-02-19-robinson]. The 2005 site, the 1975 "fourth annual" and the 2023 Thresher all point to 1972 [@ricenod-site-2005] [@thresher-2023-10-50-years].
 
 By the mid-1980s it was a huge themed party open to Houston. The college has said for decades that it made Playboy's list of top ten college parties [@ricenod-site-2005]. We haven't found the issue yet.
-
-## What it was like
-
-Every year had a theme, from "Fall of Rome" in 1976 to "NODie Dreamhouse" in 2023 [@thresher-2023-10-50-years] [@thresher-2023-10-sex-doll]. The War Pig's first big effigy hung at the "Animal Farm" NOD in 1984 [@portal metapth245573 p.27]. See [The War Pig](warpig.md).
-
-It got big. Almost a thousand people came in 2003; "upwards of 1400" in 2014; "around 1200" by 2019 [@wb 20041204030907 http://www.teamwiess.com/nod/] [@oweek-2014 p.44] [@oweek-2019 p.33]. Wiess students ran their own security force: at least 50 in 1998, around 200 later [@thresher-1998-10-30-nod-security] [@oweek-2019 p.33].
 
 ## Controversy and response, 1998–2025
 

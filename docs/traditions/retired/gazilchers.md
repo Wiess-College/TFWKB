@@ -7,12 +7,11 @@ reviewed_by: unreviewed
 
 # Gazilchers
 
-Giant slingshots. Water balloons. Hanszen in range. What could go wrong?
+Gazilchers were giant slingshots made of surgical tubing, run by a crew of about five, that Wiess used in its water wars with Hanszen [@physicsforums-gazilcher-2010] [@thresher-1961-04-07-water-wars]. The administration shut them down after property damage, by about 1991 [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011].
 
 !!! abstract "TL;DR"
-    - A gazilcher is a giant slingshot made of surgical tubing, run by a crew of about five, that could throw things "well over 100 meters" [@physicsforums-gazilcher-2010].
-    - Water wars between Wiess and Hanszen were on by spring 1961, with "Giant slingshots made of wire, cloth and surgical tubing" [@thresher-1961-04-07-water-wars].
-    - The administration shut them down after property damage, by about 1991 [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011].
+    - A gazilcher could throw things "well over 100 meters" [@physicsforums-gazilcher-2010].
+    - The water wars were on by spring 1961, with "Giant slingshots made of wire, cloth and surgical tubing" [@thresher-1961-04-07-water-wars].
     - By the early 2000s owning one was "a rusticatable offense" (one that could get you sent away from campus) [@rhc 2011-04-15 friday-afternoon-follies-3 comment by CW McCullagh, 1 May 2011].
 
 ## What it was

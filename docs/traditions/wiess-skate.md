@@ -7,12 +7,11 @@ reviewed_by: unreviewed
 
 # Wiess Skate
 
-One night every spring, Wiess carpools to the ice rink at the Galleria.
+Wiess Skate is the college's yearly night at the Galleria ice rink, early in the spring semester. Wiessmen carpool over, skate, and race class against class [@oweek-2021 p.37] [@groupme-2026-02-02-wiess-skate] [@oweek-2025 p.39].
 
 !!! abstract "TL;DR"
-    - Wiess Skate is the college's yearly trip to the Galleria ice rink, early in the spring semester [@oweek-2021 p.37] [@groupme-2026-02-02-wiess-skate].
     - You don't need to know how to skate. People come for the company, the snacks and the photos [@oweek-2024 p.38].
-    - The competitive part is the inter-class speed race [@oweek-2025 p.39] [@groupme-2025-02-13-wiess-skate].
+    - An organiser handles sign-ups and drivers; in 2025 skating was free for Wiessmen [@groupme-2025-02-13-wiess-skate].
     - The earliest write-up we've found so far is the 2021 O-Week book. When it started is still to be found.
 
 ## How it works

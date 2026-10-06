@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Places
 
-Two buildings, one courtyard name, a lot of balconies. Pick a spot.
+This section is about the places of Wiess: its two buildings, the courtyards and terraces, the shared rooms and the Magisters' house. Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
 !!! abstract "TL;DR"
     - Wiess lived in [Old Wiess](old-wiess.md) from 1949 to 2002, then moved next door to [New Wiess](new-wiess.md) [@riceinfo-history] [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3].

@@ -4,7 +4,7 @@ title: Where to look
 
 # Where to look
 
-A map of the archives: who holds what, and the tricks that worked in the autumn-2026 dig. Learned a new trick? Add it here.
+This page is a map of the archives: who holds what, and the tricks that worked in the autumn-2026 dig. Learned a new trick? Add it here.
 
 !!! abstract "TL;DR"
     - **Old websites:** the Wayback Machine.

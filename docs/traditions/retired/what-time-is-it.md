@@ -7,10 +7,9 @@ reviewed_by: unreviewed
 
 # "What time is it?"
 
-Ask a 1990s Wiessman the time. Get an insult aimed at the neighbors.
+"What time is it?" was a 1990s Wiess call-and-response. Ask a Wiessman the time, and the answer was "It's (whatever) – *and Hanszen still sucks!*" [@riceinfo-hanszensucks]
 
 !!! abstract "TL;DR"
-    - The answer to "What time is it?" was "It's (whatever) – *and Hanszen still sucks!*" [@riceinfo-hanszensucks]
     - The 1997 website wanted it to continue [@riceinfo-traditions-1997]. By 1999 its own page said it "unfortunately seems to be dying out" [@riceinfo-hanszensucks].
     - The punchline lived on in a jack (a prank on another college) told in O-Week books through 2014 [@oweek-2006 p.52] [@oweek-2014 p.51].
 

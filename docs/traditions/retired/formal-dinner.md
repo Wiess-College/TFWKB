@@ -7,12 +7,12 @@ reviewed_by: unreviewed
 
 # Formal Dinner, waiting and long tables
 
-For about fifty years, Wiess sat down to dinner and freshmen served it.
+Formal Dinner and freshman waiting were Wiess's sit-down dinner traditions. From the 1950s, as the books tell it, freshmen served upperclassmen a "family-style" dinner, until it ended around 2004 [@oweek-2006 p.37] [@oweek-2006 p.42].
 
 !!! abstract "TL;DR"
-    - From the 1950s, as the books tell it, freshmen served upperclassmen a "family-style" dinner: big dishes on the table, everyone seated [@oweek-2006 p.37].
+    - Family style meant big dishes on the table and everyone seated, with freshmen as waiters [@oweek-2003 wiess p.6].
     - The Thresher shows "freshman waiting" at Wiess by 1976 [@thresher-1976-11-15-freshman-waiting]. By the late 1980s Wiess was the last college still doing it five nights a week [@rhc 2013-03-15 friday-afternoon-follies-one-of-the-best-beanie-shots-of-all-times comment by George Webb, 21 Mar 2013].
-    - It ended around 2004, after the move to the new building and its servery [@oweek-2006 p.42].
+    - It ended after the move to the new building and its servery [@oweek-2006 p.42].
     - One table rule survives: **cornering**, pulling up an extra chair at a table's corner [@oweek-2025 p.26].
 
 ## What it was

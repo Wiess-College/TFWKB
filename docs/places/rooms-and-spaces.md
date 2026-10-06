@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Rooms and spaces of New Wiess
 
-New Wiess is packed with shared rooms: two kitchens, a movie theater, a dance room, a music room and more. Other colleges "sometimes say we're spoiled—usually when they're having so much fun using our stuff" [@wb 20080709214915 http://teamwiess.com/index.php?r=otherrooms].
+This page covers the rooms inside [New Wiess](new-wiess.md): the suites students live in, and the shared rooms any Wiess student's key opens [@oweek-2015 p.21]. New Wiess is packed with them: two kitchens, a movie theater, a dance room, a music room and more. Other colleges "sometimes say we're spoiled—usually when they're having so much fun using our stuff" [@wb 20080709214915 http://teamwiess.com/index.php?r=otherrooms].
 
 !!! abstract "TL;DR"
     - The shared rooms sit in four vertical "stacks" between the wings, which is why the maps list them by floor ("1: Laundry, 2: Music Room, 3: Kitchen, 4: Patio") [@oweek-2014 p.14].

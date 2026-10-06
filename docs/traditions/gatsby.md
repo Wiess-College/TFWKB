@@ -7,8 +7,10 @@ reviewed_by: unreviewed
 
 # Gatsby
 
+Gatsby is a Wiess party, so people say; we haven't found it in writing yet.
+
 !!! abstract "TL;DR"
-    - Word is that Gatsby is a Wiess party. That's all we've found in writing so far.
+    - When it started, who runs it and what it's like are all still to be written up.
     - No O-Week book (2003–2025), college website or Thresher article we've found mentions it. Neither does the 2014–15 budget [@budget-2014-15 p.1].
 
 ## Help us out

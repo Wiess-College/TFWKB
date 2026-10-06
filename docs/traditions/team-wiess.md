@@ -7,10 +7,10 @@ reviewed_by: unreviewed
 
 # Team Wiess (the chant)
 
-Two words. Roared slowly. Over and over. From the gut.
+"TEAM WIESS" is Wiess's "one and only cheer": two words, roared slowly, over and over, at Beer Bike, Powderpuff, matriculation, the end of every [Ubangee](ubangee.md) and "any damn time" [@oweek-2024 p.25] [@riceinfo-teamwiess].
 
 !!! abstract "TL;DR"
-    - "TEAM WIESS" is the college's cheer, yelled at Beer Bike, Powderpuff, matriculation, the end of every [Ubangee](ubangee.md) and "any damn time" [@riceinfo-teamwiess].
+    - With "Family" in the middle, it's also the college motto: "Team Family Wiess is our motto" [@oweek-2024 p.2].
     - The Thresher heard it at Beer Bike in April 1975, as "Wiess Team. Wiess Team!" [@thresher-1975-04-07-beer-bike]. Wiess's own histories said 1974 or 1975; a 2002 Thresher said 1984 [@oweek-2010 p.39] [@thresher-2002-02-01 p.11].
     - It became the web address (teamwiess.com) in 2000 [@wb 20000818090739 http://riceinfo.rice.edu/projects/colleges/wiess/].
 
@@ -19,14 +19,6 @@ Two words. Roared slowly. Over and over. From the gut.
 Don't scream it. A 1999 guide was clear: "don't *scream* Team Wiess! – *roar* instead" [@riceinfo-teamwiess]. A bellow lasts longer than a shriek, so you can drown out the other college's "sucks."
 
 The O-Week books call it "The most powerful cheer on campus" (2003) and "Our one and only cheer" (2024) [@oweek-2003 p.4] [@oweek-2024 p.25].
-
-## Where it came from
-
-"Team Wiess" started as the name of the Beer Bike team. An alumnus's 1970s shirts came from "the Beer-Bike Team, which was just then calling itself 'Team Wiess'" [@lancaster-wiess-memorabilia]. The Thresher was using "Team Wiess" as a name by 1976 [@thresher-1976-04-05-beer-bike].
-
-The chant shows up at the 1975 race. Wiess won the men's title and gave "a chorus of 'Wiess Team. Wiess Team!' before the rest of the pack could make it back" [@thresher-1975-04-07-beer-bike]. That matches the 2010 O-Week book's story of a debut at Beer Bike 1975, the team's "second win ever" [@oweek-2010 p.39] [@thresher-1985-04-12-beer-bike-history].
-
-Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39].
 
 ## The banners { #the-banners }
 
@@ -56,6 +48,14 @@ Paper banners reading TEAM, FAMILY and WIESS hang in the [Commons](../places/com
 
 </div>
 <!-- /GALLERY:teamwiess -->
+
+## Where it came from
+
+"Team Wiess" started as the name of the Beer Bike team. An alumnus's 1970s shirts came from "the Beer-Bike Team, which was just then calling itself 'Team Wiess'" [@lancaster-wiess-memorabilia]. The Thresher was using "Team Wiess" as a name by 1976 [@thresher-1976-04-05-beer-bike].
+
+The chant shows up at the 1975 race. Wiess won the men's title and gave "a chorus of 'Wiess Team. Wiess Team!' before the rest of the pack could make it back" [@thresher-1975-04-07-beer-bike]. That matches the 2010 O-Week book's story of a debut at Beer Bike 1975, the team's "second win ever" [@oweek-2010 p.39] [@thresher-1985-04-12-beer-bike-history].
+
+Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39].
 
 ??? quote "In the college's own words"
     "TEAM WIESS—Cheer used in support of any Wiess team, especially at Beer-Bike. (Or, really, at any other random time...)" [@handbook-1994]

@@ -7,37 +7,10 @@ reviewed_by: LM
 
 # Cabinet
 
-The Cabinet is the student government of Wiess College. The Constitution grants it legislative power (until 2016 "the legislative and executive powers"), and makes it the body that sets and administers the Rules and Bylaws.
+Cabinet is Wiess's student government. The Constitution grants it legislative power (until 2016 "the legislative and executive powers"), and makes it the body that sets and administers the Rules and Bylaws. Cabinet meets on Wednesdays.
 
 The size of cabinet has varied: from "fifteen members" (1993) to "seventeen" (2007) to "nineteen" (2013–2017) to "17 voting members" plus a separate list of non-voting ones (2020 onward) [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4] [@constitution-2013 Art. III §4] [@constitution-2020 Art. III §§12–13] [@constitution-2026 Art. V §1]. 
 The core offices—President, Vice Presidents, Treasurer, Secretary, representatives, Parliamentarian and Historian—have been there throughout; what changes typically is who is elected vs appointed, who votes, and finer details of its composition.
-
-Cabinet meets on Wednesdays.
-
-## Timeline
-
-Much more information on cabinet composition likely exists in the Wiess archives and has not yet been retrieved digitally.
-
-| When | What | Evidence |
-|---|---|---|
-| 1993-08-05 | Constitution: Cabinet of "fifteen members", twelve offices, elected in spring except Freshman Representatives; appointed members "selected by the Cabinet"; Parliamentarian and Historian non-voting [@constitution-1993 Art. III §§3–4, 6] | [P] |
-| 1993-08-05 | Bylaws: minutes "published within one week of the meeting", signed by the Secretary and two other members; meetings announced 24 hours ahead so "all members of the College may attend" [@constitution-1993 Bylaws Art. II §§2, 6] | [P] |
-| 1998-07-19 | Website: "twelve elected and three appointed offices"; an $18,000 annual budget; the Secretary "providing the agenda and minutes of cabinet meetings"; a Game Room Chairman among the appointees [@riceinfo-cabinet-1998] | [P] |
-| 2003 | O-Week glossary: "Governing body of Wiess. Throws great parties—er meetings—every other Wednesday." [@oweek-2003 p.3] | [P] |
-| 2007-02-06 | "Seventeen members": two Social Vice Presidents and two Treasurers; attendance mandatory; Appropriations and Budget committees [@constitution-2007 Art. III §§4, 9; Art. VII] | [P] |
-| 2008-08-28 | "Last Cabinet Notes" on teamwiess.com: the O-Week themed Cabinet approves the budget, hears Freshman Rep speeches [@teamwiess-lastnotes-2008] | [P] |
-| 2009-09-09 | "Silly Hats Cabinet Minutes": a new Capital Improvements Rep approved by motion [@teamwiess-cabinetminutes-2010] | [P] |
-| 2013-02-08 | "Nineteen members": Academics and Career Chair added; two-year Treasurer terms with a head and an apprentice treasurer; hand-over of documents to successors required [@constitution-2013 Art. III §§4 F, 4 K, 10] | [P] |
-| 2016-01-26 | Appointed members "selected by the President with the approval of Cabinet"; SA Senator listed as a non-voting Cabinet member; Internal Vice President; resign if placed on probation or going abroad [@constitution-2016 Art. III §§3, 4 B, 4 N, 5, 12] | [P] |
-| 2016-01-26 | Bylaws: minutes within two weeks; closed "Executive Council" sessions allowed until spring 2017 elections [@constitution-2016 Bylaws Art. II §6; Art. XI] | [P] |
-| 2017-03-29 | Appointed members again "selected by the Cabinet" [@constitution-2017 Art. III §3] | [P] |
-| 2020-02-12 | Constitution "Last Amended February 12, 2020": "The legislative powers shall be vested in the Cabinet"; "17 voting members"—President, two Vice Presidents, two Social VPs, two First-Year, two Sophomore, one Junior and one Senior Representative, two Off-Campus Representatives, Treasurer, Assistant Treasurer, two Diversity Chairs; Parliamentarian, Secretary, Historian(s), Capital Improvements Liaison, Academics and Career Chair appointed and non-voting; SA Senator, Chief Justice ("observing member"), Magisters and RAs non-voting; Cultural and At-Large Representatives gone [@constitution-2020 Art. III §§1, 12–13] | [P] |
-| 2020-02-12 | Bylaws: proxies must relay information; new or abolished positions take effect at the next annual election; President's Endowment "subject to approval by the Magisters" [@bylaws-2020 Art. II §§5, 8; Art. IV §6] | [P] |
-| 2020-10-02 | Website lists Treasurer and Apprentice Treasurer, Senior and Junior Representatives, Diversity Chairs [@teamwiess-cabinet-2020] | [P] |
-| 2021-09-24 | Roster: President Varun Kukunoor; two Diversity Chairs; two Historians; meetings "every Wednesday… (and now on Zoom!)" [@teamwiess-cabinet-2021] | [P] |
-| 2023-09-15 | Roster on wiess.rice.edu: President Blaine Samson; Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
-| c. early 2025 | Undated "Complete Guiding Documents": Voting (Art. V) and Non-Voting (Art. VI) Members as separate articles; Apprentice Treasurer; two Secretaries; quorum "(9)"; a Representatives article (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday); Cabinet may dissent from a Magister veto by two-thirds; no Executive Cabinet yet [@constitution-hate-speech Arts. IV–VII] | [P] |
-| 2026-02-23 | "17 voting members" (Article V) and non-voting members (Article VI); quorum "a simple majority (9)… not including proxies"; two unproxied absences grounds for impeachment; an Executive Cabinet; Cabinet may dissent from a Magister veto by two-thirds [@constitution-2026 Arts. IV §§6, 8, 14; V; VI] | [P] |
 
 ## Who Is in Cabinet
 
@@ -89,6 +62,31 @@ The Court's abstracts of verdicts were to be placed in the Cabinet minutes in 19
 ## Representatives come and go
 
 Beside the Cabinet stands a much larger and less consistent body of appointed representatives. The college's lists name about forty positions in 2005–06 and about twenty-five in 2023, and only ten of the 2005–06 titles survive to 2023 (College Night, Election, Food, Intramural Sports, Kitchen, Laundry, Movie, RPC, Vacuum, Webmasters): Beer Bike Captains, the Brewmaster, Study Break Reps and the "YEAH WIESS" (T-shirt screening) rep have gone; Boba, Chalkboard, Shower, Wiess Cream and UpCo reps have come [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wb 20140627224604 http://teamwiess.com/representatives.html] [@wiess-rice-edu-representatives-2023]. Since c. early 2025 the Constitution has said so in terms: "There shall be an undefined number of Wiess Representatives that shall include but are not limited to" seven named positions [@constitution-hate-speech Art. VII §1] [@constitution-2026 Art. VII §1]. A year-by-year list of the known representitive positions is on [Representatives](representatives.md).
+
+## Timeline
+
+Much more information on cabinet composition likely exists in the Wiess archives and has not yet been retrieved digitally.
+
+| When | What | Evidence |
+|---|---|---|
+| 1993-08-05 | Constitution: Cabinet of "fifteen members", twelve offices, elected in spring except Freshman Representatives; appointed members "selected by the Cabinet"; Parliamentarian and Historian non-voting [@constitution-1993 Art. III §§3–4, 6] | [P] |
+| 1993-08-05 | Bylaws: minutes "published within one week of the meeting", signed by the Secretary and two other members; meetings announced 24 hours ahead so "all members of the College may attend" [@constitution-1993 Bylaws Art. II §§2, 6] | [P] |
+| 1998-07-19 | Website: "twelve elected and three appointed offices"; an $18,000 annual budget; the Secretary "providing the agenda and minutes of cabinet meetings"; a Game Room Chairman among the appointees [@riceinfo-cabinet-1998] | [P] |
+| 2003 | O-Week glossary: "Governing body of Wiess. Throws great parties—er meetings—every other Wednesday." [@oweek-2003 p.3] | [P] |
+| 2007-02-06 | "Seventeen members": two Social Vice Presidents and two Treasurers; attendance mandatory; Appropriations and Budget committees [@constitution-2007 Art. III §§4, 9; Art. VII] | [P] |
+| 2008-08-28 | "Last Cabinet Notes" on teamwiess.com: the O-Week themed Cabinet approves the budget, hears Freshman Rep speeches [@teamwiess-lastnotes-2008] | [P] |
+| 2009-09-09 | "Silly Hats Cabinet Minutes": a new Capital Improvements Rep approved by motion [@teamwiess-cabinetminutes-2010] | [P] |
+| 2013-02-08 | "Nineteen members": Academics and Career Chair added; two-year Treasurer terms with a head and an apprentice treasurer; hand-over of documents to successors required [@constitution-2013 Art. III §§4 F, 4 K, 10] | [P] |
+| 2016-01-26 | Appointed members "selected by the President with the approval of Cabinet"; SA Senator listed as a non-voting Cabinet member; Internal Vice President; resign if placed on probation or going abroad [@constitution-2016 Art. III §§3, 4 B, 4 N, 5, 12] | [P] |
+| 2016-01-26 | Bylaws: minutes within two weeks; closed "Executive Council" sessions allowed until spring 2017 elections [@constitution-2016 Bylaws Art. II §6; Art. XI] | [P] |
+| 2017-03-29 | Appointed members again "selected by the Cabinet" [@constitution-2017 Art. III §3] | [P] |
+| 2020-02-12 | Constitution "Last Amended February 12, 2020": "The legislative powers shall be vested in the Cabinet"; "17 voting members"—President, two Vice Presidents, two Social VPs, two First-Year, two Sophomore, one Junior and one Senior Representative, two Off-Campus Representatives, Treasurer, Assistant Treasurer, two Diversity Chairs; Parliamentarian, Secretary, Historian(s), Capital Improvements Liaison, Academics and Career Chair appointed and non-voting; SA Senator, Chief Justice ("observing member"), Magisters and RAs non-voting; Cultural and At-Large Representatives gone [@constitution-2020 Art. III §§1, 12–13] | [P] |
+| 2020-02-12 | Bylaws: proxies must relay information; new or abolished positions take effect at the next annual election; President's Endowment "subject to approval by the Magisters" [@bylaws-2020 Art. II §§5, 8; Art. IV §6] | [P] |
+| 2020-10-02 | Website lists Treasurer and Apprentice Treasurer, Senior and Junior Representatives, Diversity Chairs [@teamwiess-cabinet-2020] | [P] |
+| 2021-09-24 | Roster: President Varun Kukunoor; two Diversity Chairs; two Historians; meetings "every Wednesday… (and now on Zoom!)" [@teamwiess-cabinet-2021] | [P] |
+| 2023-09-15 | Roster on wiess.rice.edu: President Blaine Samson; Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
+| c. early 2025 | Undated "Complete Guiding Documents": Voting (Art. V) and Non-Voting (Art. VI) Members as separate articles; Apprentice Treasurer; two Secretaries; quorum "(9)"; a Representatives article (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday); Cabinet may dissent from a Magister veto by two-thirds; no Executive Cabinet yet [@constitution-hate-speech Arts. IV–VII] | [P] |
+| 2026-02-23 | "17 voting members" (Article V) and non-voting members (Article VI); quorum "a simple majority (9)… not including proxies"; two unproxied absences grounds for impeachment; an Executive Cabinet; Cabinet may dissent from a Magister veto by two-thirds [@constitution-2026 Arts. IV §§6, 8, 14; V; VI] | [P] |
 
 ## Historic references
 

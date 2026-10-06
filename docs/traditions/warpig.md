@@ -7,13 +7,19 @@ reviewed_by: unreviewed
 
 # The War Pig
 
-Wiess's mascot is a giant pig that was supposed to fly. Mostly, it didn't. That never stopped anyone.
+The War Pig (spelled "Warpig" these days) is Wiess's mascot. Today it's a giant wooden pig on wheels, first built by the Class of 2012, that Wiess paints and hauls out for Beer Bike [@campanile-2012 p.172] [@oweek-2024 p.25] [@oweek-2024 p.34].
 
 !!! abstract "TL;DR"
     - The name "War Pig" dates to 1982, from the Black Sabbath song [@maxham-pig-document].
     - From 1986 Wiess built huge trash-bag and plastic pigs for Beer Bike. One really flew in 1991, on helium balloons [@thresher-portal 5 Apr 1991 p.16] [@campanile-1991 p.281].
     - A store-bought helium pig floated away at Beer Bike 2004 when its cord was cut [@thresher-2004-03-26 p.9].
-    - The Class of 2012 built a wooden pig on wheels. "The pig will fly" became "the pig will roll" [@campanile-2012 p.172] [@oweek-2014 p.103].
+    - With the wooden pig, the old chant "The pig will fly" became "the pig will roll" [@oweek-2014 p.103].
+
+## The pig will roll
+
+The Class of 2012 built a wooden "Trojan Warpig" on a trailer for Beer Bike 2012 [@campanile-2012 p.172]. The chant changed to "the pig will roll!" [@oweek-2014 p.103]. In 2016 Wiess got fined because too many people rode it [@thresher-web "Beer Bike Violations & Fines", Mar 2016].
+
+The wooden pig has been rebuilt at least once, around 2017–21. A builder left a note inside: "do NOT just copy each piece. They are not equal.. It is a nightmare" [@warpig-note-loryn]. In 2024 an inflatable came back too, and it "flew (fell with style)" [@warpig-core-deck slides 35–46] [@thresher-2024-04-10].
 
 ## Where the pig came from
 
@@ -22,6 +28,8 @@ In spring 1982, a Wiess student (Class of '84) started calling Wiessmen "War Pig
 The first real pig was tiny: an 8–10-inch pig-iron statue carried around the college [@maxham-pig-document] [@rice-magazine-2016-wiess-traditions]. The first *big* one was a 12-foot chicken-wire pig at [Night of Decadence](night-of-decadence.md) 1984. Sid Rich guys tore it apart the same night [@portal metapth245573 p.27] [@campanile-1985 p.283].
 
 ## The pigs that (mostly) didn't fly
+
+For decades the pig was supposed to fly. Mostly, it didn't. That never stopped anyone.
 
 **1986:** A 15-foot trash-bag hot-air balloon went to Beer Bike, floated off and landed blocks away [@maxham-pig-document]. **1987–89:** A 30-by-60-foot black plastic pig lettered "TEAM WIESS." Other colleges attacked it in 1988, and it never flew [@campanile-1987 p.320] [@campanile-1988 p.268].
 
@@ -34,12 +42,6 @@ By 1999, twenty-five students still woke at 4:30 a.m. to inflate "a giant pig ma
 By 2002 Wiess had bought a $4,500 commercial helium pig, bright orange [@thresher-2004-03-26 p.9]. At Beer Bike on 20 March 2004, its cord was cut. It floated away and was never found [@thresher-2004-03-26 p.9].
 
 For the next six years, the O-Week books called the pig a "**Former** Wiess mascot" [@oweek-2006 p.84] [@oweek-2011 p.93]. Ouch.
-
-## The pig will roll
-
-The Class of 2012 built a wooden "Trojan Warpig" on a trailer for Beer Bike 2012 [@campanile-2012 p.172]. The chant changed to "the pig will roll!" [@oweek-2014 p.103]. In 2016 Wiess got fined because too many people rode it [@thresher-web "Beer Bike Violations & Fines", Mar 2016].
-
-The wooden pig has been rebuilt at least once, around 2017–21. A builder left a note inside: "do NOT just copy each piece. They are not equal.. It is a nightmare" [@warpig-note-loryn]. In 2024 an inflatable came back too, and it "flew (fell with style)" [@warpig-core-deck slides 35–46] [@thresher-2024-04-10].
 
 ## Photographs
 

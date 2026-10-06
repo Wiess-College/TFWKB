@@ -7,12 +7,17 @@ reviewed_by: unreviewed
 
 # DOME
 
+DOME is a Wiess party early in the fall semester; the latest write-up we've found is on the college website in 2010 [@teamwiess-activities-2009] [@wb 20100826015909 http://teamwiess.com/activities.php].
+
 A party whose name we haven't seen explained in print. We're not going to either.
 
 !!! abstract "TL;DR"
-    - DOME is a Wiess party early in the fall semester [@teamwiess-activities-2009].
     - It first shows up in June 2008, on the college website's menu as "DOME & Big Bang" [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb].
     - The one written account we've found so far is a short web paragraph from 2009–10. It isn't in the O-Week books we have [@teamwiess-activities-2009] [@oweek-2025 p.38].
+
+## Who runs it?
+
+In the sources we have so far, it's a student party. No source says whether it's Wiess-only or open to other colleges. It has no line in the 2014–15 public budget, which lists NOD, Wiess Day, JamFest, Big Bang and Summit [@budget-2014-15 p.1]. See also [Off the books](off-the-books.md).
 
 ## The legend
 
@@ -25,10 +30,6 @@ That's the only account of where it came from that we've found so far.
 We haven't found a start date yet. "Every year since" doesn't say since when [@teamwiess-activities-2009]. A "4th floor room of girls" means after Wiess went coed in the 1980s.
 
 DOME isn't on the 1997 or 1999 lists of Wiess traditions [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. So it probably started later, or it just wasn't on those lists.
-
-## Who runs it?
-
-In the sources we have so far, it's a student party. No source says whether it's Wiess-only or open to other colleges. It has no line in the 2014–15 public budget, which lists NOD, Wiess Day, JamFest, Big Bang and Summit [@budget-2014-15 p.1]. See also [Off the books](off-the-books.md).
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |

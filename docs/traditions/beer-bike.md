@@ -7,27 +7,20 @@ reviewed_by: unreviewed
 
 # Beer Bike
 
-It starts at 4 a.m. with loud music and ends soaking wet. Rice's spring relay race has run since 1957; this page is about how Wiess does it.
+Beer Bike is Rice's spring relay race between the colleges, held since 1957: each college has ten bikers and ten chuggers, taking turns, and the chuggers drink water [@oweek-2006 p.51] [@oweek-2003 p.5] [@oweek-2024 p.39]. This page is about how Wiess does it.
 
 !!! abstract "TL;DR"
-    - Beer Bike is a spring relay between the colleges: ten bikers and ten chuggers each, taking turns [@oweek-2003 p.5]. The chuggers drink water [@oweek-2024 p.39].
     - Wiess's day: a pre-dawn wake-up, a parade, water balloons, and the [War Pig](warpig.md) [@riceinfo-beerbike] [@oweek-2024 p.39].
     - Wiess won the beer-drinking contest in 1958 and the men's race in 1975. That 1975 win is where the [Team Wiess](team-wiess.md) chant first shows up [@thresher-1958-05-09-beer-drinking] [@thresher-1975-04-07-beer-bike].
     - The week before used to be Willy Week. Since 2021 Wiess calls it Piggy Week [@oweek-2019 p.19] [@oweek-2021 p.19].
 
 ## The Wiess day
 
-Some "cruel upperclassman" wakes the whole college with loud music. In 1997 the favorites were "Ride of the Valkyries," AC/DC and Black Sabbath's "War Pigs" [@riceinfo-beerbike]. In 2024 it was "All I Do Is Win," at 4 a.m. [@oweek-2024 p.39].
+It starts at 4 a.m. with loud music and ends soaking wet. Some "cruel upperclassman" wakes the whole college with loud music. In 1997 the favorites were "Ride of the Valkyries," AC/DC and Black Sabbath's "War Pigs" [@riceinfo-beerbike]. In 2024 it was "All I Do Is Win," at 4 a.m. [@oweek-2024 p.39].
 
 Then everyone gathers in the Acabowl, and the parade heads down the Inner Loop to the track [@riceinfo-beerbike]. Expect water balloons, a firehose, and in 2024 a color war with powder [@oweek-2024 p.39]. The chuggers drink water in the 2006, 2016 and 2024 books; the 1997 website guessed "beer with the alcohol boiled out of it" [@oweek-2006 p.51] [@owlmanac-2016 p.43] [@oweek-2024 p.39] [@riceinfo-beerbike]. The 2015 glossary says it's "Often compared to Christmas" [@oweek-2015 p.120].
 
 The week before is for jacks (pranks on other colleges) and filling water balloons [@oweek-2006 p.51]. The best-known Wiess one: around 2001, Wiess hung all of Jones's bikes "about 15 feet off the ground in front of Fondren" with a banner reading "Who wins now, Jones?" [@oweek-2006 p.52].
-
-## Winning (sometimes)
-
-Wiess's first win was in 1958, in the beer-drinking contest; the bike race was rained out [@thresher-1958-05-09-beer-drinking]. In 1968 the team used a slingshot to launch its riders faster [@thresher-1985-04-12-beer-bike-history].
-
-In 1975 Wiess won the men's title and broke out the "Wiess Team!" chant [@thresher-1975-04-07-beer-bike]. A 1985 table of winners lists Wiess for 1958, 1975 and 1982 [@thresher-1985-04-12-beer-bike-history]. By 1997 the website admitted "we've lost the last few years (the bikes were rigged! I swear, it's true!)" [@riceinfo-beerbike].
 
 ## The War Pig at Beer Bike
 
@@ -67,6 +60,12 @@ More on the place: [The basement and Sparky's](../places/basement-and-sparkys.md
     | 2021– | No Yeah Wiess or screening representative on the lists of 2020–2023; no "shirt screening" in the 2021–2025 glossaries [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [@oweek-2021 p.18] | [P] |
 
     **What the sources confirm.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); the rep's study-break plans are on [Study breaks](study-breaks.md).
+
+## Winning (sometimes)
+
+Wiess's first win was in 1958, in the beer-drinking contest; the bike race was rained out [@thresher-1958-05-09-beer-drinking]. In 1968 the team used a slingshot to launch its riders faster [@thresher-1985-04-12-beer-bike-history].
+
+In 1975 Wiess won the men's title and broke out the "Wiess Team!" chant [@thresher-1975-04-07-beer-bike]. A 1985 table of winners lists Wiess for 1958, 1975 and 1982 [@thresher-1985-04-12-beer-bike-history]. By 1997 the website admitted "we've lost the last few years (the bikes were rigged! I swear, it's true!)" [@riceinfo-beerbike].
 
 ## Photographs
 

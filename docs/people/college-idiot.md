@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # College Idiot & other offices
 
-Every fall, Wiess elects a College Idiot. It's an honor. Really. "If you were an asshole, you would've been elected DWE, instead" [@riceinfo-pumpkin].
+The College Idiot is an honorary Wiess office given each year to a "deserving" student (lately two of them), who leads [Pumpkin Caroling](../traditions/pumpkin-caroling.md) on Halloween night [@handbook-1994] [@oweek-2015 p.119] [@riceinfo-pumpkin]. It's an honor. Really. "If you were an asshole, you would've been elected DWE, instead" [@riceinfo-pumpkin].
 
 !!! abstract "TL;DR"
     - The College Idiot was an elected office by 1977, when Wiess held "elections for Freshman Rep, College Idiot, and…" [@thresher-1977-09-08-college-idiot].

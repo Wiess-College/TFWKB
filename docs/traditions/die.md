@@ -7,14 +7,16 @@ reviewed_by: unreviewed
 
 # Die
 
-A table, four cups and one very bouncy die. Catch it with one hand or lose the point.
+Die (also "beer die" or "snappa") is a table game that Wiess plays: toss a die high, bounce it off the table, and make the other side miss the catch [@wikipedia-beer-die] [@eli-2023-10-21-beer-die] [@oweek-2025 p.36].
 
 !!! abstract "TL;DR"
-    - Die (also "beer die" or "snappa") is a table game: toss a die high, bounce it off the table, and make the other side miss the catch [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
+    - Two players a side, a cup on each corner, and one-handed catches only [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
     - The stories of where it came from disagree: Maine, Colby or the Navy, depending who you ask [@vinepair-2016-11-09-beer-die].
-    - Wiess plays it. The 2025 O-Week book calls one of its Fellows a "die demon" and doesn't bother to explain [@oweek-2025 p.36].
+    - The 2025 O-Week book calls one of its Fellows a "die demon" and doesn't bother to explain [@oweek-2025 p.36].
 
 ## How it works
+
+A table, four cups and one very bouncy die. Catch it with one hand or lose the point.
 
 - **The table.** About 4 by 8 feet, often plywood, with a cup on each corner [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
 - **The teams.** Two a side, one player at each corner [@wikipedia-beer-die].
@@ -33,6 +35,10 @@ The one printed trace is the 2025 O-Week book. It calls a Fellow "an Intramural 
 
 For context only: since at least 2013, Rice's alcohol policy has banned "any form of competitive drinking" [@thresher-2013-04-18-alcohol-policy].
 
+## What to call it
+
+**Die** is what Wiess says. **Beer die** is the usual name elsewhere, for the standing game. **Snappa** is the sitting-down version, and Wikipedia says the standing game grew out of it [@wikipedia-beer-die] [@aggie-2019-05-17-beer-die].
+
 ## Where it came from
 
 Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-2017] [@jhu-newsletter-2002-11-14-beer-die]:
@@ -40,10 +46,6 @@ Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-
 1. **University of Maine, 1972.** Four fraternity men tossing a die above a table. This is the Beer Die League's story.
 2. **Colby College, 1978**, per Colby's student paper. A 1996 Colby rules sheet is the oldest written rulebook anyone cites [@wikipedia-beer-die].
 3. **The Navy, 1970s.** A "legend" that officers on guard duty played it, and it passed to Santa Clara University.
-
-## What to call it
-
-**Die** is what Wiess says. **Beer die** is the usual name elsewhere, for the standing game. **Snappa** is the sitting-down version, and Wikipedia says the standing game grew out of it [@wikipedia-beer-die] [@aggie-2019-05-17-beer-die].
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |

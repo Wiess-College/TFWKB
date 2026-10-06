@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # No-Theme Wiess
 
-Three words on two lists. We haven't found an explanation yet.
+No-Theme Wiess was a Wiess tradition named on the college website's tradition lists in 1997 and 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. Three words on two lists: we haven't found a description of it yet.
 
 !!! abstract "TL;DR"
     - In 1997 "No-Theme Wiess" was listed as "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997].

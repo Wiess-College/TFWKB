@@ -7,15 +7,16 @@ reviewed_by: unreviewed
 
 # Broomball
 
-Hockey, but in sneakers, with brooms. Nobody stays upright for long.
+Broomball is hockey on ice in shoes instead of skates, with broom-headed sticks [@wikipedia-broomball]. It's one of Wiess's traditions: new Wiessmen played it during O-Week in 2009 [@portal metapth443046 p.11].
 
 !!! abstract "TL;DR"
-    - Broomball is played on ice in shoes, not skates. Two teams push a ball toward goals with broom-headed sticks [@wikipedia-broomball].
     - Rice students have played it since at least the 1950s [@portal metapth231056 p.3].
-    - New Wiessmen played it during O-Week in 2009 [@portal metapth443046 p.11], and by 2012 it was a standard orientation icebreaker [@thresher-2012-08-18-purity-test].
+    - By 2012 it was a standard orientation icebreaker [@thresher-2012-08-18-purity-test].
     - Wiess counts it as one of its traditions. The details of how and when Wiess plays are still to be written up.
 
 ## The game
+
+Hockey, but in sneakers, with brooms. Nobody stays upright for long.
 
 - **The ice.** A rink, or any ice you can book [@wikipedia-broomball].
 - **The feet.** Shoes, not skates. That's most of the fun [@wikipedia-broomball].

@@ -7,18 +7,12 @@ reviewed_by: unreviewed
 
 # Wiess House / Wilson House
 
-Wilson House is where the [Magisters](../people/masters-and-magisters.md) live: the professor and family who live next door and look out for the college. The motto since 2006: "Where everybody knows your name, and the door is always open" [@oweek-2006 p.84].
+Wilson House is where the [Magisters](../people/masters-and-magisters.md) live: the professor and family who live next door and look out for the college. It has carried RA Dr. Bill Wilson's name since 2011; at Old Wiess it was Wiess House [@wiess-60th-faq-2017 p.4] [@riceinfo-masters]. The motto since 2006: "Where everybody knows your name, and the door is always open" [@oweek-2006 p.84].
 
 !!! abstract "TL;DR"
     - At Old Wiess it was **Wiess House**, "a small house attached to the college," built around 1957 [@riceinfo-masters] [@edesigns-old-wiess-2002].
     - Today it's **Wilson House**, "Dedicated in 2011 as a memorial to beloved RA William 'Dr. Bill' Wilson" [@wiess-60th-faq-2017 p.4].
     - It's "the only building anywhere at Rice named after a former master or RA" [@wiess-60th-faq-2017 p.4].
-
-## Wiess House
-
-The Master's house came with the 1957 switch from dorm to college [@edesigns-old-wiess-2002]. In the 1990s the Masters "host the weekly *Simpsons* gathering every Sunday at Wiess House, at least until the reruns start" [@riceinfo-masters].
-
-After the 2002 move, the old house was a hike away. "Sadly, it's on the Inner Loop, but the door is still always open" (2003) [@oweek-2003 p.4]. By 2006 the Master "Can always be found right next door to Wiess" [@oweek-2006 p.84].
 
 ## Dr. Bill's house
 
@@ -26,6 +20,12 @@ In 2011 the house was dedicated to Dr. Bill Wilson, a longtime Wiess RA (a grown
 
 The Byrds' 2015 welcome promised "ample opportunity to hang out with them at 'the house'": "Solos and Duets study break, Twenty Minute Jazz Festival, Brunch Book Club" [@wb 20150313224617 http://teamwiess.com/master.html]. The house even had its own Twitter, @ricewilsonhouse [@wb 20140627224545 http://teamwiess.com/master.html].
 
+
+## Wiess House
+
+The Master's house came with the 1957 switch from dorm to college [@edesigns-old-wiess-2002]. In the 1990s the Masters "host the weekly *Simpsons* gathering every Sunday at Wiess House, at least until the reruns start" [@riceinfo-masters].
+
+After the 2002 move, the old house was a hike away. "Sadly, it's on the Inner Loop, but the door is still always open" (2003) [@oweek-2003 p.4]. By 2006 the Master "Can always be found right next door to Wiess" [@oweek-2006 p.84].
 
 ??? info "The receipts: timeline"
 

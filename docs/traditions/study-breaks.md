@@ -7,11 +7,11 @@ reviewed_by: unreviewed
 
 # Study breaks
 
-Free food. Half an hour off. Back to the problem set. That's a study break.
+A study break is a short, casual event, usually in the evening and usually with food, so people can stop working for a bit. At Wiess almost everyone throws them: the Magisters, the RAs, the Associates, reps and committees [@oweek-2003 intro p.7] [@oweek-2024 p.30] [@oweek-2024 p.28].
 
 !!! abstract "TL;DR"
-    - A study break is a short, casual event, usually in the evening and usually with food, so people can stop working for a bit.
-    - At Wiess, almost everyone throws them: the Magisters, the RAs, the Associates, reps and committees [@oweek-2003 intro p.7] [@oweek-2024 p.30] [@oweek-2024 p.28].
+    - Free food, half an hour off, then back to the problem set.
+    - The biggest one of the year is Rice's own, thrown by the Rice Program Council [@owlmanac-2016 p.39].
     - From about 2005 to 2015 Wiess even had appointed Study Break Reps [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wb 20150313224645 http://teamwiess.com/representatives.html].
 
 ## Who throws them

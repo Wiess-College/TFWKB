@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The Web
 
-Wiess has been online since 1997, and the Wayback Machine kept most of it. Most of the evidence on this site comes from those old pages, so it helps to know which era a page is from.
+This section is about Wiess on the web: the college's websites and how this site uses their archived pages. Wiess has been online since 1997, and the Wayback Machine kept most of it. Most of the evidence on this site comes from those old pages, so it helps to know which era a page is from.
 
 !!! abstract "TL;DR"
     - **1997:** the first site, hand-built on a Mac at `riceinfo.rice.edu/projects/colleges/wiess/`. Some of its pages copy the 1994 Freshman Handbook [@riceinfo-site].

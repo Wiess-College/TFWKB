@@ -7,11 +7,10 @@ reviewed_by: unreviewed
 
 # Jock Row
 
-The oldest tradition in this section. It had already ended by the time our oldest source mentioned it.
+Jock Row was a stretch of Old Wiess's west wing where athletes lived, because the gym was right next door [@riceinfo-history]. It had already ended by 1994, when the college called it "one of Wiess' oldest, though now defunct, traditions" [@riceinfo-history].
 
 !!! abstract "TL;DR"
-    - Jock Row was a stretch of Old Wiess's west wing where athletes lived, because the gym was right next door [@riceinfo-history].
-    - By 1994 the college called it "one of Wiess' oldest, though now defunct, traditions" [@riceinfo-history].
+    - It was a habit, not a rule: "Wiess was never formally an athlete's dormitory" [@riceinfo-history].
     - That one sentence is most of what we've found so far.
 
 ## What it was

@@ -7,19 +7,14 @@ reviewed_by: unreviewed
 
 # The terraces and the Bacabowl
 
+The terraces are New Wiess's raised outdoor spaces: a big one on the servery roof (shared with Hanszen), a fourth-floor balcony, and a small one by UpCo [@oweek-2021 p.18]. The Backabowl, or Bacabowl, was Old Wiess's quieter back courtyard [@handbook-1994].
+
 Wiess's "Aca-" names for its outdoor spaces keep moving around. Even the O-Week books don't agree. Here's the cheat sheet.
 
 !!! abstract "TL;DR"
     - **Backabowl / Bacabowl** was Old Wiess's quiet back courtyard, "Where most of the amateur and shy sun-bathers can be found" [@handbook-1994].
-    - New Wiess has three terraces: the big one on the servery roof (shared with Hanszen), a fourth-floor balcony, and a small one by UpCo [@oweek-2021 p.18].
     - Their names swapped at least twice between 2003 and 2021 [@oweek-2003 p.3] [@oweek-2014 p.102] [@oweek-2019 p.14] [@oweek-2021 p.18].
     - **Toke** is in print from 2025, but no written source says which spot it is [@oweek-2025 p.48].
-
-## The Backabowl
-
-Old Wiess had two courtyards. The Backabowl sat behind the three-storey central wing [@handbook-1994]. It was "generally a little bit quieter than the acabowl, and traditionally is not used as much for social functions" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. Think "sunbathing or studying" [@oweek-2006 p.36].
-
-New Wiess has just one courtyard, [the Acabowl](acabowl.md). So the "back" names moved up to the terraces.
 
 ## The great terrace name shuffle
 
@@ -36,6 +31,12 @@ In 2009 the website said the servery-roof terrace was "shared by our lackluster 
 
 A 2025 Fellow is found "hanging out at Toke for the views (sort of)" [@oweek-2025 p.48]. That hints at somewhere high up, it is indeed on the 4th floor, sometimes called the 4th floor balcony.
 In a July 2022 photo there is "TOKE" painted on a graffiti-covered table in an O-Week photo [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg].
+
+## The Backabowl
+
+Old Wiess had two courtyards. The Backabowl sat behind the three-storey central wing [@handbook-1994]. It was "generally a little bit quieter than the acabowl, and traditionally is not used as much for social functions" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. Think "sunbathing or studying" [@oweek-2006 p.36].
+
+New Wiess has just one courtyard, [the Acabowl](acabowl.md). So the "back" names moved up to the terraces (see the name shuffle above).
 
 ## Photographs
 

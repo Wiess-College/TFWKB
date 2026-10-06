@@ -7,12 +7,12 @@ reviewed_by: LM
 
 # Representatives
 
-Reps are students who take care of one thing for the college: a room, a job, an event. Need a board game? There's a rep for that.
+Representatives ("reps") are Wiess students who each take care of one thing for the college: a room, a job, an event. There's no fixed number of them; the Constitution names seven and leaves the list open [@constitution-2026 Art. VII §1]. Need a board game? There's a rep for that.
 
 !!! abstract "TL;DR"
     - Reps are "Wiessmen chosen by leadership". "Need a board game? Contact the Board Game Rep. Have a food complaint? Contact the Food Rep" [@wb 20140627224604 http://teamwiess.com/representatives.html].
     - The list changes with the people. About forty positions in 2005–06, about twenty-five in 2023 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wiess-rice-edu-representatives-2023].
-    - Since about early 2025 the Constitution names seven (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday) and leaves the rest open on purpose [@constitution-hate-speech Art. VII §1] [@constitution-2026 Art. VII §1].
+    - The seven the Constitution names, since about early 2025: Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday [@constitution-hate-speech Art. VII §1] [@constitution-2026 Art. VII §1].
 
 ## An open-ended list
 

@@ -7,6 +7,8 @@ reviewed_by: unreviewed
 
 # The Wiess website through the years
 
+The Wiess website is the college's own home on the web. Today it lives at `wiess.rice.edu`; before that it was `teamwiess.com` and, from 1997, a corner of `riceinfo.rice.edu` [@wb 20241227224744 https://wiess.rice.edu/] [@teamwiess-site] [@riceinfo-site].
+
 Three homes, about a dozen rebuilds, and one forum overrun by spam bots. Here's the Wiess website, era by era.
 
 !!! abstract "TL;DR"

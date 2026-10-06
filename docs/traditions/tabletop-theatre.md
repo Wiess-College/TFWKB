@@ -7,10 +7,9 @@ reviewed_by: unreviewed
 
 # Tabletop Theatre
 
-Wiess puts on plays in the room where it eats dinner. It has for sixty years.
+Wiess Tabletop Theatre is the college's theatre company. It puts on plays and musicals in the [Commons](../places/commons.md), "the same place we eat," and anyone at Rice can audition for the main shows [@wb 20070801185000 http://teamwiess.com/tabletop.html] [@wb 20150313224607 http://teamwiess.com/tabletop.html].
 
 !!! abstract "TL;DR"
-    - Wiess Tabletop Theatre is the college's theatre company. It plays in the [Commons](../places/commons.md), "the same place we eat" [@wb 20070801185000 http://teamwiess.com/tabletop.html].
     - The name is in the Thresher by October 1966 [@thresher-1966-10-20-tabletop].
     - A season: Freshman One-Acts in the fall, a fall play, and a spring musical with a live orchestra [@wb 20150313224607 http://teamwiess.com/tabletop.html].
     - Every four years it stages *Hello, Hamlet!*, a homemade Shakespeare spoof first performed 5–7 October 1967 [@thresher-1967-10-05-hello-hamlet-review] [@oweek-2017 p.32].

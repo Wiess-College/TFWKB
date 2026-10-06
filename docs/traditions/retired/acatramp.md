@@ -7,10 +7,10 @@ reviewed_by: unreviewed
 
 # The Acatramp
 
-A trampoline in the middle of the Acabowl. For at least twenty-five years, that was the whole tradition, and it was enough.
+The Acatramp was a trampoline in the middle of the [Acabowl](../../places/acabowl.md), Wiess's courtyard field, where Wiessmen lined up to jump. It shows up in the sources from 1994 through the 2019 O-Week book [@handbook-1994] [@oweek-2019 p.14].
 
 !!! abstract "TL;DR"
-    - 1994: "The purple and black trampoline majestically situated in the middle of the Acabowl" [@handbook-1994]. The [Acabowl](../../places/acabowl.md) is Wiess's courtyard field.
+    - In 1994 it was purple and black, "majestically situated in the middle of the Acabowl" [@handbook-1994].
     - It moved to the New Wiess Acabowl in 2002 and stayed in every O-Week glossary through 2019 [@warpig-core-deck slide 32] [@oweek-2019 p.14].
     - Not in the 2021 glossary [@oweek-2021 p.18]. We haven't found why yet.
 

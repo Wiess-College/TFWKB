@@ -4,10 +4,9 @@ title: Off the books
 
 # Off the books
 
-These aren't official. The college doesn't run them, and some it would rather you didn't. But they come back year after year, and Wiess knows itself by them.
+Off the books is the unofficial side of Wiess: privates, Dis-O, Toke, jacks and a few more things students keep doing even though the college doesn't run them. Some the college would rather you didn't. But they come back year after year, and Wiess knows itself by them.
 
 !!! abstract "TL;DR"
-    - This page covers the unofficial side of Wiess: privates, Dis-O, Toke, jacks and a few more.
     - Some are in writing. Some are only remembered. Each entry says which.
     - Nothing here is advice or instructions. It's history.
 

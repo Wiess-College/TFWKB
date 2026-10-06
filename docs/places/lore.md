@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Building lore
 
-Every building collects stories. These are the Wiess ones: named oddities, habits and rumors that aren't on a calendar. Customs with their own pages, like the Dangle, just get a link.
+This page collects the stories Wiess's buildings have gathered over the years: named oddities, habits and rumors that aren't on a calendar. Customs with their own pages, like the Dangle, just get a link.
 
 !!! abstract "TL;DR"
     - Old Wiess had "the tower" and the famous "O/C Bathroom" [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html] [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html].

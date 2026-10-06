@@ -7,13 +7,17 @@ reviewed_by: unreviewed
 
 # College Night
 
-Every Rice college has a College Night once a semester. Wiess will tell you, loudly, that its own is the best.
+College Night is Wiess's themed day each semester: fun all afternoon, a fancy dinner, then "a night full of celebrations" [@oweek-2015 p.24]. Two College Night Representatives run it [@constitution-2026 p.10].
 
 !!! abstract "TL;DR"
-    - College Night is a themed day each semester: fun all afternoon, a fancy dinner, then "a night full of celebrations" [@oweek-2015 p.24].
     - It goes back to the colleges' first spring. Wiess planned one in 1957, as a formal dinner with a guest speaker [@thresher-1957-04-12-college-nights] [@thresher-1961-03-17-college-night].
     - For years Wiess held it on the last day of classes, with a show called "Entertainment" afterward [@riceinfo-collegenight] [@oweek-2003 p.3].
-    - Two College Night Representatives run it today [@constitution-2026 p.10].
+
+## Themes take over
+
+Every Rice college has a College Night once a semester. Wiess will tell you, loudly, that its own is the best.
+
+Since 2015 the books describe a themed day, "typically on Fridays," and the Entertainment show isn't mentioned [@oweek-2015 p.24]. Recent themes are mostly pig puns: Peppa the War Pig, Vineyard Swines, Pigagonia, Infinity War Pig [@oweek-2019 p.33] [@oweek-2024 p.38]. "Team Flag Wiess" got so popular it became its own event [@oweek-2019 p.33].
 
 ## Coat and tie (1957–60s)
 
@@ -24,10 +28,6 @@ The first College Nights were formal dinners with a speaker. In the colleges' fi
 By the 1990s, dinner was "very nice'n'polite, so we Wiessmen can demonstrate just how smooth we can be in nice clothes" [@riceinfo-collegenight]. Then came "the fun part, usually called 'Entertainment'": music, skits, and a Freshman Song, "mostly to vent their repressed rage at all us nasty upperclassmen" [@riceinfo-collegenight].
 
 The 1997 website bragged about the other colleges: "Entertainment at their College Nights? Nope. They're just lame" [@riceinfo-traditions-1997]. The 2003 dinner came "complete with a theme, tablecloths and 1,000 cheesesticks" [@oweek-2003 35-44 wiess.pdf p.9].
-
-## Themes take over
-
-Since 2015 the books describe a themed day, "typically on Fridays," and the Entertainment show isn't mentioned [@oweek-2015 p.24]. Recent themes are mostly pig puns: Peppa the War Pig, Vineyard Swines, Pigagonia, Infinity War Pig [@oweek-2019 p.33] [@oweek-2024 p.38]. "Team Flag Wiess" got so popular it became its own event [@oweek-2019 p.33].
 
 ??? quote "In the college's own words"
     "Wisely, Wiess puts theirs on the last night of the semester to make things extra special… (you think it's a lot, but you better get there early)." [@oweek-2003 35-44 wiess.pdf p.9]

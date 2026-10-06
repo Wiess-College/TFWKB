@@ -4,7 +4,7 @@ title: Search log
 
 # Search log
 
-What's been searched, where, and what turned up, including the dead ends. If you (or your research agent) are about to dig, start here: a recorded dead end saves the next person a day.
+This is the search log: what's been searched, where, and what turned up, including the dead ends. If you (or your research agent) are about to dig, start here: a recorded dead end saves the next person a day.
 
 !!! abstract "TL;DR"
     - Add a row for every search session, even the ones that found nothing.

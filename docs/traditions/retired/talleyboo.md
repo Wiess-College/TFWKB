@@ -7,10 +7,9 @@ reviewed_by: unreviewed
 
 # Talleyboo
 
-A name and one sentence. Something gross happened here. We haven't found out what yet.
+Talleyboo was a Wiess tradition, something gross by the sound of it, that topped the 1997 website's list of "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997]. A name and one sentence: we haven't found out what it was yet.
 
 !!! abstract "TL;DR"
-    - Talleyboo topped the 1997 website's list of "Traditions That Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997].
     - The only hint: "when was the last time anybody at Wiess did anything *really* disgusting?" [@riceinfo-traditions-1997]
     - A possible lead on the name: a 1968 April Fool Thresher calls the Wiess master "Rue Tallyboo" [@thresher-1968-04-01-tallyboo]. That's a lead, not proof.
 

@@ -4,7 +4,7 @@ title: Sources
 
 # Sources
 
-This site holds the short version, not the evidence. The evidence lives in places that will outlast us: the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts. Every claim here links to one of them.
+This section explains where the evidence behind this site lives and how to find more. This site holds the short version, not the evidence. The evidence lives in places that will outlast us: the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts. Every claim here links to one of them.
 
 !!! abstract "TL;DR"
     - Want to check a fact? Click its citation, or look it up in the [bibliography](bibliography.md).

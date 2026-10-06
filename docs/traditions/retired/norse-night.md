@@ -7,10 +7,9 @@ reviewed_by: unreviewed
 
 # Norse Night
 
-A whole Commons eating like Vikings. No forks. Napkins on heads. You can guess how the cleanup went.
+Norse Night was a dinner when the whole [Commons](../../places/commons.md) (the dining hall) ate at "Viking tables": no forks, food on the tablecloth, napkins on heads [@riceinfo-norse] [@handbook-1994].
 
 !!! abstract "TL;DR"
-    - Norse Night filled the [Commons](../../places/commons.md) (the dining hall) with "Viking tables": eat with your hands, make a mess [@riceinfo-norse] [@handbook-1994].
     - The only dated one is "Norse Night '91," which took an hour and a half to clean up [@riceinfo-norse].
     - Hoped-for in 1997, "Sadly Seem To Be Dying Out" by the end of 1999. That's the latest mention we've found so far [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
 

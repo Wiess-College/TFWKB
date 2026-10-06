@@ -7,11 +7,10 @@ reviewed_by: unreviewed
 
 # O-Week
 
-"O-Week is one of the few times in your life that you can return to summer camp, except without a lot of the acne and peer-pressure" [@oweek-2003 intro p.1].
+O-Week (Orientation Week) is the week before classes when Wiess, like every Rice college, welcomes its new students. Three **Head Fellows** run it, leading **Fellows**, **Co-Fellows** from other colleges, and sophomore **Gophers** [@constitution-2026 p.13] [@oweek-2019 p.36].
 
 !!! abstract "TL;DR"
-    - O-Week (Orientation Week) is the week before classes when each Rice college welcomes its new students. It was called "Freshman Week" until the late 1970s [@rhc 2018-01-31 when-did-it-become-o-week comments by Bob Toone '67 and Clark Herring Baker 1978].
-    - At Wiess, three **Head Fellows** run it, leading **Fellows**, **Co-Fellows** from other colleges, and sophomore **Gophers** [@constitution-2026 p.13] [@oweek-2019 p.36].
+    - Rice called it "Freshman Week" until the late 1970s [@rhc 2018-01-31 when-did-it-become-o-week comments by Bob Toone '67 and Clark Herring Baker 1978].
     - Other colleges pick a theme. Wiess's theme is Wiess: "Team Wiess," then "Team Family Wiess" [@oweek-2016 p.1] [@thresher-2024-02-oweek-themes].
     - Goldenrod has been the O-Week color for as long as the books go back [@oweek-2003 conclusions p.9].
 
@@ -24,6 +23,8 @@ reviewed_by: unreviewed
 **Gophers** are sophomore helpers [@oweek-2015 p.43]. In 1994 they were "Gofers," "The 'Fellows'' flunkies" [@handbook-1994]. Since 2015 there are also **Affiliates** with special jobs, like academic advisors and photographers [@oweek-2017 p.14].
 
 ## The O-Week book
+
+"O-Week is one of the few times in your life that you can return to summer camp, except without a lot of the acne and peer-pressure" [@oweek-2003 intro p.1].
 
 Every year since 2003, the Head Fellows have written an O-Week book for new students [@oweek-2003 intro p.2]. Those books are the backbone of this whole site. They're also where the best quotes come from: "O-Week—1. The best week ever" [@oweek-2003 p.6].
 

@@ -7,12 +7,11 @@ reviewed_by: unreviewed
 
 # Freshman Weenie Roast
 
-A cookout for the whole college, run entirely by freshmen. Yes, they were called "the Weenies."
+The Freshman Weenie Roast was a cookout for the whole college, run by two freshmen, the "Weenie Reps," who raised the money, planned it and hyped it [@oweek-2003 35-44 wiess.pdf p.8]. It was last seen in the 2007 O-Week book [@oweek-2007 p.43].
 
 !!! abstract "TL;DR"
-    - Two freshmen, the "Weenie Reps," threw an all-college Weenie Roast: raise the money, plan it, hype it [@oweek-2003 35-44 wiess.pdf p.8].
     - On the 1997 website's "We'd Sure Like To See Continue" list [@riceinfo-traditions-1997].
-    - The latest description we've found is in the 2007 O-Week book. It isn't in the 2008 book [@oweek-2007 p.43] [@oweek-2008 part 3 p.8].
+    - Former Weenie Reps picked the new ones. It isn't in the 2008 book [@oweek-2008 part 3 p.8].
 
 ## What it was
 

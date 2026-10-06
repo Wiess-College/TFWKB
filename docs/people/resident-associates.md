@@ -7,13 +7,19 @@ reviewed_by: unreviewed
 
 # Resident Associates
 
-RAs are the grown-ups who live in the college. At Rice they're "not primarily rule enforcers like they are at other universities (that's what your justices are for)" [@oweek-2024 p.30]. They're there to be "reliable old(er) people who are always available for you."
+Resident Associates (RAs) are the grown-ups who live in the college: Rice faculty and staff with apartments among the students [@oweek-2024 p.28]. At Rice they're "not primarily rule enforcers like they are at other universities (that's what your justices are for)" [@oweek-2024 p.30]. They're there to be "reliable old(er) people who are always available for you."
 
 !!! abstract "TL;DR"
     - Wiess got its first two RAs in 1957. One, Dr. John E. Parish, stayed 23 years [@riceinfo-history].
     - Dr. William "Dr. Bill" Wilson was an RA for about thirty years, from the 1970s to 2006. [Wilson House](../places/wilson-house.md) is named for him [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates] [@wiess-60th-faq-2017 p.4].
     - RAs sit on Cabinet without a vote. Since 2016 a student-led committee helps pick them [@constitution-1993] [@constitution-2016 p.1]. The 2026 Constitution calls them "Residential Associates" [@constitution-2026 p.3].
     - In 2024 and 2025: Lach and Kari Mullen, and Carissa Zimmerman and Nick Espinosa [@oweek-2024 p.30] [@oweek-2024 p.31] [@oweek-2025 p.31].
+
+## RAs today
+
+Today's RAs are "full-time faculty and staff at Rice who live among the students… often inviting students to their 'apartments'" [@oweek-2024 p.28]. They've helped with "leadership challenges," "roommate conflicts," and even helped "students rescue injured wildlife" [@oweek-2024 p.30].
+
+Want to find them? "We eat dinner in the Commons most days around 5:30, and we keep our apartment blinds open when we're home and up for visitors" [@oweek-2025 p.32].
 
 ## Dr. Bill, the legend
 
@@ -30,12 +36,6 @@ He also took most of the photos we've found so far. "He was the one holding the 
 In Old Wiess the RAs were professors. Dr. Stan Dodds of Physics was one from 1992: "Often seen working hard on Tabletop sets. Beware of his wry sense of humor" [@handbook-1994]. From 2003 the books also introduce young alumni couples and lecturers [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8].
 
 The full list of RAs, Magisters and Coordinators, year by year, is on [The Core Team](core-team.md).
-
-## RAs today
-
-Today's RAs are "full-time faculty and staff at Rice who live among the students… often inviting students to their 'apartments'" [@oweek-2024 p.28]. They've helped with "leadership challenges," "roommate conflicts," and even helped "students rescue injured wildlife" [@oweek-2024 p.30].
-
-Want to find them? "We eat dinner in the Commons most days around 5:30, and we keep our apartment blinds open when we're home and up for visitors" [@oweek-2025 p.32].
 
 ??? info "The receipts: timeline"
 
