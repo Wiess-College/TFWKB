@@ -31,7 +31,7 @@ Rice's archivist agreed: "It looks to me, honestly, like a motel" [@rhc 2012-12-
 
 ## Why it came down
 
-Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37].
+Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37]. Delany saw it differently: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. Both can be true: permanent, but cheap and fast.
 
 But it had problems: "plumbing, electricity, or the foundation itself" [@riceinfo-news-2000-lundin]. By the '90s, "Old Wiess was literally sinking into the ground" [@oweek-2015 p.10]. Alum Colin Delany '91 said it was "too poorly constructed to be worth saving… It will be a good Wiess, but it won't be OUR Wiess" [@edesigns-old-wiess-2002].
 
@@ -168,8 +168,8 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
 </figure>
 
 <figure markdown="span">
-  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions.](../assets/photos/photos-old-wiess/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed under Open questions." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="oldwiess" }
-  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
+  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page.](../assets/photos/photos-old-wiess/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed on the Old Wiess page." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="oldwiess" }
+  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -238,6 +238,12 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
     | 2012-12-06 | Jeff Ross, on the construction photographs: interior walls and floors "supported by the uncompacted fill… No wonder the interior walls and floors moved independently and led to the need to demolish the building" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by Jeff Ross, 6 Dec 2012] | [T] |
     | 2016-05-25 | J. Miner (Sid Rich '88), a builder: "One of my greatest achievements in my professional career as a builder was the complete and utter destruction of Weiss itself" [@rhc 2016-05-24 hanging-out-at-wiess comment by JD Miner, 25 May 2016] | [T] |
 
+??? info "The receipts: the 1975 plaque"
+
+    Transcribed from Delany's August 2002 photograph (details, photo 6) [@edesigns-old-wiess-2002]: "WIESS COLLEGE / ESTABLISHED IN MEMORY OF / HARRY CAROTHERS WIESS (1887 – 1948) / HONORED FRIEND AND BENEFACTOR OF THE RICE INSTITUTE IN ALL ITS ASPECTS. A MAN OF FARSIGHTED VISION AND STEADFASTNESS, PENETRATING INTUITION AND INITIATIVE, FAITHFUL TRUSTEESHIP AND PHILANTHROPY. TO WHATEVER HE TURNED HIS HAND HE GAVE OF HOPE AND JOY, BEAUTY AND SPLENDOR, WISDOM AND STRENGTH. / SOCRATES SAID HE WAS NOT AN ATHENIAN OR A GREEK BUT A CITIZEN OF THE WORLD.—PLUTARCH / ANNO DOMINI 1975".
+
+    The small lines are hard to read; the Socrates line follows the 1994 "Man" page [@riceinfo-theman]. Where the plaque went after 2002: see [Building lore](lore.md#the-cornerstone-medallions-and-plaques).
+
 ??? quote "In the college's own words"
 
     "Dining facilities, lounge, and office are all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots." — 1972 Freshman Handbook [@handbook-1972]
@@ -245,26 +251,5 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
     "The proximity of the west wing to the gymnasium led to one of Wiess' oldest, though now defunct, traditions, 'Jock Row' (Wiess was never formally an athlete's dormitory)." — 1994 Freshman Handbook [@riceinfo-history]
 
     "I doubt anybody ever called Wiess pretty and meant it." — Colin Delany '91, August 2002 [@edesigns-old-wiess-2002]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Who wrote the architecture page.** The bibliography credits webmaster David Cunningham, but the page is headed "From 1972 Freshman Handbook" [@handbook-1972]. So the "motel" line is a 1972 student opinion, which Kean (2012) and Delany (2002) reached on their own.
-    - **Temporary housing?** Delany: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. The books: a myth, "built to last" [@oweek-2006 p.37]. Kean: the 1949 papers presented it as permanent [@rhc 2012-12-04 wiess-hall-construction-1949]. Both can be true: permanent, but cheap and fast.
-    - **Why it came down.** Plumbing, electricity, foundation [@riceinfo-news-2000-lundin]; "slowly sinking into the ground" [@oweek-2006 p.37]; too small, too open, too poorly built [@edesigns-old-wiess-2002]. Jeff Ross, reading the construction photos: floors on uncompacted fill, so inside and outside moved separately [@rhc 2012-12-04 wiess-hall-construction-1949 comment by Jeff Ross, 6 Dec 2012]. His is the only engineering explanation, and it's testimony.
-    - **Capacity.** "200 spaces" [@riceinfo-history] vs "only 100 rooms" [@oweek-2006 p.36]. Same thing if rooms were doubles, which they were [@riceinfo-rooms].
-    - **The balconies.** Kean: "this sounds like trouble." George Webb '88: "a great ingredient of life at Wiess, and one that the students insisted be preserved" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012] [@riceinfo-news-2000-lundin].
-    - **Nicknames.** "Early Motel 6" (Hanszen, early 1980s) and a plane towing "Motel Wiess: Hourly Rates Available" in the late 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012]; NOD's "Motel Wiess. Sanitized for your protection!" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]; "Motel Wiess" on the 1997 site [@riceinfo-associates]; "the unique 'Motel 6' design" from 2006 [@oweek-2006 p.36].
-
-    **Still don't know.**
-
-    - **Demolition date.** Empty in August 2002 [@edesigns-old-wiess-2002]; the dedication plan still needed the old Acabowl on 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]; a Sid Rich builder claims the demolition [@rhc 2016-05-24 hanging-out-at-wiess comment by JD Miner, 25 May 2016]. The fall 2002–spring 2003 Thresher should say when.
-    - **Move-out date.** January 2002 planned [@riceinfo-news-2000-lundin]; "opened in the fall of 2002" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3]. See [New Wiess](new-wiess.md).
-    - **The 1975 plaque.** From Delany's photo (details, photo 6) [@edesigns-old-wiess-2002]: "WIESS COLLEGE / ESTABLISHED IN MEMORY OF / HARRY CAROTHERS WIESS (1887 – 1948) / HONORED FRIEND AND BENEFACTOR OF THE RICE INSTITUTE IN ALL ITS ASPECTS. A MAN OF FARSIGHTED VISION AND STEADFASTNESS, PENETRATING INTUITION AND INITIATIVE, FAITHFUL TRUSTEESHIP AND PHILANTHROPY. TO WHATEVER HE TURNED HIS HAND HE GAVE OF HOPE AND JOY, BEAUTY AND SPLENDOR, WISDOM AND STRENGTH. / SOCRATES SAID HE WAS NOT AN ATHENIAN OR A GREEK BUT A CITIZEN OF THE WORLD.—PLUTARCH / ANNO DOMINI 1975". The small lines are hard to read; the Socrates line follows the 1994 "Man" page [@riceinfo-theman]. Why 1975? The c.1974 commons remodel is the obvious guess [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. Did it move to the new building? See [Building lore](lore.md#the-cornerstone-medallions-and-plaques).
-    - **Architects.** Every 1949 photo label reads "Staub & Rather, Architects" and "W. S. Bellows Construction Corp., Contractors" [@rhc 2012-12-04 wiess-hall-construction-1949] [@rhc 2012-12-04 wiess-hall-construction-1949 comment by marmer01, 5 Dec 2012]. Which partner designed it? The Woodson files would show.
-    - **Undated additions.** The central-wing expansion funded by Olga Keith Wiess [@riceinfo-theman], the "extra wings, a second Commons area, and a basement" [@oweek-2006 p.36], and the c.1974 commons remodel.
-    - **The 1949 Thresher.** The first fall 1949 issue (Portal ark `metapth230815`) may describe moving in before the building was done [@rhc 2012-12-04 wiess-hall-construction-1949 comment by almadenmike, 5 Dec 2012]. Not yet read.
-    - **A 1970s memorabilia site** at lancasterteam.com/wiess [@rhc 2013-02-19 mixed-nuts-a-dr-baker-update-a-link-to-wiess-memorabilia-and-a-bobby-soxer-on-th]. Worth a Wayback check.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

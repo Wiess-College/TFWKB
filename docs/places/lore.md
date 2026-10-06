@@ -11,7 +11,7 @@ Every building collects stories. These are the Wiess ones: named oddities, habit
 
 !!! abstract "TL;DR"
     - Old Wiess had "the tower" and the famous "O/C Bathroom" [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html] [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html].
-    - The old cornerstone, medallions and plaques were promised to New Wiess in 1999. Nobody says where they ended up [@rice-news-1999-10-14-groundbreaking].
+    - The old cornerstone, medallions and plaques were promised to New Wiess in 1999. We haven't found where they ended up yet [@rice-news-1999-10-14-groundbreaking].
     - "Motel 6" was Old Wiess's nickname for decades, thanks to its outdoor hallways and balconies [@handbook-1972] [@oweek-2006 p.37].
     - Hanszen builds a "Wiess Wall" during Beer Bike Week, and lobs fruit over it [@hanszen-traditions].
 
@@ -37,31 +37,31 @@ The only stairwell story on record: a Wiessman of the 1980s "jumped over a stair
 
 Old Wiess was "in the best motel tradition" back in 1972 [@handbook-1972]. Hanszen called it "Early Motel 6" in the early 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012]. One 1998 RA was in "his sixth year living at Motel Wiess" [@riceinfo-associates]. An alum said it "had more in common with contemporary motel design than it did with the rest of the Rice campus" [@delany-about-wiess-2002].
 
-Every O-Week book from 2006 to 2025 praises "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" [@oweek-2006 p.37] [@oweek-2025 p.24]. New Wiess kept the open-air hallways on purpose [@machado-silvetti-wiess]. But no source calls *New* Wiess "Motel 6." Full story: [Motel 6 / Motel Wiess](../traditions/motel-6.md). (NOD used motel themes in 1977 and 1988; see [Night of Decadence](../traditions/night-of-decadence.md#themes-year-by-year).)
+Every O-Week book from 2006 to 2025 praises "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" [@oweek-2006 p.37] [@oweek-2025 p.24]. New Wiess kept the open-air hallways on purpose [@machado-silvetti-wiess]. But we haven't found a source that calls *New* Wiess "Motel 6." Full story: [Motel 6 / Motel Wiess](../traditions/motel-6.md). (NOD used motel themes in 1977 and 1988; see [Night of Decadence](../traditions/night-of-decadence.md#themes-year-by-year).)
 
 ## New Wiess lore
 
 ### The cornerstone, medallions and plaques
 
-In 1999 Rice promised: "The new building will incorporate the medallions, plaques and original cornerstone from old Wiess College" [@rice-news-1999-10-14-groundbreaking]. No later source says where, or if, they went. One 1975 plaque, quoting Plutarch on Socrates as "a citizen of the world," shows up in Delany's 2002 photos [@delany-about-wiess-2002]; see [Old Wiess](old-wiess.md).
+In 1999 Rice promised: "The new building will incorporate the medallions, plaques and original cornerstone from old Wiess College" [@rice-news-1999-10-14-groundbreaking]. We haven't yet found a later source that says where they went. One 1975 plaque, quoting Plutarch on Socrates as "a citizen of the world," shows up in Delany's 2002 photos [@delany-about-wiess-2002]; see [Old Wiess](old-wiess.md).
 
 ### The architect's geometry
 
-"There is a joke that the architect who designed this had some basic geometry issues" (of the Commons). "See Dr. Dodds… for some great stories" [@wb 20090827020025 http://teamwiess.com/areas.php]. Nobody wrote the stories down. See [The Commons](commons.md).
+"There is a joke that the architect who designed this had some basic geometry issues" (of the Commons). "See Dr. Dodds… for some great stories" [@wb 20090827020025 http://teamwiess.com/areas.php]. We haven't found the stories written down yet. See [The Commons](commons.md).
 
 ### Off the fourth floor
 
-A 2007 O-Week Advisor had "a penchant for dropping 55 gallon water balloons off the 4th floor onto trampolines" [@oweek-2007 p.26]. That's the [Acatramp](acabowl.md) [@handbook-1994]. It happened once on record; it's not a custom.
+A 2007 O-Week Advisor had "a penchant for dropping 55 gallon water balloons off the 4th floor onto trampolines" [@oweek-2007 p.26]. That's the [Acatramp](acabowl.md) [@handbook-1994]. It shows up once in the sources we have, so we don't count it as a custom.
 
 ### Banners, stairs and tunnels
 
 - **Banners.** TEAM, FAMILY and WIESS paper banners hang in the Commons in a 2017 video still [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png]. See [Team Wiess](../traditions/team-wiess.md#the-banners).
-- **Stairs.** The O-Week maps of 2015–2021 show three stair towers, each labeled just "stairs" [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33]. No nicknames on record.
+- **Stairs.** The O-Week maps of 2015–2021 show three stair towers, each labeled just "stairs" [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33]. We haven't found nicknames for them yet.
 - **Tunnels.** In 2000, "Steam and utility tunnels" were dug from "the fringe of the Wiess Backabowl" [@riceinfo-news-2000-lundin]. Rice's steam tunnels are "Strictly off-limits, but it's cool to know they're there" [@owlmanac-2016 p.56].
 
 ## The Wiess Wall
 
-This one is Hanszen's custom, not ours. Wiessmen usually cut through the Hanszen quad to get to class. "During Beer Bike Week, Hanszen prevents Wiessmen from trespassing onto our property by erecting a wall" there. Then Wiessmen get sprinkled or "pelted by fruit lobbed over the wall" [@hanszen-traditions]. No Wiess source mentions it. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md) and [Beer Bike](../traditions/beer-bike.md).
+This one is Hanszen's custom, not ours. Wiessmen usually cut through the Hanszen quad to get to class. "During Beer Bike Week, Hanszen prevents Wiessmen from trespassing onto our property by erecting a wall" there. Then Wiessmen get sprinkled or "pelted by fruit lobbed over the wall" [@hanszen-traditions]. We haven't found it in a Wiess source yet. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md) and [Beer Bike](../traditions/beer-bike.md).
 
 ??? info "The receipts: timeline"
 
@@ -76,19 +76,5 @@ This one is Hanszen's custom, not ours. Wiessmen usually cut through the Hanszen
     | 2009-08 | "A joke that the architect who designed this had some basic geometry issues" [@wb 20090827020025 http://teamwiess.com/areas.php] | [P] |
     | undated | Hanszen's "Wiess Wall" in Beer Bike Week [@hanszen-traditions] | [R] |
     | 2015–2021 | The O-Week maps mark three stair towers, each simply "stairs", without letters [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33] | [P] |
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **The cornerstone.** The 1999 promise is clear [@rice-news-1999-10-14-groundbreaking], but Rice Facilities says the old building was "completely demolished in 2002" and says nothing of salvage [@rice-facilities-first-100-years].
-    - **Glossaries are silent.** A search of every glossary (1994–2017) for *elevator*, *roof*, *tunnel*, *ledge*, *tower* and *wall* found no Wiess building entries, only campus ones: the Campanile, the Steam Tunnels and Anderson Hall's Frog Wall [@oweek-2003 p.5] [@owlmanac-2016 p.56] [@oweek-2015 p.121].
-
-    **Still don't know.**
-
-    - Where the Old Wiess cornerstone, medallions and plaques are now.
-    - What "the tower" was called after 2002.
-    - When the TEAM / FAMILY / WIESS banners were first made.
-    - More lore. The Thresher and Rice History Corner comment threads are the best places to look.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

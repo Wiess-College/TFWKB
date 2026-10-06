@@ -13,11 +13,11 @@ title: About this site
 
 Team Family Knowledgebase (TFWKB) is the history of Wiess College at Rice University. It covers the traditions, the buildings, the people in college jobs, the rules, and how all of it changed.
 
-Every fact links to where it came from. When sources disagree, the page says so. When nobody knows, the page says that too.
+Every fact links to where it came from. When sources disagree, the page says so. When we haven't found something yet, the page says that too.
 
 ## Why it exists
 
-A college forgets itself every four years. Seniors leave and take the stories with them.
+A college turns over every four years. Seniors leave, and new students hear the stories secondhand.
 
 Wiess has been telling its own story since at least 1972: in Freshman Handbooks, in O-Week books, on a hand-built website in 1997, on teamwiess.com for twenty years, and on wiess.rice.edu now. Those versions don't always agree. The papers that could settle the arguments were sitting in the Wayback Machine, the Thresher archive and the Campanile the whole time. This site puts them in one place.
 
@@ -42,7 +42,9 @@ The Historian's job is to move things from the Commons to the Record once they h
 
 ## Where things stand
 
-This is the first version, built in October 2026 from the War Pig research and that fall's web-archive digging. Every page says `draft` until a maintainer checks it against its sources. Known gaps are listed on each page and in the [search log](../sources/search-log.md).
+This is the first version, built in October 2026 from the War Pig research and that fall's web-archive digging. Every page says `draft` until a maintainer checks it against its sources. Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues) and in the [search log](../sources/search-log.md).
+
+What we've gathered is a small part of what exists. Rice's Woodson Research Center alone holds about 34 linear feet of Wiess papers, so a missing detail usually just means we haven't found it yet.
 
 ## Rights
 

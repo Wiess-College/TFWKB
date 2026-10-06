@@ -12,7 +12,7 @@ title: Credits
 - **The Rice Thresher**, Rice's student newspaper since 1916, and the reporters and editors who wrote it all down.
 - **The Portal to Texas History** at the University of North Texas Libraries, which scanned the Thresher and put it online for free.
 - **The Woodson Research Center**, Rice's special collections and university archives, in Fondren Library.
-- **The Internet Archive** and its **Wayback Machine**, which saved the old Wiess websites when nobody else did.
+- **The Internet Archive** and its **Wayback Machine**, which saved copies of the old Wiess websites.
 - **The Campanile**, Rice's yearbook, and the students who made it.
 
 ## Historians and writers

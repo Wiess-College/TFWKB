@@ -30,6 +30,8 @@ The job barely changed. The lineup kept changing:
 - **2020:** "eight members": seven Associates (still picking their own Chief), one Deputy, an Ombudsman [@constitution-2020 Art. IV §2].
 - **By early 2025:** the whole college elects the Chief Justice, with six Associates and one Deputy, still eight in all [@constitution-hate-speech Art. VIII §2] [@constitution-2026 Art. VIII §2].
 
+One small mismatch: the July 1998 website lists a Chief Justice and four Associates, where the Constitution says five Associates [@riceinfo-court-1998] [@constitution-1993 Art. IV §2].
+
 ## Fines, roofs and flying food
 
 The 1991 Rules spell it out. Anyone on the tiled roof "will be fined, regardless of whether any damages to the tiles were made". Freshmen who skipped their waiting shift "shall be fined" [@rules-1991 §§IV, VI]. Each spring the incoming Chief Justice set the penalty list [@rules-1991 §VIII].
@@ -45,7 +47,7 @@ In September 2021 the Thresher reported that students had been reported to Wiess
 
     **Referrals.** The Court can refer cases up, and the Magister or a dean can take one away. Destinations follow Rice's names: "the Master, University Court, Honor Council or Proctor" (1993), "the University Court or the Judicial Affairs Committee" (from 2007) [@constitution-1993 Art. IV §3] [@constitution-2007 Art. IV §3].
 
-    **Court Procedures.** From 2007 the Court must write its own "Wiess College Court Procedures and Code of Conduct". Amending them took four Justices until 2017, "a simple majority" from 2020 [@constitution-2007 Art. IV §6] [@constitution-2020 Art. IV §7] [@constitution-2026 Art. VIII §7]. No copy has been captured.
+    **Court Procedures.** From 2007 the Court must write its own "Wiess College Court Procedures and Code of Conduct". Amending them took four Justices until 2017, "a simple majority" from 2020 [@constitution-2007 Art. IV §6] [@constitution-2020 Art. IV §7] [@constitution-2026 Art. VIII §7]. We haven't found a copy yet.
 
     **Jurisdiction.** "Any complaint of an alleged violation of University Rules brought against any members of Wiess College" (1993); "an alleged Class II violation of University Rules… and students of other colleges violating Class II rules at Wiess College" (2007, 2013); Class II by Wiess members only (2016); "an alleged College Infraction of Rice University Student Code of Conduct (§ II.B.2)" (2020 on) [@constitution-1993 Art. IV §3] [@constitution-2007 Art. IV §3] [@constitution-2016 Art. IV §3] [@constitution-2020 Art. IV §4] [@constitution-2026 Art. VIII §4].
 
@@ -63,7 +65,7 @@ In September 2021 the Thresher reported that students had been reported to Wiess
 
     **Hearings.** Pleas of "Guilty" or "Not guilty"; no character witnesses; the President sits in when a Justice abstains. Same words in 1993, 2020 and 2025–26. By 2020 the stand-in list runs through "Treasurer, Secretary, SA Senator, Apprentice Treasurer, and Head Fellows" [@constitution-1993 Bylaws Art. V §§5–7] [@bylaws-2020 Art. V §§4–6] [@constitution-2026 Art. VIII §§12–14]. The abstract of "accusations, verdicts, and penalties of all court decisions, formal and informal" went to the Cabinet Secretary in 1993 and the College Coordinator from 2016, published in 2026 with "only gender-neutral pronouns so as to avoid identification" [@constitution-1993 Bylaws Art. V §9] [@constitution-2026 Art. VIII §15].
 
-    **The 2021 episode, in full.** President Varun Kukunoor said the clause "will have writing representation from the Wiess Cabinet, Court and A-Team"; Diversity Facilitator Alizay Azeem was also quoted; Dean Bridget Gorman said any definition had to fit University Policy 830 [@thresher-2021-09-15]. Article XV says violators "will face consequences as decided by the Wiess College Court", sends reports "to the Chief Justice, any member of the Wiess College Court, or to a Diversity Facilitator", and refers bad-faith reporters to Student Judicial Programs [@constitution-hate-speech Art. XV §§2–7] [@constitution-2026 Art. XV §§2–7]. The 2020 text has no such article [@constitution-2020]. Whether the 2025 wording is the 2021–22 wording is unknown.
+    **The 2021 episode, in full.** President Varun Kukunoor said the clause "will have writing representation from the Wiess Cabinet, Court and A-Team"; Diversity Facilitator Alizay Azeem was also quoted; Dean Bridget Gorman said any definition had to fit University Policy 830 [@thresher-2021-09-15]. Article XV says violators "will face consequences as decided by the Wiess College Court", sends reports "to the Chief Justice, any member of the Wiess College Court, or to a Diversity Facilitator", and refers bad-faith reporters to Student Judicial Programs [@constitution-hate-speech Art. XV §§2–7] [@constitution-2026 Art. XV §§2–7]. The 2020 text has no such article [@constitution-2020]. We haven't found the 2021–22 wording yet to compare with the 2025 text.
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |
@@ -92,20 +94,5 @@ In September 2021 the Thresher reported that students had been reported to Wiess
 > "people threw food (we were told afterwards that we weren't supposed to...). You shouldn't, since the Court may still fine you, and besides that, you'll get to clean it all up." [@riceinfo-norse]
 
 > "Wiess Court is not a punitive force, but instead acts to promote an environment of mutual respect." [@wiess-rice-edu-court-2023]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Five Associates, or four, in 1998?** The Constitution says five [@constitution-1993 Art. IV §2]; the July 1998 roster has a Chief and four Associates [@riceinfo-court-1998]. Most likely the Chief counts as one of the five.
-    - **Who's ex officio?** The President (2007, 2013), the RAs (2016, 2017), then both "The Resident Associates and the College President" (2020 on) [@constitution-2007 Art. IV §8] [@constitution-2016 Art. IV §8] [@constitution-2020 Art. IV §9] [@constitution-2026 Art. VIII §9].
-    - **"Not a punitive force"** vs a Constitution that still says "trials", "sentences" and fines [@wiess-rice-edu-court-2023] [@constitution-2026 Art. VIII §4; Art. XII §4]. Both are the college's words: one is tone, one is powers.
-
-    **Still don't know.**
-
-    - No copy of the Court Procedures and Code of Conduct (required since 2007). Ask the Chief Justice.
-    - No abstract of verdicts (required since 1993) has been captured.
-    - When the Court lost two Deputies and reached eight (between March 2017 and February 2020) [@constitution-2017] [@constitution-2020 Art. IV §2]; when the Chief Justice became directly elected (between February 2020 and September 2023) [@wiess-rice-edu-court-2023] [@constitution-hate-speech Art. VIII §2].
-    - The fine amounts of the 1990s and 2000s. The Rules said they'd be "posted in the commons and filed in the College office at all times" [@rules-1991 §VIII]; none are online.
-    - The 2021 cases: what the Court decided is private and should stay that way. What's missing is the date Cabinet adopted the clause.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

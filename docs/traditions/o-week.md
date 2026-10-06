@@ -29,12 +29,12 @@ Every year since 2003, the Head Fellows have written an O-Week book for new stud
 
 ## Wiess's theme is Wiess
 
-The book covers said "Team Wiess" from 2006 to 2017 [@oweek-2006 p.1] [@oweek-2017 p.1]. Since 2023 the Thresher lists Wiess's theme as "Team Family Wiess" [@thresher-2023-08-29-every-theme]. By 2024 the book calls it a motto: "Team Family Wiess is our motto" [@oweek-2024 p.2].
+The book covers said "Team Wiess" from 2006 to 2017 [@oweek-2006 p.1] [@oweek-2017 p.1]. Since 2023 the Thresher lists Wiess's theme as "Team Family Wiess" [@thresher-2023-08-29-every-theme]. By 2024 the book calls it a motto: "Team Family Wiess is our motto" [@oweek-2024 p.2]. Rice News describes the same practice the other way round: Wiess "traditionally doesn't adopt a specific O-Week theme" [@rice-news-2025-08-18-oweek-shirt].
 
 What changes is the puns. Group names include "Wiess Wiess Baby," "HEB: Here Everything's Goldenrod" and "Pigkini Bottom" [@wb 20210724003059 http://teamwiess.com/new-students] [@oweek-2024 p.44]. In 2025 the university shirt gave Wiess "Wiess and Easy" [@rice-news-2025-08-18-oweek-shirt].
 
 ??? info "The receipts: the theme, year by year"
-    Wiess's "theme" is the college. The table gathers what each year's sources call O-Week: the book's cover or opening line, the Thresher's theme round-up, and from 2021 the O-Week group names on the college's New Students page. Years missing from the table are years for which we hold nothing.
+    Wiess's "theme" is the college. The table gathers what each year's sources call O-Week: the book's cover or opening line, the Thresher's theme round-up, and from 2021 the O-Week group names on the college's New Students page. Years not in the table are years we haven't found sources for yet.
 
     | Year | What the sources call it | Source | Evidence |
     |---|---|---|---|
@@ -116,9 +116,9 @@ In 2003, new students were "greeted by a sea of goldenrod T-shirts" [@oweek-2003
     | 1989-08-25 | "O-week" in the Thresher by this issue (vol. 77 no. 2), per a reader's search [@rhc 2018-01-31 when-did-it-become-o-week comment by effegee, 31 Jan 2018] | [T] |
     | 1993-08-05 | Constitution, Art. V: "the Fellows shall be responsible for the freshman orientation"; "Co-Fellows (members of another college) who shall work with the Fellows during freshman orientation" [@constitution-1993] | [P] |
     | 1994 | Glossary: Fellows "Freshman advisors of Wiess College. Make sure they keep in touch with you once Freshman week is over"; Gofer "The 'Fellows'' flunkies. You'll see them running around a lot during O-Week" [@handbook-1994] | [P] |
-    | 1998 | The Campanile calls Wiess "O-Week rebels without a theme"—as quoted by the Thresher in 2024; the yearbook itself is not in our corpus [@thresher-2024-02-oweek-themes] | [R] |
+    | 1998 | The Campanile calls Wiess "O-Week rebels without a theme"—as quoted by the Thresher in 2024; we haven't found the yearbook page itself yet [@thresher-2024-02-oweek-themes] | [R] |
     | 1999-02-20 | Bylaws, Art. VIII: an elected faculty advisor orients "the Fellows preceding Freshman Week"; "An Orientation Week Coordinator shall be selected by a method determined by the current Fellows"; "Head Fellows" are last in the line of succession for the Court [@wb 19990220014631 http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html] | [P] |
-    | 2003 | The first O-Week book in the corpus, compiled by Wiess's O-Week coordinator, who thanks "the other coordinators" [@oweek-2003 intro p.2]; "O-Week—1. The best week ever." [@oweek-2003 p.6]; arriving students are "greeted by a sea of goldenrod T-shirts" [@oweek-2003 conclusions p.9] | [P] |
+    | 2003 | The earliest O-Week book we have, compiled by Wiess's O-Week coordinator, who thanks "the other coordinators" [@oweek-2003 intro p.2]; "O-Week—1. The best week ever." [@oweek-2003 p.6]; arriving students are "greeted by a sea of goldenrod T-shirts" [@oweek-2003 conclusions p.9] | [P] |
     | 2006 | Book signed "Your Head Fellows, Kaylan and Austin", who thank "Rachel, for providing the model and template for future Head Fellows" [@oweek-2006 p.2] [@oweek-2006 p.3]; twelve Fellows, each paired with someone from another college, groups of "about seven"; two Head Fellows with no group of their own [@oweek-2006 p.18]; Gophers "assistants to the head fellows and fellows" [@oweek-2006 p.32] | [P] |
     | 2007–2011 | Head Fellows Sarah and Eddie (2007) [@oweek-2007 p.2], Alex and Bova (2008) [@oweek-2008 part 1 p.1], Brett and Tracy (2009) [@oweek-2009 part 2 p.4] [@oweek-2010 p.2], Natalie and Stuart (2010) [@oweek-2010 p.1], Alysa and Tyler (2011) [@oweek-2011 p.92] | [P] |
     | 2010 | Glossary gains "Head Fellows—Organizers of O-Week and friends to all the new Wiessmen" [@oweek-2010 p.90] | [P] |

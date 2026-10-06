@@ -28,7 +28,7 @@ Every page follows [the template](page-template.md). Every claim is [cited](citi
 Commons page or comment
    → GitHub Issue ("Source: who built the 2019 pig?") with the memory quoted and tagged [T]
       → research: Thresher, Campanile, O-Week books, the corpus
-         → Pull request: timeline row(s) with citations, Variants if sources disagree
+         → Pull request: timeline row(s) with citations, a sentence if sources disagree
             → review → Record
 ```
 

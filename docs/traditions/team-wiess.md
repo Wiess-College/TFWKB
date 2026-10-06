@@ -27,7 +27,7 @@ The O-Week books call it "The most powerful cheer on campus" (2003) and "Our one
 
 The chant shows up at the 1975 race. Wiess won the men's title and gave "a chorus of 'Wiess Team. Wiess Team!' before the rest of the pack could make it back" [@thresher-1975-04-07-beer-bike]. That matches the 2010 O-Week book's story of a debut at Beer Bike 1975, the team's "second win ever" [@oweek-2010 p.39] [@thresher-1985-04-12-beer-bike-history].
 
-Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39]. Nobody has ever sourced that.
+Every history since 2003 says the words came from a "Team Xerox" TV ad and the "Mean Machine" chant in *The Longest Yard* [@oweek-2010 p.39]. We haven't found a source for that yet. *The Longest Yard* came out in late August 1974, after that spring's Beer Bike, so the movie story fits a 1975 debut better than a 1974 one.
 
 ## The banners { #the-banners }
 

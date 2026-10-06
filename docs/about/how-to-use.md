@@ -20,7 +20,10 @@ Most pages look the same, so you always know where to look.
 1. **TL;DR.** A gold box with the short version. If you read nothing else, read this.
 2. **The story.** A few short sections in plain words.
 3. **The receipts.** Fold-out boxes with the full timeline, one dated row per fact. Click to open.
-4. **Arguments & loose ends.** Where sources disagree, and what nobody knows yet.
+
+When sources disagree, the page says so in a sentence or two, right where it matters. Open questions, the things we're still looking for, are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues), and anyone can help with **Add your story** or **Suggest a correction**.
+
+This site draws on a small part of what exists: Rice's Woodson Research Center alone holds about 34 linear feet of Wiess papers. So if a detail isn't here, it usually just means we haven't found it yet.
 
 !!! abstract "TL;DR"
     This is what a TL;DR box looks like.

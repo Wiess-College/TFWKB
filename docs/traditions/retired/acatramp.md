@@ -12,7 +12,7 @@ A trampoline in the middle of the Acabowl. For at least twenty-five years, that 
 !!! abstract "TL;DR"
     - 1994: "The purple and black trampoline majestically situated in the middle of the Acabowl" [@handbook-1994]. The [Acabowl](../../places/acabowl.md) is Wiess's courtyard field.
     - It moved to the New Wiess Acabowl in 2002 and stayed in every O-Week glossary through 2019 [@warpig-core-deck slide 32] [@oweek-2019 p.14].
-    - Gone from the glossary in 2021 [@oweek-2021 p.18]. Nobody wrote down why.
+    - Not in the 2021 glossary [@oweek-2021 p.18]. We haven't found why yet.
 
 ## What it was
 
@@ -24,11 +24,11 @@ People really used it. A Fellow sat on "the beloved acatramp shouting at passers
 
 In January 1997 the mat had "grown a large hole which makes it unusable." The Cabinet (Wiess's student government) "can not purchase a replacement trampoline or trampoline parts due to insurance liability" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html].
 
-So a freshman wrote an open letter to Bill Gates: "If Stanford deserves a hall, doesn't Rice at least deserve a trampoline?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. No reply is known.
+So a freshman wrote an open letter to Bill Gates: "If Stanford deserves a hall, doesn't Rice at least deserve a trampoline?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. We haven't found a reply.
 
-## Why it stopped
+## Last seen
 
-No written source says. The glossary drops it somewhere between the 2019 and 2021 books, a window that includes the pandemic year [@oweek-2019 p.14] [@oweek-2021 p.18]. The only written word on trampolines and risk is that 1997 "insurance liability" line.
+We haven't found a source that says. The glossary drops it somewhere between the 2019 and 2021 books, a window that includes the pandemic year [@oweek-2019 p.14] [@oweek-2021 p.18]. The only written word on trampolines and risk is that 1997 "insurance liability" line.
 
 ??? info "The receipts: timeline"
 

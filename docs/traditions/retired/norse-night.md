@@ -7,12 +7,12 @@ reviewed_by: unreviewed
 
 # Norse Night
 
-A whole Commons eating like Vikings. No forks. Napkins on heads. You can guess how it ended.
+A whole Commons eating like Vikings. No forks. Napkins on heads. You can guess how the cleanup went.
 
 !!! abstract "TL;DR"
     - Norse Night filled the [Commons](../../places/commons.md) (the dining hall) with "Viking tables": eat with your hands, make a mess [@riceinfo-norse] [@handbook-1994].
     - The only dated one is "Norse Night '91," which took an hour and a half to clean up [@riceinfo-norse].
-    - Hoped-for in 1997, "Sadly Seem To Be Dying Out" by the end of 1999. Nothing after [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
+    - Hoped-for in 1997, "Sadly Seem To Be Dying Out" by the end of 1999. That's the latest mention we've found so far [@riceinfo-traditions-1997] [@riceinfo-traditions-1999].
 
 ## What it was
 
@@ -20,13 +20,13 @@ Start with the Viking Table: "A chance to eat with your hands and generally make
 
 Food went straight onto the tablecloth. Tables went into a U so "somebody can just run along the inside of the 'U' dropping food as they go." Napkins went on heads so "the gravy doesn't get in your eyes" [@riceinfo-norse].
 
-## The one we know about
+## The one we've found
 
 In 1991 people threw food. The writer remembers "the hour and a half it took to clean up, even with several dozen people helping." Also: "we were told afterwards that we weren't supposed to" [@riceinfo-norse].
 
-## Why it stopped
+## Last seen
 
-Nobody says. The 1997 website wanted it to continue; the December 1999 version moved it to "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. No O-Week book from 2003 on mentions Norse Night or the Viking Table [@oweek-2003 p.3].
+We haven't found a source that says why it faded. The 1997 website wanted it to continue; the December 1999 version moved it to "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The O-Week books we have, from 2003 on, don't mention Norse Night or the Viking Table [@oweek-2003 p.3].
 
 ## Photographs
 

@@ -42,7 +42,7 @@ The tags are not a ranking of truth. A 2021 comment by the person who built the 
 
 ## When sources disagree
 
-Do not pick silently. Put every version in the page's **Variants & disputes** section with its citation, say which you find more convincing and why, and leave the question open in **Open questions** if it is. The Team Wiess chant is dated 1974, 1975 and 1984 by three different Wiess sources; the page says so.
+Do not pick silently. Say so in one or two plain sentences in the section where the claim is made, with both citations: "The sources disagree: the 2005 site says 1974, the college website says 1975," followed by both citations. If it matters which is right and you can't settle it, open a [GitHub issue](https://github.com/Wiess-College/TFWKB/issues) so someone can go looking; open questions live there, not on the page. The Team Wiess chant is dated 1974, 1975 and 1984 by three different Wiess sources; the page says so.
 
 ## What not to cite
 

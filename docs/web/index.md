@@ -14,7 +14,7 @@ Wiess has been online since 1997, and the Wayback Machine kept most of it. Most 
     - **2000:** the move to `teamwiess.com` is announced; it gets rebuilt every couple of years for two decades [@wb 20000818090739 http://riceinfo.rice.edu:80/projects/colleges/wiess/] [@teamwiess-site].
     - **2014 on:** `wiess.rice.edu` is the official address [@wb 20141009085809 http://wiess.rice.edu:80/].
 
-Along the way: a Flash homepage, a forum killed by spam, blogs, Twitter, and students running web servers from their dorm rooms.
+Along the way: a Flash homepage, a forum overrun by spam, blogs, Twitter, and students running web servers from their dorm rooms.
 
 **[The Wiess website through the years](the-wiess-website-through-the-years.md)**: the eras, the webmasters, the off-site homes, and one archived homepage for each era.
 

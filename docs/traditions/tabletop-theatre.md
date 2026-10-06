@@ -23,7 +23,7 @@ Anyone at Rice can audition for the main shows [@wb 20150313224607 http://teamwi
 
 ## Hello, Hamlet!
 
-*Hello, Hamlet!* spoofs Shakespeare with "creatively re-lyriced show tunes" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]. George Greanias '70 wrote, produced and directed it, and played Hamlet [@thresher-1967-09-28-hello-hamlet] [@thresher-1967-10-05-hello-hamlet-review]. It opened in the Wiess Commons on 5 October 1967, for $1 [@thresher-1967-10-05-hello-hamlet-review].
+*Hello, Hamlet!* spoofs Shakespeare with "creatively re-lyriced show tunes" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]. George Greanias '70 wrote, produced and directed it, and played Hamlet [@thresher-1967-09-28-hello-hamlet] [@thresher-1967-10-05-hello-hamlet-review]. It opened in the Wiess Commons on 5 October 1967, for $1 [@thresher-1967-10-05-hello-hamlet-review]. The 2005–2017 college histories date it to 1964, but the 1967 Thresher reports the opening [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] [@oweek-2014 p.36] [@thresher-1967-09-28-hello-hamlet].
 
 It came back in October 1972 [@thresher-1972-10-19-hello-hamlet-revival]. Now it runs every four years, so "every Wiessman" gets one shot at it [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php]. The 2003 pitch: "If you audition, you're cast, guaranteed" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.7 (printed 41)].
 
@@ -57,7 +57,7 @@ Two Resident Associates (grown-ups who live in the college; see [Resident Associ
     | spring 2024 | *Hello, Hamlet!* | musical | [@oweek-2024 p.24] |
     | by 2025 | *Company* | musical | [@oweek-2025 p.38] |
 
-    The four-year cycle implies *Hello, Hamlet* in spring 2008 and spring 2020 as well. 2008 is not in the corpus (its Tabletop page is a broken include). 2020 was announced—"will be performed this year!" (2019), "Fall 2020" (2021, unrevised)—but the 2024 book's list of performances goes from 2016 to 2021, so the pandemic moved it a year; 2024 then came three years later, not four [@oweek-2019 p.32] [@oweek-2021 p.37] [@oweek-2024 p.24].
+    The four-year cycle implies *Hello, Hamlet* in spring 2008 and spring 2020 as well. We haven't found a 2008 source yet (that year's Tabletop web page is a broken include). 2020 was announced—"will be performed this year!" (2019), "Fall 2020" (2021, unrevised)—but the 2024 book's list of performances goes from 2016 to 2021, so the pandemic moved it a year; 2024 then came three years later, not four [@oweek-2019 p.32] [@oweek-2021 p.37] [@oweek-2024 p.24].
 
 ??? quote "In the college's own words"
     "Wiess Theater rocks the house down. We just got all brand spanking new equipment, lights, mics, stuff. You know it." [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.7 (printed 41)]

@@ -13,7 +13,7 @@ Wiess's "Aca-" names for its outdoor spaces keep moving around. Even the O-Week 
     - **Backabowl / Bacabowl** was Old Wiess's quiet back courtyard, "Where most of the amateur and shy sun-bathers can be found" [@handbook-1994].
     - New Wiess has three terraces: the big one on the servery roof (shared with Hanszen), a fourth-floor balcony, and a small one by UpCo [@oweek-2021 p.18].
     - Their names swapped at least twice between 2003 and 2021 [@oweek-2003 p.3] [@oweek-2014 p.102] [@oweek-2019 p.14] [@oweek-2021 p.18].
-    - **Toke** is in print from 2025, but no written source says which spot it is [@oweek-2025 p.48].
+    - **Toke** is in print from 2025, but we haven't yet found a written source that says which spot it is [@oweek-2025 p.48].
 
 ## The Backabowl
 
@@ -37,7 +37,7 @@ By 2025 there's a firepit, with "Firepit Cab 2025" on the college website and He
 
 ## Toke
 
-A 2025 Fellow is found "hanging out at Toke for the views (sort of)" [@oweek-2025 p.48]. That hints at somewhere high up, but no written source says which space it is.
+A 2025 Fellow is found "hanging out at Toke for the views (sort of)" [@oweek-2025 p.48]. That hints at somewhere high up, but we haven't yet found a written source that says which space it is.
 
 The earliest written trace is July 2022: "TOKE" painted on a graffiti-covered table in an O-Week photo [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg]. The photo doesn't show where the table stands.
 
@@ -118,23 +118,5 @@ The earliest written trace is July 2022: "TOKE" painted on a graffiti-covered ta
     "Rarely is this area being used, making its offering of tables and chairs useful for those who might want to get some studying done outside, or enjoy the breeze that is often present up-top." — teamwiess.com, 2009 [@wb 20090827020025 http://teamwiess.com/areas.php]
 
     The glossary entries by year: [Backaterrace / Acaterrace](../traditions/glossary-series.md#backaterrace), [Bacaterrace](../traditions/glossary-series.md#bacaterrace).
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Backaterrace → Acaterrace (2003 → 2006).** Same definition word for word, so same space, new name [@oweek-2003 p.3] [@oweek-2006 p.83]. Nobody explains why. One guess: Old Wiess had an Acabowl and a Backabowl; New Wiess has one Acabowl, so the terrace was renamed to match.
-    - **Bacaterrace: fourth floor or roof?** The fourth-floor balcony in 2014–17 [@oweek-2014 p.102]; the servery roof in 2019 and 2021 [@oweek-2019 p.14] [@oweek-2021 p.18]. Hanszen's website says nothing about terraces [@hanszen-traditions].
-    - **Is the maps' "4: Patio" the Bacaterrace?** Probably. Maps 2006–2017 show a fourth-floor "Patio" atop the laundry stack [@oweek-2006 p.15] [@oweek-2017 p.28], and the only fourth-floor outdoor space in the glossaries is the Bacaterrace [@oweek-2014 p.102]. No source links the two.
-    - **Backabowl or Bacabowl.** "Backabowl" in 1994 and the 2006–2017 histories [@handbook-1994] [@oweek-2006 p.36]; "Bacabowl" on the 1999 photo pages [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html].
-    - **"Unfortunately."** Dropped in 2014: "that we share with Hanszen" [@oweek-2011 p.92] [@oweek-2014 p.102]. See [the Hanszen rivalry](../traditions/hanszen-rivalry.md).
-    - **Which terrace hosted Jazz Night?** Probably the big servery-roof one; the books just say "on the terrace" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.9] [@oweek-2006 p.44].
-
-    **Still don't know.**
-
-    - **Toke.** Which space, where the word comes from, when it started. The 2021 glossary still says "Fourth Floor Balcony" [@oweek-2021 p.18]; the 2022 table is the earliest trace [@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg].
-    - When "Acaterrace" came to mean the small terrace by UpCo: by summer 2021 [@oweek-2021 p.18]; in 2019 it still meant the balcony [@oweek-2019 p.14].
-    - Was the 2009 chessboard ever built [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]?
-    - When "Bacaterrace" was first used. It first appears in 2014; there are no O-Week books for 2012 or 2013.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

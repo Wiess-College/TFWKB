@@ -7,22 +7,22 @@ reviewed_by: unreviewed
 
 # No-Theme Wiess
 
-Three words on two lists. Nobody ever explained them.
+Three words on two lists. We haven't found an explanation yet.
 
 !!! abstract "TL;DR"
     - In 1997 "No-Theme Wiess" was listed as "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997].
     - In 1999 it got promoted to "We'd Sure Like To See Continue," the only tradition to move up that year [@riceinfo-traditions-1999].
-    - What it was is a guess. Maybe Wiess's refusal to give parties a theme. After 1999, silence.
+    - What it was is a guess. Maybe Wiess's refusal to give parties a theme. 1999 is the latest mention we've found so far.
 
 ## What it might have been
 
 Our best guess, and it is only a guess: a party or College Night with no theme, on purpose. The same website bragged in 1999 that other colleges "seem to enjoy coming up with 'fun' themes for each one - which isn't necessarily bad, but Wiess' College Night is better" [@riceinfo-collegenight].
 
-It could also have been a party or Beer Bike entry that pointedly had no theme. No source connects the name to anything.
+It could also have been a party or Beer Bike entry that pointedly had no theme. No source we've found connects the name to anything.
 
-## Why it stopped
+## Last seen
 
-If it meant "no themes," it lost. By 2003 College Night was "dressy, complete with a theme" [@oweek-2003 35-44 wiess.pdf p.9]. By 2015 the theme announcement was the big moment: "stay tuned for a theme announcement!" [@oweek-2015 p.24]
+1999 is the latest mention we've found. If it meant "no themes," the themes caught on anyway. By 2003 College Night was "dressy, complete with a theme" [@oweek-2003 35-44 wiess.pdf p.9]. By 2015 the theme announcement was the big moment: "stay tuned for a theme announcement!" [@oweek-2015 p.24]
 
 ??? info "The receipts: timeline"
 

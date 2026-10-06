@@ -21,7 +21,9 @@ A future Wiess Magister (the professor who lives next door and looks out for the
 
 The name first shows up in print on a 1973 campus calendar: "Night of Decadence? This must needs be checked" [@thresher-1973-10-11-nod-calendar]. That year even had sequels, "Beyond the Night of Decadence" and "Son of the Night of Decadence" [@thresher-1973-11-08-beyond-nod] [@thresher-1973-11-15-son-of-nod].
 
-By the mid-1980s it was a huge themed party open to Houston. The college has said for decades that it made Playboy's list of top ten college parties [@ricenod-site-2005]. Nobody has ever found the issue.
+The sources disagree a little on the first year. The Thresher of 1998–99 counted from 1973 or 1974, and a Wiess '75 alumnus signed himself organiser of the 1973 and 1974 parties [@thresher-1998-10-30-nod-security] [@thresher-1999-10-29-nod-tonight] [@thresher-1999-02-19-robinson]. The 2005 site, the 1975 "fourth annual" and the 2023 Thresher all point to 1972 [@ricenod-site-2005] [@thresher-2023-10-50-years].
+
+By the mid-1980s it was a huge themed party open to Houston. The college has said for decades that it made Playboy's list of top ten college parties [@ricenod-site-2005]. We haven't found the issue yet.
 
 ## What it was like
 
@@ -38,7 +40,7 @@ In January 1999, ten of the sixteen college Magisters signed a letter asking Wie
 After that came years of op-eds, about alcohol, ambulance transports and the party's culture. There were eleven transports in 2012 [@thresher-2012-11-nod-transports]. In 2023, the fiftieth-anniversary party was shut down nearly two hours early, with seven students transported [@thresher-2023-11-01-shutdown]. NOD went on probation [@fox26-2023-11-03].
 
 ??? info "The receipts: controversy, 1998–2025"
-    NOD was argued about for as long as it was reported on, but the public record of the institution acting on it begins in the winter of 1998–99. Until then the record shows Wiess's own socials making the safety rules: in 1997 they closed the party to anyone not with a Rice student, and in 1998 they put "at least 50 student security officials (in red T-shirts)" on the floor [@thresher-1998-10-30-nod-security]. The Thresher's own editorial on the morning of NOD 1998 told readers that "the person you grope at NOD may be sitting next to you in class on Monday" [@thresher-1998-10-30-editorial].
+    NOD was argued about for as long as it was reported on, but the earliest sign we've found of the university acting on it is the winter of 1998–99. Until then the sources show Wiess's own socials making the safety rules: in 1997 they closed the party to anyone not with a Rice student, and in 1998 they put "at least 50 student security officials (in red T-shirts)" on the floor [@thresher-1998-10-30-nod-security]. The Thresher's own editorial on the morning of NOD 1998 told readers that "the person you grope at NOD may be sitting next to you in class on Monday" [@thresher-1998-10-30-editorial].
 
     | When | What | Evidence |
     |---|---|---|
@@ -69,9 +71,9 @@ After that came years of op-eds, about alcohol, ambulance transports and the par
     | 2024-06-05 | NOD permanently cancelled (below) [@thresher-2024-06-05-nod-canceled] | [P] |
     | 2025-08 | After Dis-O, Dean Gorman tells the college presidents a campus alcohol ban was "seriously considered"; editorial: "another night like Dis-O, and Rice could become a dry campus" [@thresher-2025-09-03-texas-party] [@thresher-2025-08-27-culture-of-care] | [P] |
 
-    **The argument of 1999.** The letters split two ways, and the Thresher printed both. One side took the letter as an attack on self-government: "NOD's fate, and the fate of all Rice activities, should be in the hands of the students" (a Wiess sophomore), and "Everyone on campus knows what NOD is, and if you go, you realize that you are putting yourself in a compromising position" (a Hanszen sophomore) [@thresher-1999-02-12-letters]. The other took the Magisters' complaints as true: "I've known too many freshman women who were pressured into wearing things that felt extremely uncomfortable to them" (a Brown sophomore) [@thresher-1999-02-12-letters]; and a Lovett senior answered the autonomy argument directly—"The masters are members of this community, and they have the right to question its practices as much as anyone" [@thresher-1999-02-12-bonig]. The Magisters themselves did not agree. The Wiess Magisters rejected "outright" the claim of a "cultural tolerance for and real risk of sexual assault"; the Jones Magisters said "It was not our intention that it become a campus-wide issue"; the Sawyers wrote that they wanted NOD "further modified", not halted [@thresher-1999-02-12-masters-replies]. A member of Camacho's committee summed up its evidence: "There were no hard numbers, just anecdotes" [@thresher-1999-03-19-ad-hoc-report]. What came out of the year was a set of rules the record shows lasting: no sexual decorations, security at every college and not just at Wiess, and talks before the party.
+    **The argument of 1999.** The letters split two ways, and the Thresher printed both. One side took the letter as an attack on self-government: "NOD's fate, and the fate of all Rice activities, should be in the hands of the students" (a Wiess sophomore), and "Everyone on campus knows what NOD is, and if you go, you realize that you are putting yourself in a compromising position" (a Hanszen sophomore) [@thresher-1999-02-12-letters]. The other took the Magisters' complaints as true: "I've known too many freshman women who were pressured into wearing things that felt extremely uncomfortable to them" (a Brown sophomore) [@thresher-1999-02-12-letters]; and a Lovett senior answered the autonomy argument directly—"The masters are members of this community, and they have the right to question its practices as much as anyone" [@thresher-1999-02-12-bonig]. The Magisters themselves did not agree. The Wiess Magisters rejected "outright" the claim of a "cultural tolerance for and real risk of sexual assault"; the Jones Magisters said "It was not our intention that it become a campus-wide issue"; the Sawyers wrote that they wanted NOD "further modified", not halted [@thresher-1999-02-12-masters-replies]. A member of Camacho's committee summed up its evidence: "There were no hard numbers, just anecdotes" [@thresher-1999-03-19-ad-hoc-report]. What came out of the year was a set of rules that lasted, as far as the sources show: no sexual decorations, security at every college and not just at Wiess, and talks before the party.
 
-    **After 1999.** The record between 2000 and 2022 is mostly opinion. The pieces that recur are alcohol and transports—eleven in 2012, and the argument, renewed in 2023, over whether REMS and later RUPD were the problem [@thresher-2012-11-nod-transports] [@thresher-2024-01-30-horton]—and the party's sexual culture, raised in 2009, 2014 and 2023 and answered in 2023 [@thresher-2009-11-13-ohm] [@thresher-2014-10-confer-status] [@thresher-2023-10-sex-doll] [@thresher-2023-11-01-phelan]. A Wiess Magister's talk after NOD 2023 drew these together as the problems of a fraternity party—"Objectification of women. Toxic male behaviors. Binge drinking (especially hard alcohol)"—and asked "Can I (or Admin) Truly Cancel NOD?" [@nod-talk-magister].
+    **After 1999.** What we've found for 2000–2022 is mostly opinion. The pieces that recur are alcohol and transports—eleven in 2012, and the argument, renewed in 2023, over whether REMS and later RUPD were the problem [@thresher-2012-11-nod-transports] [@thresher-2024-01-30-horton]—and the party's sexual culture, raised in 2009, 2014 and 2023 and answered in 2023 [@thresher-2009-11-13-ohm] [@thresher-2014-10-confer-status] [@thresher-2023-10-sex-doll] [@thresher-2023-11-01-phelan]. A Wiess Magister's talk after NOD 2023 drew these together as the problems of a fraternity party—"Objectification of women. Toxic male behaviors. Binge drinking (especially hard alcohol)"—and asked "Can I (or Admin) Truly Cancel NOD?" [@nod-talk-magister].
 
 ## End of NOD
 
@@ -81,10 +83,10 @@ Wiess could still throw a "radically different" public, just not with NOD's name
 
 ## Themes, year by year
 
-An old graphic, "Themes through the decades," lists a theme for every year from 1973–75 to 2011. Nobody knows who made it. Every theme that can be checked against other sources matches, so it's probably right. It does misprint 1977 as "1997": the Thresher dates "Wiess Palms, the Six Dollar Motel" to 21 October 1977 [@thresher-1977-10-13-wiess-palms].
+An old graphic, "Themes through the decades," lists a theme for every year from 1973–75 to 2011. We haven't found who made it yet. Every theme that can be checked against other sources matches, so it's probably right. It does misprint 1977 as "1997": the Thresher dates "Wiess Palms, the Six Dollar Motel" to 21 October 1977 [@thresher-1977-10-13-wiess-palms].
 
 ??? info "The receipts: every theme"
-    A graphic headed "Themes through the decades", kept with the TFWKB NOD images, lists a theme for every year from 1973–75 to 2011. Its origin is unknown. It names no source, and its newspaper-style layout (two columns along a timeline arrow) suggests a press graphic of about 2011–12. It is cited here as an image of unknown origin, with the theme names transcribed as printed. Every theme that can be checked against the Thresher, the Campanile or the college's own party pages agrees with it, which is good evidence for the rest.
+    A graphic headed "Themes through the decades", kept with the TFWKB NOD images, lists a theme for every year from 1973–75 to 2011. We haven't found where it came from yet. It names no source, and its newspaper-style layout (two columns along a timeline arrow) suggests a press graphic of about 2011–12. It is cited here as an image whose source we haven't traced yet, with the theme names transcribed as printed. Every theme that can be checked against the Thresher, the Campanile or the college's own party pages agrees with it, which is good evidence for the rest.
 
     | Year | Theme, as printed on the graphic | Other sources |
     |---|---|---|
@@ -126,7 +128,7 @@ An old graphic, "Themes through the decades," lists a theme for every year from 
     | 2010 | Viva NOD Vegas: Go All In | Thresher [@thresher-2023-10-50-years] |
     | 2011 | Harry NODer: Slytherin to her chamber of secrets | — |
 
-    The graphic is reproduced in the gallery below. Themes after 2011 that the record has: "NODie Dreamhouse", the last NOD, in 2023 [@thresher-2023-10-sex-doll].
+    The graphic is reproduced in the gallery below. Themes after 2011 we've found so far: "NODie Dreamhouse", the last NOD, in 2023 [@thresher-2023-10-sex-doll].
 
 ## Photographs
 
@@ -204,7 +206,7 @@ An old graphic, "Themes through the decades," lists a theme for every year from 
     | 2023-11-03 | Public parties cancelled through spring break; NOD "placed on probation" [@fox26-2023-11-03] | [P] |
     | 2024-06-05 | NOD permanently cancelled—see [End of NOD](#end-of-nod) [@thresher-2024-06-05-nod-canceled] | [P] |
     | 2024-08 | The 2024 O-Week book, for the class arriving two months after the cancellation, has no NOD: not in the glossary, the traditions or the Commons, which now hosts only "Most large events at Wiess"; the Socials committee is "responsible for planning our bi-weekly quad events called TFFWs… and for setting up Wiess' public" [@oweek-2024 p.25] [@oweek-2024 p.37] [@oweek-2024 p.11] [@oweek-2024 p.34] | [P] |
-    | 2025-01-23 | The college site has a `/nod/` page (the capture is the site's JavaScript shell; its text is not in the corpus) [@wb 20250123193910 https://wiess.rice.edu/nod/] | [P] |
+    | 2025-01-23 | The college site has a `/nod/` page (the capture is the site's JavaScript shell; we don't have its text yet) [@wb 20250123193910 https://wiess.rice.edu/nod/] | [P] |
     | 2025-01-25 | Wiess's new public, "Masquerade After Dark" (MAD), outdoors and semi-formal [@thresher-2024-10-mad-announced] [@thresher-2025-01-mad-reviews] | [P] |
     | 2025-08 | The 2025 book repeats the 2024 text: "Wiess' public", unnamed—neither NOD nor MAD appears [@oweek-2025 p.35] [@oweek-2025 p.11] | [P] |
     | 2026-02-23 | The February 2026 Constitution does not name NOD; the Social Vice Presidents "plan and direct the social activities of the College including the public parties" [@constitution-2026] | [P] |

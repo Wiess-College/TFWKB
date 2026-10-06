@@ -29,6 +29,8 @@ He died in August 1948. Rice's archivist put it simply: "We really could have us
 
 The new dorm was designed as "North Hall" and renamed for him after his death [@rhc 2012-12-04 wiess-hall-construction-1949]. It was named Wiess Hall in 1950 [@riceinfo-history]. Olga Keith Wiess later paid for expanding its central wing [@riceinfo-theman]. More on the building: [Old Wiess](../places/old-wiess.md).
 
+The O-Week books say he left "a big chunk of cash… for the building of Wiess College" [@oweek-2006 p.36]. The 1994 "Man" page and Rice's archivist tell it differently: a 1946 pledge to Rice, and a dorm renamed for him after he died [@riceinfo-theman] [@rhc 2012-12-04 wiess-hall-construction-1949].
+
 The O-Week books have their own spin. The 2016 Owlmanac calls him "a respected and beautiful oil tycoon" [@owlmanac-2016 p.12].
 
 ??? info "The receipts: timeline"
@@ -54,22 +56,5 @@ The O-Week books have their own spin. The 2016 Owlmanac calls him "a respected a
     "He was a lover of Beauty without extravagance, and of Wisdom without weakness." — epigraph of "The Man," riceinfo site, 1999 [@riceinfo-theman]
 
     "There was a man with a dream. Harry Carothers Wiess, famed oil tycoon and founder of Humble oil (aka Exxon, Exxon-Mobil) left Rice U. a big chunk of cash upon his death in 1948 for the building of Wiess College." — O-Week Book 2006 [@oweek-2006 p.36]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Did his money build the building?** The books say he left "a big chunk of cash… for the building of Wiess College" [@oweek-2006 p.36], or "of Wiess Hall" [@oweek-2015 p.10]. The 1994 "Man" page records only the 1946 pledge to the Institute, with the building named "later" [@riceinfo-theman]. The archivist says North Hall was renamed after his death [@rhc 2012-12-04 wiess-hall-construction-1949]. Those two are the stronger sources; the books turned a memorial naming into a bequest.
-    - **Trustee how long?** "Life trustee" from 1944 [@riceinfo-theman]; "only a Rice trustee for four years" because he died [@rhc 2020-05-20 harry-wiess-and-rices-first-strategic-plan-1945]. No conflict.
-    - **The Socrates line.** "Socrates said that he was not an Athenian or a Greek, but a citizen of the world" closes the 1994 page [@riceinfo-theman]. The same Plutarch line is on a 1975 plaque photographed at Old Wiess in 2002 [@edesigns-old-wiess-2002]; see [Old Wiess](../places/old-wiess.md).
-    - **Humble's founders.** The page names Fondren, Jones and Farish [@riceinfo-theman]. Other accounts list more partners; this page sticks to its source.
-
-    **Still don't know.**
-
-    - The Trustees' 1948 tribute, *A tribute to the memory of Harry Carothers Wiess, 1887–1948*, is at the Woodson [@riceinfo-theman]. Not read yet.
-    - The 1945 alumni address and Twelve-Point Program PDF on Rice History Corner [@rhc 2020-05-20 harry-wiess-and-rices-first-strategic-plan-1945]. Not read yet.
-    - When and how big Olga Keith Wiess's central-wing gift was [@riceinfo-theman].
-    - Did his family home become Rice's President's House [@rhc 2020-05-20 harry-wiess-and-rices-first-strategic-plan-1945 comment by marmer01, 21 May 2020]? Not checked.
-    - Lovett's 1950 dedication remarks, posted as images, should be transcribed [@rhc 2012-12-05 wiess-hall-dedication-1950].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

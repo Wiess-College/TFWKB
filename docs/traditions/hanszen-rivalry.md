@@ -23,7 +23,7 @@ The 1999 website made one thing clear: "this doesn't mean we hate the *people* a
 ## The greatest hits
 
 - **The chant.** "It's (whatever) – *and Hanszen still sucks!*" It was already "dying out" in 1999 [@riceinfo-hanszensucks]. See ["What time is it?"](retired/what-time-is-it.md).
-- **The corridor jack** (a jack is a prank on another college). Around 2002–03, while Hanszen was eating in the Wiess Commons, Wiessmen flipped and repainted the "Welcome to Hanszen" corridor panels. The new message: "Welcome to the Wiess Commons and Hanszen still sucks" [@oweek-2006 p.52].
+- **The corridor jack** (a jack is a prank on another college). The books don't give a year, only that it happened while Hanszen's Commons was being built. The shared servery opened in 2002, so probably around 2002–03 [@kirksey-wiess]. While Hanszen was eating in the Wiess Commons, Wiessmen flipped and repainted the "Welcome to Hanszen" corridor panels. The new message: "Welcome to the Wiess Commons and Hanszen still sucks" [@oweek-2006 p.52].
 - **Powderpuff.** The two colleges play each other, and Hanszen roasts a whole pig on the sidelines, since Wiess's mascot is a pig [@hanszen-traditions]. See [Battle Sows & Powderpuff](battle-sows-powderpuff.md).
 
 ## Hanszen's side
@@ -32,7 +32,7 @@ Hanszen's own traditions page fires back: "they can't even spell their own name 
 
 ## Softer, then not
 
-In 2014 the terrace Wiess "unfortunately" shared with Hanszen became one "that we share with Hanszen" [@oweek-2003 p.3] [@oweek-2014 p.102]. In 2015 the "arch nemesis" history paragraph disappeared [@oweek-2015 p.50].
+In 2014 the terrace Wiess "unfortunately" shared with Hanszen became one "that we share with Hanszen" [@oweek-2003 p.3] [@oweek-2014 p.102]. In 2015 the "arch nemesis" history paragraph was dropped [@oweek-2015 p.50].
 
 It didn't last. In 2021 the Wiess President wrote that "Even typing their name made me a little upset" [@oweek-2021 p.30].
 

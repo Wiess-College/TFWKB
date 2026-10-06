@@ -22,7 +22,7 @@ After the 2002 move, the old house was a hike away. "Sadly, it's on the Inner Lo
 
 ## Dr. Bill's house
 
-In 2011 the house was dedicated to Dr. Bill Wilson, a longtime Wiess RA (a grown-up who lives in the college) [@wiess-60th-faq-2017 p.4]. That year's glossary added a second meaning: "Dr. Bill House" [@oweek-2011 p.93]. Read more about him on [Resident Associates](../people/resident-associates.md).
+In 2011 the house was dedicated to Dr. Bill Wilson, a longtime Wiess RA (a grown-up who lives in the college) [@wiess-60th-faq-2017 p.4]. That year's glossary added a second meaning: "Dr. Bill House" [@oweek-2011 p.93]. We haven't found yet whether 2011 brought a new house or a new name for the one "right next door" in 2006 [@oweek-2006 p.84]. Read more about him on [Resident Associates](../people/resident-associates.md).
 
 The Byrds' 2015 welcome promised "ample opportunity to hang out with them at 'the house'": "Solos and Duets study break, Twenty Minute Jazz Festival, Brunch Book Club" [@wb 20150313224617 http://teamwiess.com/master.html]. The house even had its own Twitter, @ricewilsonhouse [@wb 20140627224545 http://teamwiess.com/master.html].
 
@@ -52,22 +52,5 @@ Who lived there when: [Magisters](../people/masters-and-magisters.md) and the [C
     "**Wiess Master House.** 1. The Byrd's house. Where everybody knows your name, and the door is always open. 2. Dr. Bill House" — O-Week Book 2011 [@oweek-2011 p.93]
 
     "Get ready for Solos and Duets study break, Twenty Minute Jazz Festival, Brunch Book Club, and other reasons to take a break from your daily grind with the family next door." — teamwiess.com, 2015 [@wb 20150313224617 http://teamwiess.com/master.html]
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Which building is which?** "Attached to the college" (1994) [@riceinfo-masters]; "on the Inner Loop" (2003) [@oweek-2003 p.4]; "right next door to Wiess" (2006) [@oweek-2006 p.84]; a "new home of the Wiess Masters" dedicated in 2011 [@wiess-60th-faq-2017 p.4]. Simplest reading: the old house outlived Old Wiess, a house beside the new building was in use by 2006, and it (or a successor) was named in 2011. The master plan always included "an individual masters house" [@machado-silvetti-wiess]. Are the 2006 and 2011 houses the same building? No source says.
-    - **"Dedicated in 2011."** That's from a 2017 retrospective [@wiess-60th-faq-2017 p.4]. The trace from the time is the 2011 glossary's "Dr. Bill House" [@oweek-2011 p.93], then "Wilson House" from 2014. Dr. Bill left the RA job after 2005–06 [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates] and is "Ex-Wiess RA" in 2010 [@oweek-2010 p.90].
-    - **Master's, Masters', Magister's.** "Wiess Master House" (2006–2015), "Wilson House (Wiess Master House)" (2014, 2016), "Wilson House (Wiess Magister's House)" (2017) [@oweek-2006 p.84] [@oweek-2015 p.119] [@oweek-2017 p.15]. The 2017 change follows the switch to "Magisters."
-    - **The 2008 entry is cut off** in the extracted text [@oweek-2008 part 7 p.4]; the printed page probably matches 2007 and 2010.
-
-    **Still don't know.**
-
-    - Was the 2011 Wilson House new, or the existing house renamed? Rice News or the 2011 Thresher should say.
-    - Dr. Bill's dates. Kean writes of him in the past tense by January 2014 [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt], but no source gives a date of death.
-    - Where exactly the old Wiess House stood ("on the north side of the college" [@rhc 2011-05-06 friday-afternoon-follies-plus-a-campus-quiz comment by Richard Miller, 10 May 2011]) and when it came down.
-    - Two Wayback captures of @ricewilsonhouse (2016, 2020) aren't read yet.
-    - "A Celebration of the Byrds 4/25" (2016) [@wiessassociates-site] hasn't been read yet.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

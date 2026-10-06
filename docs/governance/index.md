@@ -12,7 +12,7 @@ Wiess runs itself. Students write the rules, elect the people who enforce them, 
 !!! abstract "TL;DR"
     - The **Constitution** is the college's rulebook. It sets up [Cabinet](cabinet.md) (the student government) and the [Court](court.md) (student discipline) [@constitution-2026 Art. IV §1; Art. VIII §1].
     - The oldest text we have is the Rules of 1 October 1991 [@rules-1991]. The newest is the "Complete Guiding Documents", last amended 23 February 2026 [@constitution-2026].
-    - Twelve versions survive. Everything before 1991 is still missing [@constitution-2020] [@constitution-hate-speech] [@woodson-ua0079].
+    - We hold twelve versions so far. Older ones are at the Woodson Research Center, still to be read [@constitution-2020] [@constitution-hate-speech] [@woodson-ua0079].
     - To change the Constitution you need two-thirds of Cabinet, then two-thirds of the College [@constitution-2026 Art. XVI §4].
 
 ## The paperwork, in plain words
@@ -33,7 +33,7 @@ The dated entries also feed the [Changes](../changes/index.md) chronicle.
 
 ## Every version we have
 
-Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [the arguments](constitution-history.md#variants-disputes)).
+Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [How the Constitution changed](constitution-history.md)).
 
 | Tag | Date | Document | Where the copy came from | Evidence |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ Each text is a tagged version in the college's governance repository, so you can
 | `v2013-02-08` | 2013-02-08 | Constitution, "Last Amended February 8th, 2013", 12 articles [@constitution-2013] | teamwiess.com PDF, captured 2014 | [P] |
 | `v2016-01-26` | 2016-01-26 | Constitution (11 articles) and Bylaws (11 articles), "Last Amended January 26th, 2016" [@constitution-2016] | teamwiess.com PDFs, captured 3 Mar 2017 | [P] |
 | `v2017-03-29` | 2017-03-29 | Constitution, one-paragraph amendment; date from the filename [@constitution-2017] | teamwiess.com PDF, captured 31 Mar 2017 | [P] |
-| `v2020-02-12` | 2020-02-12 | Constitution (11 articles) and Bylaws (10 articles), "Last Amended February 12, 2020"; "Magister" throughout [@constitution-2020] [@bylaws-2020] | maintainer's collection, Word files; no public copy known | [P] |
-| *(no text)* | fall 2021 | Clause banning hate speech, announced in the Thresher [@thresher-2021-09-15] | not captured | [P] |
-| `v2025-spring` | c. early 2025 (estimated) | Complete Guiding Documents, undated, 16 articles, with Article XV Stance on Hate Speech; the 2026 text less two sections [@constitution-hate-speech] | maintainer's collection, Google Docs PDF exported c. Jan–Mar 2025; no public copy known | [P] |
+| `v2020-02-12` | 2020-02-12 | Constitution (11 articles) and Bylaws (10 articles), "Last Amended February 12, 2020"; "Magister" throughout [@constitution-2020] [@bylaws-2020] | maintainer's collection, Word files; no public copy found yet | [P] |
+| *(no text)* | fall 2021 | Clause banning hate speech, announced in the Thresher [@thresher-2021-09-15] | text not found yet | [P] |
+| `v2025-spring` | c. early 2025 (estimated) | Complete Guiding Documents, undated, 16 articles, with Article XV Stance on Hate Speech; the 2026 text less two sections [@constitution-hate-speech] | maintainer's collection, Google Docs PDF exported c. Jan–Mar 2025; no public copy found yet | [P] |
 | `v2026-02-23` | 2026-02-23 | Complete Guiding Documents—Constitution, 16 articles, "Last Amended: February 23, 2026" [@constitution-2026] | wiess.rice.edu PDF, captured 12 Mar 2026 | [P] |
 
 ## How to change the rules
@@ -75,21 +75,5 @@ Then it needs two votes: two-thirds of Cabinet, then two-thirds of the College, 
     The 1997 webmaster added: "*NOTE: These rules are extremely out of date. I'm working on getting a recent copy.*" [@riceinfo-rules-index-1997]
 
     "In support of the mission of Rice University, it is the purpose of Wiess College and of the government thereof, empowered and created by this Constitution, to foster democratic student self-government and provide for the intellectual, cultural, social, and professional development of the Wiess community." [@constitution-2013 Preamble]
-
-??? info "Arguments & loose ends: the gaps"
-    **What's missing.**
-
-    - **1957–1993.** No constitution from the college's first 36 years is online. The Woodson Research Center's Wiess College Records (UA 0079) hold Cabinet minutes and governing documents from 1950 [@woodson-ua0079]. The 1993 rewrite-after-ten-amendments rule hints that older amended texts existed, but the 1993 text doesn't say it is such a rewrite [@constitution-1993 Art. XII §6].
-    - **1993–2007.** The 1997 webmaster already called the 1993 text "extremely out of date" [@riceinfo-rules-index-1997]. teamwiess.com's 2004–05 Constitution page was never captured [@teamwiess-site].
-    - **2017–2020.** The 12 February 2020 texts show the result of the changes since 2017 (Magister wording, Diversity Chairs, Junior and Senior Representatives, an Assistant Treasurer, seven Associate Justices) but not the separate amendments or their dates [@constitution-2020] [@bylaws-2020].
-    - **2020–2025.** Nothing between February 2020 and the undated text of about early 2025 [@constitution-hate-speech]. The 2020 and 2023 Cabinet pages link Google Drive files the Wayback Machine never captured [@teamwiess-cabinet-2020] [@wiess-rice-edu-cabinet-2023].
-    - **Bylaws.** The 2020 Bylaws are the last separate text [@bylaws-2020]. By early 2025 they're inside the Constitution [@constitution-hate-speech]. The 2026 text still mentions "the College Bylaws" but publishes none [@constitution-2026 Art. XI §1]. Bylaws between 2016 and 2020 are missing.
-    - **The 2021–22 hate-speech text.** The Thresher reported it in September 2021 [@thresher-2021-09-15]. The earliest Article XV we have is in the c. early 2025 text, repeated word for word in 2026 [@constitution-hate-speech Art. XV] [@constitution-2026 Art. XV].
-
-    **Still don't know.**
-
-    - When was the first Wiess Constitution adopted, and how often was it changed before 1993? Try Woodson UA 0079 [@woodson-ua0079].
-    - Did the Court ever write the Court Procedures and Code of Conduct every constitution since 2007 asks for [@constitution-2007 Art. IV §6]? None is captured.
-    - Do separate College Rules and Housing Rules still exist after February 2026? The 2026 text refers to "the Rules" [@constitution-2026 Art. VIII §7], but the PDF holds only the Constitution [@constitution-2026].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

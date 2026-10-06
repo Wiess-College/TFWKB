@@ -21,6 +21,8 @@ The core has barely changed: a President, two Vice Presidents, Social VPs, a Tre
 
 What changes is who gets elected, who gets appointed, and who votes. Today 17 members vote. Others, like the Parliamentarian, Secretaries and Historians, "may participate in debate and procedural matters, but cannot vote on matters of substance" [@constitution-2026 Art. V §1; Art. VI §1]. The full seat-by-seat history is in the table below.
 
+The totals the documents state don't always match their own lists. The 1993 text says "fifteen members" but lists sixteen or seventeen seats; 2007 says "seventeen" and lists eighteen [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4].
+
 ## Show up, or send a proxy
 
 Quorum is "a simple majority (9) of the voting members of Cabinet, not including proxies" [@constitution-2026 Art. IV §6]. Can't make it? You "must appoint a Wiessman as proxy". "Two unproxied absences warrant grounds for impeachment" [@constitution-2026 Art. IV §8].
@@ -33,7 +35,7 @@ It keeps flipping. In 1993–2013, Cabinet picked them. In 2016, the President d
 
 ## Cabinet minutes as a source
 
-The Bylaws have required published minutes since 1993 [@constitution-1993 Bylaws Art. II §6]. Today the Secretaries must "distribute them to the College within two weeks" [@constitution-2026 Art. VI §4 (2)]. Almost none survive online, and what does is comedy.
+The Bylaws have required published minutes since 1993 [@constitution-1993 Bylaws Art. II §6]. Today the Secretaries must "distribute them to the College within two weeks" [@constitution-2026 Art. VI §4 (2)]. We've found very few online so far, and the ones we have read like comedy.
 
 - **riceinfo, 1997–2001.** The minutes page only ever said "Eventually I will get my act together and put cabinet minutes here" [@riceinfo-minutes-1999].
 - **teamwiess.com, 2008–2011.** "Last Cabinet Notes" from the O-Week Themed Cabinet of 28 August 2008 [@teamwiess-lastnotes-2008], then the "Silly Hats Cabinet Minutes" of 9 September 2009, in which Cabinet "heartily agrees" to a new Capital Improvements Rep [@teamwiess-cabinetminutes-2010].
@@ -41,11 +43,11 @@ The Bylaws have required published minutes since 1993 [@constitution-1993 Bylaws
 - **wiess.rice.edu, 2023–.** Roster and meeting time, but no minutes captured [@wiess-rice-edu-cabinet-2023].
 
 ??? info "More on the minutes"
-    - The 1999 news page promised minutes "brought to you by our beloved 'Cabinet Secretary'… and mangled by an HTML editor that doesn't feel like dealing with huge images" [@wb 19990218084831 http://riceinfo.rice.edu/projects/colleges/wiess/news/index.html]. None were posted.
+    - The 1999 news page promised minutes "brought to you by our beloved 'Cabinet Secretary'… and mangled by an HTML editor that doesn't feel like dealing with huge images" [@wb 19990218084831 http://riceinfo.rice.edu/projects/colleges/wiess/news/index.html]. No minutes turn up in the captures we have.
     - The 2008 notes: the budget approved with a guessed $3,500 carry-over, a "$3335" Mailbox Budget "left over from Old Wiess when we had to give deposits for mailboxes", Freshman Rep speeches, an RUPD Campus Watch pitch [@teamwiess-lastnotes-2008].
     - The WordPress blog also had "Fellows Auction" minutes and weekly newsletters; about fifty-two URLs are in the Wayback Machine [@wiess-wordpress].
     - Minutes deadlines: one week in 1993, two weeks from 2016 [@constitution-1993 Bylaws Art. II §6] [@constitution-2016 Bylaws Art. II §6].
-    - Court abstracts of verdicts were to go in the Cabinet minutes (1993) and be made public by the Secretary (1993–2010), then the College Coordinator (2016, 2026) [@constitution-1993 Art. IV §4] [@constitution-1993 Bylaws Art. V §9] [@constitution-2026 Art. VIII §15]. None are captured.
+    - Court abstracts of verdicts were to go in the Cabinet minutes (1993) and be made public by the Secretary (1993–2010), then the College Coordinator (2016, 2026) [@constitution-1993 Art. IV §4] [@constitution-1993 Bylaws Art. V §9] [@constitution-2026 Art. VIII §15]. We haven't found any in the captures yet.
 
 ## Reps come and go
 
@@ -87,7 +89,7 @@ Two offices show up only on the web: a Game Room Chairman, "filled by presidenti
     - **Absences.** 2007: "multiple unexcused absences"; 2016: "more than three" [@constitution-2007 Art. III §9] [@constitution-2016 Art. III §10]. The proxy rule and "Two unproxied absences" are already in 2020 [@constitution-2020 Art. III §7].
     - **Executive Cabinet.** President, Chief Justice, both VPs, Social VPs, Head Treasurer, Apprentice Treasurer. Not in the otherwise identical c. early 2025 text [@constitution-hate-speech Art. IV] [@constitution-2026 Art. IV §14].
     - **Appointments, word for word.** 1993–2013: "The appointed members shall be selected by the Cabinet in the spring semester"; the At-Large and Capital Improvements Reps "nominated by the President and approved by two-thirds majority vote of Cabinet" [@constitution-1993 Art. III §§3–4] [@constitution-2013 Art. III §§3–4]. 2016: "selected by the President with the approval of Cabinet" [@constitution-2016 Art. III §3]. 2017 strikes "President with the approval of" [@constitution-2017 Art. III §3]. 2020: "selected by the incoming President with the approval of Cabinet"; each office "appointed by the president with the assent of the Cabinet" [@constitution-2020 Art. III §§3, 13].
-    - **Reps that came and went.** Only ten 2005–06 titles survive to 2023 (College Night, Election, Food, Intramural Sports, Kitchen, Laundry, Movie, RPC, Vacuum, Webmasters). Beer Bike Captains, the Brewmaster, Study Break Reps and the "YEAH WIESS" rep are gone; Boba, Chalkboard, Shower, Wiess Cream and UpCo reps are new [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wb 20140627224604 http://teamwiess.com/representatives.html] [@wiess-rice-edu-representatives-2023]. Since c. early 2025 the Constitution says "There shall be an undefined number of Wiess Representatives" [@constitution-hate-speech Art. VII §1] [@constitution-2026 Art. VII §1]. The 2025 O-Week book has "firepit reps" [@oweek-2025 p.44].
+    - **Reps that came and went.** Only ten 2005–06 titles are still on the 2023 list (College Night, Election, Food, Intramural Sports, Kitchen, Laundry, Movie, RPC, Vacuum, Webmasters). Beer Bike Captains, the Brewmaster, Study Break Reps and the "YEAH WIESS" rep aren't on it; Boba, Chalkboard, Shower, Wiess Cream and UpCo reps are new [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives] [@wb 20140627224604 http://teamwiess.com/representatives.html] [@wiess-rice-edu-representatives-2023]. Since c. early 2025 the Constitution says "There shall be an undefined number of Wiess Representatives" [@constitution-hate-speech Art. VII §1] [@constitution-2026 Art. VII §1]. The 2025 O-Week book has "firepit reps" [@oweek-2025 p.44].
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |
@@ -118,19 +120,5 @@ Two offices show up only on the web: a Game Room Chairman, "filled by presidenti
 > "Governing body of Wiess. Made up entirely of Wiessmen. Meets every other Wednesday at 10pm in the Upper Commons. There's always free food." [@oweek-2014 p.102]
 
 > "All Wiessmen are encouraged to partake in the precarious balance of bedlam and decision-making that ensues at Cabinet." [@wiess-rice-edu-cabinet-2023]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **How many members?** The stated totals don't match the lists (see [How the Constitution changed](constitution-history.md#variants-disputes)). The 1998 site's "twelve elected and three appointed offices" counts offices, not seats, and includes a Game Room Chairman the Constitution never names [@riceinfo-cabinet-1998].
-    - **Every other Wednesday, or every Wednesday?** Glossaries 2003–2017 say "every other Wednesday" [@oweek-2003 p.3] [@oweek-2017 p.14]; 1998 says "alternating Wednesdays in the outer commons" [@riceinfo-cabinet-1998]; 2021 and 2023 say "every Wednesday" [@teamwiess-cabinet-2021] [@wiess-rice-edu-cabinet-2023]. The 2026 Constitution only requires "at least once a month" [@constitution-2026 Art. IV §7]. The switch was probably 2017–2021; no source says when.
-    - **Did riceinfo ever post minutes?** Its reading guide says the 1999 news page has them; the captured minutes page is a placeholder and no minutes exist in any capture [@riceinfo-minutes-1999].
-
-    **Still don't know.**
-
-    - Exactly when Diversity Chairs, Junior and Senior Reps and the Assistant Treasurer arrived, and the Cultural and At-Large Reps left: between March 2017 and February 2020 [@constitution-2017] [@constitution-2020 Art. III §12]. The 2019 O-Week book already lists Diversity Chairs, so probably before fall 2019 [@oweek-2019].
-    - When the Secretary became appointed and non-voting (by February 2020) and when a second seat was added (two by 2023) [@constitution-2020 Art. III §13 B] [@wiess-rice-edu-cabinet-2023] [@constitution-hate-speech Art. VI §4 (2)].
-    - Where are thirty years of minutes? Try the Secretary's files, the listserv archive, the Notion "Wiess Database", and Woodson UA 0079 for the oldest [@woodson-ua0079].
-    - Presidents year by year. The web gives 1998–99, 2021–22, 2022–23 and 2023–24 [@riceinfo-cabinet-1998] [@teamwiess-cabinet-2021] [@wb 20220826233846 http://teamwiess.com/government/cabinet] [@wiess-rice-edu-cabinet-2023]; O-Week books and the 2006–2011 cabinet pages would add more.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

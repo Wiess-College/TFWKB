@@ -20,7 +20,7 @@ Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
     ---
 
-    The W-shaped "motel" with balconies on every room. Built 1949, gone after 2002.
+    The W-shaped "motel" with balconies on every room. Built 1949, torn down after 2002.
 
 -   :material-office-building: **[New Wiess (2002–)](new-wiess.md)**
 
@@ -62,13 +62,13 @@ Two buildings, one courtyard name, a lot of balconies. Pick a spot.
 
     ---
 
-    "The tower," the O/C Bathroom, the lost cornerstone and the Wiess Wall.
+    "The tower," the O/C Bathroom, the old cornerstone and the Wiess Wall.
 
 -   :material-home-heart: **[Wiess House / Wilson House](wilson-house.md)**
 
     ---
 
-    The Magisters' house, named for the beloved RA Dr. Bill Wilson.
+    The Magisters' house, named for longtime RA Dr. Bill Wilson.
 
 </div>
 

@@ -17,9 +17,9 @@ The Acabowl is the Wiess courtyard. Other colleges call theirs a "quad," "but th
 
 ## Where the name came from
 
-The 1994 Freshman Handbook says it comes from "Academic Bowl," a 1960s football game "in which reportedly only 'academs' had time to take part" [@handbook-1994]. Note the "reportedly." Nobody has found that game in a 1960s source.
+The 1994 Freshman Handbook says it comes from "Academic Bowl," a 1960s football game "in which reportedly only 'academs' had time to take part" [@handbook-1994]. Note the "reportedly." We haven't found that game in a 1960s source yet.
 
-The word itself is older than the handbook thought. In 1963 the Wiess president already called touch football "Acabowl" [@thresher-1963-03-13-mel-lack]. A 1979 Thresher history said the playing field between Wiess and Hanszen "came to be called (affectionately) 'the Acabowl'" [@thresher-1979-wiess-first-fifteen-years].
+The word itself is older than the handbook thought. In 1963 the Wiess president already called touch football "Acabowl" [@thresher-1963-03-13-mel-lack]. A 1979 Thresher history said the playing field between Wiess and Hanszen "came to be called (affectionately) 'the Acabowl'" [@thresher-1979-wiess-first-fifteen-years]. The sources disagree on which courtyard that was: the 1994 handbook says the western one [@handbook-1994]; the 1979 history says the field between Wiess and Hanszen [@thresher-1979-wiess-first-fifteen-years].
 
 ## Two courtyards, then one
 
@@ -99,22 +99,5 @@ Today it's still where people "hang out, play frisbee or football, and study her
     "**Acaglider.** 1. Giant swinging covered picnic table of glory, in the Acabowl." — O-Week Book 2008 [@oweek-2008 part 7 p.3]
 
     The full run of Aca- entries, year by year, is in [How we described ourselves, by year](../traditions/glossary-series.md).
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **The name.** "Academic Bowl" is the only origin story, and the 1994 handbook hedges it ("reportedly") [@handbook-1994]. The 2003 book said Dr. Bill "will have the answer" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8]; nobody wrote it down. The word is in print by 1963 [@thresher-1963-03-13-mel-lack] and in the 1972 handbook [@handbook-1972].
-    - **Where it was.** The 1994 handbook puts it at the western courtyard [@handbook-1994]; the 1979 history calls it "the playing field between Wiess and Hanszen" [@thresher-1979-wiess-first-fifteen-years].
-    - **Backabowl or Bacabowl.** "Backabowl" in 1994 [@handbook-1994]; "The Bacabowl Ledge" on the 1999 photo page [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html]. The new building's back terrace was "Backaterrace" (2003), "Acaterrace" (from 2006) and "Bacaterrace" (from 2014) [@oweek-2003 p.3] [@oweek-2006 p.83] [@oweek-2014 p.102]. Sorted out on [The terraces and the Bacabowl](terraces.md).
-    - **What got played.** Four-square (1994–1999), soccer (2003–2014), frisbee or football (2015–17) [@handbook-1994] [@riceinfo-traditions-1997] [@riceinfo-traditions-1999] [@oweek-2003 p.3] [@oweek-2015 p.118].
-    - **The Acahammock** came and went: glossary 2003–2010 [@oweek-2003 p.3] [@oweek-2010 p.90], gone 2011 and 2014, "most recently, the Acahammock" in 2015 [@oweek-2015 p.10], dropped in 2021 [@oweek-2019 p.13] [@oweek-2021 p.17]. A replacement, not a first.
-    - **Trampoline colors.** "Purple and black" in 1994 [@handbook-1994]; nobody gives a color later.
-
-    **Still don't know.**
-
-    - Did the 1960s "Academic Bowl" game really happen?
-    - When did the Acatramp first show up, and is today's trampoline the same institution or a replacement?
-    - Who is in the mid-1990s War Pig photos [@warpig-core-deck slide 30]? They could date them.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

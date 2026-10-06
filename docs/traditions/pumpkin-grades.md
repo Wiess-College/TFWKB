@@ -22,7 +22,7 @@ The Registrar calls them mid-term grades. They only apply to first-years and fir
 
 ## Why "pumpkin"?
 
-Nobody wrote it down. Halloween timing is the obvious answer, but no source says so. The university itself never uses the word [@rice-registrar-midterm-grades].
+We haven't found an explanation in writing yet. Halloween timing is the obvious answer, but the sources we have don't say so. The Registrar's page doesn't use the word [@rice-registrar-midterm-grades].
 
 It's Rice slang, not just Wiess slang. The campus-wide Owlmanac defined it too in 2016 [@owlmanac-2016 p.56].
 

@@ -11,7 +11,7 @@ A table, four cups and one very bouncy die. Catch it with one hand or lose the p
 
 !!! abstract "TL;DR"
     - Die (also "beer die" or "snappa") is a table game: toss a die high, bounce it off the table, and make the other side miss the catch [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
-    - Nobody agrees where it came from. Maine, Colby or the Navy, depending who you ask [@vinepair-2016-11-09-beer-die].
+    - The stories of where it came from disagree: Maine, Colby or the Navy, depending who you ask [@vinepair-2016-11-09-beer-die].
     - Wiess plays it. The 2025 O-Week book calls one of its Fellows a "die demon" and doesn't bother to explain [@oweek-2025 p.36].
 
 ## How it works
@@ -27,7 +27,7 @@ Then there are house rules. Lots of them, mostly passed on by word of mouth. A f
 
 ## At Wiess
 
-At Wiess, people say the cups hold water. No written source says so yet, and we don't know how long Wiess has played or what its house rules are. If you know, [add your story](../about/contribute.md).
+At Wiess, people say the cups hold water. We haven't found that in writing yet, or how long Wiess has played, or its house rules. If you know, [add your story](../about/contribute.md).
 
 The one printed trace is the 2025 O-Week book. It calls a Fellow "an Intramural (IM) king, die demon," as if everyone already knows the game [@oweek-2025 p.36].
 

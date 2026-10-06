@@ -18,13 +18,13 @@ Reps are students who take care of one thing for the college: a room, a job, an 
 
 Since 2020 it's been "The Wiess Reps Program", which "gives the people of Wiess the opportunity to use their individual passions and talents to serve their fellow Wiesspeople" [@wb 20201009232352 http://teamwiess.com/government/representatives.html]. The Constitution puts it plainly: "There shall be an undefined number of Wiess Representatives" [@constitution-2026 Art. VII §1].
 
-So reps appear and vanish. The 2017 list had a Cute Dog Rep, who planned to ask animal shelters "about the possibility of dog study breaks" [@wb 20170421224822 http://teamwiess.com/reps.html]. The 2025 O-Week book has two "firepit reps", on no earlier list [@oweek-2025 p.44].
+So reps come and go. The 2017 list had a Cute Dog Rep, who planned to ask animal shelters "about the possibility of dog study breaks" [@wb 20170421224822 http://teamwiess.com/reps.html]. The 2025 O-Week book has two "firepit reps", on no earlier list [@oweek-2025 p.44].
 
 The elected reps who sit on Cabinet (First-Year, Sophomore, Junior, Senior, Off-Campus, and once Cultural, At-Large and Capital Improvements) are on [Cabinet](cabinet.md).
 
 ## Positions by year
 
-A dot means the position is on that year's list. The lists are the college website's (2005–06, 2010, 2012, 2014, 2015, 2017, 2020–21, 2023) and, for 2025, the O-Week book. Similar titles are grouped on one row; the year's own wording is given where it differs. Lists name positions as they stood when the page was captured, so a position missing from one year may simply have been vacant or unlisted.
+A dot means the position is on that year's list. The lists are the college website's (2005–06, 2010, 2012, 2014, 2015, 2017, 2020–21, 2023) and, for 2025, the O-Week book. Similar titles are grouped on one row; the year's own wording is given where it differs. Lists name positions as they stood when the page was captured, so a position absent from one year's list may simply have been vacant or left off.
 
 Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives]; 2010 [@wb 20100826015923 http://teamwiess.com/reps.php]; 2012 [@wb 20120817225627 http://teamwiess.com/people.php?who=reps]; 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]; 2015 [@wb 20150612230047 http://teamwiess.com/reps.html]; 2017 [@wb 20170421224822 http://teamwiess.com/reps.html] (each rep with a "Vision" and "First Acts"); 2020–21 [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wb 20210806232236 http://teamwiess.com/government/representatives]; 2023 [@wb 20230114021659 http://teamwiess.com/government/representatives] [@wiess-rice-edu-representatives-2023]; 2025 [@oweek-2025 p.44] and the Constitution [@constitution-hate-speech Art. VII §1].
 
@@ -110,7 +110,7 @@ Some positions on the 2005–06 list (Historian, Parliamentarian, Capital Improv
     | 2015-06 | Adds a Merchandise Rep and a Vending Machine Rep, and "Intramural Sports" by that name; the Yeah Wiess Rep continues [@wb 20150612230047 http://teamwiess.com/reps.html] | [P] |
     | 2017-04 | Each rep posts a "Vision" and "First Acts": a Cute Dog Rep who will contact animal shelters "about the possibility of dog study breaks", a Videographer Rep, and Yeah Wiess Reps who plan a T-shirt design contest and to "Make screen-printing T-shirts more accessible for Wiessmen" [@wb 20170421224822 http://teamwiess.com/reps.html] | [P] |
     | 2020-10 | "The Wiess Reps Program": new are Boba, Chalkboard, Haircutting, Librarian, Lilie, Positive Reinforcement, Remote, Shower, Social Media, Student Athlete, Student Maintenance and Wiess Cream [@wb 20201009232352 http://teamwiess.com/government/representatives.html]; the same list in August 2021 [@wb 20210806232236 http://teamwiess.com/government/representatives] | [P] |
-    | 2023 | New are Computer Room, Decorations Room, Mop & Vacuum, Music, Positive Affirmation (for Positive Reinforcement), Hair (for Haircutting) and UpCo; Boba, Games, Lilie, Listserv, Remote, Social Media, Student Athlete and Student Maintenance are gone [@wb 20230114021659 http://teamwiess.com/government/representatives] [@wiess-rice-edu-representatives-2023] | [P] |
+    | 2023 | New are Computer Room, Decorations Room, Mop & Vacuum, Music, Positive Affirmation (for Positive Reinforcement), Hair (for Haircutting) and UpCo; Boba, Games, Lilie, Listserv, Remote, Social Media, Student Athlete and Student Maintenance aren't on the list [@wb 20230114021659 http://teamwiess.com/government/representatives] [@wiess-rice-edu-representatives-2023] | [P] |
     | c. early 2025 | The Constitution's new Article VII, "The Representatives": "an undefined number… include but are not limited to" seven [@constitution-hate-speech Art. VII §1] | [P] |
     | 2025 | Two O-Week Fellows are "firepit reps" [@oweek-2025 p.44] | [P] |
     | 2026-02-23 | Article VII kept in the amended Constitution [@constitution-2026 Art. VII §1] | [P] |
@@ -120,20 +120,5 @@ Some positions on the 2005–06 list (Historian, Parliamentarian, Capital Improv
 > "Our representatives help us manage the responsibility that comes with some of the privilege that we have… Certain people are in charge of scheduling, others may have keys to certain rooms that we don't allow general access to - the point is, they're all here." [@wb 20080709215012 http://teamwiess.com/index.php?r=representatives]
 
 > "Have a problem with the height of your bed? Contact the Student Maintence Representative." [@wb 20140627224604 http://teamwiess.com/representatives.html]
-
-??? info "Arguments & loose ends"
-    **Where sources disagree.**
-
-    - **Who appoints them?** The 1998 Game Room Chairman was a presidential appointee [@riceinfo-cabinet-1998]; in 2014 reps were "chosen by leadership" [@wb 20140627224604 http://teamwiess.com/representatives.html]; in 2025–26 the seven named reps are "selected by the Internal Vice President", except Housing, who pick their own apprentice [@constitution-hate-speech Art. VII §1]. How the unnamed reps are chosen isn't written down.
-    - **The Firepit Rep.** Two at once in 2025 [@oweek-2025 p.44]; no rep list after 2023 is held, so the first year is unknown. The firepit is in a 2025 website banner captioned "Firepit Cab 2025" [@wb 20251013212528 https://wiess.rice.edu/] (see [The terraces](../places/terraces.md)).
-    - **Study breaks.** Study Break Reps (2005–06) and Coordinators (2014) are gone from every later list; see [Study breaks](../traditions/study-breaks.md).
-    - **Yeah Wiess.** Plain "YEAH WIESS" in 2010 and 2012 [@wb 20100826015923 http://teamwiess.com/reps.php] [@wb 20120817225627 http://teamwiess.com/people.php?who=reps]; glossed as "T-Shirt Screening Representative" in 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]; see [Beer Bike](../traditions/beer-bike.md#screen-printing-yeah-wiess).
-
-    **Still don't know.**
-
-    - Lists for 1999–2004, 2007–2009, 2011, 2013, 2016, 2018–2019, 2022 and 2024–26. Cabinet minutes would show each new position; the Notion "Wiess Database" may hold the current list.
-    - When the Firepit Rep started, who held it first, and whether it still exists.
-    - What the 2023 Music reps do: is the Friday music in the servery theirs (see [The Commons](../places/commons.md#friday-music))?
-    - What the Lilie, Remote and Positive Reinforcement reps did in 2020–21 (Remote was presumably for students away during the pandemic).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

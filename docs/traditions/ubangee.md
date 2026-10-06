@@ -13,7 +13,7 @@ Part group hug, part dog pile, all grunting. If you've never had one, you will.
     - A Ubangee is Wiess's way of celebrating someone: a crowd grunts around (or on) them, then ends with three slow cries of [TEAM WIESS](team-wiess.md) [@oweek-2019 p.31].
     - A "brace" guards the person in the middle so nobody gets hurt [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.6 (printed 40)].
     - It used to be a pile. Since 2017 the books describe a jumping circle instead [@oweek-2017 p.31].
-    - Nobody knows where it or its name came from. The word is in the Thresher by 1975, and in a Wiess notice by 1986 [@thresher-1975-12-01-ubangi] [@thresher-1986-09-12-ubangeed].
+    - We haven't found where it or its name came from yet. The word is in the Thresher by 1975, and in a Wiess notice by 1986 [@thresher-1975-12-01-ubangi] [@thresher-1986-09-12-ubangeed].
 
 ## What happens
 
@@ -27,7 +27,7 @@ From 1999 to 2016, every description is a pile: "a pile of gyrating Wiessmen and
 
 The 2017 book explains: now there's a "person of interest" in the middle of "a circle of jumping and yelling Wiessmen and one brace" [@oweek-2017 p.31]. The books since then repeat that, word for word [@oweek-2025 p.38]. The glossary never changed: "A unique Wiess celebration of life" [@oweek-2003 p.4] [@oweek-2024 p.25].
 
-## Where it came from (nobody knows)
+## Where it came from (still to be found)
 
 The college's own history lists the Ubangee and [the Dangle](retired/the-dangle.md) as "unorthodox customs" from the early years, with no date [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.3 (printed 37)]. The 1994 handbook called it "A unique Wiess mass celebration of life" [@handbook-1994].
 

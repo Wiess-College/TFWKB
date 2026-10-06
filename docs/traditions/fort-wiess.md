@@ -12,14 +12,14 @@ Before the wooden pig, there was a wooden fort.
 !!! abstract "TL;DR"
     - Fort Wiess was a wooden structure Wiess built for the Beer Bike parade in its last springs at Old Wiess, around 2001–02 [@thresher-2002-04-05 p.6] [@thresher-2001-04-06 p.29].
     - The 2002 Thresher photos show the inflatable "battle sow" flying over "the Wiess fort" [@thresher-2002-04-05 p.6].
-    - That's nearly all we know. No college website or O-Week book mentions it.
+    - That's most of what we've found so far. It isn't in the college websites or O-Week books we have.
     - It matters because it fixes a mix-up: the first wooden War Pig came in 2012, not 2002 [@campanile-2012 p.172].
 
-## What we know
+## What we've found
 
 On 5 April 2002, the Thresher printed Beer Bike photos: "Team Wiess's battle sow flying high in the sky," over the Wiess fort [@thresher-2002-04-05 p.6]. The pig was a balloon. The fort was on the ground.
 
-The college itself never wrote it down. The 2003 O-Week history jumps right past it [@oweek-2003 35-44 wiess.pdf p.3].
+We haven't found it in the college's own writing yet. The 2003 O-Week history doesn't mention it [@oweek-2003 35-44 wiess.pdf p.3].
 
 ## Why it matters
 

@@ -13,7 +13,8 @@ The readers are college students skimming on a phone between classes. Write for 
 - **Max ~3 sentences per paragraph.** White space is your friend.
 - **"You" is OK.** "If you've been to Beer Bike, you've heard the chant."
 - **Active voice.** "The Class of 2012 built a wooden pig," not "A wooden pig was built."
-- **Say the uncertain thing plainly.** "Nobody knows when this started." "The sources disagree: 1974 or 1975." Not "the provenance remains contested."
+- **Say the uncertain thing plainly.** "We haven't found when this started yet." "The sources disagree: 1974 or 1975." Not "the provenance remains contested."
+- **Give the record the benefit of the doubt.** What we've gathered is a thin slice of what exists. Rice's Woodson Research Center alone holds about 34 linear feet of Wiess papers. If we haven't found something, nobody failed, and nothing is lost, missing, forgotten or undocumented. We just haven't found it yet. Write "the earliest mention we've found so far is 2021", not "nobody wrote it down until 2021". Write "last seen in the 2017 book", not "it vanished after 2017". No hyperbole, no drama.
 - **No jargon without a translation.** The first time a Wiess or Rice word shows up on a page, explain it in a few plain words and link it:
   - **Magister**: the professor who lives next to the college with their family and looks out for it (used to be called "Master"). Link [Magisters](docs/people/masters-and-magisters.md).
   - **Commons**: the dining hall, Wiess's biggest room. Link [The Commons](docs/places/commons.md).
@@ -57,10 +58,6 @@ Headings can be playful ("Where the name came from", "The year it floated away",
     |---|---|---|
     | (the existing timeline table, UNCHANGED, indented 4 spaces) | ... | [P] |
 
-??? info "Arguments & loose ends"
-    **Where sources disagree.** (Variants & disputes, condensed.)
-
-    **Still don't know.** (Open questions, condensed, as a short list.)
 ```
 
 Notes on the shape:
@@ -69,7 +66,8 @@ Notes on the shape:
 - **Sections:** 2–5 of them, each 1–3 short paragraphs. If you need more, it probably belongs in the receipts.
 - **The receipts** box holds the timeline table *exactly as it was*: same rows, same citations, same evidence tags. Just indent it 4 spaces inside `??? info "The receipts: timeline"`. Leave a blank line after the `???` line and between paragraphs inside the box; every line inside must be indented 4 spaces.
 - Other long reference blocks (e.g. "As the college described it, by year", "The pigs, numbered") can also go into their own `??? info "The receipts: …"` box. Keep their content unchanged.
-- **Arguments & loose ends** condenses "Variants & disputes" and "Open questions". Condense the *wording*, not the *evidence*: every citation that supports a kept claim stays.
+- **Open questions don't live on the page.** They go in `issues/open-questions.tsv`, and from there into GitHub issues (see `issues/README.md`), where the Historian and anyone else can pick them up. The page's "Suggest a correction" and "Add your story" buttons point readers there.
+- **Disagreements** get one or two plain sentences in the prose where they matter ("The sources disagree: 1974 or 1975"), with both citations.
 - A "Sources" or "See also" list at the bottom can stay as it is.
 - Anchors: if other pages link to a heading (e.g. `old-wiess.md#photographs`), keep that heading text, or add `{ #photographs }` to the new heading so the link still works. Run the build to catch broken anchors.
 
@@ -82,7 +80,7 @@ Notes on the shape:
 5. **Front matter stays.** Don't change `title`, `status`, `last_reviewed`, `reviewed_by`, `search`, `hide`, or anything else between the `---` lines.
 6. **Big Bang spoiler rule.** Big Bang is a surprise for freshmen. Its page shows only a teaser ("It's coming.") and everything else stays inside the `??? danger "Spoilers ahead…"` box, and the page stays out of search (`search: exclude: true`). On *other* pages, never describe what happens at Big Bang; just link the page. Same goes for anything else a page marks as a spoiler.
 7. **Privacy.** Students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
-8. **Disagreements stay visible.** If sources disagree, say so (briefly in the prose, fully in "Arguments & loose ends"). Don't quietly pick a winner.
+8. **Disagreements stay visible.** If sources disagree, say so briefly in the prose, with both citations. Don't quietly pick a winner. The full back-and-forth goes in an issue.
 9. **Quotes from O-Week books are gold.** Keep the funniest, shortest ones (under ~25 words) with their citations. "Fell with style" beats any paraphrase. Keep quotes word-for-word, including odd spelling, and keep them short (see Rights).
 10. **Build must pass.** `mkdocs build --strict` with no warnings. Unknown citation keys fail the build.
 

@@ -20,7 +20,7 @@ The grown-ups, the offices, the Idiot, and the man on the sign. Start with the C
 
     ---
 
-    Start here. Who's who now, plus every Magister, RA and Coordinator on record.
+    Start here. Who's who now, plus every Magister, RA and Coordinator we've found so far.
 
 -   :material-school: **[Magisters](masters-and-magisters.md)**
 
@@ -32,7 +32,7 @@ The grown-ups, the offices, the Idiot, and the man on the sign. Start with the C
 
     ---
 
-    The grown-ups who live in the college. Featuring the legendary Dr. Bill.
+    The grown-ups who live in the college. Featuring Dr. Bill, RA for about thirty years.
 
 -   :material-crown: **[College Idiot & other offices](college-idiot.md)**
 
@@ -44,7 +44,7 @@ The grown-ups, the offices, the Idiot, and the man on the sign. Start with the C
 
     ---
 
-    Wiess has had a Historian on paper since 1991. Where did the history go?
+    Wiess has had a Historian on paper since 1991. Here's what we've found of their work.
 
 -   :material-account-tie: **[Harry Carothers Wiess](the-man.md)**
 

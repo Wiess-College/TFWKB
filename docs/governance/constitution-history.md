@@ -10,7 +10,7 @@ reviewed_by: unreviewed
 The Constitution is the college's rulebook. Here's how it changed, from a twelve-article document in 1993 to a sixteen-article monster in 2026.
 
 !!! abstract "TL;DR"
-    - Eight Constitutions survive: 1993, 2007, 2013, 2016, 2017, 2020, about early 2025, and 2026. So do the 1991 Rules and four sets of Bylaws [@gov-repo CHANGES.md].
+    - We hold eight Constitutions: 1993, 2007, 2013, 2016, 2017, 2020, about early 2025, and 2026. We also hold the 1991 Rules and four sets of Bylaws [@gov-repo CHANGES.md].
     - For 25 years it barely changed shape. Then, between 2017 and 2020, Cabinet and Court were rebuilt and "Master" became "Magister"[^magister] [@constitution-2020].
     - By about early 2025 the Bylaws had been folded in, and a Stance on Hate Speech (first announced in 2021) was Article XV [@constitution-hate-speech] [@thresher-2021-09-15].
     - The 23 February 2026 amendment added just two things: an Executive Cabinet and a rule for Election Representatives [@constitution-2026].
@@ -23,15 +23,15 @@ The **Constitution of 5 August 1993** has twelve articles. The Cabinet holds "th
 
 ## 2007 to 2017: tidying up
 
-The **2007** revision grows Cabinet from "fifteen" to "seventeen members", makes Cabinet attendance mandatory, and lets Cabinet recommend the Magister [@constitution-2007 Art. III §§4, 9; Art. II §3]. The Court's junior Assistant Justices get elected and get a vote [@constitution-2007 Art. IV §2 C]. Amendments now need two votes: Cabinet, then the College [@constitution-2007 Art. XII §5].
+The **2007** revision grows Cabinet from "fifteen" to "seventeen members", makes Cabinet attendance mandatory, and lets Cabinet recommend the Magister [@constitution-2007 Art. III §§4, 9; Art. II §3]. The Court's junior Assistant Justices get elected and get a vote [@constitution-2007 Art. IV §2 C]. Amendments now need two votes: Cabinet, then the College [@constitution-2007 Art. XII §5]. The stated sizes don't always match the lists: 1993 says "fifteen" but lists sixteen or seventeen seats, and 2007 says "seventeen" but lists eighteen [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4].
 
-**2013** adds an Academics and Career Chair, two-year Treasurer terms, and the words "First-Year Representatives" [@constitution-2013 Art. III §§3, 4 F, 4 K]. **2016** is the big one before 2026: college membership is set "by the Dean of Undergraduates", search committees choose the Magister and RAs, and Head Fellows appear in the Constitution for the first time [@constitution-2016 Art. I §2; Art. II §§3–4; Art. V §4]. **2017** changes exactly one sentence [@constitution-2017 Art. III §3].
+**2013** adds an Academics and Career Chair, two-year Treasurer terms, and the words "First-Year Representatives" [@constitution-2013 Art. III §§3, 4 F, 4 K]. (The repository notes date that switch to 2016, but the 2013 PDF already has it [@gov-repo CHANGES.md] [@constitution-2013 Art. III §§3, 4 J].) **2016** is the big one before 2026: college membership is set "by the Dean of Undergraduates", search committees choose the Magister and RAs, and Head Fellows appear in the Constitution for the first time [@constitution-2016 Art. I §2; Art. II §§3–4; Art. V §4]. **2017** changes exactly one sentence [@constitution-2017 Art. III §3]. Its date comes only from the filename; the "Last Amended" line still says 2016 [@constitution-2017].
 
 ## 2017 to 2020: the big rebuild
 
 The text of 12 February 2020 shows a new Cabinet: "17 voting members", with Diversity Chairs, Junior and Senior Representatives and an Assistant Treasurer. The Secretary becomes appointed and non-voting [@constitution-2020 Art. III §§12–13]. The Court becomes "eight members" [@constitution-2020 Art. IV §2]. "Master" is gone; it's "Magister" throughout [@constitution-2020] [@bylaws-2020].
 
-We don't know which amendment did which. We only have the before (2017) and the after (2020).
+We haven't found the separate amendments yet. So far we have the before (2017) and the after (2020).
 
 ## 2021 to 2026: hate speech and the mega-document
 
@@ -88,7 +88,7 @@ The 2026 text is that one word for word, plus an Executive Cabinet and a ban on 
     - Treasurers "run for a 2-year term", elected in alternating years, the second-year one "head treasurer… responsible for training and mentoring the apprentice treasurer" [@constitution-2013 Art. III §4 F].
     - The External VP's job is rewritten around alumni, other colleges and the neighbors [@constitution-2013 Art. III §4 C].
     - Every Cabinet member must "update and pass on all relevant documents to their successor" [@constitution-2013 Art. III §10].
-    - "First-Year Representatives" replaces "Freshman Representatives", though "freshmen service points" and "freshmen, sophomores, juniors, or seniors" survive elsewhere [@constitution-2013 Art. III §§3, 4 I–J; Art. IV §2 C].
+    - "First-Year Representatives" replaces "Freshman Representatives", though "freshmen service points" and "freshmen, sophomores, juniors, or seniors" still appear elsewhere [@constitution-2013 Art. III §§3, 4 I–J; Art. IV §2 C].
 
 ??? info "The details: 2013 → 2016"
     Signed by Margaret Hodges Roddy and Michael John Passalacqua [@constitution-2016].
@@ -116,7 +116,7 @@ The 2026 text is that one word for word, plus an Executive Cabinet and a ban on 
     - **Committees and elections.** Eight standing committees; Election Representatives run elections "by Preferential Voting" [@constitution-2020 Arts. VI §2, VII §1]. Petitions need 5%, not 10% [@constitution-2020 Art. XI §1]. Head Fellows may be seniors [@constitution-2020 Art. V §4].
     - **Bylaws.** A list of banned campaign methods, a confidential intent-to-run form screened by the Magisters with Student Judicial Programs, a written-out ranked ballot, $50 and $100 spending thresholds, the President's Endowment, gender-neutral Court abstracts, Head Fellows (with the A-Team) choosing O-Week teams; the 2016 Executive Council article is gone [@bylaws-2020 Arts. I, IV, V, VIII].
 
-    Which amendment did what is unknown. The June 2019 O-Week book already lists Diversity Chairs and a Senior Rep [@oweek-2019 pp.23–24], and the October 2020 Cabinet page reads like this text [@teamwiess-cabinet-2020].
+    We haven't found which amendment did what yet. The June 2019 O-Week book already lists Diversity Chairs and a Senior Rep [@oweek-2019 pp.23–24], and the October 2020 Cabinet page reads like this text [@teamwiess-cabinet-2020].
 
 ??? info "The details: 2020 → c. early 2025"
     **The 2021 report.** The clause followed students being reported to Wiess Court for casual use of a racial slur. President Varun Kukunoor said it "will have writing representation from the Wiess Cabinet, Court and A-Team". Dean of Undergraduates Bridget Gorman said any definition had to match University Policy 830 [@thresher-2021-09-15]. Kukunoor is President on the roster captured nine days later [@teamwiess-cabinet-2021]. The 2020 text has no such clause [@constitution-2020].
@@ -127,7 +127,7 @@ The 2026 text is that one word for word, plus an Executive Cabinet and a ban on 
     - Versus 2020: Apprentice (not Assistant) Treasurer, two Secretaries, quorum "(9)", Diversity Chairs also "Advocate for underrepresented groups", and Cabinet can "issue an official statement of dissent by a two-thirds vote" against a Magister veto [@constitution-hate-speech Arts. IV §6; V §1 (11–12); VI §4 (2), §5 (8)].
     - Article VII lists Housing, Election, Merchandise, College Night, Webmaster, Chalkboard and Birthday Representatives [@constitution-hate-speech Art. VII §1].
     - The Chief Justice is elected by the College; Associate Justices drop to six [@constitution-hate-speech Art. VIII §2]. Three Head Fellows are chosen by the previous year's Head Fellows [@constitution-hate-speech Art. IX §4].
-    - **Article XV** defines hate speech "In accordance with Rice University Policy 830" as "any act of harassment that incites imminent criminal activity or consists of specific threats of violence targeted against a person because of that person's membership to a protected class". Violations are "enforceable by the Wiess College Court, regardless of intent", handled "in partnership with the Diversity Facilitators", may end in "determinations of restorative justice", and bad-faith reports go to Student Judicial Programs [@constitution-hate-speech Art. XV §§2–7]. Whether this is the 2021–22 wording can't be told.
+    - **Article XV** defines hate speech "In accordance with Rice University Policy 830" as "any act of harassment that incites imminent criminal activity or consists of specific threats of violence targeted against a person because of that person's membership to a protected class". Violations are "enforceable by the Wiess College Court, regardless of intent", handled "in partnership with the Diversity Facilitators", may end in "determinations of restorative justice", and bad-faith reports go to Student Judicial Programs [@constitution-hate-speech Art. XV §§2–7]. We haven't found the 2021–22 wording yet to compare.
 
 ??? info "The details: c. early 2025 → 2026"
     Captured from wiess.rice.edu on 12 March 2026: the c. 2025 text word for word, plus Article IV §14 (an Executive Cabinet of the President, Chief Justice, both VPs, Social VPs, "Head Treasurer" and Apprentice Treasurer, meeting at least monthly), Article XI §14 (Election Representatives can't run in an election they run), and the "Last Amended" line [@constitution-2026 Arts. IV §14, XI §14] [@constitution-hate-speech]. "Head Treasurer" appears nowhere else; the rest says "Treasurer" [@constitution-2026 Art. V §1 (10)].
@@ -144,28 +144,6 @@ The 2026 text is that one word for word, plus an Executive Cabinet and a ban on 
     "I know one or two other colleges have clauses against hate speech, and that's what we look to emulate."—President Varun Kukunoor, 2021 [@thresher-2021-09-15]
 
     "Wiess College both encourages and expects all of its members to practice active and ongoing respect for all of the identities and experiences represented within our community." [@constitution-2026 Art. XV §1]
-
-## Arguments & loose ends { #variants-disputes }
-
-??? info "Where sources disagree"
-    - **Was 1993 a rewrite?** The repository notes say the 1993 text "already calls itself a rewrite" [@gov-repo CHANGES.md]. But the quoted words are a *rule about future* rewrites, not a statement about itself [@constitution-1993 Art. XII §6]. "1993 was a rewrite" is a fair guess, not a sourced fact.
-    - **The 2010 Bylaws' date.** The PDF is undated, nearly the 1993 text, and first captured 26 August 2010 [@bylaws-2010] [@constitution-2007]. It may just be the 1993 Bylaws, unamended until 2016.
-    - **The 2017 date.** Only the filename says 29 March 2017; the "Last Amended" line still says 2016 [@constitution-2017]. The vote could be earlier.
-    - **Cabinet sizes don't add up.** 1993 says "fifteen" but lists sixteen or seventeen seats [@constitution-1993 Art. III §4]; 2007 says "seventeen" and lists eighteen [@constitution-2007 Art. III §4]; 2013's "nineteen" matches [@constitution-2013 Art. III §4]; 2016's list has twenty with the SA Senator [@constitution-2016 Art. III §4]. The 1998 site said "twelve elected and three appointed offices" [@riceinfo-cabinet-1998]. "17 voting members" in 2020, 2025 and 2026 matches exactly [@constitution-2020 Art. III §12] [@constitution-2026 Art. V §1]. Quote the numbers as what the documents *say*.
-    - **"First-Year" vs "Freshman".** The repository dates the switch to 2016 [@gov-repo CHANGES.md]; the 2013 PDF already says "First-Year Representatives" [@constitution-2013 Art. III §§3, 4 J]. 2013 wins.
-    - **Head Fellows' first appearance.** Constitution 2016 [@constitution-2016 Art. V §4]; Bylaws 1993 [@constitution-1993 Bylaws Art. V §7]; O-Week glossary 2010 [@oweek-2010 p.90].
-    - **When "Magister" arrived.** Older notes said 2026 [@gov-repo CHANGES.md]. The 2020 texts already say "Magister" throughout [@constitution-2020] [@bylaws-2020]; 2017 still says "Master" [@constitution-2017]. So: between March 2017 and February 2020. The June 2019 O-Week book already calls the Schaefers "Magisters" [@oweek-2019]. The repository's CHANGES.md has been fixed.
-    - **Dating the undated "Complete Guiding Documents".** It isn't the 2026 text: it lacks the two 2026 sections and the "Last Amended" line, and is otherwise identical [@constitution-2026]. Its PDF producer is "Skia/PDF m134 Google Docs Renderer"; the 2026 PDF says m147 and 2017 Google exports say m58 [@constitution-2026] [@constitution-2016]. Counting back thirteen four-week release cycles puts m134 at about January–March 2025. High confidence it's between 2020 and February 2026; medium on early 2025. The repository tags it `v2025-spring`, estimated 15 February 2025 [@gov-repo v2025-spring]. The "fall of 2020" review clause is already in the 2020 text, so it doesn't date this one [@constitution-2020 Art. XI §6].
-    - **Are the Bylaws really gone?** The merged form is already there in early 2025, so the merger happened between February 2020 and early 2025 [@bylaws-2020] [@constitution-hate-speech] [@gov-repo v2025-spring]. But 2026 still mentions "the procedure set forth in the College Bylaws" and amending "the Constitution, Bylaws, or Rules" [@constitution-2026 Art. IV §9; Art. XI §1; Art. XVI §1]. Leftover words, or an unpublished Bylaws? Open.
-    - **Missing committee numbers.** Article X promises "7 Standing Committees" but lists items 1, 4, 5, 6 and 7 in both 2025 and 2026 [@constitution-hate-speech Art. X §1] [@constitution-2026 Art. X §1]. In 2020, slots 2 and 3 were Representatives and Social [@constitution-2020 Art. VI §2]. The Social Committee is probably one of them [@constitution-2026 Art. V §1 (4)].
-
-??? info "Still don't know"
-    - What did the pre-1993 constitutions say? Woodson UA 0079 [@woodson-ua0079].
-    - Which amendments made the 1993–2007 and 2007–2013 changes? Cabinet minutes would say; none are captured (see [Cabinet](cabinet.md#cabinet-minutes-as-a-source)).
-    - Which amendments, 2017–2020, rebuilt Cabinet and Court and brought in "Magister"? [@constitution-2020]
-    - The exact 2021 hate-speech wording and vote date. Ask the 2021–22 Parliamentarian or Secretary; the Notion "Wiess Database" reportedly has the Thresher clipping but not the text [@gov-repo CHANGES.md]. The Google Drive links on the 2020 and 2023 Cabinet pages are another lead [@teamwiess-cabinet-2020].
-    - When were the Bylaws merged and the Chief Justice made directly elected? Between February 2020 and early 2025 [@bylaws-2020] [@constitution-hate-speech].
-    - Who were Margaret Hodges Roddy and Michael John Passalacqua in January 2016? The document gives names only [@constitution-2016]. The 2020 texts are signed by that year's President and Chief Justice, which hints at the same pair of offices [@constitution-2020] [@oweek-2019 pp.22–23].
 
 [^magister]: Called "Master" in the governing documents through the 2017 text; "Magister" in the Constitution and Bylaws of 12 February 2020 and every later text [@constitution-2017] [@constitution-2020]. This site uses "Magister" for every period. Quotations keep their original wording.
 

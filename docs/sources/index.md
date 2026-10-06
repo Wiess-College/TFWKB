@@ -12,7 +12,7 @@ This site holds the short version, not the evidence. The evidence lives in place
 
 ## What's here
 
-- **[Annotated bibliography](bibliography.md)**: every source the pages cite, what it is, where it lives, what it's good for, and its gaps. Built automatically from `sources/bibliography/*.yaml`; the keys there are the keys the pages cite.
+- **[Annotated bibliography](bibliography.md)**: every source the pages cite, what it is, where it lives, what it's good for, and its limits. Built automatically from `sources/bibliography/*.yaml`; the keys there are the keys the pages cite.
 - **[Where to look](where-to-look.md)**: which archive holds what, and the tricks that worked.
 - **[Evidence classes](evidence-classes.md)**: what the P / R / T tags mean.
 - **[Search log](search-log.md)**: what's been searched, where, what turned up, and the leads not yet followed.

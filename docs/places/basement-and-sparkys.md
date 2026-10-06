@@ -19,7 +19,7 @@ Sparky's is Wiess's game-and-hangout room. It has lived in two places, and its n
 
 Sparky was a decoration built for [Night of Decadence](../traditions/night-of-decadence.md), and not a polite one. At the 1981 Texas A&M Homecoming game, the Rice section got complaints about "the display of a phallic symbol" [@thresher-1981-10-30-a-and-m-game].
 
-A Thresher letter that December called it "the 'Sparky' incident." The administration threatened "to close Wiess College" over it [@thresher-1981-12-04-sparky-letter]. The college survived. The name stuck.
+A Thresher letter that December called it "the 'Sparky' incident." The administration threatened "to close Wiess College" over it [@thresher-1981-12-04-sparky-letter]. The college survived. The name stuck. The 1994 handbook dates Sparky to around 1980 [@handbook-1994]; the earliest Thresher mention we've found is from the A&M game in October 1981 [@thresher-1981-10-30-a-and-m-game].
 
 ## The Old Wiess basement
 
@@ -31,7 +31,7 @@ By 1999 it had a pool table and ping-pong too. The college website said it was c
 
 The New Wiess basement is "A hard-to-get to area under the servery used for storage" (2003) [@oweek-2003 p.3]. Later it was "under the Commons," used "for storage and shirt screen making" [@oweek-2014 p.102].
 
-In 2009, Cabinet ([Wiess's student government](../governance/cabinet.md)) looked at a storage "War room" full of "various couches of questionable hygiene." The wish list: "BOOTH SEATING! POKER TABLES! TRACK LIGHTING!" [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]. A year later the name came back, for "the newly renovated fourth floor hangout space equipped with mood lighting and hardwood floors" [@oweek-2010 p.91]. That's very probably the same room, but no source says so outright.
+In 2009, Cabinet ([Wiess's student government](../governance/cabinet.md)) looked at a storage "War room" full of "various couches of questionable hygiene." The wish list: "BOOTH SEATING! POKER TABLES! TRACK LIGHTING!" [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]. A year later the name came back, for "the newly renovated fourth floor hangout space equipped with mood lighting and hardwood floors" [@oweek-2010 p.91]. That's very probably the same room, but the sources we have don't say so outright.
 
 "Sparky's used to be a Wiess storage closet," the books say, with goldenrod paint and a big Wiess crest [@oweek-2014 p.46] [@oweek-2019 p.15]. Next door is the Movie Room (the "TV room" in the early years), which took over FilmFest [@oweek-2003 p.4] [@oweek-2014 p.103]. More shared rooms: [Rooms and spaces of New Wiess](rooms-and-spaces.md).
 
@@ -39,7 +39,7 @@ In 2009, Cabinet ([Wiess's student government](../governance/cabinet.md)) looked
 
 Wiess has kept gear for two crafts. The Bylaws listed "dark room equipment" from at least 1999 to 2011 [@wb 19990220014631 http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html] [@bylaws-2010 Art. III §2]. The RA then, Dr. Bill Wilson, was known for "taking pictures of almost every Wiess event" [@riceinfo-associates].
 
-By 2020 the darkroom gear is gone from the Bylaws and "shirt-screening equipment" is in [@bylaws-2020 Art. III §2]. Nobody says where the darkroom was. The shirt printing and the "YEAH WIESS" rep are on [Beer Bike](../traditions/beer-bike.md#screen-printing-yeah-wiess).
+By 2020 the darkroom gear is gone from the Bylaws and "shirt-screening equipment" is in [@bylaws-2020 Art. III §2]. We haven't found where the darkroom was yet. The shirt printing and the "YEAH WIESS" rep are on [Beer Bike](../traditions/beer-bike.md#screen-printing-yeah-wiess).
 
 ??? info "The receipts: timeline"
 
@@ -77,26 +77,5 @@ By 2020 the darkroom gear is gone from the Bylaws and "shirt-screening equipment
     "**Sparky's** Nestled in a corner on the fourth floor, this goldenrod room emblazoned with a massive Wiess crest features an air hockey table, a mini basketball game system, and some seating." — O-Week Book 2019 [@oweek-2019 p.15]
 
     The glossary entries year by year: [Basement](../traditions/glossary-series.md#basement), [Sparky's](../traditions/glossary-series.md#sparkys), [TV room / Movie Room](../traditions/glossary-series.md#tv-room).
-
-??? info "Arguments & loose ends"
-
-    **Where sources disagree.**
-
-    - **Where the name went, 1999–2010.** "At least in the distant past" in 1999 [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html]; then nothing until 2010 [@oweek-2010 p.91]. In between: a "TV/Rec Room" [@oweek-2006 p.15], a "Game Room" [@wb 20080709214915 http://teamwiess.com/index.php?r=otherrooms] and a "War room" [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]. Remembered or deliberately revived? The [NOD page](../traditions/night-of-decadence.md) asks the same.
-    - **Was the "War room" Sparky's?** Likely, not proven. A storage room with a pool table and dead Skee-Ball in 2009 [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]; a "newly renovated" room with "mood lighting" in 2010 [@oweek-2010 p.91]; "poker setups" and "used to be a Wiess storage closet" by 2014 [@oweek-2014 p.103] [@oweek-2014 p.46]. The 2009 "Game Room… being used for storage" may be a third name for it [@wb 20090827015957 http://teamwiess.com/rooms.php]. No source gives its floor.
-    - **One room or two?** "4: Movie Room/Sparky's" on the 2010 map [@oweek-2010 p.14]; two rooms from 2015 [@oweek-2015 p.19]. The 2014 text already has them as neighbours [@oweek-2014 p.46].
-    - **Under the servery or the Commons?** "Servery" 2003–2011, "Commons" 2014–2017 [@oweek-2011 p.92] [@oweek-2014 p.102]. They're one complex [@rice-facilities-first-100-years], so maybe the same space.
-    - **The pool table.** The one that reached New Wiess was to move to the Upper Commons in 2009 [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php]; the 2014 glossary has one there [@oweek-2014 p.103]. Is it the Old Wiess table? Unknown.
-    - **Sparky's date.** The 1994 handbook (George Hall, College Idiot 1979–82) puts Sparky around 1980 [@handbook-1994]; the Thresher reports it at the A&M game by 30 October 1981 [@thresher-1981-10-30-a-and-m-game] [@thresher-1981-12-04-sparky-letter].
-
-    **Still don't know.**
-
-    - Where the darkroom was, in either building, and when it closed.
-    - Which shirt-screen designs are in the basement, and from which years.
-    - Was the 2009 War room refit approved at Summit 2009? What did it cost? Why "War room"? (Maybe the [War Pig](../traditions/warpig.md); no source says.)
-    - Did the game room replace the 1957 basement "library" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]?
-    - When was the Old Wiess game room "repainted and rededcorated in black and gold" [@handbook-1994]?
-    - Photos of either Sparky's. None found; Delany's 2002 Old Wiess captions never mention the basement [@delany-about-wiess-2002].
-    - "Slowly transformed in the past five years" is a 2014 sentence reprinted through 2025 [@oweek-2014 p.46] [@oweek-2025 p.11]. It dates the change to about 2009–14.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

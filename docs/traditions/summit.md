@@ -13,7 +13,7 @@ Every fall, Wiess leaves campus to talk about the college, make plans, and get s
     - Summit is Wiess's early-fall retreat: a day (or weekend) away to discuss the college, plan the year, and bond [@oweek-2003 35-44 wiess.pdf p.8] [@oweek-2015 p.23].
     - It first shows up in February 1999, as a job of the Internal Vice President [@riceinfo-cabinet]. The 2026 Constitution still gives it to that officer [@constitution-2026 p.6].
     - It moved from "the beach or in the hill country" to a boat (by 2007) to Galveston (2021) [@oweek-2003 35-44 wiess.pdf p.8] [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes] [@oweek-2021 p.19].
-    - Nobody knows when the first Summit happened.
+    - We haven't found the first Summit yet.
 
 ## What it's for
 
