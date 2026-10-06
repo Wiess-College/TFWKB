@@ -4,9 +4,11 @@ Team Family Knowledgebase holds condensed knowledge, not copies of the evidence.
 
 ## The short forms
 
-Write citations inline, right after the claim. The site build turns them into links.
+Write citations inline, right after the claim. The site build turns each one into a small numbered footnote, Wikipedia-style: a superscript number in the text that links to a **References** list at the bottom of the page. Citing the same source and page again reuses its number. Hovering a number shows the source.
 
-| You write | It means | It becomes |
+Thresher pages from the Portal are dated automatically when their ark id is in `sources/portal-issue-dates.tsv`. When you cite a new Thresher issue, add a line there (ark id, tab, `YYYY-MM-DD`).
+
+| You write | It means | The footnote links to |
 |---|---|---|
 | `[@oweek-2006 p.84]` | a source in the [bibliography](../sources/bibliography.md), with a locator | a link to the archived PDF, opened at page 84 |
 | `[@riceinfo-beerbike]` | a bibliography source, no locator | a link to the archived page |

@@ -256,3 +256,52 @@ a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outli
 .md-typeset .tfw-path { border-top: 4px solid var(--fp-gold); padding-top: 0.2rem; }
 .md-typeset .tfw-path h3 { margin-top: 0.6em; }
 .md-typeset .tfw-path .md-button { margin: 0.2rem 0.3rem 0.2rem 0; }
+
+/* Wikipedia-style citations (hooks/citations.py: footnote_citations) */
+.md-typeset sup.cite-ref { font-size: 0.68em; line-height: 0; white-space: nowrap; }
+.md-typeset sup.cite-ref a { color: var(--md-default-fg-color--light); text-decoration: none; }
+.md-typeset sup.cite-ref a:hover { color: var(--md-accent-fg-color); }
+.md-typeset sup.cite-unknown a { color: #b00020; }
+.md-typeset ol.references { font-size: 0.78rem; line-height: 1.45; color: var(--md-default-fg-color--light); }
+.md-typeset ol.references li { margin-bottom: 0.2em; }
+.md-typeset ol.references li:target { background: var(--md-accent-fg-color--transparent); }
+.md-typeset ol.references a.cite-back { font-weight: 700; text-decoration: none; margin-right: 0.15em; }
+.md-typeset sup.cite-ref:target a { background: var(--md-accent-fg-color--transparent); }
+
+/* Timeline bars (hooks/citations.py: render_timeline) */
+.md-typeset .tl { margin: 1.2em 0 1.6em; font-size: 0.72rem; --tl-bar: var(--md-accent-fg-color); --tl-ink: var(--md-default-fg-color--light); }
+.md-typeset .tl-row { display: grid; grid-template-columns: 13rem 1fr; align-items: center; min-height: 1.7em; }
+.md-typeset .tl-label { padding-right: 0.8em; line-height: 1.25; }
+.md-typeset .tl-when { color: var(--tl-ink); font-size: 0.9em; white-space: nowrap; }
+.md-typeset .tl-track { position: relative; height: 1.7em; margin: 0 2.4em 0 2.4em; }
+.md-typeset .tl-axis .tl-track { height: 1.4em; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+.md-typeset .tl-tick { position: absolute; bottom: 0.15em; transform: translateX(-50%); color: var(--tl-ink); font-variant-numeric: tabular-nums; }
+.md-typeset .tl-grid { position: absolute; top: 0; bottom: 0; border-left: 1px solid var(--md-default-fg-color--lightest); }
+.md-typeset .tl-bar { position: absolute; top: 50%; height: 0.75em; transform: translateY(-50%); background: var(--tl-bar); border-radius: 4px; min-width: 4px; }
+.md-typeset .tl-fade-out { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+.md-typeset .tl-fade-in { border-top-left-radius: 0; border-bottom-left-radius: 0; }
+.md-typeset .tl-fade-out::after, .md-typeset .tl-fade-in::before { content: ""; position: absolute; top: 0; bottom: 0; width: 2.2em; }
+.md-typeset .tl-fade-out::after { left: 100%; background: linear-gradient(to right, var(--tl-bar), transparent); }
+.md-typeset .tl-fade-in::before { right: 100%; background: linear-gradient(to left, var(--tl-bar), transparent); }
+.md-typeset .tl-open { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+.md-typeset .tl-open::after { content: ""; position: absolute; left: 100%; top: 50%; transform: translateY(-50%); border: 0.55em solid transparent; border-left-color: var(--tl-bar); border-right: 0; }
+.md-typeset .tl-mark { position: absolute; top: 50%; width: 0.6em; height: 0.6em; transform: translate(-50%, -50%) rotate(45deg); background: var(--md-default-fg-color); }
+.md-typeset .tl-bar:hover, .md-typeset .tl-mark:hover { outline: 2px solid var(--md-default-fg-color--light); outline-offset: 1px; }
+.md-typeset .tl-key { margin-top: 0.6em; color: var(--tl-ink); }
+.md-typeset .tl-key span { display: inline-block; width: 1.6em; height: 0.6em; border-radius: 3px; margin: 0 0.3em 0 0.9em; vertical-align: middle; }
+.md-typeset .tl-key-solid { background: var(--tl-bar); }
+.md-typeset .tl-key-fade { background: linear-gradient(to right, var(--tl-bar), transparent); border-radius: 0 !important; }
+.md-typeset .tl-key-open { background: var(--tl-bar); border-top-right-radius: 0 !important; border-bottom-right-radius: 0 !important; }
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .tl-row { grid-template-columns: 1fr; }
+  .md-typeset .tl-axis .tl-label { display: none; }
+  .md-typeset .tl-row:not(.tl-axis) .tl-label { padding-top: 0.4em; }
+  .md-typeset .tl-tick.tl-minor { display: none; }
+  .md-typeset .tl-key span { margin-left: 0; }
+  .md-typeset .tl-key { display: grid; grid-template-columns: auto 1fr; gap: 0.2em 0.4em; align-items: center; }
+}
+
+/* Key-facts strip under the lead */
+.md-typeset .facts > ul { display: flex; flex-wrap: wrap; gap: 0.3em 1.6em; list-style: none; margin: 0.4em 0 1.4em; padding: 0.55em 0; border-top: 1px solid var(--md-default-fg-color--lightest); border-bottom: 1px solid var(--md-default-fg-color--lightest); font-size: 0.74rem; }
+.md-typeset .facts > ul > li { margin: 0; }
+.md-typeset .facts > ul > li strong { display: block; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.04em; color: var(--md-default-fg-color--light); font-weight: 600; }

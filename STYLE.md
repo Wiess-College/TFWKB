@@ -2,83 +2,127 @@
 
 How to write and rewrite pages for Team Family Knowledgebase. Read this before you touch a page under `docs/`.
 
-The readers are college students skimming on a phone between classes. Write for them. The receipts are still there for the historians, folded up underneath.
+The readers are mostly college students, often on a phone. Give them the plain facts first and short paragraphs. The timeline and sources are underneath for anyone who wants to check.
 
 ---
 
 ## 1. Voice
 
-- **Official-ish, but playful.** Think "a good O-Week book," not "a museum label" and not "a meme page." A joke is fine when the facts are funny on their own (they usually are). Don't make jokes *at* people.
-- **8th-grade reading level.** Short words. Short sentences. Most sentences under 20 words.
-- **Max ~3 sentences per paragraph.** White space is your friend.
-- **"You" is OK.** "If you've been to Beer Bike, you've heard the chant."
-- **Active voice.** "The Class of 2012 built a wooden pig," not "A wooden pig was built."
-- **Say the uncertain thing plainly.** "We haven't found when this started yet." "The sources disagree: 1974 or 1975." Not "the provenance remains contested."
-- **Give the record the benefit of the doubt.** What we've gathered is a thin slice of what exists. Rice's Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files. If we haven't found something, nobody failed, and nothing is lost, missing, forgotten or undocumented. We just haven't found it yet. Write "the earliest mention we've found so far is 2021", not "nobody wrote it down until 2021". Write "last seen in the 2017 book", not "it vanished after 2017". No hyperbole, no drama.
-- **No jargon without a translation.** The first time a Wiess or Rice word shows up on a page, explain it in a few plain words and link it:
-  - **Magister**: the professor who lives next to the college with their family and looks out for it (used to be called "Master"). Link [Magisters](docs/people/magisters.md).
-  - **Commons**: the dining hall, Wiess's biggest room. Link [The Commons](docs/places/commons.md).
-  - **jack / jacking**: a prank, usually on another college. Explain it inline.
-  - **O-Week**: Orientation Week, when new students arrive. Link [O-Week](docs/traditions/o-week.md).
-  - **Cabinet**: Wiess's student government. Link [Cabinet](docs/governance/cabinet.md).
-  - **RA / Resident Associate**: a grown-up (often faculty or staff) who lives in the college. Link [Resident Associates](docs/people/resident-associates.md).
-  - Glossary words in general: link [How we described ourselves](docs/traditions/glossary-series.md).
-- **Words to avoid:** "corpus", "attested", "provenance", "extant", "the record shows", "it should be noted", "notably". Say "the sources", "first shows up", "where it came from", "still around".
+Write like a good reference work about a fun place: plain, exact, and calm. The fun comes from the facts and
+from the sources' own words, not from our sentences.
+
+- **Neutral narrator.** Third person. No "you", "we'll", exclamation marks, jokes or winks in our own sentences.
+  Present tense for things that still happen ("Cabinet meets on Wednesdays"), past tense for things that ended
+  or were last seen long ago ("JamFest was…").
+- **Quote the O-Week books; don't imitate them.** They're written like a hype video. That voice belongs in
+  quotation marks, mostly under "Historic references". In the body, say what happened in flat terms:
+  "Freshmen are drawn at random," not "it's a little bit complicated, but you'll figure it out."
+- **Only details that define the thing.** Ask: would a Wiessman from another decade recognise the thing from
+  this sentence? "A day of live bands in the Acabowl" passes. "Free", "food", "towels on the grass" don't.
+  Side details can live in the timeline.
+- **Short and concrete.** One idea per sentence, most under 20 words. Paragraphs of one to three sentences.
+  Specific nouns and dates ("16 April 1993", "12 to 14 acts"); no filler ("over the years", "it's worth noting",
+  "a variety of").
+- **Explain by linking, not by asides.** Link the first mention of a Wiess word to its page. Avoid parenthetical
+  glosses like "(a grown-up who lives in the college)"; if a gloss is needed, use a short noun phrase:
+  "Dr. Bill Wilson, a longtime resident associate".
+- **Say uncertainty once, plainly.** "The earliest mention found so far is 1987." Don't repeat it in every
+  paragraph, and don't narrate the research ("we dug through…").
+- **Give the record the benefit of the doubt.** What we've gathered is a small part of what exists. Rice's
+  Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files. If we
+  haven't found something, nothing is lost, missing, forgotten or undocumented: it hasn't been found yet.
+- **Disagreements in one sentence.** "The sources disagree: the 2005 site says 1974, the college website 1975."
+  Both citations. Don't pick a winner quietly.
+- **Words to avoid:** "corpus", "attested", "provenance", "extant", "the record shows", "notably", "legendary",
+  "beloved", "iconic", "epic", "super", "vibes", "sadly", "survive(s)" (about documents).
+- **Glossary of house terms** (link on first use): Magister → [Magisters](docs/people/magisters.md);
+  Commons → [The Commons](docs/places/commons.md); O-Week → [O-Week](docs/traditions/o-week.md);
+  Cabinet → [Cabinet](docs/governance/cabinet.md); resident associate (RA) →
+  [Resident Associates](docs/people/associates.md); jack → explain in a few words or link
+  [The Housing Jack](docs/traditions/housing-jack.md).
 
 ## 2. Page shape
 
-Every Record page (traditions, places, people, governance, changes) uses this shape, top to bottom.
+Every page about something (a tradition, place, office, role) uses this shape, top to bottom. The models are
+`docs/traditions/jamfest.md` and `docs/governance/cabinet.md`.
 
 ```markdown
 ---
-(front matter: KEEP EXACTLY AS IS — title, status, last_reviewed, reviewed_by, search, hide…)
+(front matter: keep as is)
 ---
 
 # Page title
 
-**One clear description, in current terms.** One or two plain sentences that say what the thing is today,
-or what it was if it has ended: "Cabinet is Wiess's student government." "JamFest was Wiess's spring music
-festival in the Acabowl." "The Acabowl is the lawn in the middle of Wiess." Cite it. This comes first,
-before any joke, hook or history.
+One or two plain sentences saying what it is now, or what it was. Cite them.
 
-!!! abstract "TL;DR"
-    - 2–4 bullets. The short version.
-    - Each bullet is one fact, with its citation [@key].
-    - If someone reads only this box, they should still be right.
+<div class="facts" markdown>
 
-## A fun, plain heading
+- **Held** Spring, usually a Friday in mid-April
+- **Place** The Acabowl
+- **First found** March 1987
+- **Last found** April 2011
 
-Two to five short sections. Plain words. Each fact keeps its [@citation].
-Order: **how it works now** (or how it worked, for something that ended) first, then **how it got this
-way**: the history and changes over time. Readers want the present before the past.
-Headings can be playful ("Where the name came from", "The year it floated away",
-"Why it stopped") — but they should still say what the section is about.
+</div>
+
+## How it works            (or "How it worked")
+
+The present first: who, what, when, where, how. Two to four short paragraphs.
+
+## History                 (or "How it has changed")
+
+The past second, oldest to newest. A timeline chart helps when the thing had phases:
+
+```timeline
+from: 1985
+to: 2023
+Talent show in the Commons: ?1987-1992
+Concert in the Acabowl: 1993-2001
+Short evening show: 2010-2011?
+* Two stages, 14 acts: 2005
+```
+
+Bold run-in labels for eras are fine: **Talent show, 1987–1992.** …
 
 <!-- GALLERY:key -->
-...photos stay visible, outside any collapsed box...
+...photos stay visible, untouched...
 <!-- /GALLERY:key -->
 
-??? info "The receipts: timeline"
-    | When | What | Evidence |
-    |---|---|---|
-    | (the existing timeline table, UNCHANGED, indented 4 spaces) | ... | [P] |
+## Timeline
 
+| When | What | Evidence |
+|---|---|---|
+| 1987-03-27 | … [@source] | [P] |
+
+## Historic references
+
+!!! quote "O-Week book, 2003"
+    "The source's own words, short." [@source]
 ```
 
 Notes on the shape:
 
-- **TL;DR** is the `!!! abstract "TL;DR"` admonition (it renders as a gold box). 2–4 bullets. No more.
-- **Sections:** 2–5 of them, each 1–3 short paragraphs. If you need more, it probably belongs in the receipts.
-- **The receipts** box holds the timeline table *exactly as it was*: same rows, same citations, same evidence tags. Just indent it 4 spaces inside `??? info "The receipts: timeline"`. Leave a blank line after the `???` line and between paragraphs inside the box; every line inside must be indented 4 spaces.
-- Other long reference blocks (e.g. "As the college described it, by year", "The pigs, numbered") can also go into their own `??? info "The receipts: …"` box. Keep their content unchanged.
-- **Open questions don't live on the page.** They go in `issues/open-questions.tsv`, and from there into GitHub issues (see `issues/README.md`), where the Historian and anyone else can pick them up. The page's "Suggest a correction" and "Add your story" buttons point readers there.
-- **Disagreements** get one or two plain sentences in the prose where they matter ("The sources disagree: 1974 or 1975"), with both citations.
-- A "Sources" or "See also" list at the bottom can stay as it is.
-- Anchors: if other pages link to a heading (e.g. `old-wiess.md#photographs`), keep that heading text, or add `{ #photographs }` to the new heading so the link still works. Run the build to catch broken anchors.
+- **Key facts strip:** three to six short facts under the lead, no citations needed if the body cites them.
+  Pick from: Held / Meets, Place, Run by / Led by, Members, First found, Last found, Status, Followed by.
+- **Timeline chart** (a fenced `timeline` block): one row per phase, office or version. `1993-2001` is a solid
+  bar for what the sources show; a leading `?` (`?1987-1992`) adds a fade before the first mention found, a
+  trailing `?` (`2010-2011?`) a fade after the last; something still going ends in an arrow: write `2012-now`, `2012-current` or just `2012-`; `* Label: 2005` is a single
+  marker. Keep the dates exactly as the timeline table and sources give them.
+- **No TL;DR box.** The lead and the key facts do that job.
+- **Citations** are written inline as `[@key]` and render as numbered footnotes with a References list at the
+  bottom (built automatically).
+- **Timeline** is visible, at the bottom, with its evidence tags. Long pages may collapse it with
+  `??? info "Timeline"`.
+- **Historic references** holds the best two to five quotes, each in a `!!! quote "Source, year"` box. This is
+  where the O-Week books' voice belongs.
+- **Open questions don't live on the page.** They go in `issues/open-questions.tsv` and from there into GitHub
+  issues (see `issues/README.md`).
+- **Disagreements** get one plain sentence where they matter, with both citations.
+- **Anchors:** if other pages link to a heading, keep it or add `{ #old-anchor }`. The strict build catches
+  broken ones.
 
 ## 3. Rules (these are not optional)
 
-1. **Never drop a citation that supports a claim you keep.** Every fact left on the page keeps its `[@…]`. If you cut a fact, you may cut its citation; if you keep a fact, its citation goes with it, even into the TL;DR.
+1. **Never drop a citation that supports a claim you keep.** Every fact left on the page keeps its `[@…]`. If you cut a fact, you may cut its citation; if you keep a fact, its citation goes with it, even into the key facts.
 2. **Don't invent facts.** Simplify, don't embellish. No new dates, numbers, names or "probably"s that aren't in the page or its sources. If the page says "c.1990", you say "around 1990", not "1990".
 3. **Evidence tags `[P]` `[R]` `[T]` stay inside the receipts tables**, in the Evidence column. Don't sprinkle them in the prose.
 4. **Gallery blocks stay intact.** Never edit anything between `<!-- GALLERY:key -->` and `<!-- /GALLERY:key -->`, never remove the markers, and never put a gallery inside a collapsed `???` box. Photos stay visible.
@@ -86,15 +130,17 @@ Notes on the shape:
 6. **Big Bang spoiler rule.** Big Bang is a surprise for freshmen. Its page shows only a teaser ("It's coming.") and everything else stays inside the `??? danger "Spoilers ahead…"` box, and the page stays out of search (`search: exclude: true`). On *other* pages, never describe what happens at Big Bang; just link the page. Same goes for anything else a page marks as a spoiler.
 7. **Privacy.** Students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
 8. **Disagreements stay visible.** If sources disagree, say so briefly in the prose, with both citations. Don't quietly pick a winner. The full back-and-forth goes in an issue.
-9. **Quotes from O-Week books are gold.** Keep the funniest, shortest ones (under ~25 words) with their citations. "Fell with style" beats any paraphrase. Keep quotes word-for-word, including odd spelling, and keep them short (see Rights).
+9. **Quotes are for Historic references.** Keep the best short ones (under ~25 words), word-for-word, including odd spelling, with their citations (see Rights). Quote sparingly in the body; never borrow a source's hype as our own wording.
 10. **Build must pass.** `mkdocs build --strict` with no warnings. Unknown citation keys fail the build.
 
 ## 4. Formatting cheat sheet
 
 | You want | Write |
 |---|---|
-| The gold summary box | `!!! abstract "TL;DR"` |
-| A collapsed receipts box | `??? info "The receipts: timeline"` |
+| The key facts strip | `<div class="facts" markdown>` + a list of `**Label** value` (see section 2) |
+| A timeline chart | a fenced `timeline` block (see section 2) |
+| A quote under Historic references | `!!! quote "O-Week book, 2003"` |
+| A collapsed timeline (long pages only) | `??? info "Timeline"` |
 | A collapsed box that starts open | `???+ info "…"` |
 | A spoiler | `??? danger "Spoilers ahead — opening this will ruin all the fun"` |
 | A highlighted note without an admonition | `<div class="tldr" markdown>…</div>` |
@@ -107,22 +153,24 @@ The "Suggest a correction / Add your story / Discuss" buttons are added to every
 
 ## 5. Before and after
 
-**Before** (accurate, but heavy):
+**Before** (borrowed hype, incidental details, asides):
 
-> The college's record dates it to 1972: the 2005 party site counted that year as "its 34th", and Rice Magazine found a Wiess Magister who "attended the first NOD in 1972" with about thirty other men, though the Thresher of 1998–99 counted from 1973 or 1974.
+> Bands in the Acabowl, towels on the grass, hamburgers all day. It was free, and from 1993 it usually ran from the afternoon deep into the night. Dr. Bill Wilson, a longtime Wiess RA (a grown-up who lives in the college), ran "pretty much all the 'tech'".
 
 **After:**
 
-> NOD probably started in 1972. A future Magister remembered going to the first one, with about 30 other guys [@rice-magazine-2016-wiess-traditions]. The Thresher later counted from 1973 or 1974, so people still argue [@thresher-1998-10-30-nod-security] [@thresher-1999-10-29-nod-tonight].
+> Student bands from Rice played alongside Houston bands. From about 2000, a touring band headlined. Dr. Bill Wilson, a longtime Wiess resident associate, ran the sound and lent students his equipment.
 
-Same facts. Same citations. Half the effort to read.
+Same subject, fewer words, nothing a reader has to skip past.
 
 ## 6. Checklist before you save
 
 - [ ] Front matter unchanged.
-- [ ] TL;DR box with 2–4 cited bullets.
+- [ ] A one- or two-sentence lead saying what it is, then the key facts strip.
 - [ ] Every kept fact still has its citation.
-- [ ] Timeline table unchanged, inside `??? info "The receipts: timeline"`.
+- [ ] Present before past: how it works, then history.
+- [ ] Timeline at the bottom, rows unchanged; best quotes under Historic references.
+- [ ] No "you", no exclamation marks, no borrowed hype, no incidental details.
 - [ ] Evidence tags only in tables.
 - [ ] Gallery blocks untouched and visible.
 - [ ] Jargon explained and linked the first time.
