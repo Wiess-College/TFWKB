@@ -51,18 +51,26 @@ Each bar runs from the first to the last constitution found that lists the offic
 
 ```timeline
 from: 1990
-to: now
-President, Vice Presidents, Social VPs: ?1993-now
-Class and Off-Campus Representatives: ?1993-now
-Secretary, elected and voting: ?1993-2017
-Secretary, appointed and non-voting: 2020-now
+to: current
+[Leaders]
+President: ?1993-
+Executive Cabinet: 2026-
+[Vice Presidents]
+Executive / Internal VP: ?1993-2006 Executive; 2007-2015 Executive (Internal); 2016- Internal
+External VP: ?1993-
+Social VPs: ?1993-2006 one or two; 2007- two
+[Money and records]
+Treasurer: ?1993-2006 one; 2007-2012 two, jointly; 2013- head and apprentice
+Secretary: ?1993-2017 elected, voting; 2020-2024 appointed; 2025- two
+[Representatives]
+Class Representatives: ?1993-2019 Fr. and Soph.; 2020- + Jr. & Sr.
+Off-Campus Representatives: ?1993-
 Cultural Representatives: ?1993-2017
 At-Large Representative: ?1993-2017
-Two Treasurers, head and apprentice: 2013-now
-Academics and Career Chair: 2013-now
-Junior and Senior Representatives: 2020-now
-Diversity Chairs: 2020-now
-Executive Cabinet: 2026-now
+[Chairs and liaisons]
+Capital Improvements: ?1993-2017 Representative; 2020- Liaison
+Academics and Career Chair: 2013-
+Diversity Chairs: 2020-
 ```
 
 The table lists the offices each constitution names. "E" means elected by the college (or by a class), "A" appointed, "nv" non-voting.
@@ -94,10 +102,7 @@ The table lists the offices each constitution names. "E" means elected by the co
 Offices outside the constitutional list show from time to time like a Game Room Chairman, "filled by presidential appointees", in 1998 [@riceinfo-cabinet-1998], and two "SA New Student Representatives" in 2021 and 2023 [@teamwiess-cabinet-2021] [@wiess-rice-edu-cabinet-2023].
 
 ## Presidents
-Former presidents of Wiess, with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
- - Grant Wilson (2025)
- - Christina Chen (2024)
- - Blaine Samson (2023)
+Former presidents of Wiess, with the year they were elected. Officers who may still be students (elected 2023 or later) are not listed.
  - Kirsty Leech (2022)
  - Varun Kukunoor (2021)
  - Lauren Biegel (2020)
@@ -109,7 +114,7 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - [not named] (2014)
  - J Bernard Miller II (2013)
  - David Payne (2012)
- - Charles Dai (201)
+ - Charles Dai (2011)
  - Molly Bryan (2010)
  - Alex Bonnel (2009)
  - Bo Qiu (2008)
@@ -121,7 +126,7 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - Robert J. Morgan (2002)
  - Amy Schindler (2001)
  - Joshua Katz (2000)
- - Robery A. Lundin (1999)
+ - Robert A. Lundin (1999)
  - Ethan M. Schultz (1998)
  - George A. Fotinos (1997)
  - David J McCann (1996)
@@ -137,7 +142,7 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - Alexander Pellow (1986)
  - Bob Casey (1985)
  - Ty Buthod (1984)
- - Jeff Zweg (1983)
+ - Jeff Zweig (1983)
  - Terry H.R. Phillips (1982)
  - Bob Canby (1981)
  - George Hall (1980)
@@ -157,10 +162,10 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - Donaldo Q. Lamb Jr. (1966)
  - Charles G. King III (1965)
  - William T. McGregor (1964)
- - Jan M. Lodal (1965)
+ - Jan M. Lodal (1963)
  - Melvin Lack (1962)
  - James R. Doty (1961)
- - Francies B. Thompson (1960)
+ - Francis B. Thompson (1960)
  - Stephen B. Doty (1959)
  - Jack Wertheimer Jr. (1958)
  - Edwin S. Keasler Jr. (1957)
@@ -168,11 +173,7 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - John R. Gorman (1957)
 
 ## Chief Justices
-Former chief justices of Wiess, with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
- - Virginia Mynard (2026)
- - Ben Bridges (2025)
- - Ryan Lu (2024)
- - Renzo Espinoza (2023)
+Former chief justices of Wiess, with the year they were elected. Officers who may still be students (elected 2023 or later) are not listed.
  - Myritney Saint-Cloud (2022)
 
 ## Minutes
@@ -202,7 +203,7 @@ Beside the Cabinet stands a much larger and less consistent body of appointed re
 | 2020-02-12 | Bylaws: proxies must relay information; new or abolished positions take effect at the next annual election; President's Endowment "subject to approval by the Magisters" [@bylaws-2020 Art. II §§5, 8; Art. IV §6] | [P] |
 | 2020-10-02 | Website lists Treasurer and Apprentice Treasurer, Senior and Junior Representatives, Diversity Chairs [@teamwiess-cabinet-2020] | [P] |
 | 2021-09-24 | Roster: President Varun Kukunoor; two Diversity Chairs; two Historians; meetings "every Wednesday… (and now on Zoom!)" [@teamwiess-cabinet-2021] | [P] |
-| 2023-09-15 | Roster on wiess.rice.edu: President Blaine Samson; Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
+| 2023-09-15 | Roster on wiess.rice.edu: Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
 | c. early 2025 | Undated "Complete Guiding Documents": Voting (Art. V) and Non-Voting (Art. VI) Members as separate articles; Apprentice Treasurer; two Secretaries; quorum "(9)"; a Representatives article (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday); Cabinet may dissent from a Magister veto by two-thirds; no Executive Cabinet yet [@constitution-hate-speech Arts. IV–VII] | [P] |
 | 2026-02-23 | "17 voting members" (Article V) and non-voting members (Article VI); quorum "a simple majority (9)… not including proxies"; two unproxied absences grounds for impeachment; an Executive Cabinet; Cabinet may dissent from a Magister veto by two-thirds [@constitution-2026 Arts. IV §§6, 8, 14; V; VI] | [P] |
 

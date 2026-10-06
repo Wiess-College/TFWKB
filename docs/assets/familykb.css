@@ -305,3 +305,19 @@ a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outli
 .md-typeset .facts > ul { display: flex; flex-wrap: wrap; gap: 0.3em 1.6em; list-style: none; margin: 0.4em 0 1.4em; padding: 0.55em 0; border-top: 1px solid var(--md-default-fg-color--lightest); border-bottom: 1px solid var(--md-default-fg-color--lightest); font-size: 0.74rem; }
 .md-typeset .facts > ul > li { margin: 0; }
 .md-typeset .facts > ul > li strong { display: block; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.04em; color: var(--md-default-fg-color--light); font-weight: 600; }
+
+/* Timeline groups and labelled segments */
+.md-typeset .tl-group { margin-top: 0.5em; }
+.md-typeset .tl-group .tl-label { font-weight: 700; font-size: 0.95em; letter-spacing: 0.02em; }
+.md-typeset .tl-group .tl-track { background: var(--md-default-fg-color--lightest); opacity: 0.35; height: 1.2em; border-radius: 3px; }
+.md-typeset .tl-in-group .tl-label { padding-left: 0.9em; }
+.md-typeset .tl-bar { display: flex; align-items: center; overflow: visible; }
+.md-typeset .tl-bar:has(.tl-seg-text) { height: 1.25em; }
+.md-typeset .tl-alt { --tl-bar: color-mix(in srgb, var(--md-accent-fg-color) 55%, var(--md-default-bg-color)); background: var(--tl-bar); }
+.md-typeset .tl-seg-text { font-size: 0.82em; line-height: 1; padding: 0 0.45em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #1a1a1a; max-width: 100%; }
+.md-typeset .tl-bar + .tl-bar { box-shadow: -2px 0 0 var(--md-default-bg-color); }
+.md-typeset .tl-seg-list { display: none; }
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .tl-seg-text { display: none; }
+  .md-typeset .tl-seg-list { display: block; color: var(--md-default-fg-color--light); font-size: 0.9em; }
+}

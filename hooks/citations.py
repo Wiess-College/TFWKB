@@ -303,6 +303,9 @@ def footnote_citations(markdown: str, page_path: str, spoiler: bool = False) -> 
 #   Wooden War Pig: 2012-now               (still going: arrow. Also -current, -present, or just 2012-)
 #   Earliest mention: ?1987-1990           (leading ? = first found; fades in)
 #   * Two stages: 2005                     (a marker on its own row)
+#   [Vice Presidents]                      (a group heading; or "group: Vice Presidents")
+#   Internal VP: ?1993-2006 Executive; 2007-2015 Executive (Internal); 2016- Internal
+#                                          (several segments on one row, each with its own label)
 #   ```
 #
 # Rendered as plain HTML + CSS (assets/familykb.css: .tl-*), so it reflows on phones.
@@ -317,10 +320,30 @@ def _year(tok: str, now: int) -> int:
     return now if tok.lower() in ONGOING else int(tok)
 
 
+def _parse_span(span: str, now: int):
+    """'?1993-2013?' -> (y0, y1, fade_in, fade_out, open_end, is_point) or None."""
+    span = span.strip()
+    fade_in = span.startswith("?")
+    span = span.lstrip("?")
+    fade_out = span.endswith("?")
+    span = span.rstrip("?").strip()
+    a, dash, b = span.partition("-")
+    try:
+        y0 = _year(a, now)
+        open_end = bool(dash) and b.strip().lower() in ONGOING
+        y1 = _year(b, now) if dash else y0
+    except ValueError:
+        return None
+    return y0, y1, fade_in, fade_out, open_end, not dash
+
+
+SEG_RE = re.compile(r"^(\??\s*\d{4}\s*(?:-\s*(?:\d{4}|now|today|current|present|ongoing)?)?\s*\??)(?:\s+(.*))?$", re.I)
+
+
 def render_timeline(body: str, page_path: str) -> str:
     now = _dt.date.today().year
     lo = hi = None
-    rows = []
+    rows = []  # each: {"group": str} or {"label", "mark", "segs": [...]}
     for raw in body.splitlines():
         line = raw.strip()
         if not line or line.startswith("#"):
@@ -332,32 +355,34 @@ def render_timeline(body: str, page_path: str) -> str:
             else:
                 hi = _year(m.group(2), now)
             continue
+        g = re.match(r"^(?:group\s*:|\[)\s*(.*?)\]?\s*$", line, re.I)
+        if g and (line.lower().startswith("group") or line.startswith("[")):
+            rows.append({"group": g.group(1).strip()})
+            continue
         mark = line.startswith("*")
         if mark:
             line = line[1:].strip()
         if ":" not in line:
             log.warning("%s: timeline line without ':' %r", page_path, raw)
             continue
-        label, span = line.rsplit(":", 1)
-        span = span.strip()
-        fade_in = span.startswith("?")
-        span = span.lstrip("?")
-        fade_out = span.endswith("?")
-        span = span.rstrip("?")
-        a, _, b = span.partition("-")
-        try:
-            y0 = _year(a, now)
-            open_end = bool(_) and b.strip().lower() in ONGOING
-            y1 = _year(b, now) if b else y0
-        except ValueError:
-            log.warning("%s: bad timeline span %r", page_path, raw)
-            continue
-        rows.append(dict(label=label.strip(), y0=y0, y1=y1, mark=mark or not _, fade_in=fade_in,
-                         fade_out=fade_out, open_end=open_end))
-    if not rows:
+        label, spec = line.split(":", 1)
+        segs = []
+        for part in re.split(r"[;,]\s*(?=\??\s*\d{4})", spec.strip()):
+            sm = SEG_RE.match(part.strip())
+            parsed = _parse_span(sm.group(1), now) if sm else None
+            if not parsed:
+                log.warning("%s: bad timeline span %r", page_path, raw)
+                continue
+            y0, y1, fi, fo, oe, point = parsed
+            segs.append(dict(y0=y0, y1=y1, fade_in=fi, fade_out=fo, open_end=oe,
+                             point=point or mark, text=(sm.group(2) or '').strip().strip('"')))
+        if segs:
+            rows.append(dict(label=label.strip(), segs=segs))
+    bars = [sg for r in rows if "segs" in r for sg in r["segs"]]
+    if not bars:
         return ""
-    lo = lo if lo is not None else min(r["y0"] for r in rows)
-    hi = hi if hi is not None else max(r["y1"] for r in rows)
+    lo = lo if lo is not None else min(b["y0"] for b in bars)
+    hi = hi if hi is not None else max(b["y1"] for b in bars)
     hi = max(hi, lo + 1)
     span = hi + 1 - lo
 
@@ -370,26 +395,43 @@ def render_timeline(body: str, page_path: str) -> str:
     grid = "".join(f'<span class="tl-grid" style="left:{pct(y):.2f}%"></span>' for y in range(first, hi + 1, step))
     out = ['<div class="tl" role="img" aria-label="Timeline chart; the same dates are in the Timeline table below">',
            f'<div class="tl-row tl-axis"><span class="tl-label"></span><span class="tl-track">{ticks}</span></div>']
+    grouped = any("group" in r for r in rows)
     for r in rows:
+        if "group" in r:
+            out.append(f'<div class="tl-row tl-group"><span class="tl-label">{html.escape(r["group"])}</span><span class="tl-track">{grid}</span></div>')
+            continue
         lab = html.escape(r["label"])
-        if r["mark"]:
-            when = str(r["y0"])
-            bar = f'<span class="tl-mark" style="left:{pct(r["y0"]) + 50 / span:.2f}%" title="{lab}: {when}"></span>'
-        else:
-            cls = "tl-bar" + (" tl-fade-in" if r["fade_in"] else "") + (" tl-fade-out" if r["fade_out"] else "") + (" tl-open" if r["open_end"] else "")
-            end = "now" if r["open_end"] else str(r["y1"])
-            when = f'{r["y0"]}–{end}' if r["y1"] != r["y0"] or r["open_end"] else str(r["y0"])
-            tip = when + (" (first found; may be older)" if r["fade_in"] else "") + (" (last seen; may have continued)" if r["fade_out"] else "")
-            left, width = pct(r["y0"]), pct(r["y1"] + 1) - pct(r["y0"])
-            bar = f'<span class="{cls}" style="left:{left:.2f}%;width:{width:.2f}%" title="{lab}: {html.escape(tip)}"></span>'
-        out.append(f'<div class="tl-row"><span class="tl-label">{lab} <span class="tl-when">{html.escape(when)}</span></span>'
-                   f'<span class="tl-track">{grid}{bar}</span></div>')
+        parts, whens = [], []
+        for k, sg in enumerate(r["segs"]):
+            if sg["point"]:
+                when = str(sg["y0"])
+                tip = f'{lab}: {html.escape(sg["text"] + " " if sg["text"] else "")}{when}'
+                parts.append(f'<span class="tl-mark" style="left:{pct(sg["y0"]) + 50 / span:.2f}%" title="{tip}"></span>')
+            else:
+                end = "now" if sg["open_end"] else str(sg["y1"])
+                when = f'{sg["y0"]}–{end}' if sg["y1"] != sg["y0"] or sg["open_end"] else str(sg["y0"])
+                note = (" (first found; may be older)" if sg["fade_in"] else "") + (" (last seen; may have continued)" if sg["fade_out"] else "")
+                cls = "tl-bar" + (" tl-alt" if k % 2 else "") + (" tl-fade-in" if sg["fade_in"] else "") \
+                    + (" tl-fade-out" if sg["fade_out"] else "") + (" tl-open" if sg["open_end"] else "")
+                left, width = pct(sg["y0"]), pct(sg["y1"] + 1) - pct(sg["y0"])
+                text = html.escape(sg["text"])
+                tip = f'{lab}{": " + text if text else ""} {when}{note}'
+                inner = f'<span class="tl-seg-text">{text}</span>' if text else ""
+                parts.append(f'<span class="{cls}" style="left:{left:.2f}%;width:{width:.2f}%" title="{tip}">{inner}</span>')
+            whens.append(when)
+        when_all = html.escape(", ".join(whens)) if len(r["segs"]) == 1 else ""
+        seg_list = ""
+        if len(r["segs"]) > 1:
+            seg_list = '<span class="tl-seg-list">' + " · ".join(
+                html.escape(f'{w}{" " + sg["text"] if sg["text"] else ""}') for w, sg in zip(whens, r["segs"])) + "</span>"
+        cls = "tl-row" + (" tl-in-group" if grouped else "")
+        out.append(f'<div class="{cls}"><span class="tl-label">{lab} <span class="tl-when">{when_all}</span>{seg_list}</span>'
+                   f'<span class="tl-track">{grid}{"".join(parts)}</span></div>')
     out.append('<div class="tl-key"><span class="tl-key-solid"></span> in the sources '
                '<span class="tl-key-fade"></span> may reach further: earliest or latest mention found so far '
                '<span class="tl-key-open"></span> still going</div>')
     out.append("</div>")
     return "\n".join(out)
-
 
 def on_page_markdown(markdown: str, page, config, files):
     path = page.file.src_path

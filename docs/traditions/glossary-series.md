@@ -1162,8 +1162,8 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 - **2017**—The people who have been planning your O-Week since January. AKA Abbey, Eugene, and Richard. Be sure to come and say hi! [@oweek-2017 p.15]
 - **2019**—The ones who have been planning O-Week since January: Riley, Erica, and Olasina. Say hello if you see them around! [@oweek-2019 p.15]
 - **2021**—The ones who have been planning O-Week since January: Serena, Aditi, and Chichi. Say hello if you see them around! [@oweek-2021 p.18]
-- **2024**—The ones who have been planning O-Week since January: Peter, Hannah, and Barakat. Say hello if you see them around! [@oweek-2024 p.25]
-- **2025**—The ones who have been planning O-Week since January: Aislinn, Caden, and Aria. Say hello if you see them around! [@oweek-2025 p.26]
+- **2024**—The ones who have been planning O-Week since January: [three names omitted]. Say hello if you see them around! [@oweek-2024 p.25]
+- **2025**—The ones who have been planning O-Week since January: [three names omitted]. Say hello if you see them around! [@oweek-2025 p.26]
 
 ### Hedge-jumping
 

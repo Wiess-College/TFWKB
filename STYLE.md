@@ -106,7 +106,8 @@ Notes on the shape:
 - **Timeline chart** (a fenced `timeline` block): one row per phase, office or version. `1993-2001` is a solid
   bar for what the sources show; a leading `?` (`?1987-1992`) adds a fade before the first mention found, a
   trailing `?` (`2010-2011?`) a fade after the last; something still going ends in an arrow: write `2012-now`, `2012-current` or just `2012-`; `* Label: 2005` is a single
-  marker. Keep the dates exactly as the timeline table and sources give them.
+  marker. Group rows under a heading with `[Vice Presidents]`. One row can hold several labelled segments,
+  separated by semicolons: `Internal VP: ?1993-2006 Executive; 2007-2015 Executive (Internal); 2016- Internal`. Keep the dates exactly as the timeline table and sources give them.
 - **No TL;DR box.** The lead and the key facts do that job.
 - **Citations** are written inline as `[@key]` and render as numbered footnotes with a References list at the
   bottom (built automatically).
@@ -128,7 +129,7 @@ Notes on the shape:
 4. **Gallery blocks stay intact.** Never edit anything between `<!-- GALLERY:key -->` and `<!-- /GALLERY:key -->`, never remove the markers, and never put a gallery inside a collapsed `???` box. Photos stay visible.
 5. **Front matter stays.** Don't change `title`, `status`, `last_reviewed`, `reviewed_by`, `search`, `hide`, or anything else between the `---` lines.
 6. **Big Bang spoiler rule.** Big Bang is a surprise for freshmen. Its page shows only a teaser ("It's coming.") and everything else stays inside the `??? danger "Spoilers ahead…"` box, and the page stays out of search (`search: exclude: true`). On *other* pages, never describe what happens at Big Bang; just link the page. Same goes for anything else a page marks as a spoiler.
-7. **Privacy.** Students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
+7. **Privacy.** No one who may still be a student is named: anyone whose Wiess or Rice mention dates from the 2023–24 academic year or later is described by role instead ("the Chief Justice", "a Head Fellow"). Naming a current officer can imply academic standing, which is student record information. Older students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
 8. **Disagreements stay visible.** If sources disagree, say so briefly in the prose, with both citations. Don't quietly pick a winner. The full back-and-forth goes in an issue.
 9. **Quotes are for Historic references.** Keep the best short ones (under ~25 words), word-for-word, including odd spelling, with their citations (see Rights). Quote sparingly in the body; never borrow a source's hype as our own wording.
 10. **Build must pass.** `mkdocs build --strict` with no warnings. Unknown citation keys fail the build.
