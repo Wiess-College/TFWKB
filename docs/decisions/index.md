@@ -10,15 +10,15 @@ reviewed_by: unreviewed
 A decision record is a short page written *when* the college decides something big, by the people who decided it. Move a party, retire a tradition, rewrite an office: write it down that week.
 
 !!! abstract "TL;DR"
-    - Most of what this site can't date would be a one-line lookup if someone had written a record at the time: when Freshman Waiting ended, when Jamfest stopped, what the 2021 hate-speech clause said.
+    - Many of the dates we're still hunting for would be a one-line lookup with a record written at the time: when Freshman Waiting ended, when Jamfest stopped, what the 2021 hate-speech clause said.
     - Every record uses the same headings, including **What was preserved**: the part of the tradition the college chose to keep.
     - The Constitution already asks officers to "update and pass on all relevant documents to their successor" [@constitution-2026 Art. IV §9]. This is the easy way to do it.
 
 ## Why bother
 
-The constitutions have required Cabinet minutes and public Court abstracts since 1993. Almost none survive online [@constitution-1993 Bylaws Art. II §6; Art. V §9]. The Parliamentarian is supposed to "Ensure that any amendments to the Constitution and the Bylaws passed by Cabinet are recorded" [@constitution-2026 Art. VI §4 (1)].
+The constitutions have required Cabinet minutes and public Court abstracts since 1993. We've found very few of them online so far [@constitution-1993 Bylaws Art. II §6; Art. V §9]. The Parliamentarian is supposed to "Ensure that any amendments to the Constitution and the Bylaws passed by Cabinet are recorded" [@constitution-2026 Art. VI §4 (1)].
 
-And minutes only say *what* passed. A record says *why*. When the pig balloon lost in 2004 went unreplaced for years, or the 2014 O-Week book dropped the "lesser college" Hanszen entry, nobody wrote down the reasons [@thresher-2004-03-26] [@oweek-2006 p.84] [@oweek-2014 p.105].
+And minutes only say *what* passed. A record says *why*. When the pig balloon lost in 2004 went unreplaced for years, or the 2014 O-Week book dropped the "lesser college" Hanszen entry, we haven't found the reasons written down [@thresher-2004-03-26] [@oweek-2006 p.84] [@oweek-2014 p.105].
 
 ## The shape of a record
 

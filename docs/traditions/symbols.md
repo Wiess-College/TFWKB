@@ -18,7 +18,7 @@ It's not yellow. It's goldenrod. Get that right and you're halfway there.
 
 When the colleges started in 1957, each of the first four took a coat of arms. The idea was to tell apart "four relatively identical dormitories" [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
 
-Wiess took "the crest of the Wiess family for which the college is named." It changed the colors "from blue and white (???) to black and gold," and swapped the goose on the helmet for a Rice Owl [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Yes, the "(???)" is in the original. Nobody was sure.
+Wiess took "the crest of the Wiess family for which the college is named." It changed the colors "from blue and white (???) to black and gold," and swapped the goose on the helmet for a Rice Owl [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html]. Yes, the "(???)" is in the original. The webmaster wasn't sure.
 
 ## What's on it
 

@@ -13,7 +13,7 @@ Bands in the Acabowl, towels on the grass, hamburgers all day. JamFest was Wiess
     - JamFest was Wiess's spring concert in the Acabowl, with Rice, Houston and later touring bands [@wb 19990220115332 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/jamfest.html] [@teamwiess-jamfest-site].
     - It started at least as far back as March 1987, as "an open musical talent show" in the Commons [@thresher-1987-03-20-jamfest].
     - By 2005 it ran ten hours, with a headliner from Illinois [@teamwiess-jamfest-site] [@oweek-2006 p.23].
-    - In 2014 the book wrote its obituary: "things like Jamfest have come and gone" [@oweek-2014 p.37]. Its successor is [Wiess Day](wiess-day.md).
+    - In 2014 the book said "things like Jamfest have come and gone" [@oweek-2014 p.37]. Its successor is [Wiess Day](wiess-day.md).
 
 ## From talent show to festival
 
@@ -27,7 +27,7 @@ JamFest 2005 ran from 4 p.m. to 2 a.m., with fourteen acts on two stages, plus f
 
 ## Fade out
 
-Wiess Day began in spring 2008 as a separate party [@oweek-2008 part 3 p.8]. By 2010 the glossary lumped them together as "Jamfest/Wiess Day" [@oweek-2010 p.91]. 2011 is the last book that describes a JamFest [@oweek-2011 p.46].
+Wiess Day began in spring 2008 as a separate party [@oweek-2008 part 3 p.8]. By 2010 the glossary lumped them together as "Jamfest/Wiess Day" [@oweek-2010 p.91]. 2011 is the latest book we've found that describes a JamFest [@oweek-2011 p.46]. We don't hold the 2012 and 2013 books yet.
 
 ??? quote "In the college's own words"
     "Unfortunately, due to a sudden implosion of the Rice music scene, neither the Hartvigs, Dyn@mutt or Sailplane exist anymore, so they couldn't play." [@wb 19990220115332 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/jamfest.html]

@@ -29,7 +29,7 @@ Alumni show up too, "women telling of their great touchdown of '95" [@oweek-2006
 
 ## Winning
 
-The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@campanile-1999 p.239] [@riceinfo-battlesows] [@oweek-2003 35-44 wiess.pdf p.7]. After 2010 the books admit "Wiess hasn't made it to the finals lately" [@oweek-2010 p.42]. Since 2024 Powderpuff is part of a bigger "Intramural (IM) Sports" tradition [@oweek-2024 p.37].
+The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@campanile-1999 p.239] [@riceinfo-battlesows] [@oweek-2003 35-44 wiess.pdf p.7]. The college's own counts disagree: the 2006 book says four titles in six years, the 2007 and 2008 books say eight in 15 [@oweek-2006 p.41] [@oweek-2007 p.41] [@oweek-2008 part 3 p.6]. After 2010 the books admit "Wiess hasn't made it to the finals lately" [@oweek-2010 p.42]. Since 2024 Powderpuff is part of a bigger "Intramural (IM) Sports" tradition [@oweek-2024 p.37].
 
 ## Photographs
 
@@ -97,7 +97,7 @@ The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@cam
     | 2019 | "While you may not have dreamed of growing up to be a Battlesow, you may find that playing on the Wiess women's flag football team is the lifelong dream you never knew you had… sport your goldenrod t-shirts (or even better, your Battlesows jersey)"; glossary "Affectionate name for the Wiess powderpuff (football) team" [@oweek-2019 p.31] [@oweek-2019 p.14] | [P] |
     | 2021 | "Wiess has won the championship more than any other college and we have the potential to add to that total this year" (the 2014 "haven't made the playoffs recently" gone) [@oweek-2021 p.36] | [R] |
     | 2023-12 | `powderpuff2023.jpeg` published on the current site's home page [@wb 20231202004310 https://wiess.rice.edu/images/home/powderpuff2023.jpeg] [@wiess-rice-edu asset-manifest.json] | [P] |
-    | current | Hanszen's traditions page: "since Wiess's mascot is the pig, each year when we play Wiess at Powderpuff, we devour a full roasted pig and bacon on the sidelines" [@hanszen-traditions] (read live 2026-10-04; no copy in the corpus) | [R] |
+    | current | Hanszen's traditions page: "since Wiess's mascot is the pig, each year when we play Wiess at Powderpuff, we devour a full roasted pig and bacon on the sidelines" [@hanszen-traditions] (read live 2026-10-04; no saved copy yet) | [R] |
     | 2024–2025 | Powderpuff folded into a new "Intramural (IM) Sports" tradition—"'Champions,' 'Legendary,' 'Undefeatable,' 'Way sexier than all the other colleges'"—with the 2021 championship sentence; Sparky's is a place to "watch some powderpuff"; a 2025 Head Fellow is a "Powderpuff Blocker" [@oweek-2024 p.37] [@oweek-2025 p.38] [@oweek-2024 p.11] [@oweek-2025 p.44] | [P] |
 
 ??? info "Arguments & loose ends"

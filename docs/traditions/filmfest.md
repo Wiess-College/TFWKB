@@ -13,11 +13,13 @@ Classes are over. Finals are coming. Obviously, the answer is 24 straight hours 
     - FilmFest was a 24-hour movie marathon at the end of classes, before finals [@oweek-2015 p.23].
     - It's in the 1994 handbook, in the Old Wiess basement [@handbook-1994].
     - In New Wiess it moved to the fourth-floor TV room, later the "legendary movie room" [@oweek-2003 p.4] [@oweek-2015 p.23].
-    - The last book to mention it is 2017's. It's missing from every book since [@oweek-2017 p.14] [@oweek-2019 p.30].
+    - The latest book we've found that mentions it is 2017's. The 2019–2025 books don't bring it up [@oweek-2017 p.14] [@oweek-2019 p.30].
 
 ## How it worked
 
 Movies from every genre, "from midnight to midnight" [@oweek-2015 p.23]. The 1997 website put it best: "24 *solid* hours of movies. Caffeine is good for the soul" [@riceinfo-traditions-1997].
+
+How often depends on who you ask. The books say once a semester in 1994 and 2017, but the 1994 webmaster didn't recall it "ever happening more than once a year" [@handbook-1994] [@oweek-2017 p.14].
 
 The books sold it honestly. It's "The best way to waste time when you should be studying" (2003) [@oweek-2003 p.4]. It's "the perfect way to take a study break or to procrastinate—whichever you prefer" (2015) [@oweek-2015 p.23].
 

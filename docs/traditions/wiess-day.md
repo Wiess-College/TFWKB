@@ -13,11 +13,11 @@ A spring day in the Acabowl. Food, games, and sometimes a very small horse.
     - Wiess Day is a spring party in the Acabowl, planned by the Social Vice Presidents [@oweek-2015 p.24].
     - It started in spring 2008: "a new tradition began... and it was named Wiess Day!" [@oweek-2008 part 3 p.8].
     - It ran next to [JamFest](jamfest.md) for a few years, then outlasted it [@oweek-2010 p.91] [@oweek-2014 p.37].
-    - The 2024 and 2025 books don't mention it at all [@oweek-2024 p.37] [@oweek-2025 p.38].
+    - The latest book we've found that mentions it is 2021's. The 2024 and 2025 books don't bring it up [@oweek-2021 p.38] [@oweek-2024 p.37] [@oweek-2025 p.38].
 
 ## The first one
 
-In spring 2008 the Socials threw "a party in the Acabowl complete with games and food." There was "a slip-n-slide, food fight, tug-of-war, eating contest, and other fun in the sun!" [@oweek-2008 part 3 p.8].
+In spring 2008 the Socials threw "a party in the Acabowl complete with games and food." There was "a slip-n-slide, food fight, tug-of-war, eating contest, and other fun in the sun!" [@oweek-2008 part 3 p.8]. The 2021 book says "Spring 2018," but every earlier source says 2008, so that's a typo [@oweek-2021 p.38] [@oweek-2019 p.33].
 
 Later years added "300 lbs of crawfish, an ice-cream truck, and a petting zoo" [@oweek-2014 p.43]. The zoo had "goats and a very small horse," and by 2019 "a kangaroo" [@oweek-2015 p.24] [@oweek-2019 p.33].
 

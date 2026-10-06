@@ -12,7 +12,7 @@ A cookout for the whole college, run entirely by freshmen. Yes, they were called
 !!! abstract "TL;DR"
     - Two freshmen, the "Weenie Reps," threw an all-college Weenie Roast: raise the money, plan it, hype it [@oweek-2003 35-44 wiess.pdf p.8].
     - On the 1997 website's "We'd Sure Like To See Continue" list [@riceinfo-traditions-1997].
-    - Last described in the 2007 O-Week book. Gone from 2008 on [@oweek-2007 p.43] [@oweek-2008 part 3 p.8].
+    - The latest description we've found is in the 2007 O-Week book. It isn't in the 2008 book [@oweek-2007 p.43] [@oweek-2008 part 3 p.8].
 
 ## What it was
 
@@ -20,9 +20,9 @@ The Weenie Reps were "handpicked by a committee of former Weenie Reps." They had
 
 And most importantly, publicize it, "which may include dancing, posters, songs or whatever else the Weenies dream up" [@oweek-2003 35-44 wiess.pdf p.8].
 
-## Why it stopped
+## Last seen
 
-Nobody wrote it down. The 2003, 2006 and 2007 books describe it in the same words [@oweek-2006 p.43] [@oweek-2007 p.43]. The 2008 book repeats the rest of the 2007 traditions and adds Wiess Day, but drops the Weenie Roast [@oweek-2008 part 3 p.8].
+We haven't found a source that says. The 2003, 2006 and 2007 books describe it in the same words [@oweek-2006 p.43] [@oweek-2007 p.43]. The 2008 book repeats the rest of the 2007 traditions and adds Wiess Day, but drops the Weenie Roast [@oweek-2008 part 3 p.8].
 
 The Reps weren't a [Cabinet](../../governance/cabinet.md) office (Cabinet is Wiess's student government). They were a committee that picked its own successors, so the tradition could fade without any rule changing [@oweek-2003 35-44 wiess.pdf p.4] [@gov-repo].
 

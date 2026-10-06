@@ -12,7 +12,7 @@ Wiess's own joke newspaper. Say it out loud: "Wise Crack."
 !!! abstract "TL;DR"
     - A Wiess paper from at least 1968 [@rhc 2015-01-23 friday-follies-wiess-crack]. The Thresher called it "an underground newspaper" in 1970 [@thresher-1970-09-03-wiess-crack] and "always pretty bad and very funny" in 1972 [@thresher-1972-08-25-wiess-crack].
     - By 1994: "Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher. Funnier than Letterman" [@handbook-1994].
-    - Last seen on the college website in 1999–2001. Gone from every O-Week glossary from 2003 on [@riceinfo-crack].
+    - Last seen on the college website in 1999–2001. It isn't in the O-Week glossaries we have from 2003 on [@riceinfo-crack].
 
 ## What it was
 
@@ -26,9 +26,11 @@ The oldest copy we know of is a 1968 cover, posted by the university archivist i
 
 The Thresher noticed it too. In 1970 it pointed freshmen to "the Wiess Crack, an underground newspaper" [@thresher-1970-09-03-wiess-crack]. In 1972 it was the exception among college papers: "always pretty bad and very funny" [@thresher-1972-08-25-wiess-crack].
 
-## Why it stopped
+The sources differ on what kind of paper it was. The archivist calls the 1968 Crack a college newsletter; the 1994 and 1999 sources describe an annual parody [@rhc 2015-01-23 friday-follies-wiess-crack] [@handbook-1994] [@riceinfo-crack].
 
-Nobody says. The 1997 and 1999 websites wanted it to continue [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. Then it vanishes. The Trasher it mocked stayed in the glossary until 2008 [@oweek-2008 part 7 p.7]. No issue of the WiessCrack is in our sources.
+## Last seen
+
+The 1997 and 1999 websites wanted it to continue [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. The website page, live in 1999–2001, is the latest mention we've found so far. The Trasher it mocked stayed in the glossary until 2008 [@oweek-2008 part 7 p.7]. We haven't found an issue of the WiessCrack itself yet.
 
 ??? info "The receipts: timeline"
 

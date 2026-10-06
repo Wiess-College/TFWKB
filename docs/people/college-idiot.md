@@ -25,14 +25,14 @@ The Idiot gets crowned with a pumpkin and leads Pumpkin Caroling around campus [
 
 In 1999, the Idiot was "somebody, usually a freshman, who a large part of Wiess views as being incurably goofy/dumb/silly." And people "have actually *tried* to be named Idiot" [@riceinfo-pumpkin].
 
-The count keeps going up. "One deserving Wiessmen" through 2011; "one deserving upperclassman and one freshman" in 2014; "the elected College Idiots" from 2015 [@oweek-2011 p.92] [@oweek-2014 p.102] [@oweek-2015 p.119].
+The count keeps going up. "One deserving Wiessmen" through 2011; "one deserving upperclassman and one freshman" in 2014; "the elected College Idiots" from 2015 [@oweek-2011 p.92] [@oweek-2014 p.102] [@oweek-2015 p.119]. The sources disagree on how it's chosen: the glossaries say "conferred" [@handbook-1994], the tradition pages say "elects" [@oweek-2006 p.43].
 
 The record holder: George Hall was Idiot in 1979, 1980, 1981 and 1982, and College President in 1981, "simultaneously holding the office of President and Wiess College Idiot" [@handbook-1994].
 
 ## Other named roles
 
-- **DWE.** The Idiot's evil twin. Being "elected DWE" was the fate of the college's designated jerk; one person got both titles [@riceinfo-pumpkin]. Nobody explains the initials.
-- **Pig Master.** The 1988 Campanile calls the War Pig's builder "'Pig Master'" [@campanile-1988]. The title never shows up again. See [The War Pig](../traditions/warpig.md).
+- **DWE.** The Idiot's evil twin. Being "elected DWE" was the fate of the college's designated jerk; one person got both titles [@riceinfo-pumpkin]. We haven't found what the initials stand for yet.
+- **Pig Master.** The 1988 Campanile calls the War Pig's builder "'Pig Master'" [@campanile-1988]. We haven't found the title anywhere else yet. See [The War Pig](../traditions/warpig.md).
 - **Class Council '06 Historian.** A 2003 job posting for the university-wide Class of 2006, hosted on a Wiess student's computer [@class-council-06-historian]. Not a Wiess office, but the earliest written job description for a student historian at Rice. See [Historians](historians.md).
 - **Head Fellows, Fellows, Coordinator.** Real jobs, not honorary ones. Fellows are "Peer advisors for new students of Wiess College" [@oweek-2003 p.3]. See [Governance](../governance/index.md).
 

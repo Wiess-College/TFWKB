@@ -31,7 +31,7 @@ The 2001 dedication planners had big ideas: "Have both war pigs flying first thi
 
 The dorm wraps three sides of the courtyard. Open-air hallways are "shaded by ivy-covered metal screens" [@machado-silvetti-wiess]. The fourth side is the new [Commons](commons.md), which shares a servery with Hanszen, topped by a public terrace [@machado-silvetti-wiess].
 
-Kirksey called it "the first new dormitory in 25 years," at 163,500 square feet [@kirksey-wiess]. The Boston Society of Architects gave it a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Photos from 2017 show the vines in full growth [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]. What happened to them since is not on record.
+Kirksey called it "the first new dormitory in 25 years," at 163,500 square feet [@kirksey-wiess]. The bed count differs by two: the designers say 228, the project architect says 230 [@machado-silvetti-wiess] [@kirksey-wiess]. The Boston Society of Architects gave it a Design Excellence in Housing award in 2004 [@machado-silvetti-wiess]. Photos from 2017 show the vines in full growth [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]. We haven't found what happened to them since.
 
 Inside: [Rooms and spaces of New Wiess](rooms-and-spaces.md). Up top, including the balcony called Toke: [The terraces](terraces.md). Next door: the Magisters' [Wilson House](wilson-house.md).
 

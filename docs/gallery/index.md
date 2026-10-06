@@ -68,8 +68,8 @@ On [Old Wiess](../places/old-wiess.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions.](../assets/photos/photos-old-wiess/thumbs/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed under Open questions." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="index-oldwiess" }
-  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed under Open questions. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
+  ![The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page.](../assets/photos/photos-old-wiess/thumbs/details-photo6.jpg){ loading=lazy data-title="The 1975 plaque: &#x27;Wiess College, established in memory of Harry Carothers Wiess (1887–1948)&#x27;, with the Plutarch line on Socrates. Transcribed on the Old Wiess page." data-description="Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 · 2002-08" data-gallery="index-oldwiess" }
+  <figcaption>The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page. <small>Colin Delany &#x27;91, &#x27;wiess college | abandoned&#x27;, August 2002 [@edesigns-old-wiess-2002]</small></figcaption>
 </figure>
 
 <figure markdown="span">

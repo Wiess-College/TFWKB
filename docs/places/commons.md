@@ -27,7 +27,7 @@ Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc
 
 The new Commons, designed by Machado and Silvetti, "defines one edge of the courtyard" [@machado-silvetti-wiess]. It shares South Servery with Hanszen, and the servery's roof is a big terrace [@rice-facilities-first-100-years].
 
-The books call it "the largest commons on campus." That means "lots of space and shockingly effective sound muffling" [@oweek-2014 p.46] [@oweek-2015 p.21]. Big events happen here, and [Tabletop](../traditions/tabletop-theatre.md) plays "take place in our very own Commons!!" [@oweek-2025 p.38]. The TEAM / FAMILY / WIESS banners hang here too (see [Team Wiess](../traditions/team-wiess.md#the-banners)).
+The books call it "the largest commons on campus." That means "lots of space and shockingly effective sound muffling" [@oweek-2014 p.46] [@oweek-2015 p.21]. We haven't checked that against the other colleges yet; Kirksey gives Hanszen's dining hall as 13,000 square feet and no figure for Wiess [@kirksey-wiess]. Big events happen here, and [Tabletop](../traditions/tabletop-theatre.md) plays "take place in our very own Commons!!" [@oweek-2025 p.38]. The TEAM / FAMILY / WIESS banners hang here too (see [Team Wiess](../traditions/team-wiess.md#the-banners)).
 
 The RAs "eat dinner in the Commons most days around 5:30" [@oweek-2025 p.32]. Go say hi.
 

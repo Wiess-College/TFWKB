@@ -12,7 +12,7 @@ Baker runs. Wiess has buckets.
 !!! abstract "TL;DR"
     - Baker 13 is Baker College's run: on the 13th and 31st of the month, runners in shaving cream streak around campus [@oweek-2006 p.53] [@oweek-2010 p.54].
     - Wiess's tradition was to meet them with water. Every glossary from 2003 to 2014 called Baker 13 "A favorite target of Wiessmen with buckets of water" [@oweek-2003 p.5] [@oweek-2014 p.104].
-    - In 2015 the water line vanished from the books. Whether Wiess still throws water isn't written down [@oweek-2015 p.120].
+    - In 2015 the books swapped the water line for an invitation to run. The latest mention of the water we've found so far is 2014 [@oweek-2014 p.104] [@oweek-2015 p.120].
 
 ## The run
 
@@ -22,7 +22,9 @@ Baker 13 belongs to Baker. Rice News says it started in 1975 on a Friday the 13t
 
 In 1997 the Wiess website wanted "The utter and complete obliteration of 13." Then it added: "(Though, to be fair, you oughta run sometime, too...)" [@riceinfo-traditions-1997]
 
-In 2008 the website gave the defense a name, "Baker 13 Defense Force," and a menu link. The page behind it was never written [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. By 2017 there were Baker 13 Defense Force reps, with suits, sunglasses and a water gun [@wb 20170421224913 http://teamwiess.com/profiles/reps/baker13defense.jpg].
+In 2008 the website gave the defense a name, "Baker 13 Defense Force," and a menu link. The page behind it was still empty in the captures we have [@wb 20080625214645 http://teamwiess.com/index.php?r=b13df]. By 2017 there were Baker 13 Defense Force reps, with suits, sunglasses and a water gun [@wb 20170421224913 http://teamwiess.com/profiles/reps/baker13defense.jpg].
+
+The books changed their story in 2015: the water line went out and "all undergrads are invited to participate" came in [@oweek-2015 p.120]. That changed what freshmen were told. It doesn't tell us the water stopped.
 
 ## Photos { #photographs }
 

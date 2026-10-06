@@ -51,7 +51,7 @@ The Portal's search now sits behind an "I'm not a robot" check, which agents mus
 
 ## The Woodson Research Center
 
-Fondren Library's archive. Ask for the **Wiess College Records, UA 0079**: Cabinet minutes and governing documents from 1950. It's the only place the 1957–1993 constitutions and the pre-1991 Rules can be. Bring a camera.
+Fondren Library's archive. Ask for the **Wiess College Records, UA 0079**: Cabinet minutes and governing documents from 1950. It's the first place to look for the 1957–1993 constitutions and the pre-1991 Rules: the college's records there run to 34.75 linear feet. Bring a camera.
 
 ??? info "More on the Woodson"
     It also has Dr. Bill Wilson's papers and recordings (received 2021), and is the place to look for the 1960s Magisters and the 1968 Wiess Crack. Rice's Digital Scholarship Archive (`hdl.handle.net/1911/…`) has photographs such as Wiess students pumpkin caroling in 1969.
@@ -68,7 +68,7 @@ Melissa Kean's blog (ricehistorycorner.com), 2010–2025. The photos are good, b
 We hold 2003, 2006–2011 (some in parts), 2014–2017 and the 2016 Owlmanac from teamwiess.com, plus 2019, 2021, 2024 and 2025 (found in October 2026). The 1994 and 1995 handbooks survive as copies on the 1997 website. Each book's glossary is extracted to `sources/glossaries/<year>.tsv`; [the series](../traditions/glossary-series.md) is built from them.
 
 ??? info "Details: which parts, and the font tricks"
-    2003 (four section PDFs), 2006, 2007, 2008 (seven parts), 2009 (parts 2, 4, 5, 6), 2010, 2011, 2014, 2015, 2016 (+ Owlmanac), 2017—all from teamwiess.com via the Wayback Machine, all with text layers. The 1972 handbook survives as the architecture page. **Missing**: everything before 1994 in print, 1996–2002, 2004–05, 2009 parts 1/3/7, 2012–13, and 2018, 2020, 2022, 2023, 2026. The Historian's filing cabinet and the Woodson are the places to ask.
+    2003 (four section PDFs), 2006, 2007, 2008 (seven parts), 2009 (parts 2, 4, 5, 6), 2010, 2011, 2014, 2015, 2016 (+ Owlmanac), 2017—all from teamwiess.com via the Wayback Machine, all with text layers. The 1972 handbook survives as the architecture page. **Not held yet**: everything before 1994 in print, 1996–2002, 2004–05, 2009 parts 1/3/7, 2012–13, and 2018, 2020, 2022, 2023, 2026. The Historian's filing cabinet and the Woodson are the places to ask.
 
     Text-layer quirks: some books use a font whose codes are shifted by 29 (`SODFH` = "place"); `tools/fix_pdf_text.py` decodes it. The 2011 book uses two other glyph-order ciphers; the 2014 book interleaves columns.
 

@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The Dangle
 
-Wiess's most famous dead tradition. Also its least explained.
+Wiess's most famous ended tradition. Also one of the least explained.
 
 !!! abstract "TL;DR"
     - "The third-floor dangle" was one of Wiess's early "unorthodox customs," right next to the Ubangee [@oweek-2003 35-44 wiess.pdf p.3].
@@ -17,7 +17,7 @@ Wiess's most famous dead tradition. Also its least explained.
 
 ## What it was
 
-Nobody wrote down the rules. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/masters-and-magisters.md), is the professor who lives next door and looks out for the college.)
+We haven't found the rules written down. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/masters-and-magisters.md), is the professor who lives next door and looks out for the college.)
 
 Old Wiess had "outside balconies connecting all rooms" [@riceinfo-history]. So picture someone held over a third-floor railing. That part is a guess from the name and the floor, not a record.
 

@@ -33,7 +33,7 @@ Free food. Half an hour off. Back to the problem set. That's a study break.
 
 
 ??? info "The receipts: who holds them"
-    | Host | What the record says | Evidence |
+    | Host | What the sources say | Evidence |
     |---|---|---|
     | Masters / Magisters | "The masters throw study breaks" (2003–2010); "They host study breaks" (2016) | [@oweek-2003 intro p.7] [@oweek-2010 p.7] [@owlmanac-2016 p.9] |
     | Resident Associates | A cupcake-decorating study break "in her apartment" (2009); barbacoa (2014–17); pancakes and liquid nitrogen ice cream (2015–16); "The events and study breaks we host tend to be informal and fairly unstructured" (2024–25) | [@wb 20090903015953 http://teamwiess.com/cabinetminutes.php] [@oweek-2014 p.8] [@oweek-2015 p.13] [@oweek-2024 p.30] |
@@ -46,7 +46,7 @@ Free food. Half an hour off. Back to the problem set. That's a study break.
     | Wiess Mentors | Planning a study break, August 2008 | [@teamwiess-lastnotes-2008] |
     | Rice Program Council | Campus-wide "study breaks during finals" (glossary 2014–2025); the "President's Study Break" (2015), "President and Dean's Study Break, which is the largest study break of the year" (2016) | [@oweek-2014 p.106] [@oweek-2025 p.27] [@oweek-2015 p.89] [@owlmanac-2016 p.39] |
 
-??? info "The receipts: study breaks in the record"
+??? info "The receipts: study breaks in the sources"
     | When | Study break | Host | Evidence |
     |---|---|---|---|
     | 2003 | "The masters throw study breaks" | Masters | [@oweek-2003 intro p.7] [P] |

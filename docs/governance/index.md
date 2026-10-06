@@ -33,7 +33,7 @@ The dated entries also feed the [Changes](../changes/index.md) chronicle.
 
 ## Versions reviewed
 
-Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [the arguments](constitution-history.md#variants-disputes)).
+Each text is a tagged version in the college's governance repository, so you can diff any two [@gov-repo]. Dates are the documents' own where they give one. Otherwise it's the date the copy was first captured, or (for the undated 2025 text) an estimate from the PDF's metadata (see [the arguments](constitution-history.md)).
 
 | Tag | Date | Document | Where the copy came from | Evidence |
 |---|---|---|---|---|

@@ -20,9 +20,9 @@ A call-and-response. Someone asks the time, you yell the time, then "*and Hansze
 
 People got so used to it that "we did it even when at home, where nobody got it" [@riceinfo-hanszensucks].
 
-## Why it stopped
+## Last seen
 
-Nobody knows. The 1999 page begged, "Please, let's keep this one going," and nothing shows anyone did [@riceinfo-hanszensucks]. No O-Week book mentions the chant [@oweek-2003 p.5] [@oweek-2011 p.95].
+The 1999 page begged, "Please, let's keep this one going" [@riceinfo-hanszensucks]. That's the latest mention of the chant we've found so far. The O-Week books we have don't mention it [@oweek-2003 p.5] [@oweek-2011 p.95].
 
 The words did get one more outing. Around 2002–03, Hanszen labelled the servery hallway "Welcome to Hanszen." Wiess repainted it: "Welcome to the Wiess Commons and Hanszen still sucks" [@oweek-2006 p.52].
 

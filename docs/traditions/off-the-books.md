@@ -34,7 +34,7 @@ Short for "Dis-Orientation," it lands right after O-Week, at the start of the fa
 
 Rice has pushed back on it. In 2013 it banned hard alcohol on "major events like Dis-Orientation and Beer Bike" [@thresher-2013-04-18-alcohol-policy]. In 2025 Dis-O's alcohol transports were "comparable to the seven NOD transports" of 2023 [@thresher-2025-08-26-dis-o-transports], and the Thresher warned, "another night like Dis-O, and Rice could become a dry campus" [@thresher-2025-08-27-culture-of-care].
 
-The Wiess trace: in 2014 the college website ran a "Dis-O 2014" countdown clock [@teamwiess-current-students-2014]. Who hosts Dis-O, and when it began, aren't written down.
+The Wiess trace: in 2014 the college website ran a "Dis-O 2014" countdown clock [@teamwiess-current-students-2014]. Who hosts Dis-O, and when it began, aren't in the sources we've found yet.
 
 ## Toke
 
@@ -51,7 +51,7 @@ Jacks aren't a free-for-all. By 2008 a jack needed approval from a college's jac
 ## The rest of the list
 
 - **Baker 13.** Baker's run, and Wiess's buckets. See [Baker 13 Defense Force](baker-13-defense-force.md).
-- **DOME.** A party, as far as the record shows, started (says the legend) by students on the 4th floor [@teamwiess-activities-2009]. See [DOME](dome.md).
+- **DOME.** A party, as far as the sources show, started (says the legend) by students on the 4th floor [@teamwiess-activities-2009]. See [DOME](dome.md).
 - **Gatsby.** No written source yet. See [Gatsby](gatsby.md).
 - **Die.** A table game; at Wiess, people say, played with water. See [Die](die.md).
 

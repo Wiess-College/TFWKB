@@ -21,7 +21,9 @@ RAs are the grown-ups who live in the college. At Rice they're "not primarily ru
 
 He did everything: "theater to t-shirt screening to taking pictures of almost every Wiess event" [@riceinfo-associates]. In 2003, "Dr. Bill will have the answer to any crazy Wiess lore question you can dream up" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8].
 
-He also took most of the photos that survive. "He was the one holding the camera," wrote Rice's archivist [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. His papers went to the Woodson in 2021 [@rhc 2021-11-15 secession-1992]. See [Historians](historians.md).
+The sources disagree on how long he served: "almost thirty years" in 2003, "countless years" in 2007 [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8] [@wb 20070709183122 http://teamwiess.com/index.php?module=page&page=resident_associates]. An alum remembers him among the RAs in the 1976 Campanile [@rhc 2014-11-19 wiess-college-luminaries comment by rcspitzer, 21 Nov 2014].
+
+He also took most of the photos we've found so far. "He was the one holding the camera," wrote Rice's archivist [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. His papers went to the Woodson in 2021 [@rhc 2021-11-15 secession-1992]. See [Historians](historians.md).
 
 ## Other RAs through the years
 

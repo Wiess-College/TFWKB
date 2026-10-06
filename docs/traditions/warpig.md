@@ -117,7 +117,7 @@ The wooden pig has been rebuilt at least once, around 2017–21. A builder left 
 ??? info "The receipts: the pigs, numbered"
     | # | Years | Builder | What it was | Fate |
     |---|---|---|---|---|
-    |—| 1983 | Jeff Zweig '84 | pig-iron statuette, 8–10 in. | whereabouts unknown |
+    |—| 1983 | Jeff Zweig '84 | pig-iron statuette, 8–10 in. | not yet traced |
     |—| NOD 1984 | Wiess | chicken wire and newspaper, 12 ft, hung from the ceiling | torn apart by Sid men the same night |
     | 1 | Beer Bike 1986 | Jorge Martin de Nicolas '85 | ~15 ft trash-bag hot-air balloon | floated off, landed blocks away |
     | 2 | 1987–89 | Jorge Martin de Nicolas, "Pig Master" | 30 × 60 ft black 4-mil plastic, TEAM WIESS | attacked 1988, repaired 1989, tore |

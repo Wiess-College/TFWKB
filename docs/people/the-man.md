@@ -29,6 +29,8 @@ He died in August 1948. Rice's archivist put it simply: "We really could have us
 
 The new dorm was designed as "North Hall" and renamed for him after his death [@rhc 2012-12-04 wiess-hall-construction-1949]. It was named Wiess Hall in 1950 [@riceinfo-history]. Olga Keith Wiess later paid for expanding its central wing [@riceinfo-theman]. More on the building: [Old Wiess](../places/old-wiess.md).
 
+The O-Week books say he left "a big chunk of cash… for the building of Wiess College" [@oweek-2006 p.36]. The 1994 "Man" page and Rice's archivist tell it differently: a 1946 pledge to Rice, and a dorm renamed for him after he died [@riceinfo-theman] [@rhc 2012-12-04 wiess-hall-construction-1949].
+
 The O-Week books have their own spin. The 2016 Owlmanac calls him "a respected and beautiful oil tycoon" [@owlmanac-2016 p.12].
 
 ??? info "The receipts: timeline"
