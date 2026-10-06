@@ -31,8 +31,6 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
 | 2011 | Wilson House dedicated as the Magisters' house (see [Wiess House / Wilson House](wilson-house.md)) [@wiess-60th-faq-2017 p.4] | [R] |
 | 2014 | Glossary: the Acaterrace is now one "that we share with Hanszen"; "Bacaterrace: The Fourth Floor balcony. Great spot to hang out or watch the sunset" [@oweek-2014 p.102] | [P] |
 | 2017-11 | 60th anniversary: "All 60th Anniversary events are in the Wiess Commons and Wiess Acabowl… The Commons is building 52 on the current Rice campus map" [@wiess-60th-faq-2017 p.4] | [P] |
-| 2020 | With the building scarcely inhabited during the pandemic, rats take over the façade vines [@testimony-mullen-2026-10-05c vines] | [T] |
-| 2021-02 | The February 2021 Texas winter storm kills the vines [@testimony-mullen-2026-10-05c vines]; that summer's O-Week book signs off "also watch out for the rats" [@oweek-2021 p.2] | [T] / [P] |
 
 ## As the college described it
 
@@ -56,21 +54,12 @@ The present Wiess building stands "immediately south of 'Old Wiess', in what use
 
 ## The vines
 
-**What.** The original New Wiess wore large vines up its courtyard façades, grown on the metal screens of the open-air corridors. They were part of the design, not an accident of time: the architects describe "a single-loaded corridor layout, with suites located on the building's peripheral edge and accessible via open-air corridors shaded by ivy-covered metal screens along three courtyard walls" [@machado-silvetti-wiess], and their renderings show the screens green [@testimony-mullen-2026-10-05c vines]. The February 2021 winter storm killed them. The bare metal grates are what remains, and residents now say they "enhance the prison vibe" [@testimony-mullen-2026-10-05c vines] [T].
+**What.** The original New Wiess was designed with vines up its courtyard façades, grown on the metal screens of the open-air corridors: the architects describe "a single-loaded corridor layout, with suites located on the building's peripheral edge and accessible via open-air corridors shaded by ivy-covered metal screens along three courtyard walls" [@machado-silvetti-wiess]. Photographs of 2017 show them in full growth. The written record says little about the vines after 2017 so far.
 
 | When | What | Evidence |
 |---|---|---|
 | 2002 | Design: "open-air corridors shaded by ivy-covered metal screens along three courtyard walls" (Machado and Silvetti; Design Excellence in Housing award, 2004) [@machado-silvetti-wiess] | [P] |
 | by 2017 | Photographs on teamwiess.com show the vines in full growth: the "ivy-hung wing" over the Acabowl lawn, and the corridors at dusk, "screen and ivy on the other" side [@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg] [@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg] [@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]; see the photographs below | [P] |
-| before 2020 | Second- and third-floor residents complain about the shade the vines cast on their rooms [@testimony-mullen-2026-10-05c vines] | [T] |
-| 2020 | The building scarcely inhabited (COVID-19); rats take over the vines [@testimony-mullen-2026-10-05c vines] | [T] |
-| 2021-02 | The Texas winter storm of February 2021 kills the vines [@testimony-mullen-2026-10-05c vines] | [T] |
-| 2021 (summer) | The Head Fellows end their welcome letter in the O-Week book: "Again, we absolutely cannot wait to meet you! also watch out for the rats" [@oweek-2021 p.2] | [P] |
-| 2026 | The vines are gone; "big metal grates" remain, which "enhance the prison vibe"; people now miss the vines [@testimony-mullen-2026-10-05c vines] | [T] |
-
-**What the corpus confirms.** The design intent (the architects' own words, 2002) and the vines' presence (photographs of 2017 and earlier) are documented. The rats have one contemporary trace, the 2021 Head Fellows' joke, which names no vines but fits. The freeze, the complaints about shade, the death of the vines and the nostalgia since are testimony only [T]. The storm itself is a matter of public record; that it killed Wiess's vines is not, in the corpus.
-
-The "prison" of the grates is the other half of a nickname: Wiessmen accept being called "Motel 6" because "it beats 'prison'" (see [Building lore](lore.md#motel-6) and [Motel 6 / Motel Wiess](../traditions/motel-6.md)).
 
 ## Photographs
 
@@ -88,8 +77,8 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 </figure>
 
 <figure markdown="span">
-  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
-  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.](../assets/photos/photos-outside/wing.jpg){ loading=lazy data-title="A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond." data-description="TFWKB photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond. <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -103,8 +92,8 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 </figure>
 
 <figure markdown="span">
-  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="maintainers&#x27;s photo collection; source not recorded · undated" data-gallery="newwiess" }
-  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![The glazed upper storey of the Commons at dusk, seen from an upper floor.](../assets/photos/photos-outside/upper.jpg){ loading=lazy data-title="The glazed upper storey of the Commons at dusk, seen from an upper floor." data-description="TFWKB photo collection; source not recorded · undated" data-gallery="newwiess" }
+  <figcaption>The glazed upper storey of the Commons at dusk, seen from an upper floor. <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -122,7 +111,7 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 - **The dedication date.** The December 2001 plan names Saturday 7 September 2002 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html]. Kean dates the dedication photograph to 2002 [@rhc 2014-11-19 wiess-college-luminaries], though the image file she posted is named "…2006". No source confirms the September date was kept.
 - **"The first new dormitory in 25 years."** Kirksey's phrase [@kirksey-wiess] echoes the 1994 handbook's "first new dormitory in thirty-two years" for the 1949 building [@riceinfo-history]. Both are the kind of claim a brochure makes; neither is checked here.
 - **Spelling.** Kirksey's page is titled "Rice University New Weiss College" and refers to "Hanson College" [@kirksey-wiess]. Kean's editor once changed every "Wiess" in her book to "Weiss" [@rhc 2016-05-24 hanging-out-at-wiess]. The college has fought this since at least 1997, when a spam mailing's "Weiss (note the misspelling)" made the homepage [@wb 19980131001934 http://riceinfo.rice.edu:80/projects/colleges/wiess/].
-- **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; the maintainer says "large vines" [@testimony-mullen-2026-10-05c vines]. Neither is a botanical identification.
+- **Ivy or vines.** The architects say "ivy-covered" [@machado-silvetti-wiess]; no source gives a botanical identification.
 - **Hanszen and the terrace.** "The terrace behind the Commons that we unfortunately have to share with Hanszen" from 2003 to 2011 [@oweek-2003 p.3] [@oweek-2011 p.92]; "that we share with Hanszen" from 2014 [@oweek-2014 p.102]. See [Hanszen (the rivalry)](../traditions/hanszen-rivalry.md).
 
 ## Open questions
@@ -132,8 +121,8 @@ The "prison" of the grates is the other half of a nickname: Wiessmen accept bein
 - The murals to be unveiled at the dedication [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html].
 - Was the new commons in fact used by Hanszen in 2000–01 while theirs was rebuilt, as Lundin said it would be [@riceinfo-news-2000-lundin]?
 - The 2014–17 teamwiess.com had "Old Wiess" and "New Wiess" pages under About, but both were rendered by JavaScript and are empty in every capture [@wb 20140627224504 http://teamwiess.com/]. Whoever wrote them may still have the text.
-- The vines: what species they were (the architects say ivy; a creeping fig would also be usual in Houston), whether Facilities removed the dead growth or let it fall, and whether replanting was ever proposed. A dated photograph of the façade from 2021–22 would show the vines dead or gone.
-- The architects' renderings of the vine-covered screens, which the maintainer has seen: the Machado and Silvetti images held in the corpus include a full west-façade elevation [@machado-silvetti-wiess]; the renderings themselves should be found and cited.
+- The vines: what species they were (the architects say ivy; a creeping fig would also be usual in Houston), and what has become of them since 2017. A dated photograph of the façade from 2021–22 would show their state.
+- The architects' renderings of the vine-covered screens: the Machado and Silvetti images held in the corpus include a full west-façade elevation [@machado-silvetti-wiess]; the renderings themselves should be found and cited.
 - The 2014–15 public budget and Cabinet minutes would date the Acaglider, Acagrill and later additions more exactly than "2008" [@oweek-2010 p.39].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

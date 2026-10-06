@@ -1,0 +1,56 @@
+name: Add your story
+description: You were there, or you know something about Wiess history. Tell us.
+title: "Story: "
+labels: ["oral-history", "needs-source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Stories are how we find sources. Tell it your way. Please leave out other people's private details.
+  - type: input
+    id: page
+    attributes:
+      label: Which page or topic?
+      description: A page link, or just a topic like "Beer Bike 1991".
+    validations:
+      required: true
+  - type: textarea
+    id: story
+    attributes:
+      label: Your story
+      description: What happened? Who did it (by college role or class year)? What was it called?
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: When?
+      description: A year is great. "Spring of my sophomore year, class of '94" works too.
+    validations:
+      required: false
+  - type: dropdown
+    id: how
+    attributes:
+      label: How do you know?
+      options:
+        - I have a document or photo
+        - I was there
+        - I heard it from someone
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Can we contact you? (optional)
+      description: An email or GitHub handle, and your class year. We won't publish it.
+    validations:
+      required: false
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Can we quote you?
+      description: Pick one.
+      options:
+        - label: OK to quote this on the site, credited by class year only
+        - label: Don't quote, just use it to find sources

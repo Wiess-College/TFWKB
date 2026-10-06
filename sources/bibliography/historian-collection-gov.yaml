@@ -1,4 +1,4 @@
-# Governing documents from the maintainer's own collection (tfwdb folder), added 2026-10-05.
+# Governing documents from the TFWKB collection (tfwdb folder), added 2026-10-05.
 # Workspace copies under corpus/historian-collection/; texts are also tagged commits in the
 # governance repo (cite the tag as [@gov-repo v2020-02-12]). None has a public web copy.
 
@@ -10,7 +10,7 @@
   local: historian-collection/governance/2020-wiess-constitution.docx
   evidence: P
   notes: >
-    From the maintainer's own collection (tfwdb folder); no public copy known. Original filename
+    From the TFWKB collection (tfwdb folder); no public copy known. Original filename
     "Wiess Constitution 2020.docx"; Word file created and last saved 12 February 2020 by Timothy
     Thomas II. Eleven articles; ends "Last Amended February 12, 2020 / Tim Thomas II and Drew Keefer".
     Text: historian-collection/text/2020-wiess-constitution.txt; governance repo tag v2020-02-12.
@@ -23,7 +23,7 @@
   local: historian-collection/governance/2020-wiess-bylaws.docx
   evidence: P
   notes: >
-    From the maintainer's own collection (tfwdb folder); no public copy known. Original filename
+    From the TFWKB collection (tfwdb folder); no public copy known. Original filename
     "Wiess Bylaws 2020.docx"; ten articles; same "Last Amended" line and signatures as the 2020
     Constitution. The last separate Bylaws text known. Governance repo tag v2020-02-12.
 
@@ -35,7 +35,7 @@
   local: historian-collection/governance/undated-wiess-constitution-hate-speech.pdf
   evidence: P
   notes: >
-    From the maintainer's own collection (tfwdb folder); no public copy known. Original filename
+    From the TFWKB collection (tfwdb folder); no public copy known. Original filename
     "Wiess ConstitutionND.pdf"; 20 pp; sixteen articles including Article XV Stance on Hate Speech;
     no "Last Amended" line. Dated by its PDF producer string, "Skia/PDF m134 Google Docs Renderer"
     (the 2026 PDF says m147, the 2017 Google exports m58), which places the export around
@@ -52,7 +52,7 @@
   local: historian-collection/governance/undated-wiess-housing-rules-2008.pdf
   evidence: P
   notes: >
-    From the maintainer's own collection (tfwdb folder); no public copy known under this name, but the
+    From the TFWKB collection (tfwdb folder); no public copy known under this name, but the
     file is byte-identical to the image-only PDF posted on teamwiess.com in 2010 and 2011
     [housing-rules-2010]. Two pages, image only; OCR'd 2026-10-05 (tesseract) to
     historian-collection/text/undated-wiess-housing-rules-2008.txt. Eleven sections, from "Housing

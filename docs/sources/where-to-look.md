@@ -56,7 +56,7 @@ Text-layer quirks: some books use a font whose codes are shifted by 29 (`SODFH` 
 - Mark Maxham's War Pig Design Document (1998) is live at interstice.com/~max/pig.html and maxham.com/mark/pig.html.
 - Rice Magazine, "Traditions: Wiess College" (Nov 2016).
 
-## The corpus layout (Historian's machine, `~/projects/wiess-archive/`)
+## The corpus layout (working corpus, `~/projects/wiess-archive/`)
 
 ```
 <site>/index.tsv                      timestamp, url, status, mimetype, digest, local path

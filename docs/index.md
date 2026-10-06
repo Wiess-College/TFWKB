@@ -1,34 +1,46 @@
 ---
 title: Team Family Knowledgebase
+hide:
+  - navigation
+  - toc
 ---
 
-# Team Family Knowledgebase
+<div class="tfw-hero" markdown>
 
-**The sourced history of Wiess College, Rice University—written by its students, kept by its historians, and cited to the last claim.**
+# Team Family Knowledgebase { .tfw-hero__title }
 
-Wiess has described itself to every incoming class since at least 1972: in Freshman Handbooks, in O-Week books, on a hand-built website in 1997, on teamwiess.com for twenty years, and on wiess.rice.edu now. Those descriptions disagree with each other about when things began, who did them, and what they were called—and most of the sources that could settle the arguments have been sitting in the Wayback Machine, the Thresher archive and the Campanile all along. This site puts the record in one place, says where every sentence came from, and says plainly where the record is silent or in conflict.
+The history of Wiess College, Rice University, written down and sourced.
+{ .tfw-hero__what }
 
-<div class="grid cards" markdown>
-
-- **[Traditions](traditions/index.md)**—the War Pig, Team Wiess, the Ubangee, NOD, Beer Bike, Tabletop, Pumpkin Caroling, Powderpuff and the rest, living and retired, each with its timeline; and [how the college defined its own words, year by year](traditions/glossary-series.md), from 12 glossaries and 1,288 definitions.
-- **[Places](places/index.md)**—Old Wiess (1949–2002), New Wiess (2002–), the Acabowl, the Magisters' house, and the man the college is named for.
-- **[People](people/index.md)**—the Core Team, Magisters, Resident Associates, the College Idiot, and the Historians the college has had on paper since 1991.
-- **[Governance](governance/index.md)**—how the Constitution, Bylaws and Rules changed from 1991 to 2026, version by version, with the texts themselves kept as a git lineage in the [governance repository](https://github.com/Wiess-College/governance).
-- **[Changes](changes/index.md)**—the chronological spine: one dated, cited entry per change, by decade.
-- **[Decisions](decisions/index.md)**—records of the decisions the college makes about itself, written by the people who made them, starting with NOD 2026.
-- **[The Web](web/index.md)**—the Wiess website through the years, 1997 to now, and the places Wiess posted outside it.
-- **[Sources](sources/index.md)**—the annotated bibliography, where to look, how evidence is classed, and the search log of what has and hasn't been tried.
+Every tradition, where it came from, and the receipts.
+{ .tfw-hero__vibe }
 
 </div>
 
-## How to read a page
+<nav class="tfw-tiles" aria-label="Popular pages" markdown>
 
-Every Record page has the same shape: a summary that is true on its own; a **timeline** with one dated row per claim, each carrying a citation and an evidence tag—<span class="ev ev-P">P</span> primary, <span class="ev ev-R">R</span> retrospective, <span class="ev ev-T">T</span> testimony; the college's own words about the thing, by year; **Variants & disputes**, where sources disagree and the page says so rather than choosing quietly; and **Open questions**. Citations look like <a class="cite" href="#">[oweek-2006 p.84]</a> and open the archived source at the page cited.
+[:material-pig-variant: The War Pig](traditions/warpig.md){ .tfw-tile .tfw-tile--gold }
+[:material-sort-alphabetical-ascending: Traditions A–Z](traditions/index.md){ .tfw-tile }
+[:material-party-popper: NOD](traditions/night-of-decadence.md){ .tfw-tile }
+[:material-bicycle: Beer Bike](traditions/beer-bike.md){ .tfw-tile }
+[:material-home-city: Old Wiess vs New Wiess](places/index.md){ .tfw-tile }
+[:material-account-group: The Core Team](people/core-team.md){ .tfw-tile }
+[:material-book-alphabet: What does that word mean?](traditions/glossary-series.md){ .tfw-tile }
+[:material-incognito: Off the books](traditions/off-the-books.md){ .tfw-tile }
+[:material-image-multiple: Photos](gallery/index.md){ .tfw-tile }
+[:material-pencil-plus: Add your story](about/contribute.md){ .tfw-tile .tfw-tile--ink }
 
-## How to add to it
+</nav>
 
-The easy place to *say* something is the [Commons](https://github.com/Wiess-College/TFWKB/wiki)—the wiki. Memories, questions, drafts, photographs with uncertain dates. Sign with your name and class year and say how you know. The careful place to *state* something is here, the Record, where every change is a pull request with a citation and one other maintainer's approval. The Historian's job is to walk the Commons and bring what can be sourced across. [How that works](contributing/commons-to-record.md) · [How to cite](contributing/citing.md) · [Page template](contributing/page-template.md).
+<section class="tfw-facts" aria-labelledby="dyk" markdown>
 
-## Status
+## Did you know? { #dyk }
 
-This is the first assembly, October 2026, built from the War Pig research and the web-archive crawls of that autumn. Every page is marked `draft` until a maintainer has reviewed it against its sources. Known gaps are listed on each page and gathered in the [search log](sources/search-log.md). Text is CC BY-SA 4.0; see [Rights](contributing/rights.md) for what is quoted, what is linked, and what is deliberately not here.
+- Night of Decadence started around 1972 with about 30 guys. (Or 1973. People still argue.) [@rice-magazine-2016-wiess-traditions] [@thresher-1999-02-19-robinson]
+- The first Beer Bike pig, in 1986, was a trash-bag hot-air balloon. It floated off and landed blocks away. [@maxham-pig-document]
+- Tabletop's first show, *Hello, Hamlet!*, opened in the Wiess Commons in October 1967. Tickets were $1. [@thresher-1967-09-28-hello-hamlet] [@thresher-1967-10-05-hello-hamlet-review]
+
+</section>
+
+[How to use this site](about/how-to-use.md) · [About](about/index.md) · [Add your story](about/contribute.md)
+{ .tfw-footlinks }

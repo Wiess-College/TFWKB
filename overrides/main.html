@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{#- Per-page "Suggest a correction / Add your story / Discuss" buttons.
+    Each issue link opens a GitHub issue form (.github/ISSUE_TEMPLATE/*.yml)
+    with the title and the form's `page` field filled in from this page. -#}
+{% macro tfw_actions(where) %}
+  {%- set issues = config.repo_url ~ "/issues/new" -%}
+  {%- set src = page.file.src_uri -%}
+  {%- set url = (config.site_url or "") ~ page.url -%}
+  {%- set where_field = (url ~ " (" ~ src ~ ")") | urlencode -%}
+  {%- set ptitle = page.title | d(config.site_name, true) | striptags -%}
+  <div class="tfw-actions tfw-actions--{{ where }}" role="group" aria-label="Help improve this page">
+    {%- if where == "bottom" %}
+    <p class="tfw-actions__ask">Know something we don't?</p>
+    {%- endif %}
+    <a class="tfw-action" href="{{ issues }}?template=correction.yml&amp;title={{ ('Correction: ' ~ ptitle) | urlencode }}&amp;page={{ where_field }}" target="_blank" rel="noopener">
+      <span aria-hidden="true">✏️</span> Suggest a correction</a>
+    <a class="tfw-action" href="{{ issues }}?template=story.yml&amp;title={{ ('Story: ' ~ ptitle) | urlencode }}&amp;page={{ where_field }}" target="_blank" rel="noopener">
+      <span aria-hidden="true">📖</span> Add your story</a>
+    <a class="tfw-action" href="{{ config.extra.discuss_url }}" target="_blank" rel="noopener">
+      <span aria-hidden="true">💬</span> Discuss</a>
+  </div>
+{% endmacro %}
+
+{% block content %}
+  {%- set tfw_show = page and page.file and not page.is_homepage
+       and not page.file.src_uri.startswith("about/")
+       and page.meta.get("page_actions", true) -%}
+  {% if tfw_show %}{{ tfw_actions("top") }}{% endif %}
+  {{ super() }}
+  {% if tfw_show %}{{ tfw_actions("bottom") }}{% endif %}
+{% endblock %}

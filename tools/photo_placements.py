@@ -8,7 +8,7 @@ Markdown citation shown under the image. Run apply_photos.py to fill the galleri
 RHC_CONS = "[@rhc 2012-12-04 wiess-hall-construction-1949]"
 CONS = "Rice University, Woodson Research Center, via Rice History Corner"
 DELANY = "Colin Delany '91, 'wiess college | abandoned', August 2002"
-UNREC = "maintainer's photo collection; source not recorded"
+UNREC = "TFWKB photo collection; source not recorded"
 
 P = [
     # --- Old Wiess: construction (1949-50)
@@ -115,11 +115,11 @@ P = [
      UNREC, "[@wb 20021013235815 http://www.teamwiess.com:80/pow.html]", "undated", "The Acabowl"),
     # --- Terraces / Toke
     ("photos-outside/bacaterrace.jpg", "terraces",
-     "The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace', Hanszen's name for it in 2026.",
-     UNREC, "[@testimony-mullen-2026-10-05b terraces]", "undated", "The terraces"),
+     "The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace'.",
+     UNREC, "", "undated", "The terraces"),
     ("photos-outside/fourthterrace.jpg", "terraces",
-     "The fourth-floor balcony, Toke (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond.",
-     UNREC, "[@testimony-mullen-2026-10-05b Toke]", "undated", "The terraces"),
+     "The fourth-floor balcony (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond.",
+     UNREC, "", "undated", "The terraces"),
     ("photos-outside/terrace-sky.jpg", "terraces",
      "Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony.",
      UNREC, "", "undated", "The terraces"),
@@ -177,7 +177,7 @@ P = [
     # --- NOD
     ("nod/themes-graphic.jpg", "nod",
      "'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.",
-     "Image of unknown origin, in the maintainer's NOD images", "", "c.2011–12", "Night of Decadence"),
+     "Image of unknown origin, in the TFWKB NOD images", "", "c.2011–12", "Night of Decadence"),
     ("nod/1985-3.jpg", "nod",
      "NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left.",
      "The Campanile 1985, p.283", "[@campanile-1985]", "1984-10-26", "Night of Decadence"),

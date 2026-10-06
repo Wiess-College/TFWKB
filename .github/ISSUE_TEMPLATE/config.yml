@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Team Family Knowledgebase (the site)
+    url: https://wiess-college.github.io/TFWKB/
+    about: Read the sourced history of Wiess College.
+  - name: How to add your story or fix something
+    url: https://wiess-college.github.io/TFWKB/about/contribute/
+    about: The three ways to help, in plain words.
+  - name: The Commons (wiki)
+    url: https://github.com/Wiess-College/TFWKB/wiki
+    about: Memories, questions and drafts. No review needed.

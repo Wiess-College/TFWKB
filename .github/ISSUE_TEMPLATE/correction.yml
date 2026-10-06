@@ -1,0 +1,42 @@
+name: Suggest a correction
+description: Something on a page is wrong, missing or out of date.
+title: "Correction: "
+labels: ["correction", "needs-source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! Short answers are fine. A maintainer will check it against the sources.
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: The page link or name. The buttons on the site fill this in for you.
+      placeholder: https://wiess-college.github.io/TFWKB/traditions/warpig/
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong?
+      description: Quote the sentence or timeline row if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What's right, and where can we check it?
+      description: A link, an O-Week book page, a Thresher issue, a photo… anything we can cite.
+    validations:
+      required: false
+  - type: dropdown
+    id: how
+    attributes:
+      label: How do you know?
+      options:
+        - I have a document or photo
+        - I was there
+        - I heard it from someone
+        - Other
+    validations:
+      required: true

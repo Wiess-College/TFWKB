@@ -91,7 +91,7 @@ On 5 June 2024 the Dean of Undergraduates, Bridget Gorman, and the Wiess Magiste
 
 ## Themes, year by year
 
-A graphic headed "Themes through the decades", kept among the maintainer's NOD images, lists a theme for every year from 1973–75 to 2011. Its origin is unknown. It names no source, and its newspaper-style layout (two columns along a timeline arrow) suggests a press graphic of about 2011–12. It is cited here as an image of unknown origin, with the theme names transcribed as printed. Every theme that can be checked against the Thresher, the Campanile or the college's own party pages agrees with it, which is good evidence for the rest.
+A graphic headed "Themes through the decades", kept with the TFWKB NOD images, lists a theme for every year from 1973–75 to 2011. Its origin is unknown. It names no source, and its newspaper-style layout (two columns along a timeline arrow) suggests a press graphic of about 2011–12. It is cited here as an image of unknown origin, with the theme names transcribed as printed. Every theme that can be checked against the Thresher, the Campanile or the college's own party pages agrees with it, which is good evidence for the rest.
 
 | Year | Theme, as printed on the graphic | Other sources |
 |---|---|---|
@@ -141,8 +141,8 @@ The graphic is reproduced in the gallery below. Themes after 2011 that the recor
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the maintainer&#x27;s NOD images · c.2011–12" data-gallery="nod" }
-  <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the maintainer&#x27;s NOD images</small></figcaption>
+  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the TFWKB NOD images · c.2011–12" data-gallery="nod" }
+  <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the TFWKB NOD images</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -151,13 +151,13 @@ The graphic is reproduced in the gallery below. Themes after 2011 that the recor
 </figure>
 
 <figure markdown="span">
-  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · c.1983" data-gallery="nod" }
-  <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="TFWKB photo collection; source not recorded · c.1983" data-gallery="nod" }
+  <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 1998" data-gallery="nod" }
-  <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="TFWKB photo collection; source not recorded · 1998" data-gallery="nod" }
+  <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>

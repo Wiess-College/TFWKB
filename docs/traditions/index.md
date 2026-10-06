@@ -15,7 +15,7 @@ Ray Wagner's December 1999 revision kept the tiers but moved things between them
 
 | Tradition | First attested in our corpus | Status in 2026 | Page |
 |---|---|---|---|
-| Motel 6 / Motel Wiess (the nickname) | 1972, "in the best motel tradition" [@handbook-1972]; "Motel Wiess" 1998 [@riceinfo-associates] | Alive: other colleges' name for Wiess, embraced, per the maintainer [@testimony-mullen-2026-10-05c Motel 6] | [Motel 6 / Motel Wiess](motel-6.md) |
+| Motel 6 / Motel Wiess (the nickname) | 1972, "in the best motel tradition" [@handbook-1972]; "Motel Wiess" 1998 [@riceinfo-associates] | Alive in print: the O-Week books still use "Motel 6" in 2025 [@oweek-2025 p.24] | [Motel 6 / Motel Wiess](motel-6.md) |
 | War Pig | 1994, "The Wiess mascot, an enormous inflatable pig" [@handbook-1994] | Changed: a wooden pig from 2012 [@oweek-2014 p.103]; an inflatable "resurrected" at Beer Bike 2024 [@thresher-2024-04-10] | [The War Pig](warpig.md) |
 | Team Wiess (the chant) | 1994, "Cheer used in support of any Wiess team, especially at Beer-Bike" [@handbook-1994] | Unknown; last glossary entry 2017 [@oweek-2017 p.15] | [Team Wiess](team-wiess.md) |
 | Ubangee | 1994, "A unique Wiess mass celebration of life" [@handbook-1994] | Unknown; last glossary entry 2017 [@oweek-2017 p.15] | [The Ubangee](ubangee.md) |
@@ -34,13 +34,13 @@ Ray Wagner's December 1999 revision kept the tiers but moved things between them
 | Fort Wiess | 2002, "the Wiess fort" at Beer Bike [@thresher-portal 2002-04-05 p.6] | Unknown; one season in the record | [Fort Wiess](fort-wiess.md) |
 | Summit | 2003, "Weekend retreat to discuss Wiess issues" [@oweek-2003 p.4] | Alive: the Internal VP "shall plan Wiess College Summit and Big Bang" [@constitution-2026 p.6] | [Summit](summit.md) |
 | Study breaks | 2003, "The masters throw study breaks" [@oweek-2003 intro p.7] | Alive: the RAs and Associates host them [@oweek-2025 p.31] [@oweek-2025 p.29] | [Study breaks](study-breaks.md) |
-| Pumpkin Grades | 2003, "Mid-semester grades given to freshmen in the fall" [@oweek-2003 p.6] | Alive: the grades are still given [@rice-registrar-midterm-grades]; the Wiess custom attached to them per the maintainer [@testimony-mullen-2026-10-05 Pumpkin Grades] | [Pumpkin Grades](pumpkin-grades.md) |
-| DOME | 2008, the menu heading "DOME & Big Bang" [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]; "DOME party" 2009 [@teamwiess-activities-2009] | Alive, per the maintainer [@testimony-mullen-2026-10-05 DOME] | [DOME](dome.md) |
+| Pumpkin Grades | 2003, "Mid-semester grades given to freshmen in the fall" [@oweek-2003 p.6] | Alive: the grades are still given [@rice-registrar-midterm-grades] | [Pumpkin Grades](pumpkin-grades.md) |
+| DOME | 2008, the menu heading "DOME & Big Bang" [@wb 20080625214640 http://teamwiess.com/index.php?r=domebigb]; "DOME party" 2009 [@teamwiess-activities-2009] | Unknown; the last written account is of 2010 [@wb 20100826015909 http://teamwiess.com/activities.php] | [DOME](dome.md) |
 | Wiess Day | 2010, as "Jamfest/Wiess Day" [@oweek-2010 p.91]; the 2015 site dates it to spring 2008 [@wb 20150313224552 http://teamwiess.com/traditions.html] | Unknown; last glossary entry 2017 [@oweek-2017 p.15] | [Wiess Day](wiess-day.md) |
-| TFFW (Team Fun Friday Wiess) | 2014, "Team Fun Friday Wiess Representatives" [@wb 20140627224604 http://teamwiess.com/representatives.html]; Acabowl TGs in 1994 [@handbook-1994] | Alive: "TFFW Painting 2024" on the college website [@wb 20251013212528 https://wiess.rice.edu/]; per the maintainer [@testimony-mullen-2026-10-05b TFFW] | [TFFW](tffw.md) |
-| Die (the game) | 2025, a Fellow called a "die demon" [@oweek-2025 p.36] | Alive, per the maintainer [@testimony-mullen-2026-10-05c die] | [Die](die.md) |
-| Gatsby | 2026, testimony only [@testimony-mullen-2026-10-05 Gatsby] | Alive, per the maintainer | [Gatsby](gatsby.md) |
-| Senior and Freshman Debates | 2026, testimony only [@testimony-mullen-2026-10-05 Debates] | Alive, per the maintainer | [Senior and Freshman Debates](debates.md) |
+| TFFW (Team Fun Friday Wiess) | 2014, "Team Fun Friday Wiess Representatives" [@wb 20140627224604 http://teamwiess.com/representatives.html]; Acabowl TGs in 1994 [@handbook-1994] | Alive: "TFFW Painting 2024" on the college website [@wb 20251013212528 https://wiess.rice.edu/] | [TFFW](tffw.md) |
+| Die (the game) | 2025, a Fellow called a "die demon" [@oweek-2025 p.36] | Unknown | [Die](die.md) |
+| Gatsby | Not yet documented | Unknown | [Gatsby](gatsby.md) |
+| Senior and Freshman Debates | Not yet documented | Unknown | [Senior and Freshman Debates](debates.md) |
 
 The college's arms (the Wiess family crest with a Rice owl for the goose) and its colors (black and gold, gold, goldenrod) are on [Crest, colors and symbols](symbols.md) [@wb 19980131012032 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/crest.html].
 
@@ -58,7 +58,7 @@ The college's arms (the Wiess family crest with a Rice owl for the goose) and it
 | No-Theme Wiess | 1997, "Dying Out" [@riceinfo-traditions-1997] | Promoted to "Like To See Continue" in 1999 [@riceinfo-traditions-1999]; nothing after | [No-Theme Wiess](retired/no-theme-wiess.md) |
 | Freshman Weenie Roast | 1997 [@riceinfo-traditions-1997] | Still "an all-college Weenie Roast" thrown by two freshmen in 2007 [@oweek-2007 p.43]; absent from 2008 on | [Freshman Weenie Roast](retired/freshman-weenie-roast.md) |
 | Formal Dinner, freshman waiting and long tables | 1950s, as the books tell it [@oweek-2006 p.37]; "Freshman Waiting" in the 1991 Rules [@rules-1991 §VI] | Family style weekly in 2003 [@oweek-2003 wiess p.6]; "Until two years ago" in 2006 [@oweek-2006 p.42] | [Formal Dinner](retired/formal-dinner.md) |
-| The Acatramp | 1994, "The purple and black trampoline" [@handbook-1994] | Glossary through 2019 [@oweek-2019 p.14]; gone in 2021 [@oweek-2021 p.18]; ended "for safety reasons" [@testimony-mullen-2026-10-05c Acatramp] | [The Acatramp](retired/acatramp.md) |
+| The Acatramp | 1994, "The purple and black trampoline" [@handbook-1994] | Glossary through 2019 [@oweek-2019 p.14]; gone in 2021 [@oweek-2021 p.18] | [The Acatramp](retired/acatramp.md) |
 
 ## Variants & disputes
 

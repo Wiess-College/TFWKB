@@ -68,15 +68,13 @@ The pig is Beer Bike's Wiess-shaped shadow and has its own page: [The War Pig](w
 
 ## Beer Bike hair
 
-**What.** Beer Bike is a day for hair. First-years shave their heads, or shave **TFW**, or a single **T**, **F** or **W**, into their hair; others bleach their hair goldenrod, some only the tips; and someone usually gets the "grandpa cut", bald on top with a ring of hair left round the sides [@testimony-mullen-2026-10-05c Beer Bike hair] [T].
-
-**Written record.** The O-Week books never describe the custom, but their Fellow profiles assume it. 2009: a Co-Fellow recognisable by "a 'sidewalk' shaved through his head", a style he "once sported" [@oweek-2009 part 2 p.6]. 2014 and 2016: Fellows known by their "bright goldenrod hair" and the "sunshine from his goldenrod hair" [@oweek-2014 p.10] [@oweek-2016 p.54]. 2017: a Fellow who "used to have purple hair (and not just for Beer Bike – it was a much more serious relationship than that)", which takes colored Beer Bike hair for granted [@oweek-2017 p.41]. 2024: "for the newcomers to Rice, ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54]. The college has had a Haircutting representative (2020–21), renamed Hair (2023) [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [P]; the list does not say what the job involves. Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). The shaved letters, the bleached tips and the grandpa cut are testimony only.
+The O-Week books never describe a Beer Bike hair custom, but their Fellow profiles assume one. 2009: a Co-Fellow recognisable by "a 'sidewalk' shaved through his head", a style he "once sported" [@oweek-2009 part 2 p.6]. 2014 and 2016: Fellows known by their "bright goldenrod hair" and the "sunshine from his goldenrod hair" [@oweek-2014 p.10] [@oweek-2016 p.54]. 2017: a Fellow who "used to have purple hair (and not just for Beer Bike – it was a much more serious relationship than that)", which takes colored Beer Bike hair for granted [@oweek-2017 p.41]. 2024: "for the newcomers to Rice, ask him about Beer Bike and his hair – you're in for a surprise" [@oweek-2024 p.54]. The college has had a Haircutting representative (2020–21), renamed Hair (2023) [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [P]; the list does not say what the job involves. Goldenrod is the college color (see [Crest, colors and symbols](symbols.md)). The written record says little about the custom itself so far.
 
 An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair grow until Thanksgiving" as part of Freshman Guidance [@rhc 2020-04-20 not-hamman-hall-at-night-circa-1970 comment by Galloway Hudson. Wiess '60, 20 Apr 2020] [T].
 
-## Screen printing: YEAH WIESS, YEAH BEER, YEAH WATER
+## Screen printing: YEAH WIESS
 
-**What.** Wiess prints its own T-shirts. Screen printing was once an O-Week activity and later became a study break; the old screens are still in the basement, in the area of the former photographic darkroom. The most famous designs are "YEAH WIESS", "YEAH BEER" and "YEAH WATER", printed for Beer Bike [@testimony-mullen-2026-10-05c screen printing] [T].
+Wiess has printed its own T-shirts since at least the 1980s.
 
 | When | What | Evidence |
 |---|---|---|
@@ -90,9 +88,8 @@ An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair
 | 2020-02-12 | The Bylaws' equipment list now reads "shirt-screening equipment" where "dark room equipment" stood [@bylaws-2020 Art. III §2] | [P] |
 | 2021 | The O-Week coordinators photographed in YEAH WIESS shirts [@wb 20210619003837 http://teamwiess.com/images/oweek2021/coords.jpg] (see [O-Week](o-week.md#photographs)) | [P] |
 | 2021– | No Yeah Wiess or screening representative on the lists of 2020–2023; no "shirt screening" in the 2021–2025 glossaries [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wiess-rice-edu-representatives-2023] [@oweek-2021 p.18] | [P] |
-| 2026-10-05 | Once an O-Week activity, later a study break; old screens in the basement darkroom area; YEAH WIESS, YEAH BEER, YEAH WATER for Beer Bike [@testimony-mullen-2026-10-05c screen printing] | [T] |
 
-**What the corpus confirms.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020, which fits the Historian's screens in the old darkroom. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). "YEAH BEER" and "YEAH WATER", screen printing as an O-Week activity and as a study break are testimony only. YEAH WATER fits the chuggers, who have drunk water "of course" since at least 2006 [@oweek-2006 p.51] [@oweek-2024 p.39]. The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); screen printing as a study break is on [Study breaks](study-breaks.md#screen-printing).
+**What the corpus confirms.** In-house screen printing at Wiess from the early 1980s (testimony) and in writing from c.1997; a dedicated representative from 2010 to at least 2017, whose title was the slogan "YEAH WIESS"; the basement as the place for it (2014–2019); and the Bylaws' swap of "dark room equipment" for "shirt-screening equipment" between 2011 and 2020. "YEAH WIESS" is documented (the rep's title, 2010–2017; the shirts, 2021). The place is on [The basement and Sparky's](../places/basement-and-sparkys.md#the-darkroom-and-the-screens); the rep's study-break plans are on [Study breaks](study-breaks.md#screen-printing).
 
 ## Photographs
 
@@ -109,7 +106,7 @@ An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair
 
 ## Variants & disputes
 
-**Who wrote the Beer Bike page, and when.** The page is dated "Last Updated 6/25/99 by Ray Wagner" in its 2001–02 captures [@riceinfo-beerbike], and the historian's reading guide attributes the wake-up canon and the "I'm still pissed off" line to Wagner in June 1999. The January 1999 capture carries the same text under "Last Updated 8/11/97 by David M. Cunningham" [@wb 19990117000719 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/beerbike.html]. Wagner re-dated the page without changing it. The canon, the firehose and the state of the pig are therefore Cunningham's observations of 1997, and "a few years back" points to the attacks of 1993 (or 1994–95), not later.
+**Who wrote the Beer Bike page, and when.** The page is dated "Last Updated 6/25/99 by Ray Wagner" in its 2001–02 captures [@riceinfo-beerbike], and the project's reading guide attributes the wake-up canon and the "I'm still pissed off" line to Wagner in June 1999. The January 1999 capture carries the same text under "Last Updated 8/11/97 by David M. Cunningham" [@wb 19990117000719 http://riceinfo.rice.edu/projects/colleges/wiess/traditions/beerbike.html]. Wagner re-dated the page without changing it. The canon, the firehose and the state of the pig are therefore Cunningham's observations of 1997, and "a few years back" points to the attacks of 1993 (or 1994–95), not later.
 
 **What the chuggers drink.** "Beer with the alcohol boiled out of it" (1997) [@riceinfo-beerbike]; "chugging water" (2006) [@oweek-2006 p.51]; "chugging water, of course" (2024) [@oweek-2024 p.39]; "they chug water now, not beer" (2016) [@owlmanac-2016 p.43]. The 1997 writer was guessing ("I have no idea how it tastes"); the later books state it as the rule. Whether the drink actually changed between 1997 and 2006 or the 1997 page was simply wrong, the corpus does not say.
 
@@ -117,7 +114,7 @@ An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair
 
 **Wake-up music.** The 1997 canon is the only list in the corpus [@riceinfo-beerbike]; the 2024 and 2025 books name one current song, "All I Do Is Win," at 4 am [@oweek-2024 p.39]. The 2016 book confirms the custom (a named Fellow "waking you up at 4 am on Beer Bike") but not the playlist [@oweek-2016 p.58]. Whether "War Pigs" was still played in 2016 is unknown.
 
-**Themes.** The O-Week books do not record Wiess's Beer Bike themes, only the 2012 "Trojan Warpig / Beerseige our enemies!" via the Campanile [@campanile-2012]. The college blog's 2014 theme "Goldenrod Monkey" is noted in the historian's archive index but no capture of it is in the corpus, so it is not claimed here.
+**Themes.** The O-Week books do not record Wiess's Beer Bike themes, only the 2012 "Trojan Warpig / Beerseige our enemies!" via the Campanile [@campanile-2012]. The college blog's 2014 theme "Goldenrod Monkey" is noted in the archive index but no capture of it is in the corpus, so it is not claimed here.
 
 **Winning.** The 1975 version of the chant story says the team "celebrated its second win ever" [@oweek-2010 p.39]; the 1997 page says "we've lost the last few years" [@riceinfo-beerbike]; a 2006 book describes Brown's women's team winning "this year" and the 2009 book Will Rice's sweeps [@oweek-2006 p.53] [@wb 20090824073318 http://www.teamwiess.com/downloads/o-week/Part_4_2009.pdf p.10]. No Wiess results table exists in the corpus.
 
@@ -127,8 +124,8 @@ An inverse from the 1950s: "Circa 1956, Freshmen were required to let their hair
 
 ## Open questions
 
-- Beer Bike hair: when first-years began shaving TFW or its letters, and when goldenrod bleach became usual. Photographs of Beer Bike mornings are the likeliest evidence. What the Haircutting / Hair representative (2020–23) does, and whether Beer Bike is part of it.
-- When screen printing stopped being an O-Week activity and became a study break; when YEAH BEER and YEAH WATER were first printed; whether a screen or a shirt survives with a date on it.
+- Beer Bike hair: what the custom is and when it began. Photographs of Beer Bike mornings are the likeliest evidence. What the Haircutting / Hair representative (2020–23) does, and whether Beer Bike is part of it.
+- Whether a screen or a shirt survives with a date on it; what other slogans were printed.
 - Wiess's Beer Bike results by year: the Thresher's race reports (Portal to Texas History, every April) would build the table; no source yet.
 - The playlist after 1997, and who "the cruel upperclassman" has been; the 2016 Fellow is the only named music player.
 - The wiess.wordpress.com Beer Bike 2014 post ("Goldenrod Monkey")—the blog is private; the 52 Wayback URLs should be checked for it.

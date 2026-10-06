@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The Acatramp
 
-The Acatramp was the trampoline in the middle of the Acabowl: "The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jump" (1994) [@handbook-1994]. It is in every O-Week glossary in the corpus from 2003 to 2019 ("A trampoline, in the Acabowl"; from 2015 "The trampoline located in the Acabowl") and is gone from the glossary in 2021, the first year without it [@oweek-2003 conclusions p.3] [@oweek-2019 p.14] [@oweek-2021 p.18]. It crossed from Old Wiess to the new courtyard in 2002: a photograph of 2002–04 shows a trampoline in the foreground of the New Wiess Acabowl under the tethered War Pig [@warpig-core-deck slide 32]. The maintainer says it "died out for safety reasons" [@testimony-mullen-2026-10-05c Acatramp] [T]. No written source in the corpus records its removal. The nearest thing to a reason in writing is older. In January 1997, when the mat had "grown a large hole which makes it unusable", a freshman wrote that "The college cabinet… can not purchase a replacement trampoline or trampoline parts due to insurance liability", so the college had to raise the money privately [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. Liability was already the problem a quarter-century before the end.
+The Acatramp was the trampoline in the middle of the Acabowl: "The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jump" (1994) [@handbook-1994]. It is in every O-Week glossary in the corpus from 2003 to 2019 ("A trampoline, in the Acabowl"; from 2015 "The trampoline located in the Acabowl") and is gone from the glossary in 2021, the first year without it [@oweek-2003 conclusions p.3] [@oweek-2019 p.14] [@oweek-2021 p.18]. It crossed from Old Wiess to the new courtyard in 2002: a photograph of 2002–04 shows a trampoline in the foreground of the New Wiess Acabowl under the tethered War Pig [@warpig-core-deck slide 32]. No written source in the corpus records its removal. The nearest thing to a reason in writing is older. In January 1997, when the mat had "grown a large hole which makes it unusable", a freshman wrote that "The college cabinet… can not purchase a replacement trampoline or trampoline parts due to insurance liability", so the college had to raise the money privately [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html].
 
 ## Timeline
 
@@ -25,7 +25,6 @@ The Acatramp was the trampoline in the middle of the Acabowl: "The purple and bl
 | 2015–2019 | "**Acatramp** The trampoline located in the Acabowl" [@oweek-2015 p.118] [@oweek-2016 p.13] [@oweek-2017 p.14] [@oweek-2019 p.14]; a Fellow "reading out on the trampoline, soaking up the sun" [@oweek-2016 p.50]; the RAs' son still "loves… the trampoline" [@oweek-2017 p.21] | [P] |
 | 2021 | No Acatramp in the glossary, the first book since 1994 without it; the history paragraph also drops the Acahammock [@oweek-2021 p.18] [@oweek-2021 p.17] | [P] |
 | 2024–2025 | No Acatramp, and no Acabowl entry at all, in the glossaries [@oweek-2024 p.25] [@oweek-2025 p.26] | [P] |
-| 2026-10-05 | "A tradition that died out for safety reasons" [@testimony-mullen-2026-10-05c Acatramp] | [T] |
 
 ## As the college described it
 
@@ -48,7 +47,7 @@ The entry year by year is in [How we described ourselves, by year](../glossary-s
 
 ## Variants & disputes
 
-- **Why it ended.** The maintainer: "safety reasons" [@testimony-mullen-2026-10-05c Acatramp]. The only written statement about the trampoline and risk is the 1997 letter, in which the Cabinet could not buy a trampoline "due to insurance liability" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. The two fit together: a college that could not insure the purchase in 1997 kept a trampoline for another twenty years, and a safety decision ended it. No source says who decided, or when. The glossary dates the end to between the June 2019 book and the summer 2021 book [@oweek-2019 p.14] [@oweek-2021 p.18]. That window includes the pandemic year, when the building was barely lived in (see [New Wiess](../../places/new-wiess.md#the-vines)), so the trampoline may simply not have been replaced.
+- **Why it ended.** No written source says. The only written statement about the trampoline and risk is the 1997 letter, in which the Cabinet could not buy a trampoline "due to insurance liability" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]. No source says who decided, or when. The glossary dates the end to between the June 2019 book and the summer 2021 book [@oweek-2019 p.14] [@oweek-2021 p.18], a window that includes the pandemic year.
 - **One trampoline or several.** "Purple and black" in 1994 [@handbook-1994]; broken and unusable in January 1997, with the college soliciting "donations of trampoline parts" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; a trampoline in the new Acabowl by 2002–04 [@warpig-core-deck slide 32]. The Acatramp was an institution, not an object; there were evidently several trampolines.
 - **Did the glossary outlive the trampoline?** Glossary entries were often copied forward unchanged (the 2003 wording ran to 2014). The RA profiles and Fellow profiles of 2014–2017, which mention the trampoline as something people use, are better evidence that it was still there than the glossary [@oweek-2014 p.8] [@oweek-2016 p.50] [@oweek-2017 p.21].
 
@@ -57,6 +56,6 @@ The entry year by year is in [How we described ourselves, by year](../glossary-s
 - When the Acatramp first appeared. The 1997 letter calls it "a long-standing tradition" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; the 1994 entry is the first in the corpus [@handbook-1994].
 - Whether the 1997 appeal raised anything (Bill Gates is not known to have replied).
 - When and by whom the last trampoline was removed, between 2019 and 2021, and whether an injury, an insurer, Rice Risk Management or Housing & Dining was behind it. Cabinet minutes of 2019–21 or the college coordinator would know.
-- Whether the "safety reasons" were Wiess's alone: did other colleges have trampolines?
+- Whether other colleges had trampolines, and what happened to them.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

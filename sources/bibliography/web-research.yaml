@@ -1,0 +1,228 @@
+# Sources added by the web-and-unofficial researcher (the die game, the Housing Jack, the unofficial side).
+# Same fields as the other files. Evidence: P = period/primary record, R = reference or secondary account,
+# T = testimony. Findings and open questions: /home/claude/work/web-and-unofficial.md
+
+# --- The die game -------------------------------------------------------------------------------
+
+- key: wikipedia-beer-die
+  title: "'Beer die', Wikipedia (consulted 5 Oct 2026)"
+  type: website
+  date: 2026-10-05
+  url: https://en.wikipedia.org/wiki/Beer_die
+  evidence: R
+  notes: >
+    Reference summary of the standing game: 8 by 4 ft plywood table, a cup at each corner ("8 inches from the
+    back, 5 inches from the side"), two-a-side, the toss must go "higher than 8 feet from the ground", a point when
+    the die comes off the defenders' end uncaught, one-handed catches only, a "plunk" (die in a cup) and "plink"
+    (die hits a cup); numbers five and seven replaced by "bizz" and "buzz". Says the standing game "was originally
+    developed from the drinking game Snappa" (the seated form). Cites the Beer Die League's tournament rules
+    (archived 2016), Applebaum and DiSorbo, The Book of Beer Awesomeness (2012), and a 1996 Colby College rules
+    sheet ("Beer Die: The Official Game of Colby College"). Gives no origin date.
+
+- key: wikipedia-beer-die-2017
+  title: "'Beer Die', Wikipedia, 2017 snapshot (IPFS mirror)"
+  type: website
+  date: 2017
+  url: https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Beer_Die.html
+  evidence: R
+  notes: >
+    Older text of the article, keeping the origin claims later cut: a "legend" that "the game started in the
+    1970's by Naval officers on guard duty as 'Snapple'" and passed to Santa Clara University, against the Beer
+    Die League's claim to have traced it to "the University of Maine-Orono ... in 1972". Also: "Only one hand may
+    be used to catch"; tosses "at least as high as the table is long, or at a height equal to the tallest player".
+
+- key: vinepair-2016-11-09-beer-die
+  title: "Nick Hines, 'Beer Die History', VinePair, 9 Nov 2016"
+  type: website
+  date: 2016-11-09
+  url: https://vinepair.com/articles/beer-die/
+  evidence: R
+  notes: >
+    Sets out the three competing origin stories side by side: University of Maine 1972 (Beer Die League: "Four
+    fraternity men tossed a single die above a table"), Colby College 1978 (per The Colby Echo), and Navy officers /
+    Santa Clara in the 1970s (per Wikipedia). Quotes the league: "Beer Die is a gentleman's game".
+
+- key: jhu-newsletter-2002-11-14-beer-die
+  title: "Alexandra Fenwick, 'From Beirut to beer die: drinking games provide good times', Johns Hopkins News-Letter, 14 Nov 2002"
+  type: newspaper
+  date: 2002-11-14
+  url: https://jhunewsletter.com/2002/11/14/from-beirut-to-beer-die-drinking-games-provide-good-times-75736
+  evidence: R
+  notes: >
+    Early student-press description; attributes the game to Colby College. Seated two-a-side; "plink" and "plunk";
+    games to five or seven, win by two; a point when the opponents fail to catch the bounce. Shows the game's
+    house-rule culture (nicknames on the table for a plunk, forfeits for self-plunks).
+
+- key: eli-2023-10-21-beer-die
+  title: "Mya Gregory, 'ELi has the Answers to What's Up With the Beer Die Trend', East Lansing Info, 21 Oct 2023"
+  type: newspaper
+  date: 2023-10-21
+  url: https://eastlansinginfo.news/?p=417066
+  evidence: R
+  notes: >
+    Plain modern rules: a "4-foot by 8-foot by 3-foot table, normally made out of plywood, with a horizontal line
+    through the middle"; "played to 11, winning by two"; a point "if the die falls to the ground before the
+    opposing team is able to catch it"; a "sink" in a cup scores three; defenders "can catch the die using one
+    hand" and "may not trap the die against their body". Shows that point values vary from place to place.
+
+- key: aggie-2019-05-17-beer-die
+  title: "Rosie Schwarz, 'The art of beer die', The California Aggie (UC Davis), 17 May 2019"
+  type: newspaper
+  date: 2019-05-17
+  url: https://theaggie.org/2019/05/17/the-art-of-beer-die/
+  evidence: R
+  notes: >
+    The table as a social object: students paint and pass down their tables; "The table is a gathering place, a
+    focal point to build community." Notes the seated variant "snappa".
+
+# --- Housing ------------------------------------------------------------------------------------
+
+- key: thresher-2024-03-kicked-off-campus
+  title: "'Different ways to get kicked off campus', Rice Thresher, Mar 2024"
+  type: newspaper
+  date: 2024-03
+  url: https://ricethresher.org/article/2024/03/different-ways-to-get-kicked-off-campus
+  evidence: P
+  notes: >
+    College-by-college guide to the housing "jacks" (Housing Jack, Eligibility Jack, Room Jack). Wiess's is "The
+    Almost-Pong Game": "Cups are laid out in commons, each containing the name of one freshman. A 'housing
+    apprentice' throws the first ping pong ball and the person whose cup it lands in is the first freshman kicked,
+    lowest on the waitlist and next up to bat", and so on "until every freshman's fate is sealed". Wiess also lets
+    students enter the eligibility jack in pairs. Other colleges: Wheel of Doom (Duncan, Sid), Deck of Cards (Will
+    Rice), The Race (Martel), randomization software. Byline not captured.
+
+- key: rice-ga-student-life
+  title: "Rice University General Announcements, 'Undergraduate Student Life' (consulted 5 Oct 2026)"
+  type: website
+  date: 2026-10-05
+  url: https://ga.rice.edu/undergraduate-students/student-services-organizations/life/
+  evidence: P
+  notes: >
+    The university rule behind every college jack: "On-campus housing is not guaranteed beyond the first year at
+    Rice"; "The determination of available housing for sophomores, juniors, and seniors ... is made by each
+    residential college's government."
+
+- key: rice-news-2026-03-02-main-street
+  title: "'Main Street Residence: familiar building given new purpose', Rice News, 2 Mar 2026"
+  type: website
+  date: 2026-03-02
+  url: https://news.rice.edu/news/2026/main-street-residence-familiar-building-given-new-purpose
+  evidence: P
+  notes: >
+    Overflow housing for students who lose their college's draw: spaces open "to all rising sophomores, juniors
+    and seniors who participated in their college's housing draw but did not receive a room"; taking one means
+    forfeiting a place on the home college's waitlist. Wiess is not named.
+
+# --- The unofficial side ------------------------------------------------------------------------
+
+- key: teamwiess-current-students-2014
+  title: "teamwiess.com, Current Students page, Jul-Sep 2014 captures"
+  type: website
+  date: 2014-07-11
+  url: https://web.archive.org/web/20140711230244/http://teamwiess.com/current-students.html
+  local: teamwiess.com/mirror/teamwiess.com/current-students.html/
+  evidence: P
+  notes: >
+    Carries a third-party countdown widget labelled "Dis-O 2014", timed to 23 Aug 2014 00:00 UTC (evening of
+    Friday 22 Aug, Houston), and a Downloads box with "Wiess Housing Rules (.pdf)". The only trace of Dis-O on a
+    Wiess site in the corpus.
+
+- key: thresher-2012-09-letters-rpc-dis-o
+  title: "Risa Dieken (RPC Internal Vice President), letter to the editor, Rice Thresher, Sep 2012"
+  type: newspaper
+  date: 2012-09
+  url: https://ricethresher.org/article/2012/09/letters-to-the-editor
+  evidence: P
+  notes: >
+    Earliest Dis-O reference found: "the administration has always supported a Welcome Back Festival on the day of
+    Dis-O to provide alternate activities to daytime drinking". Implies that Dis-O was a day students
+    organised themselves, with the university running something else alongside it.
+
+- key: thresher-2013-04-18-alcohol-policy
+  title: "Joey Capparella and Molly Chiu, 'Changes to alcohol policy announced', Rice Thresher, 18 Apr 2013"
+  type: newspaper
+  date: 2013-04-18
+  url: https://ricethresher.org/article/2013/04/changes-to-alcohol-policy-announced
+  evidence: P
+  notes: >
+    Policy effective fall 2013: private-party hosts register with the college chief justice 24 hours ahead, stay
+    present, and cap attendance at six times the room's residents; spirits over 50% ABV banned; hard alcohol banned
+    on the days of "major events like Dis-Orientation and Beer Bike"; the existing ban on competitive drinking
+    restated ("any form of competitive drinking does lead to excessive consumption of alcohol", Dean Hutchinson).
+
+- key: thresher-2025-08-26-dis-o-transports
+  title: "Juliana Lightsey, 'Dis-O, move-in weekend see increase in alcohol transports from last year', Rice Thresher, 26 Aug 2025"
+  type: newspaper
+  date: 2025-08-26
+  url: https://www.ricethresher.org/article/2025/08/dis-o-move-in-weekend-see-increase-in-alcohol-transports-from-last-year
+  evidence: P
+  notes: >
+    Dis-O 2025 transports "comparable to the seven NOD transports" of 2023 (Lovett president); many were freshmen
+    (Sid Richardson president); Dean Gorman: "Excessive drinking is unhealthy and dangerous". Does not say who hosts
+    Dis-O.
+
+- key: thresher-2010-09-smoking-policy
+  title: "'Smoking policy enacted', Rice Thresher, Sep 2010"
+  type: newspaper
+  date: 2010-09
+  url: https://ricethresher.org/article/2010/09/smoking-policy-enacted
+  evidence: P
+  notes: >
+    Policy No. 839, signed 3 Aug 2010 by President Leebron: no smoking "within 25 feet of all doorways and operable
+    windows" or in "student housing and dining areas"; "Colleges may designate smoking areas that do not conflict
+    with the areas prohibited". The basis for calling Toke an undesignated smoking spot.
+
+- key: thresher-2012-08-30-smoking-policy
+  title: "Michael He, 'New policy restricts smoking on campus', Rice Thresher, 30 Aug 2012"
+  type: newspaper
+  date: 2012-08-30
+  url: https://ricethresher.org/article/2012/08/new-policy-restricts-smoking-on-campus
+  evidence: P
+  notes: >
+    From 1 Sep 2012 smoking is confined to 13 designated areas with canopies and seating, driven by CPRIT grant
+    conditions; a complete ban "was not practical or enforceable". So Rice was not fully tobacco-free in 2012; a
+    later full ban is not established here.
+
+- key: thresher-2022-04-jacks-past
+  title: "'Looking at jacks from Beer Bikes past', Rice Thresher, Apr 2022"
+  type: newspaper
+  date: 2022-04
+  url: https://ricethresher.org/article/2022/04/looking-at-jacks-from-beer-bikes-past
+  evidence: P
+  notes: >
+    Jacks are "time-honored traditions especially popular during the week of Beer Bike". Examples by year,
+    including 2006, when three named students "stuffed the Wiess College laundry room with newspapers" (who did it
+    to whom is not clear from our read; check before citing), and Jones painting Baker's car orange in 1987.
+
+- key: thresher-2008-04-17-willy-revolutionaries
+  title: "Sarah Rutledge, 'Willy revolutionaries return to Rice for 20th anniversary of prank', Rice Thresher, 17 Apr 2008"
+  type: newspaper
+  date: 2008-04-17
+  url: https://ricethresher.org/article/2008/04/willy-revolutionaries-return-to-rice-for-20th-anniversary-of-prank
+  evidence: P
+  notes: >
+    The Willy's statue turn of 12 Apr 1988: eleven alumni, eight of them Wiess '88; an A-frame hoist, weeks of
+    preparation, done by about 6 a.m. The leader tipped off the press after hearing President Rupp order the statue
+    turned back "before the media gets wind of this".
+
+- key: thresher-2008-03-20-unauthorized-jack
+  title: "Jocelyn Wright, 'Unauthorized jack injures student', Rice Thresher, 20 Mar 2008"
+  type: newspaper
+  date: 2008-03-20
+  url: https://ricethresher.org/article/2008/03/unauthorized-jack-injures-student
+  evidence: P
+  notes: >
+    Shows jacks were approved through a college's jacks committee. Will Rice's committee "did not get the jack
+    approved since they were not targeting a specific college". The dean's limits: "you can't violate the law, you
+    can't violate the code of conduct and you can't endanger people's lives or well-being."
+
+- key: rice-news-2011-11-04-traditions
+  title: "'The story behind Rice traditions', Rice News, 4 Nov 2011"
+  type: website
+  date: 2011-11-04
+  url: https://news.rice.edu/news/2011/story-behind-rice-traditions
+  evidence: R
+  notes: >
+    Official account of jacks ("good-spirited pranks"), Baker 13 (begun 1975 on a Friday the 13th, when
+    "streaking was very popular on college campuses") and the 1988 Wiess turning of Willy's statue ("In an hour's
+    time, Willy sat facing the library for the first time in 58 years").

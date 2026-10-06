@@ -1,0 +1,419 @@
+# Early records: the oldest contemporary written traces of Wiess traditions in the Rice Thresher, 1957–1990.
+# Compiled 5–6 Oct 2026 for the "first attested" pass. One entry per page actually read.
+# Method: texashistory.unt.edu search and hits pages were behind a human-verification (ALTCHA) check that
+# was not completed. The same ark ids are served without the check by UNT's sister host
+# digital.library.unt.edu (page OCR only, /ark:/67531/metapth<ID>/m1/<p>/ocr/), so every Thresher issue from
+# Nov 1956 to Jan 1994 (ids 231040–231249 and 244885–245890, ~1,165 issues) was read page by page there and
+# grepped for the item names. The url given is the canonical Portal page permalink; the text is identical on
+# both hosts. Quotations are from OCR and silently correct only obvious OCR breaks.
+# Evidence: P = written at the time; R = retrospective (written years later).
+
+# --- 1950s–1960s --------------------------------------------------------------------------------
+
+- key: thresher-1957-04-12-college-nights
+  title: "Rice Thresher, 12 Apr 1957, p.1—first college nights"
+  type: newspaper
+  date: 1957-04-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth231056/m1/1/
+  evidence: P
+  notes: >
+    The colleges' first spring. "Will Rice held its first College night last Tuesday, and Hanszen, Baker,
+    and Wiess all plan College nights for the very near future." College Night here is the formal dinner
+    with a guest, not the later Wiess entertainment of that name.
+
+- key: thresher-1958-05-09-beer-drinking
+  title: "Rice Thresher, 9 May 1958, p.5—Rondelet picnic (society column)"
+  type: newspaper
+  date: 1958-05-09
+  url: https://texashistory.unt.edu/ark:/67531/metapth231090/m1/5/
+  evidence: P
+  notes: >
+    The second Beer-Bike: rain, "the Beer-drinking contest which Wiess College won. (The bike race will be
+    later)." No later 1958 issue reports the bike race. The 1985 winners' table credits Wiess with a
+    1958 title [@thresher-1985-04-12-beer-bike-history].
+
+- key: thresher-1961-03-17-college-night
+  title: "'Vandiver Speaks Tuesday at Wiess', Rice Thresher, 17 Mar 1961, p.7"
+  type: newspaper
+  date: 1961-03-17
+  url: https://texashistory.unt.edu/ark:/67531/metapth231174/m1/7/
+  evidence: P
+  notes: >
+    "Dr. Frank Vandiver of the History department will be the speaker at the next Wiess College Night
+    program next Tuesday, March 21. His topic will be concerned with the Civil War." The 1964 College Night
+    dress was "the usual coat and tie" (Thresher, 19 Feb 1964, p.4, metapth244908).
+
+- key: thresher-1961-04-07-water-wars
+  title: "Griffin Smith, '[New] Dimension Added For Spring Sports At Colleges', Rice Thresher, 7 Apr 1961, p.3"
+  type: newspaper
+  date: 1961-04-07
+  url: https://texashistory.unt.edu/ark:/67531/metapth231177/m1/3/
+  evidence: P
+  notes: >
+    "Giant slingshots made of wire, cloth and surgical tubing" appeared on 20 March 1961; after Baker and Will
+    Rice the battle "shifted to the Hanszen-Wiess courtyard", leaving "a carpet of broken balloons between
+    Wiess and Hanszen, a dozen broken windows" and a notice: "For Sale: Surgical-Tubing water balloon sling."
+    Headline OCR is damaged ("Three lew Dimension Added For Spriag Sports At Collects").
+
+- key: thresher-1963-03-13-mel-lack
+  title: "Mel Lack (Wiess President), 'Voluntarism Is The Key', Rice Thresher, 13 Mar 1963, p.9"
+  type: newspaper
+  date: 1963-03-13
+  url: https://texashistory.unt.edu/ark:/67531/metapth231231/m1/9/
+  evidence: P
+  notes: >
+    College presidents' statements. Wiess offers intramurals "and, for the spontaneous, the less formal
+    sports of Acabowl (touch football a la Kennedy), frisbee, and even stickball". Earliest Acabowl found.
+
+- key: thresher-1965-09-30-film-festival
+  title: "Rice Thresher, 30 Sep 1965, p.10—calendar notice"
+  type: newspaper
+  date: 1965-09-30
+  url: https://texashistory.unt.edu/ark:/67531/metapth244950/m1/10/
+  evidence: P
+  notes: >
+    "Wiess College begins a yearlong film festival specializing in 'classic revivals' of great American
+    movies of the Hollywood school with 'The Wild One' on October 9". A film series, not the later 24-hour
+    FilmFest.
+
+- key: thresher-1966-10-20-tabletop
+  title: "Rice Thresher, 20 Oct 1966, p.1—Roger Glade and Hanszen/Wiess membership"
+  type: newspaper
+  date: 1966-10-20
+  url: https://texashistory.unt.edu/ark:/67531/metapth244981/m1/1/
+  evidence: P
+  notes: >
+    Denied theatre funds by Hanszen, Glade "made his request to Wiess college, which eagerly accepted his
+    plan. Glade produced 'Antigone' at Wiess last year, and is currently producing 'Doctor Faustus' for
+    performance in January by the 'Wiess Tabletop Theatre.'" Earliest use of the name; review of
+    Faustus, 2 Feb 1967, p.6 (metapth244990).
+
+- key: thresher-1967-09-28-hello-hamlet
+  title: "Roberta Reed, 'Alas, Poor Hamlet: Wiess Tabletop players lose their heads over production', Rice Thresher, 28 Sep 1967, p.7"
+  type: newspaper
+  date: 1967-09-28
+  url: https://texashistory.unt.edu/ark:/67531/metapth245007/m1/7/
+  evidence: P
+  notes: >
+    Preview of the first run: "With a hearty 'Hello Hamlet,' the Rice campus hails the first production of
+    the year, an updated, barely recognizable version of the bard's immortal classic, written, produced,
+    and directed by George Gre[a]nias."
+
+- key: thresher-1967-10-05-hello-hamlet-review
+  title: "Gil Dawson, 'Purloined comedy: Hello, Hamlet', Rice Thresher, 5 Oct 1967, p.7"
+  type: newspaper
+  date: 1967-10-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth245008/m1/7/
+  evidence: P
+  notes: >
+    Opening-night review: "Wiess' 'Hello Hamlet,' opening tonight in the Wiess Commons, offers an evening's
+    sidesplitting entertainment"; Greanias "playing Hamlet". The calendar on p.10 gives 5–7 Oct 1967 at $1.
+
+- key: thresher-1968-04-01-tallyboo
+  title: "Rice Thresher (April Fool issue), 1 Apr 1968, pp.2–3—'Rue Tallyboo'"
+  type: newspaper
+  date: 1968-04-01
+  url: https://texashistory.unt.edu/ark:/67531/metapth245027/m1/3/
+  evidence: P
+  notes: >
+    Spoof issue. Among parody names for the college masters ("featuring America's newest sing-song
+    sensations—THE MASTERS!") is "Rue Tallyboo", evidently Wiess's master Roy V. Talmage. A possible origin
+    for the name Talleyboo; not proof.
+
+# --- 1970s --------------------------------------------------------------------------------------
+
+- key: thresher-1970-09-03-wiess-crack
+  title: "Rice Thresher, 3 Sep 1970, p.2—freshman guide to campus"
+  type: newspaper
+  date: 1970-09-03
+  url: https://texashistory.unt.edu/ark:/67531/metapth245084/m1/2/
+  evidence: P
+  notes: >
+    "We quietly refer the reader to the Wiess Crack, an underground newspaper seldom given status such as
+    this mention has accorded it." Earliest Thresher mention (the RHC cover is dated 29 Feb 1968).
+
+- key: thresher-1972-08-25-wiess-crack
+  title: "Rice Thresher, 25 Aug 1972, p.1—guide to campus publications"
+  type: newspaper
+  date: 1972-08-25
+  url: https://texashistory.unt.edu/ark:/67531/metapth245135/m1/1/
+  evidence: P
+  notes: >
+    College newspapers are mimeographed and change name weekly; "Exceptions are the Baker Vitis, which is
+    usually serious and pretty good, and the Wiess Crack, which is always pretty bad and very funny."
+
+- key: thresher-1972-10-19-hello-hamlet-revival
+  title: "Rice Thresher, 19 Oct 1972, p.7—Hello, Hamlet! revival notice"
+  type: newspaper
+  date: 1972-10-19
+  url: https://texashistory.unt.edu/ark:/67531/metapth245143/m1/7/
+  evidence: P
+  notes: >
+    Second production: "'Hello, Hamlet!' will be performed in Weiss Commons October 24-27 at 8pm and October
+    29 at 3pm." The title recurs in the Thresher in 1969, 1972, 1976, 1980, 1984, 1988 and 1992 (each
+    run not checked).
+
+- key: thresher-1973-10-11-nod-calendar
+  title: "Rice Thresher, 11 Oct 1973, p.12—Rice People's Calendar"
+  type: newspaper
+  date: 1973-10-11
+  url: https://texashistory.unt.edu/ark:/67531/metapth245173/m1/12/
+  evidence: P
+  notes: >
+    Earliest printed "Night of Decadence" found: "8pm Wiess Commons. Night of Decadence? This must needs be
+    checked". No 1972 Thresher issue names the party.
+
+- key: thresher-1973-11-08-beyond-nod
+  title: "Rice Thresher, 8 Nov 1973, p.12—Rice People's Calendar"
+  type: newspaper
+  date: 1973-11-08
+  url: https://texashistory.unt.edu/ark:/67531/metapth245177/m1/12/
+  evidence: P
+  notes: >
+    "9pm Wiess commons. Beyond the Night of Decadence, Band. Sangria. $1." A sequel party, so the 1973 Night
+    itself had already been held.
+
+- key: thresher-1973-11-15-son-of-nod
+  title: "Rice Thresher, 15 Nov 1973, p.12—Rice People's Calendar"
+  type: newspaper
+  date: 1973-11-15
+  url: https://texashistory.unt.edu/ark:/67531/metapth245178/m1/12/
+  evidence: P
+  notes: >
+    "9pm Wiess commons. Son of the Night of Decadence. $1, wine, music, and a film."
+
+- key: thresher-1974-10-31-nod-calendar
+  title: "Rice Thresher, 31 Oct 1974, p.20—Rice People's Calendar"
+  type: newspaper
+  date: 1974-10-31
+  url: https://texashistory.unt.edu/ark:/67531/metapth245207/m1/20/
+  evidence: P
+  notes: >
+    "8pm. Pink Flamingos. Wiess Patio. Free. 8pm. Wiess Night of Decadence. Wiess Ballroom. $1.50."
+
+- key: thresher-1975-04-07-beer-bike
+  title: "'Wiess trounces Beer-Bike Race opponents', Rice Thresher, 7 Apr 1975, p.1"
+  type: newspaper
+  date: 1975-04-07
+  url: https://texashistory.unt.edu/ark:/67531/metapth245235/m1/1/
+  evidence: P
+  notes: >
+    Eighteenth race. Wiess "shook off a two-year jinx" and finished "a full lap ahead of everyone except
+    second-place finisher Will Rice"; "They even had enough time for a chorus of 'Wiess Team. Wiess Team!'
+    before the rest of the pack could make it back." The cheer the O-Week books date to Beer Bike 1975.
+
+- key: thresher-1975-11-03-nod-fourth-annual
+  title: "Ted Andrews, '\"Night of Decadence\" this Friday', Rice Thresher, 3 Nov 1975, p.1"
+  type: newspaper
+  date: 1975-11-03
+  url: https://texashistory.unt.edu/ark:/67531/metapth245261/m1/1/
+  evidence: P
+  notes: >
+    "Wiess College will inflict the campus with its fourth annual Night of Decadence this Friday, November
+    7", the first in "the new Wiess Commons"; "Last year, along with the ever-popular Everclear/sangria
+    punch, Wiess presented the film Pink Flamingos". Fourth annual in 1975 puts the first in 1972.
+
+- key: thresher-1975-12-01-ubangi
+  title: "Rice Thresher, 1 Dec 1975, p.12—personals"
+  type: newspaper
+  date: 1975-12-01
+  url: https://texashistory.unt.edu/ark:/67531/metapth245268/m1/12/
+  evidence: P
+  notes: >
+    "Sexy Rexy has been named uncrowned Ubangi Queen." College not stated; the earliest use of the word in
+    a student sense. On 26 Jan 1976 (p.3, metapth245275) the Beer Lobby drank "THREE UBANGIES" at Willy's.
+
+- key: thresher-1976-04-05-beer-bike
+  title: "Rice Thresher, 5 Apr 1976, p.1—Beer-Bike report"
+  type: newspaper
+  date: 1976-04-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth245289/m1/1/
+  evidence: P
+  notes: >
+    "Team Wiess, defending men's champion and consensus favorite, was swamped by both the Baker and Will
+    Rice men. The Wiess Cabinet demanded an evaluation from both beer and bike captains". Earliest "Team
+    Wiess" as a name.
+
+- key: thresher-1976-11-15-freshman-waiting
+  title: "Rice Thresher, 15 Nov 1976, p.8—personals"
+  type: newspaper
+  date: 1976-11-15
+  url: https://texashistory.unt.edu/ark:/67531/metapth245311/m1/8/
+  evidence: P
+  notes: >
+    "I hear the 'animals' at Wiess still engage in Freshman hazing—er, I mean freshman waiting." Signed
+    "an amused freshman at SRC".
+
+- key: thresher-1976-11-22-freshman-waiting-reply
+  title: "Rice Thresher, 22 Nov 1976, p.15—personals (reply signed 'Weiss')"
+  type: newspaper
+  date: 1976-11-22
+  url: https://texashistory.unt.edu/ark:/67531/metapth245313/m1/15/
+  evidence: P
+  notes: >
+    "The institution of freshman waiting at Weiss is a tradition whereby the freshmen wait for
+    approximately 8 weeks of their four years spent at Rice. The convenience of being served for the
+    remaining time is far superior to the 'hep yersef' system at the other colleges." Also threatens to
+    "dangle" the writer from the Campanile.
+
+- key: thresher-1977-09-08-college-idiot
+  title: "Rice Thresher, 8 Sep 1977, p.17—college news"
+  type: newspaper
+  date: 1977-09-08
+  url: https://texashistory.unt.edu/ark:/67531/metapth245342/m1/17/
+  evidence: P
+  notes: >
+    "On the following Tuesday, Sept. 20, Wiess will hold elections for Freshman Rep, College Idiot, and to
+    fill out the Coed College Poll". Earliest College Idiot found; an elected office.
+
+- key: thresher-1977-10-13-wiess-palms
+  title: "'It's either the Palms or the Roadrunner', Rice Thresher, 13 Oct 1977, p.5 (continued from p.1)"
+  type: newspaper
+  date: 1977-10-13
+  url: https://texashistory.unt.edu/ark:/67531/metapth245347/m1/5/
+  evidence: P
+  notes: >
+    The 1977 NOD theme in print: "Marc passed a place called the Six Dollar Motel with a club called The
+    Palms … Wiess Palms, the Six Dollar Motel. Oct. 21, 8:30. Men $1.50". Dates the "Wiess Palms Motel 6"
+    theme to 21 Oct 1977.
+
+- key: thresher-1979-wiess-first-fifteen-years
+  title: "'Wiess College: The First Fifteen Years', parts I–IV, Rice Thresher, 1, 8, 15 and 22 Feb 1979 (pp.6, 14, 14, 12)"
+  type: newspaper
+  date: 1979-02
+  url: https://texashistory.unt.edu/ark:/67531/metapth245395/m1/14/
+  evidence: R
+  notes: >
+    Serial history from the 1950s to c.1972 (part I metapth245394 p.6; part III metapth245396 p.14; part IV
+    metapth245397 p.12). Part II: "At some time during these early years the playing field between Wiess
+    and Hanszen came to be called (affectionately) 'the Acabowl'". Part III: president Tom Bertrand (1967–68)
+    "was instrumental in establishing the Wiess Table Top Theater, which produced Hello, Hamlet! in its
+    first year". Part IV: Greanias "produced in the Table Top Theater for the second time Hello, Hamlet!".
+
+- key: thresher-1980-11-13-college-idiot-pumpkin
+  title: "Rice Thresher, 13 Nov 1980, p.16—personals"
+  type: newspaper
+  date: 1980-11-13
+  url: https://texashistory.unt.edu/ark:/67531/metapth245455/m1/16/
+  evidence: P
+  notes: >
+    The College Idiot as the Great Pumpkin's voice: "you who defiled the Great Pumpkin by smashing the green
+    glowing pumpkin on Willy's head shall have the eternal curse of the Great Pumpkin … The Wiess College
+    Idiot".
+
+# --- 1980s --------------------------------------------------------------------------------------
+
+- key: thresher-1981-04-09-room-jack
+  title: "Rice Thresher, 9 Apr 1981, p.22—college news (Wiess)"
+  type: newspaper
+  date: 1981-04-09
+  url: https://texashistory.unt.edu/ark:/67531/metapth245470/m1/22/
+  evidence: P
+  notes: >
+    "Say goodbye to your favorite freshmen at Room Jack Thursday night in the commons at 7:30. Lunch on
+    Saturday is in our ravaged Acabowl—it's a pre-Beer Bike cookout".
+
+- key: thresher-1981-09-04-wiess-day
+  title: "Rice Thresher, 4 Sep 1981, p.5—college news (Brown)"
+  type: newspaper
+  date: 1981-09-04
+  url: https://texashistory.unt.edu/ark:/67531/metapth245476/m1/5/
+  evidence: P
+  notes: >
+    "Friday is Wiess Day—TG and cookout at Wiess, 4 p.m. or so. (NO food will be served at Brown.) Match
+    Dance that night at Wiess." A Brown–Wiess sibling day; not the spring 2008 event of the same name.
+
+- key: thresher-1981-10-30-a-and-m-game
+  title: "Rice Thresher, 30 Oct 1981, p.7—Student Senate report"
+  type: newspaper
+  date: 1981-10-30
+  url: https://texashistory.unt.edu/ark:/67531/metapth245484/m1/7/
+  evidence: P
+  notes: >
+    Complaints about the Rice section at the Texas A&M Homecoming game, "specifically … the display of a
+    phallic symbol". The object is the one the next entry calls "Sparky".
+
+- key: thresher-1981-12-04-sparky-letter
+  title: "Michael Guth, 'Brown College student defends Wiess' (letter), Rice Thresher, 4 Dec 1981, p.2"
+  type: newspaper
+  date: 1981-12-04
+  url: https://texashistory.unt.edu/ark:/67531/metapth245488/m1/2/
+  evidence: P
+  notes: >
+    "the 'Sparky' incident at the A&M game has served to focus attention on the behavior of Rice students
+    … because the incident involved many Wiessmen", the administration has threatened "to close Wiess
+    College and to convert it temporarily into graduate student housing". Earliest Sparky.
+
+- key: thresher-1984-10-05-big-bang
+  title: "Rice Thresher, 5 Oct 1984, p.19—personals"
+  type: newspaper
+  date: 1984-10-05
+  url: https://texashistory.unt.edu/ark:/67531/metapth245570/m1/19/
+  evidence: P
+  notes: >
+    To Brown visitors on 19 Sep: "every decent Wiess man was at the Pub. Or didn't you know it was Big Bang
+    Nite?" Earliest Big Bang; the first, if the 1986 "third annual" is right.
+
+- key: thresher-1985-04-12-beer-bike-history
+  title: "Rice Thresher, 12 Apr 1985, p.11—history of Beer-Bike, with table of winners"
+  type: newspaper
+  date: 1985-04-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth245600/m1/11/
+  evidence: R
+  notes: >
+    "1968 saw the Wiess team use a slingshot in order to propel their riders to faster starts." The winners'
+    table (OCR damaged) reads from 1957 "Baker, Wiess, Will Rice, Will Rice, Baker …" and later "1975 Men
+    Wiess … 1982 Men Wiess": Wiess's men won in 1958, 1975 and 1982, so 1975 was its second win.
+
+- key: thresher-1985-04-23-ubangiing
+  title: "Rice Thresher, 23 Apr 1985, p.3—opinion on Owl Day"
+  type: newspaper
+  date: 1985-04-23
+  url: https://texashistory.unt.edu/ark:/67531/metapth245603/m1/3/
+  evidence: P
+  notes: >
+    One unnamed college greeted prospective students with "an evening meal replete with ritual ubangiying (a
+    cross between a football pileup and a clothed simulation of a gang rape), mooning, and other
+    obnoxiousness." The college is not named.
+
+- key: thresher-1986-09-12-ubangeed
+  title: "Rice Thresher, 12 Sep 1986, p.8—college news (Wiess)"
+  type: newspaper
+  date: 1986-09-12
+  url: https://texashistory.unt.edu/ark:/67531/metapth245641/m1/8/
+  evidence: P
+  notes: >
+    "Anyone known to have been in Mudd at that time will be ubangeed. TG! Wiess. Today, four-ish. Acabowl, as
+    usual." First spelling as "ubangee" in a Wiess notice.
+
+- key: thresher-1986-09-19-big-bang
+  title: "John Knapp, 'Wiess frosh celebrate test', Rice Thresher, 19 Sep 1986, p.7"
+  type: newspaper
+  date: 1986-09-19
+  url: https://texashistory.unt.edu/ark:/67531/metapth245642/m1/7/
+  evidence: P
+  notes: >
+    "Wiess College celebrated the third annual Big Bang Night on Wednesday following the first Physics 101
+    test of the year." Same page: "Sparky's Underground Repertory Cinema Theater" (the basement room).
+
+- key: thresher-1987-03-20-jamfest
+  title: "'JamFest to feature Rice musical talent', Rice Thresher, 20 Mar 1987, p.7"
+  type: newspaper
+  date: 1987-03-20
+  url: https://texashistory.unt.edu/ark:/67531/metapth245660/m1/7/
+  evidence: P
+  notes: >
+    "Wiess College will present JamFest, an open musical talent show, in the Commons on Friday, March 27."
+    The 27 Mar issue (p.8, metapth245661) repeats it; a 10 Apr personal (p.20, metapth245664) reports a cord
+    "Lost at Wiess Jamfest".
+
+- key: thresher-1990-11-09-strength-of-identity
+  title: "Review of a collection of student papers on Rice history, Rice Thresher, 9 Nov 1990, p.5"
+  type: newspaper
+  date: 1990-11-09
+  url: https://texashistory.unt.edu/ark:/67531/metapth245767/m1/5/
+  evidence: R
+  notes: >
+    Reviews three college histories; the Wiess one, "Strength of Identity", "depicts the history of Wiess as
+    a descent into anarchy: Wiessmen dangled their master from the third floor, growled at women and
+    invented a NOD punch which took the varnish off the oar used to stir it." Earliest dangling found.

@@ -22,7 +22,7 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ar
 | The 1968 *Wiess Crack* and any later issues | 1968– | [The WiessCrack](../traditions/retired/wiesscrack.md) |
 | 1989 *Sallyport* "day in the life" of Dr. Bill | 1989 | [Core team](../people/core-team.md) |
 | Report of the 2011 Wilson House dedication (Thresher / Rice News) | 2011 | Whether Wilson House is a new building or a renaming → [Wilson House](../places/wilson-house.md) |
-| ~~Housing Rules 2010 and 2011 (we hold image-only PDFs; needs OCR, or the originals)~~ Found 2026-10-05: the same file as the maintainer's 2008 PDF, now OCR'd [@housing-rules-2008] | 2010–11 | [Rules](../governance/rules.md) |
+| ~~Housing Rules 2010 and 2011 (we hold image-only PDFs; needs OCR, or the originals)~~ Found 2026-10-05: the same file as the 2008 PDF in the TFWKB collection, now OCR'd [@housing-rules-2008] | 2010–11 | [Rules](../governance/rules.md) |
 | The 1999 Presidential Committee on NOD's full report, and the 2024 Alcohol Policy Advisory Committee (APAC) report | 1999, 2024 | [Night of Decadence](../traditions/night-of-decadence.md), [NOD decision](../decisions/nod-2026.md) |
 | Thresher, Oct 2025: "'The spirit of success': Drinking in Rice history" (the website blocks automated readers; Fondren's digital Thresher should have it) | 2025 | A dated history of Rice alcohol policy → [NOD](../traditions/night-of-decadence.md) |
 
@@ -30,10 +30,10 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ar
 
 | Item | Years | Why it matters |
 |---|---|---|
-| **O-Week books not held** | 1995–2002, 2004, 2005, 2012, 2013, 2018, 2020, 2022, 2023, 2026 (2019, 2021, 2024 and 2025 found in the maintainer's collection, Oct 2026) | Every one of them adds a year to the glossary series and to the Core Team roster. The 2012 and 2013 books would date the wooden pig's build and the last JamFest |
+| **O-Week books not held** | 1995–2002, 2004, 2005, 2012, 2013, 2018, 2020, 2022, 2023, 2026 (2019, 2021, 2024 and 2025 found in October 2026) | Every one of them adds a year to the glossary series and to the Core Team roster. The 2012 and 2013 books would date the wooden pig's build and the last JamFest |
 | The portraits of all former Magisters in the PDR, with their captions | 1957– | The fastest route to a complete Magister list → [Magisters](../people/masters-and-magisters.md) |
-| Cabinet minutes (the runs we don't hold) | 2000–09, 2011–26 | Dates for nearly everything since 2000; the maintainer's own past output |
-| ~~The Constitution and Bylaws behind the 2020 and 2023 "View Constitution" links on Google Drive~~ Partly found 2026-10-05 in the maintainer's collection: the Constitution and Bylaws of 12 February 2020 [@constitution-2020] [@bylaws-2020] and an undated text of c. early 2025 [@constitution-hate-speech]. Still wanted: any text between February 2020 and early 2025 | 2020–2025 | Would date the Bylaws merger and the elected Chief Justice → [Constitution history](../governance/constitution-history.md) |
+| Cabinet minutes (the runs we don't hold) | 2000–09, 2011–26 | Dates for nearly everything since 2000; the Cabinet's own past output |
+| ~~The Constitution and Bylaws behind the 2020 and 2023 "View Constitution" links on Google Drive~~ Partly found 2026-10-05: the Constitution and Bylaws of 12 February 2020 [@constitution-2020] [@bylaws-2020] and an undated text of c. early 2025 [@constitution-hate-speech]. Still wanted: any text between February 2020 and early 2025 | 2020–2025 | Would date the Bylaws merger and the elected Chief Justice → [Constitution history](../governance/constitution-history.md) |
 | ~~The 2021–22 constitution with the first hate-speech clause~~ Partly found: Article XV survives in the undated c. early 2025 text [@constitution-hate-speech]; the ratified 2021–22 wording and vote date are still wanted (ask the 2021–22 Parliamentarian or Secretary) | 2021–22 | [Court](../governance/court.md), [Constitution history](../governance/constitution-history.md) |
 | ~~Bylaws 2016–2026~~ Partly found: the Bylaws of 12 February 2020, the last separate text [@bylaws-2020]; Bylaws 2016–2020 still wanted | 2016–2020 | [Constitution history](../governance/constitution-history.md) |
 | Magister search committee records (2005–06; the Schaefers 2015–16; Cunha and Santos 2020–21) | 2006–2021 | [Core team](../people/core-team.md) |
@@ -53,9 +53,9 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ar
 | What "DWE" stood for; what Talleyboo was; the "Pleasure Palace" | alumni of the 1970s–90s | [College Idiot](../people/college-idiot.md), [Talleyboo](../traditions/retired/talleyboo.md) |
 | The source for Rice Magazine's claim that George Pharr '75 became Magister "in the early 1990s" | Rice Magazine; George Pharr | [Magisters](../people/masters-and-magisters.md) |
 | The 1997–98 mylar pig: photograph, and the year it flew away | George Fotinos and the late-1990s pig crew | [War Pig](../traditions/warpig.md) |
-| Dome, Gatsby, Xth floor crawl, etc... | current students | these are regular traditions that are celebrated anually, but they're parties and may be less official? |
-| Sparkies | current students, wierss lore | used to be a basement game rom, now is room 420 (really?) in new wiess. common place for public parties. |
-| Basement | current students, wierss lore | current basement is storage, old wiess had features in it |
+| Flyers, GroupMe posts or photographs of DOME, Gatsby and other college parties | current students | Parties are thinly documented in print → [DOME](../traditions/dome.md), [Gatsby](../traditions/gatsby.md) |
+| What Sparky's is used for today | current students | [The basement and Sparky's](../places/basement-and-sparkys.md) |
+| What the New Wiess basement holds today | current students | [The basement and Sparky's](../places/basement-and-sparkys.md) |
 
 
 

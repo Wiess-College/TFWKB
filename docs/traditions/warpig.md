@@ -109,8 +109,8 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 </figure>
 
 <figure markdown="span">
-  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="maintainers&#x27;s photo collection; source not recorded · 2002–04" data-gallery="warpig" }
-  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>maintainers&#x27;s photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
+  ![The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.](../assets/photos/photos/10-copy.jpg){ loading=lazy data-title="The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind." data-description="TFWKB photo collection; source not recorded · 2002–04" data-gallery="warpig" }
+  <figcaption>The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind. <small>TFWKB photo collection; source not recorded [@warpig-core-deck slide 32]</small></figcaption>
 </figure>
 
 </div>
@@ -143,6 +143,6 @@ The War Pig is Wiess College's mascot: first a nickname Jeff Zweig '84 gave the 
 
 ## Sources
 
-The timeline is built from the Thresher at the Portal to Texas History, Campanile pages held by the college ([@campanile-1984] through [@campanile-2012]), Mark Maxham's 1998 design document [@maxham-pig-document], the O-Week books 1994–2017, the first Wiess website, the Rice History Corner comment thread of December 2021 [@rhc-2021-12-10-im-pissed], and the core team's pitch deck and photographs [@warpig-core-deck]. The research notes behind it, with the OCR queries used, are in the historian's archive.
+The timeline is built from the Thresher at the Portal to Texas History, Campanile pages held by the college ([@campanile-1984] through [@campanile-2012]), Mark Maxham's 1998 design document [@maxham-pig-document], the O-Week books 1994–2017, the first Wiess website, the Rice History Corner comment thread of December 2021 [@rhc-2021-12-10-im-pissed], and the core team's pitch deck and photographs [@warpig-core-deck]. The research notes behind it, with the OCR queries used, are in the working archive.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 · unreviewed draft, assembled from the War Pig research of September–October 2026</div>

@@ -8,6 +8,7 @@ copyright: Text © Wiess College contributors, CC BY-SA 4.0 · tools MIT
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   logo: assets/wiessshield.svg
   favicon: assets/wiessshield.svg
@@ -59,6 +60,9 @@ markdown_extensions:
       base_path: [docs, sources]
       check_paths: true
   - pymdownx.tasklist
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search
@@ -77,6 +81,9 @@ hooks:
   - hooks/citations.py
 
 extra:
+  # where the per-page "Discuss" button goes (GitHub Discussions must be enabled;
+  # or point it at the wiki: https://github.com/Wiess-College/TFWKB/wiki)
+  discuss_url: https://github.com/Wiess-College/TFWKB/discussions
   status:
     draft: assembled from sources but not yet reviewed by a maintainer
     reviewed: sources checked by a maintainer
@@ -104,6 +111,7 @@ nav:
       - Wiess Day: traditions/wiess-day.md
       - College Night: traditions/college-night.md
       - Fort Wiess: traditions/fort-wiess.md
+      - Off the books: traditions/off-the-books.md
       - Big Bang: traditions/big-bang.md
       - O-Week: traditions/o-week.md
       - DOME: traditions/dome.md
@@ -181,10 +189,15 @@ nav:
       - Photographs: gallery/index.md
       - Search log: sources/search-log.md
       - "Wanted: documents we can't find": sources/wanted.md
-  - Contributing:
-      - contributing/index.md
-      - Citing: contributing/citing.md
-      - Page template: contributing/page-template.md
-      - From the Commons to the Record: contributing/commons-to-record.md
-      - Maintainers: contributing/maintainers.md
-      - Rights: contributing/rights.md
+  - About:
+      - about/index.md
+      - How to use this site: about/how-to-use.md
+      - Add your story or fix something: about/contribute.md
+      - Credits: about/credits.md
+      - For maintainers:
+          - contributing/index.md
+          - Citing: contributing/citing.md
+          - Page template: contributing/page-template.md
+          - From the Commons to the Record: contributing/commons-to-record.md
+          - Maintainers: contributing/maintainers.md
+          - Rights: contributing/rights.md

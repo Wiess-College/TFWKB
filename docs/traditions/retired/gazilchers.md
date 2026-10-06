@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Gazilchers
 
-A gazilcher is a giant slingshot: lengths of surgical tubing, a pouch (classically a cafeteria silverware basket), and a crew of several students to stretch and fire it — "a large slingshot (operated by five people at once, and capable of launching objects well over 100 meters in distance)" [@physicsforums-gazilcher-2010]. From at least the 1960s into the 1990s, Wiess and its neighbours, Hanszen above all, used them to shell each other's buildings with water balloons and whatever else would fly. The wars escalated until the damage — broken windows and roof tiles — became the administration's business, and the devices were banned; by the early 2000s owning one was, in one alum's words, "a rusticatable offense" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by CW McCullagh, 1 May 2011]. The tradition is dead. The name survives in alumni comment threads and in a 2010 physics homework question.
+A gazilcher is a giant slingshot: lengths of surgical tubing, a pouch (classically a cafeteria silverware basket), and a crew of several students to stretch and fire it — "a large slingshot (operated by five people at once, and capable of launching objects well over 100 meters in distance)" [@physicsforums-gazilcher-2010]. From at least the 1960s into the 1990s, Wiess and its neighbours, Hanszen above all, used them to shell each other's buildings with water balloons and whatever else would fly. The wars escalated until the damage — to roof tiles and other property — became the administration's business, and the devices were banned; by the early 2000s owning one was, in one alum's words, "a rusticatable offense" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by CW McCullagh, 1 May 2011]. The tradition is dead. The name survives in alumni comment threads and in a 2010 physics homework question.
 
 ## Timeline
 
@@ -22,7 +22,6 @@ A gazilcher is a giant slingshot: lengths of surgical tubing, a pouch (classical
 | by c.1991 | The devices "eventually were suppressed by the administration after they began causing property damage" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011] | [T] |
 | early 2000s | "Possession of one in the early 2000s was a rusticatable offense" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by CW McCullagh, 1 May 2011] | [T] |
 | 2010-02-01 | A physics-forum question describes the Rice gazilcher — surgical tubing, a silverware basket, five operators, "well over 100 meters" — and asks how far it could throw a water balloon through a dormitory window [@physicsforums-gazilcher-2010] | [T] |
-| 2026 | Remembered at Wiess as a dead tradition: water balloons launched at Hanszen, escalating until windows were broken and the devices were banned [@testimony-mullen-2026-10-05 gazilchers] | [T] |
 
 ## Photographs
 
@@ -45,8 +44,6 @@ A gazilcher is a giant slingshot: lengths of surgical tubing, a pouch (classical
 ## Variants & disputes
 
 **When the ban came.** The sources give a direction, not a date: "suppressed by the administration" by about 1991 (Lockett), still around in 1987 (Childs), a serious offense by the early 2000s (McCullagh). A rule against them may exist in the 1991 College Rules or a university housing rule of the period — check [the 1991 Rules](../../governance/rules.md) and the Thresher.
-
-**Windows or tiles.** Wiess remembers broken windows; the oldest specific damage report is to Wiess's clay roof tiles in the 1970s. Both are plausible and need not conflict.
 
 **The spelling.** "Gazilcher" is the only spelling in the sources found so far; the word's origin is unknown.
 

@@ -57,8 +57,8 @@ The glossary line: "Weekend retreat to discuss Wiess issues and bond far away fr
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · 2024" data-gallery="summit" }
-  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Summit 2024: the college on the beach (date from the file name).](../assets/photos/photos-summit/2024.jpg){ loading=lazy data-title="Summit 2024: the college on the beach (date from the file name)." data-description="TFWKB photo collection; source not recorded · 2024" data-gallery="summit" }
+  <figcaption>Summit 2024: the college on the beach (date from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>
@@ -75,6 +75,6 @@ The glossary line: "Weekend retreat to discuss Wiess issues and bond far away fr
 - When Summit began, and whether it was always the Internal Vice President's job. The riceinfo Cabinet minutes of 1999 and the Woodson Cabinet records [@woodson-ua0079] are the places to look.
 - Which boat and which beach: the 2008 minutes name only "the boat club" and "Treasure Island" as a suggested alternative [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes].
 - Whether Summit is still a boat trip in 2026. The glossaries of 2021–2025 say Galveston [@oweek-2021 p.19] [@oweek-2025 p.26], which fits a beach or a boat; the traditions text was not rewritten. The `summit2023` photograph has not been looked at [@wiess-rice-edu asset-manifest.json].
-- The Wiess Associates traditions page is quoted from the historian's archive index; the archived page itself is queued for the corpus and its text should be checked against the quotation above [@wiessassociates-site].
+- The Wiess Associates traditions page is quoted from the archive index; the archived page itself is queued for the corpus and its text should be checked against the quotation above [@wiessassociates-site].
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

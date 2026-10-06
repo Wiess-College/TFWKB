@@ -36,7 +36,7 @@ The site's own consolation still applies: "some things you might remember fondly
 | The WiessCrack | a 1968 cover [@rhc 2015-01-23 friday-follies-wiess-crack]; "Wiess' annual humor publication" 1994 [@handbook-1994] | page live 1999 [@riceinfo-crack]; absent from every glossary 2003–2017 | [The WiessCrack](wiesscrack.md) |
 | Freshman Weenie Roast | 1997 [@riceinfo-traditions-1997] | described in the 2003, 2006 and 2007 books [@oweek-2007 p.43]; absent from 2008 | [Freshman Weenie Roast](freshman-weenie-roast.md) |
 | Formal Dinner and freshman waiting | 1950s, as the books tell it [@oweek-2006 p.37]; "Freshman Waiting" in the 1991 Rules [@rules-1991 §VI] | weekly family style in 2003 [@oweek-2003 wiess p.6]; ended c.2004 ("Until two years ago", 2006) [@oweek-2006 p.42]; cornering survives in the glossary to 2025 [@oweek-2025 p.26] | [Formal Dinner, waiting and long tables](formal-dinner.md) |
-| The Acatramp | 1994 [@handbook-1994]; "a long-standing tradition" in 1997 [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html] | glossary 2019 [@oweek-2019 p.14]; absent 2021 [@oweek-2021 p.18]; "died out for safety reasons" [@testimony-mullen-2026-10-05c Acatramp] | [The Acatramp](acatramp.md) |
+| The Acatramp | 1994 [@handbook-1994]; "a long-standing tradition" in 1997 [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html] | glossary 2019 [@oweek-2019 p.14]; absent 2021 [@oweek-2021 p.18] | [The Acatramp](acatramp.md) |
 
 ## Named once, and no page
 

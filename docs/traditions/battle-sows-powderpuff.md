@@ -110,6 +110,6 @@ The glossary entry itself hardly moved: "Affectionate name for the back-to-back 
 
 ## Sources
 
-The Thresher pages for 1983 are cited from the historian's War Pig research notes; the Portal to Texas History could not be reached from the build environment, so the OCR text has not been re-read for this page. Hanszen's page is a live site read on the review date, not an archived capture.
+The Thresher pages for 1983 are cited from the War Pig research notes; the Portal to Texas History could not be reached from the build environment, so the OCR text has not been re-read for this page. Hanszen's page is a live site read on the review date, not an archived capture.
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

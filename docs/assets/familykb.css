@@ -1,11 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Graduate&display=swap");
 /* Team Family Knowledgebase—black and gold, legible, printable */
 :root {
   --fp-gold: #c9a227;
   --fp-gold-soft: #f3e7bf;
   --fp-ink: #1a1a1a;
+  --fp-gold-deep: #8a6d0b;   /* gold that passes contrast as text on white */
+  --fp-varsity: "Graduate", "Rockwell", "Roboto Slab", Georgia, serif;
+  --fp-tile-bg: #fff;
+  --fp-tile-fg: var(--fp-ink);
+  --fp-tile-line: var(--fp-ink);
 }
+/* links in deep goldenrod (4.9:1 on white) */
+[data-md-color-scheme="default"][data-md-color-primary] { --md-typeset-a-color: var(--fp-gold-deep); }
+[data-md-color-scheme="slate"][data-md-color-primary] { --md-typeset-a-color: #e0bd4a; }
 [data-md-color-scheme="slate"] {
   --fp-gold-soft: #4a3f1c;
+  --fp-gold-deep: #e0bd4a;
+  --fp-tile-bg: #1d1c19;
+  --fp-tile-fg: #f2ead2;
+  --fp-tile-line: #c9a227;
 }
 
 .md-header, .md-tabs { border-bottom: 3px solid var(--fp-gold); }
@@ -60,6 +73,7 @@ dl.bib dd { margin-left: 1.5em; color: var(--md-default-fg-color--light); }
 .reviewed { font-size: 0.75em; color: var(--md-default-fg-color--light); border-top: 1px solid var(--md-default-fg-color--lightest); margin-top: 2.5em; padding-top: 0.5em; }
 
 @media print {
+  .tfw-actions { display: none !important; }
   a.cite::after { content: " (" attr(href) ")"; font-size: 0.8em; }
   .md-sidebar, .md-header, .md-tabs, .md-footer { display: none !important; }
 }
@@ -71,3 +85,174 @@ dl.bib dd { margin-left: 1.5em; color: var(--md-default-fg-color--light); }
 .md-typeset .photo-grid figcaption { max-width: none; margin: .4em 0 0; font-size: .68rem; text-align: left; line-height: 1.35; }
 .md-typeset .photo-grid figcaption small { display: block; opacity: .8; margin-top: .2em; }
 .md-typeset .photo-grid figure > br { display: none; }
+
+
+/* ===================================================================
+   Homepage: varsity-patch hero, button tiles, "Did you know?" strip
+   =================================================================== */
+.md-typeset .tfw-hero { margin: 0.4rem 0 1.4rem; }
+.md-typeset .tfw-hero h1.tfw-hero__title {
+  font-family: var(--fp-varsity);
+  font-weight: 400;
+  font-size: clamp(1.7rem, 5.4vw, 2.9rem);
+  line-height: 1.05;
+  letter-spacing: 0.01em;
+  color: var(--md-default-fg-color);
+  margin: 0 0 0.5rem;
+}
+.md-typeset .tfw-hero h1.tfw-hero__title .headerlink { display: none; }
+.md-typeset .tfw-hero__what { font-size: 0.95rem; margin: 0 0 0.2rem; color: var(--md-default-fg-color--light); }
+.md-typeset .tfw-hero__vibe {
+  display: inline;
+  font-size: clamp(1rem, 2.6vw, 1.25rem);
+  font-weight: 900;
+  margin: 0;
+  /* highlighter stroke, like a marked-up O-Week book */
+  background: linear-gradient(transparent 58%, var(--fp-gold) 58%, var(--fp-gold) 92%, transparent 92%);
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  padding: 0 0.15em;
+}
+[data-md-color-scheme="slate"] .md-typeset .tfw-hero__vibe {
+  background: linear-gradient(transparent 58%, rgba(201,162,39,.55) 58%, rgba(201,162,39,.55) 92%, transparent 92%);
+}
+
+.md-typeset .tfw-tiles > p {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 7.2rem), 1fr));
+  gap: 0.8rem;
+  margin: 0 0 2rem;
+}
+.md-typeset a.tfw-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.6rem;
+  min-height: 6.2rem;
+  padding: 0.75rem 0.8rem 0.7rem;
+  background: var(--fp-tile-bg);
+  color: var(--fp-tile-fg);
+  border: 2px solid var(--fp-tile-line);
+  border-radius: 0.35rem;
+  box-shadow: 4px 4px 0 var(--fp-gold);
+  font-family: var(--fp-varsity);
+  font-size: 0.86rem;
+  line-height: 1.15;
+  text-decoration: none;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.md-typeset a.tfw-tile .twemoji { height: 1.9rem; width: 1.9rem; }
+.md-typeset a.tfw-tile .twemoji svg { height: 1.9rem; width: 1.9rem; max-height: none; fill: currentColor; }
+.md-typeset a.tfw-tile:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0 var(--fp-gold); color: var(--fp-tile-fg); }
+.md-typeset a.tfw-tile:active { transform: translate(3px, 3px); box-shadow: 1px 1px 0 var(--fp-gold); }
+.md-typeset a.tfw-tile:focus-visible { outline: 3px solid var(--md-accent-fg-color); outline-offset: 3px; }
+.md-typeset a.tfw-tile--gold { background: var(--fp-gold); color: var(--fp-ink); border-color: var(--fp-ink); box-shadow: 4px 4px 0 var(--fp-ink); }
+.md-typeset a.tfw-tile--gold:hover { color: var(--fp-ink); box-shadow: 6px 6px 0 var(--fp-ink); }
+.md-typeset a.tfw-tile--ink { background: var(--fp-ink); color: var(--fp-gold); border-color: var(--fp-ink); }
+.md-typeset a.tfw-tile--ink:hover { color: var(--fp-gold); }
+[data-md-color-scheme="slate"] .md-typeset a.tfw-tile--gold { box-shadow: 4px 4px 0 #000; }
+[data-md-color-scheme="slate"] .md-typeset a.tfw-tile--ink { border-color: var(--fp-gold); }
+
+.md-typeset .tfw-facts {
+  border-top: 3px solid var(--md-default-fg-color);
+  padding-top: 0.2rem;
+  margin-bottom: 1.6rem;
+}
+.md-typeset .tfw-facts h2 { font-family: var(--fp-varsity); font-weight: 400; font-size: 1.05rem; margin: 0.6rem 0 0.4rem; }
+.md-typeset .tfw-facts ul {
+  list-style: none;
+  margin: 0; padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: 0.4rem 1.4rem;
+}
+.md-typeset .tfw-facts li {
+  margin: 0 !important;
+  padding-left: 0.7rem;
+  border-left: 4px solid var(--fp-gold);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+.md-typeset .tfw-footlinks { font-size: 0.8rem; }
+@media screen and (max-width: 44.9375em) {
+  .md-typeset a.tfw-tile { min-height: 4.8rem; font-size: 0.8rem; padding: 0.6rem 0.65rem; }
+  .md-typeset a.tfw-tile .twemoji, .md-typeset a.tfw-tile .twemoji svg { height: 1.5rem; width: 1.5rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset a.tfw-tile { transition: none; }
+  .md-typeset a.tfw-tile:hover, .md-typeset a.tfw-tile:active { transform: none; }
+}
+
+/* ===================================================================
+   Per-page help buttons (overrides/main.html)
+   =================================================================== */
+.tfw-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.45rem; }
+.tfw-actions--top { margin: 0 0 0.6rem; }
+.tfw-actions--bottom {
+  margin: 2.4rem 0 0.4rem;
+  padding: 0.8rem 0 0;
+  border-top: 2px dashed var(--fp-gold);
+}
+.tfw-actions__ask { flex-basis: 100%; margin: 0 0 0.2rem; font-weight: 700; font-size: 0.8rem; }
+.md-typeset a.tfw-action, a.tfw-action {
+  display: inline-flex; align-items: center; gap: 0.3em;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1.6;
+  color: var(--md-default-fg-color);
+  background: transparent;
+  border: 1.5px solid var(--md-default-fg-color--lighter);
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+a.tfw-action:hover { border-color: var(--fp-gold); background: var(--fp-gold-soft); color: var(--md-default-fg-color); }
+a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
+.tfw-actions--bottom a.tfw-action { font-size: 0.75rem; padding: 0.3rem 0.8rem; border-color: var(--md-default-fg-color--light); }
+
+/* ===================================================================
+   Page furniture used by the rewritten pages (see STYLE.md)
+   =================================================================== */
+/* !!! abstract "TL;DR" — the gold summary box */
+.md-typeset .admonition.abstract, .md-typeset details.abstract, .md-typeset .tldr {
+  border: 2px solid var(--fp-gold);
+  border-left-width: 6px;
+  background: color-mix(in srgb, var(--fp-gold-soft) 55%, transparent);
+  box-shadow: none;
+  font-size: 0.8rem;
+}
+.md-typeset .tldr { padding: 0.6rem 0.9rem; border-radius: 0.2rem; margin: 1em 0; }
+.md-typeset .abstract > .admonition-title, .md-typeset .abstract > summary {
+  background-color: var(--fp-gold);
+  color: var(--fp-ink);
+  font-weight: 900;
+}
+.md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before {
+  background-color: var(--fp-ink);
+}
+.md-typeset .admonition.abstract ul { margin-top: 0.5em; margin-bottom: 0.5em; }
+
+/* ??? info "The receipts…" — quiet fold-outs */
+.md-typeset details.info {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 4px solid var(--md-default-fg-color--lighter);
+  box-shadow: none;
+  background: transparent;
+}
+.md-typeset details.info > summary {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 4%, transparent);
+  font-weight: 700;
+}
+.md-typeset details.info > summary::before { background-color: var(--fp-gold-deep); }
+.md-typeset details.info > summary::after { color: var(--fp-gold-deep); }
+.md-typeset details.info[open] { border-left-color: var(--fp-gold); }
+.md-typeset details.info > summary:hover { background-color: var(--fp-gold-soft); }
+/* timelines inside receipts keep full width and badges */
+.md-typeset details.info table:not([class]) { font-size: 0.72rem; }
+
+/* contribute page: the three paths */
+.md-typeset .tfw-paths { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; margin: 1.2rem 0; }
+.md-typeset .tfw-path { border-top: 4px solid var(--fp-gold); padding-top: 0.2rem; }
+.md-typeset .tfw-path h3 { margin-top: 0.6em; }
+.md-typeset .tfw-path .md-button { margin: 0.2rem 0.3rem 0.2rem 0; }

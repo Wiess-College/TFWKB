@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The Commons and UpCo
 
-The Commons is the college's dining hall and its largest room, and it has always been more than a place to eat: "The place to be. You will eat here, study here, act here, play here, party here, hangout here and well, live here," in every O-Week glossary from 2003 to 2017 [@oweek-2003 p.3] [@oweek-2017 p.14]. Old Wiess got its Commons when the dormitory became a college in 1957 [@delany-about-wiess-2002]; it was enlarged in the mid-1970s with a mezzanine and a wall of windows [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016], and by 1994 it was "Reputed as the best room for a BIG party on campus", the scene of NOD and of Tabletop, with the Private Dining Room (PDR) beside it [@handbook-1994]. The New Wiess Commons, designed by Machado and Silvetti, faces the Acabowl. It shares South Servery with Hanszen's dining hall, and the servery's roof is a terrace [@machado-silvetti-wiess] [@rice-facilities-first-100-years]. Since 2003 its second floor, the **Upper Commons**, has been where Cabinet meets [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4]. "UpCo" is that room: the maintainer's second notes gloss it "Upper Commons" [@testimony-mullen-2026-10-05b UpCo], and the earliest written "UpCo" found is the college's 2023 list of representatives, which has an UpCo representative [@wiess-rice-edu-representatives-2023]. The stairs from the Commons up to UpCo carry the TEAM / FAMILY / WIESS banners (see [Team Wiess](../traditions/team-wiess.md#the-banners)), and a small terrace between UpCo and the second-floor rooms is today's Acaterrace [@testimony-mullen-2026-10-05b terraces]; the building's other shared rooms are on [Rooms and spaces of New Wiess](rooms-and-spaces.md). The PDR has held "pictures of all our former Masters" since at least 2014 [@oweek-2014 p.46]. Senior Debates are held in the Commons today [@testimony-mullen-2026-10-05 Commons]; see [Debates](../traditions/debates.md).
+The Commons is the college's dining hall and its largest room, and it has always been more than a place to eat: "The place to be. You will eat here, study here, act here, play here, party here, hangout here and well, live here," in every O-Week glossary from 2003 to 2017 [@oweek-2003 p.3] [@oweek-2017 p.14]. Old Wiess got its Commons when the dormitory became a college in 1957 [@delany-about-wiess-2002]; it was enlarged in the mid-1970s with a mezzanine and a wall of windows [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016], and by 1994 it was "Reputed as the best room for a BIG party on campus", the scene of NOD and of Tabletop, with the Private Dining Room (PDR) beside it [@handbook-1994]. The New Wiess Commons, designed by Machado and Silvetti, faces the Acabowl. It shares South Servery with Hanszen's dining hall, and the servery's roof is a terrace [@machado-silvetti-wiess] [@rice-facilities-first-100-years]. Since 2003 its second floor, the **Upper Commons**, has been where Cabinet meets [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4]. "UpCo" is that room: the 2021 O-Week book glosses it "UpCo (Wiess upper commons)" [@oweek-2021 p.63], and the college's 2023 list of representatives has an UpCo representative [@wiess-rice-edu-representatives-2023]. The TEAM / FAMILY / WIESS banners hang in the Commons (see [Team Wiess](../traditions/team-wiess.md#the-banners)), and since 2021 the glossary's Acaterrace has been "The terrace connecting the second floor and the Upper Commons" [@oweek-2021 p.18]; the building's other shared rooms are on [Rooms and spaces of New Wiess](rooms-and-spaces.md). The PDR has held "pictures of all our former Masters" since at least 2014 [@oweek-2014 p.46].
 
 ## Timeline
 
@@ -38,8 +38,6 @@ The Commons is the college's dining hall and its largest room, and it has always
 | 2023-09 | "UpCo" as a written word: an UpCo representative on the college's list of representatives [@wiess-rice-edu-representatives-2023] | [P] |
 | 2024–2025 | The glossary's "Commons" becomes "**Commons Culture**. The place to be. You will eat here, study here, act here, play here, party here, hang out here, and well, live here"; the Commons now hosts "Most large events at Wiess" (NOD gone from the sentence); UpCo in Fellows' profiles ("playing pool or Tetris", "grinding out CS projects") and, in 2025, the home of the neon "Team Family Wiess" sign, a Proxy Cab prize [@oweek-2024 p.25] [@oweek-2024 p.11] [@oweek-2024 p.46] [@oweek-2024 p.47] [@oweek-2025 p.38] | [P] |
 | 2025 | The RAs "eat dinner in the Commons most days around 5:30"; Tabletop plays "take place in our very own Commons!!" [@oweek-2025 p.32] [@oweek-2025 p.38] | [P] |
-| 2026-10 | The maintainer lists the Commons and "UpCo" among the college's places; Senior Debates are held in the Commons [@testimony-mullen-2026-10-05 Commons and UpCo] | [T] |
-| 2026-10-05 | Second notes: UpCo is the Upper Commons; the TEAM / FAMILY / WIESS banners hang on the stairs from the Commons to UpCo; the Acaterrace is the small terrace between UpCo and the second-floor rooms [@testimony-mullen-2026-10-05b UpCo] | [T] |
 
 ## As the college described it
 
@@ -68,23 +66,15 @@ The glossary entries year by year: [Commons](../traditions/glossary-series.md#co
 
 ## Customs
 
-Small habits of the Commons and the servery that no calendar records. All three are in the maintainer's third set of notes [@testimony-mullen-2026-10-05c servery customs]; what the written record adds is given with each.
+Small habits of the Commons and the servery that no calendar records, as far as the written record shows them.
 
 ### Square tables
 
-The Commons is furnished with square tables, which can be pushed together into long rows; the maintainer says Wiess is the only college that still has them, a survival of the seated, served dinners [@testimony-mullen-2026-10-05c square tables] [T]. A 2017 photograph on the college website shows square tables set in pairs with chairs on all four sides [@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg] [P]. The custom that goes with them is **cornering**, pulling up an extra chair at a table's corner, defined in every glossary from 2003 to 2025 [@oweek-2003 conclusions p.3] [@oweek-2025 p.26] [P]. Both, and the uniqueness claim (testimony only), are told on [Formal Dinner, waiting and long tables](../traditions/retired/formal-dinner.md#square-tables).
-
-### Applause for a fallen chair
-
-When a chair falls over in the servery or the Commons, everyone applauds [@testimony-mullen-2026-10-05c chair] [T].
-
-**Written record.** None. No O-Week book, glossary or college website in the corpus mentions it. Testimony only; first attested 5 October 2026.
+A 2017 photograph on the college website shows square tables set in pairs with chairs on all four sides [@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg] [P]. The custom that goes with them is **cornering**, pulling up an extra chair at a table's corner, defined in every glossary from 2003 to 2025 [@oweek-2003 conclusions p.3] [@oweek-2025 p.26] [P]. Both are told on [Formal Dinner, waiting and long tables](../traditions/retired/formal-dinner.md#square-tables).
 
 ### Friday music
 
-On Fridays music plays in the servery from lunch until dinner [@testimony-mullen-2026-10-05c Friday music] [T].
-
-**Written record.** Friday music at Wiess has been a job since at least 2016, when an O-Week Fellow's profile gave him "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58] [P]. TFFW, the Friday-afternoon gathering in the Acabowl, has opened its description since 2016 with "It's Friday! There's music on the stacks" [@oweek-2016 p.31] ("There is music playing the stacks", 2025 [@oweek-2025 p.39]) [P] (see [TFFW](../traditions/tffw.md)). The college's representatives list of 2023 has three Music representatives, without a description of their job [@wb 20230114021659 http://teamwiess.com/government/representatives] [P]. No written source places the Friday music in the servery itself or gives its hours; that part is testimony only. The custom is not Wiess's alone in kind: in 2006 the O-Week book's guide to the other colleges said Brown's "speakers blast Happy Friday music all over the north side" on Friday afternoons [@oweek-2006 p.53] [P].
+Friday music at Wiess has been a job since at least 2016, when an O-Week Fellow's profile gave him "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58] [P]. TFFW, the Friday-afternoon gathering in the Acabowl, has opened its description since 2016 with "It's Friday! There's music on the stacks" [@oweek-2016 p.31] ("There is music playing the stacks", 2025 [@oweek-2025 p.39]) [P] (see [TFFW](../traditions/tffw.md)). The college's representatives list of 2023 has three Music representatives, without a description of their job [@wb 20230114021659 http://teamwiess.com/government/representatives] [P]. The custom is not Wiess's alone in kind: in 2006 the O-Week book's guide to the other colleges said Brown's "speakers blast Happy Friday music all over the north side" on Friday afternoons [@oweek-2006 p.53] [P].
 
 ## Photographs
 
@@ -92,8 +82,8 @@ On Fridays music plays in the servery from lunch until dinner [@testimony-mullen
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).](../assets/photos/photos-old-wiess/jello-night-weiss-college-c1996-3-008-commons.jpg){ loading=lazy data-title="Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name)." data-description="maintainers&#x27;s photo collection; source not recorded · c.1996" data-gallery="commons" }
-  <figcaption>Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name). <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).](../assets/photos/photos-old-wiess/jello-night-weiss-college-c1996-3-008-commons.jpg){ loading=lazy data-title="Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name)." data-description="TFWKB photo collection; source not recorded · c.1996" data-gallery="commons" }
+  <figcaption>Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -107,8 +97,8 @@ On Fridays music plays in the servery from lunch until dinner [@testimony-mullen
 </figure>
 
 <figure markdown="span">
-  ![The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front.](../assets/photos/photos-outside/commons-2.jpg){ loading=lazy data-title="The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front." data-description="maintainers&#x27;s photo collection; source not recorded · undated (after 2002)" data-gallery="commons" }
-  <figcaption>The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front. <small>maintainers&#x27;s photo collection; source not recorded</small></figcaption>
+  ![The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front.](../assets/photos/photos-outside/commons-2.jpg){ loading=lazy data-title="The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front." data-description="TFWKB photo collection; source not recorded · undated (after 2002)" data-gallery="commons" }
+  <figcaption>The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front. <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 </div>
@@ -116,7 +106,7 @@ On Fridays music plays in the servery from lunch until dinner [@testimony-mullen
 
 ## Variants & disputes
 
-- **Is UpCo the Upper Commons?** Yes. The corpus has "Upper Commons" from 2003 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4] to 2017 [@oweek-2017 p.15]; the short form first appears as an "UpCo" representative in 2023 [@wiess-rice-edu-representatives-2023], and the maintainer's second notes say "UpCo (Upper Commons)" [@testimony-mullen-2026-10-05b UpCo]. An earlier version of this page could only infer the equation from the abbreviation. It is not a separate room, so it has no page of its own.
+- **Is UpCo the Upper Commons?** Yes. The corpus has "Upper Commons" from 2003 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.4] to 2017 [@oweek-2017 p.15]; the short form appears as an "UpCo" representative in 2023 [@wiess-rice-edu-representatives-2023], and the 2021 O-Week book glosses it "UpCo (Wiess upper commons)" [@oweek-2021 p.63]. It is not a separate room, so it has no page of its own.
 - **Two commons in Old Wiess, or one?** 1994 has a "Commons" and an "outer commons" (KBG, foosball) [@handbook-1994]; the 1999 Cabinet met in "the outer commons" [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html]. The 2003 history makes the Outer Commons the original 1949 lobby and the Commons a 1957 addition [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]; from 2006 the books say "a small Commons" in 1949 and "a second Commons area" added later [@oweek-2006 p.36]. These fit if the 1949 lobby became the outer commons and the 1957 dining room the Commons.
 - **When was the mezzanine built?** "Probably 1974", by memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. A plaque dated 1975 appears among Delany's 2002 photographs of the building; see [Old Wiess](old-wiess.md#open-questions).
 - **colors.** Purple and lime green in the 1970s (two independent memories) [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016]; black and gold by 1994, "the main reason for the color scheme in the Commons" [@handbook-1994].
@@ -125,12 +115,10 @@ On Fridays music plays in the servery from lunch until dinner [@testimony-mullen
 
 ## Open questions
 
-- When did Senior Debates move into, or begin in, the Commons? Only the 2026 testimony places them there [@testimony-mullen-2026-10-05 Commons].
 - When "UpCo" came into use: between 2017, when the books still write "Upper Commons" in full [@oweek-2017 p.15], and summer 2021, when the O-Week book uses and glosses it [@oweek-2021 p.63]; an UpCo representative is listed in September 2023 [@wiess-rice-edu-representatives-2023].
 - Where the PDR's portraits of the Masters came from, and whether they include the Magisters since 2017.
 - Where the Old Wiess portrait of Harry Wiess went in 2002. The groundbreaking report promised that "medallions, plaques and original cornerstone" would move to the new building, but it does not mention portraits [@rice-news-1999-10-14-groundbreaking].
 - Did Hanszen use the new Wiess Commons in 2000–01, as planned [@riceinfo-news-2000-lundin]?
-- When the chair-falling applause began, and whether other colleges' serveries do the same.
 - Who plays the Friday servery music now (the Music representatives? the servery staff?), and when it moved from the Acabowl stacks into the servery, if it did.
 - The 2009 "geometry issues" joke points to "Dr. Dodds… for some great stories about the design of New Wiess" [@wb 20090827020025 http://teamwiess.com/areas.php]. Those stories are not recorded.
 
