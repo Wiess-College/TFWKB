@@ -334,7 +334,8 @@ def _parse_span(span: str, now: int):
         y1 = _year(b, now) if dash else y0
     except ValueError:
         return None
-    return y0, y1, fade_in, fade_out, open_end, not dash
+    # "?2017?" (seen once, may have run longer either way) is a one-year bar with fades, not a marker
+    return y0, y1, fade_in, fade_out, open_end, not dash and not (fade_in or fade_out)
 
 
 SEG_RE = re.compile(r"^(\??\s*\d{4}\s*(?:-\s*(?:\d{4}|now|today|current|present|ongoing)?)?\s*\??)(?:\s+(.*))?$", re.I)
@@ -419,6 +420,8 @@ def render_timeline(body: str, page_path: str) -> str:
                 end = "now" if sg["open_end"] else str(sg["y1"])
                 when = f'{sg["y0"]}–{end}' if sg["y1"] != sg["y0"] or sg["open_end"] else str(sg["y0"])
                 note = (" (first found; may be older)" if sg["fade_in"] else "") + (" (last seen; may have continued)" if sg["fade_out"] else "")
+                if sg["fade_in"] and sg["fade_out"] and sg["y0"] == sg["y1"]:
+                    note = " (the only mention found so far)"
                 cls = "tl-bar" + (" tl-alt" if k % 2 else "") + (" tl-fade-in" if sg["fade_in"] else "") \
                     + (" tl-fade-out" if sg["fade_out"] else "") + (" tl-open" if sg["open_end"] else "")
                 y0c = max(sg["y0"], lo)
