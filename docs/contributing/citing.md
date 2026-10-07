@@ -15,6 +15,7 @@ Thresher pages from the Portal are dated automatically when their ark id is in `
 | `[@wb 20070709182921 http://teamwiess.com/nod.html]` | a Wayback Machine capture: timestamp, then the original URL | `web.archive.org/web/20070709182921/http://teamwiess.com/nod.html` |
 | `[@portal metapth245573 p.27]` | a Rice Thresher page at the Portal to Texas History: ark id, then page | the page viewer at UNT |
 | `[@woodson UA0079 box 3 folder 12]` | an item in the Woodson Research Center | a pointer to the finding aid |
+| `[@fondren https://rice.quartexcollections.com/Documents/Detail/... Sallyport, Spring 1995, p.12]` | an item in Fondren Library's digital collections (Sallyport, the Campanile): the item's URL, then a short label | the item at Fondren |
 
 The locator is free text: `p.27`, `part 6 p.3`, `comment by Dave McCooey, 14 Dec 2021`, `slide 28`. Keep it short enough to read inline.
 

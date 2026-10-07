@@ -11,6 +11,7 @@ builds the site. The short forms are (see docs/contributing/citing.md):
     [@portal metapth245573 p.27]                        a Portal to Texas History page (Thresher)
     [@rhc 2021-12-10 im-pissed-no-date comment by X]    a Rice History Corner post
     [@woodson UA0079 box 3 folder 12]                   Woodson Research Center item
+    [@fondren <item URL> Sallyport, Spring 1995, p.12]  Fondren Digital Collections item (Sallyport, Campanile)
 
 On each page it does the following, in this order:
 
@@ -169,6 +170,8 @@ TIMELINE_SEGMENT_PATTERN = re.compile(
 # Machine. Each is matched at the start of the address, after the scheme.
 DIRECT_LINK_PREFIXES = (
     "web.archive.org", "archive.org", "texashistory.unt.edu",  # archives in their own right
+    "digitalcollections.rice.edu", "rice.quartexcollections.com",  # Fondren Digital Collections
+    "iiif.quartexcollections.com", "hdl.handle.net",
     "github.com/Wiess-College", "wiess-college.github.io",  # our repo and site
     "squidfunk.github.io", "fonts.googleapis.com", "fonts.gstatic.com",  # theme furniture
     "creativecommons.org",
@@ -879,6 +882,25 @@ def resolve_woodson_citation(citation: re.Match, page_path: str) -> ResolvedCita
     )
 
 
+def resolve_fondren_citation(citation: re.Match, page_path: str) -> ResolvedCitation:
+    """Return the Fondren Digital Collections item for "[@fondren <item URL or path> <label>]".
+
+    The item is a Sallyport issue, a Campanile volume or another scan at digitalcollections.rice.edu,
+    which replaced rice.quartexcollections.com in 2026. A path without "http" is taken as relative to that
+    site. The label is free text, such as "Sallyport, Spring 1995, p.12".
+    """
+    locator_words = citation["locator"].strip().split(None, 1)
+    if not locator_words:
+        LOGGER.warning("%s: bad Fondren citation %r", page_path, citation.group())
+        return ResolvedCitation(None, citation.group(), "", False)
+    item_address, *label_words = locator_words  # label_words is [] or the rest of the locator as one string
+    url = item_address if item_address.startswith("http") else (
+        "https://digitalcollections.rice.edu/" + item_address.lstrip("/")
+    )
+    label = (label_words[0] if label_words else "Fondren Library Digital Collections item") + " (Fondren Digital Collections)"
+    return ResolvedCitation(url, label, "Fondren Library Digital Collections, Rice University", True)
+
+
 # The keys resolve_citation works out by rule instead of looking up in the bibliography, and the function
 # for each. A function that returns None hands the citation on to the bibliography. Defined here rather
 # than with the constants at the top because it names the functions above. tools/cite.py reads it too.
@@ -887,6 +909,7 @@ RESOLVER_BY_RULE_KEY = {
     "portal": resolve_portal_citation,
     "rhc": resolve_rice_history_corner_post,
     "woodson": resolve_woodson_citation,
+    "fondren": resolve_fondren_citation,
 }
 
 

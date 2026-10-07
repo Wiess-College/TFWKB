@@ -46,6 +46,12 @@ This section is about the people of Wiess: the grown-ups who live with the colle
 
     Wiess has had a Historian on paper for a long time.
 
+-   :material-star-outline: **[Notable alumni](notable-alumni.md)**
+
+    ---
+
+    Wiessmen who went on to public careers.
+
 -   :material-account-tie: **[Harry Carothers Wiess](the-man.md)**
 
     ---
