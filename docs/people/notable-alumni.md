@@ -14,7 +14,7 @@ Wiessmen who went on to public careers in science, government, business, the art
 - **Wiess connection:** a source places the person at Wiess: a Wiess office, a Wiess class year in an alumni note, the Campanile's Wiess pages, or a Thresher or Sallyport story that names the college.
 - **Notable:** a public career that a reader outside Rice might recognise, or a first or an award worth recording. A source has to say so; a résumé line isn't enough.
 - **Living alumni** appear only in their public roles. No one who may still be a student is listed (see the privacy rule in the style guide).
-- **Good sources:** *Sallyport*, Rice's alumni magazine, and the Campanile yearbooks, both in [Fondren Library's digital collections](https://rice.quartexcollections.com/); the Thresher; Rice News obituaries and alumni awards.
+- **Good sources:** *Sallyport*, Rice's alumni magazine, and the Campanile yearbooks, both in [Fondren Library's digital collections](https://digitalcollections.rice.edu/); the Thresher; Rice News obituaries and alumni awards.
 
 ## Alumni
 
