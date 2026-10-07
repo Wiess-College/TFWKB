@@ -15,9 +15,7 @@ Unnecessary Tie Day was a Wiess day for wearing a tie for no reason. The rules, 
 
 ## What it was
 
-"This one's pretty self-explanatory. Wear a tie. What could be simpler? A little bit of randomness can be fun." That's Ray Wagner, on the page he gave it in June 1999, decorated with a borrowed Elvis tie [@riceinfo-tieday].
-
-Who picked the day? Once a year, or whenever someone yelled it? The page doesn't say [@riceinfo-tieday].
+According to Ray Wagner, on the page he gave it in June 1999, decorated with a borrowed Elvis tie: "This one's pretty self-explanatory. Wear a tie. What could be simpler? A little bit of randomness can be fun." [@riceinfo-tieday].
 
 ## Last seen
 

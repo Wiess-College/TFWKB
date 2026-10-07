@@ -1,77 +1,87 @@
-"""Photo placements for the Record pages (editor, 2026-10-05).
+"""List every photograph shown on a Record page, with its caption, credit and date (editor, 2026-10-05).
 
-Each entry: (file under docs/assets/photos, gallery key, caption, credit_plain, credit_cite, date, topic).
-`caption` is plain text (it also goes into the lightbox title and the manifest); `credit_cite` is the
-Markdown citation shown under the image. Run apply_photos.py to fill the galleries and the manifest.
+This file is the one place editors change a photo's caption or move it to another page. Nothing reads
+it directly except tools/apply_photos.py, which copies it onto the Record pages, the Photographs page
+and the manifest; run that script after every change here.
+
+Each entry in PHOTO_PLACEMENTS is a tuple of seven strings, in this order: photo_subpath (relative to
+docs/assets/photos/), gallery_key (a key of GALLERY_PAGES), caption, credit_plain, credit_citation,
+date and topic. The caption is plain text, because it also becomes the lightbox title and the manifest
+caption. credit_citation is the Markdown citation shown under the image, or "" when there is nothing to
+cite. Entries are plain tuples rather than named records so that adding one takes nothing but
+quotes and commas; apply_photos.py gives the fields their names.
+
+Some credits and citations shared by many photos are kept in the constants below, so a correction is
+made once.
 """
 
-RHC_CONS = "[@rhc 2012-12-04 wiess-hall-construction-1949]"
-CONS = "Rice University, Woodson Research Center, via Rice History Corner"
-DELANY = "Colin Delany '91, 'wiess college | abandoned', August 2002"
-UNREC = "TFWKB photo collection; source not recorded"
+RICE_HISTORY_CORNER_CONSTRUCTION_CITATION = "[@rhc 2012-12-04 wiess-hall-construction-1949]"
+WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT = "Rice University, Woodson Research Center, via Rice History Corner"
+DELANY_2002_CREDIT = "Colin Delany '91, 'wiess college | abandoned', August 2002"
+SOURCE_NOT_RECORDED_CREDIT = "TFWKB photo collection; source not recorded"
 
-P = [
+PHOTO_PLACEMENTS = [
     # --- Old Wiess: construction (1949-50)
     ("photos-old-wiess-construction/wiess-construction-1.jpg", "oldwiess",
      "1 March 1949: the site staked out with batter boards on open grass, a crane and site hut beyond. The label reads 'Wm. M. Rice Institute Dormitory Building, Staub & Rather, Architects, W. S. Bellows Construction Corp., Contractors'.",
-     CONS, RHC_CONS, "1949-03-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1949-03-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/photography-wiesshallconstruction-4-1-49.jpg", "oldwiess",
      "1 April 1949: footings and forms, with a baseball game against A&M in the background.",
-     CONS, RHC_CONS + " [@rhc 2012-12-04 wiess-hall-construction-1949 comment by almadenmike, 5 Dec 2012]", "1949-04-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION + " [@rhc 2012-12-04 wiess-hall-construction-1949 comment by almadenmike, 5 Dec 2012]", "1949-04-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/wiess-construction-2.jpg", "oldwiess",
      "1 April 1949 (no. 2): the foundation forms across the site.",
-     CONS, RHC_CONS, "1949-04-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1949-04-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/wiess-construction-4.jpg", "oldwiess",
      "1 August 1949: the steel frame of the walkway roofs.",
-     CONS, RHC_CONS, "1949-08-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1949-08-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/photography-wiesshallconstruction-11-1-49.jpg", "oldwiess",
      "1 November 1949: along a finished walkway.",
-     CONS, RHC_CONS, "1949-11-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1949-11-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/wiess1949.jpg", "oldwiess",
      "1 December 1949: a two-storey wing complete, its balconies open to the yard; the ground still bare.",
-     CONS, RHC_CONS, "1949-12-01", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1949-12-01", "Old Wiess, construction"),
     ("photos-old-wiess-construction/moritz-wiesshallcompletion-3-10-50.jpg", "oldwiess",
      "'Wiess Hall completion', 10 March 1950 (date from the file's title): the finished building behind a lone pine.",
-     CONS, RHC_CONS, "1950-03-10", "Old Wiess, construction"),
+     WOODSON_VIA_RICE_HISTORY_CORNER_CREDIT, RICE_HISTORY_CORNER_CONSTRUCTION_CITATION, "1950-03-10", "Old Wiess, construction"),
     # --- Old Wiess: later views
     ("photos-outside/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg", "oldwiess",
      "Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file name).",
-     UNREC, "", "1950-11-02", "Old Wiess"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "1950-11-02", "Old Wiess"),
     ("photos-outside/oldwiesscollege-9-69.jpg", "oldwiess",
      "Old Wiess College across an open field, September 1969 (date from the file name).",
-     UNREC, "", "1969-09", "Old Wiess"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "1969-09", "Old Wiess"),
     ("photos-outside/aerialviewgymnasium-1969.jpg", "oldwiess",
      "Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old Wiess's west wing stood next to the gym.",
-     UNREC, "[@riceinfo-history]", "1969", "Old Wiess"),
+     SOURCE_NOT_RECORDED_CREDIT, "[@riceinfo-history]", "1969", "Old Wiess"),
     # --- Old Wiess: Delany, Aug 2002
     ("photos-old-wiess/details-photo6.jpg", "oldwiess",
      "The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with the Plutarch line on Socrates. Transcribed on the Old Wiess page.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/spaces-photo13.jpg", "oldwiess",
      "The entrance under the WIESS COLLEGE lettering, abandoned, August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/hallways-photo2.jpg", "oldwiess",
      "Two storeys of rooms opening onto balconies over a courtyard, August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/hallways-photo1.jpg", "oldwiess",
      "An outdoor balcony walkway, August 2002: every Old Wiess room opened onto one.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/spaces-photo1.jpg", "oldwiess",
      "'Between commons and backabowl' (Delany's caption), August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/spaces-photo3.jpg", "oldwiess",
      "A glass-walled common room with yellow chairs, seen from outside, August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/spaces-photo5.jpg", "oldwiess",
      "A paved patio with benches under the trees, August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     ("photos-old-wiess/windows-photo3.jpg", "oldwiess",
      "Steel-framed windows in the brick, August 2002.",
-     DELANY, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
+     DELANY_2002_CREDIT, "[@edesigns-old-wiess-2002]", "2002-08", "Old Wiess, 2002"),
     # --- Commons
     ("photos-old-wiess/jello-night-weiss-college-c1996-3-008-commons.jpg", "commons",
      "Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).",
-     UNREC, "", "c.1996", "The Commons"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "c.1996", "The Commons"),
     ("photos/commons.jpg", "commons",
      "The New Wiess Commons: long tables, yellow chairs, the glass wall onto the Acabowl.",
      "teamwiess.com, 'New students: rooms', 2017", "[@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg]", "by 2017", "The Commons"),
@@ -80,7 +90,7 @@ P = [
      "teamwiess.com, 'acapics', by 2019", "[@wb 20190928044413 http://teamwiess.com/acapics/family.jpg]", "by 2019", "The Commons"),
     ("photos-outside/commons-2.jpg", "commons",
      "The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in front.",
-     UNREC, "", "undated (after 2002)", "The Commons"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated (after 2002)", "The Commons"),
     # --- New Wiess
     ("photos-outside/rescolleges.jpg", "newwiess",
      "The Commons across the Acabowl lawn and path.",
@@ -90,7 +100,7 @@ P = [
      "teamwiess.com, 'acapics', 2017", "[@wb 20170602224647 http://teamwiess.com/acapics/pink.jpg]", "by 2017", "New Wiess"),
     ("photos-outside/wing.jpg", "newwiess",
      "A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.",
-     UNREC, "", "undated", "New Wiess"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated", "New Wiess"),
     ("photos-outside/darkhall.jpg", "newwiess",
      "An open-air corridor behind the ivy-covered metal screens, at dusk.",
      "teamwiess.com, 'acapics', 2017", "[@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg]", "by 2017", "New Wiess"),
@@ -99,30 +109,30 @@ P = [
      "teamwiess.com, 'acapics', 2017", "[@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]", "by 2017", "New Wiess"),
     ("photos-outside/upper.jpg", "newwiess",
      "The glazed upper storey of the Commons at dusk, seen from an upper floor.",
-     UNREC, "", "undated", "New Wiess"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated", "New Wiess"),
     ("photos-outside/snow-1.jpg", "newwiess",
      "Snow on the Acabowl lawn and picnic tables.",
      "teamwiess.com, 'acapics', by February 2018", "[@wb 20180223224559 http://teamwiess.com/acapics/snow.jpg]", "by 2018-02", "New Wiess"),
     # --- Acabowl
     ("photos-outside/wiess-four-square-1991.jpg", "acabowl",
      "Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies behind.",
-     UNREC, "[@handbook-1994]", "1991", "The Acabowl"),
+     SOURCE_NOT_RECORDED_CREDIT, "[@handbook-1994]", "1991", "The Acabowl"),
     ("photos-outside/acabowl-2017.jpg", "acabowl",
      "The New Wiess Acabowl: lawn, a picnic table and the ivy-hung wing.",
      "teamwiess.com, 'New students: rooms', 2017", "[@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]", "by 2017", "The Acabowl"),
     ("photos/aca-slide.jpg", "acabowl",
      "A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.",
-     UNREC, "[@wb 20021013235815 http://www.teamwiess.com:80/pow.html]", "undated", "The Acabowl"),
+     SOURCE_NOT_RECORDED_CREDIT, "[@wb 20021013235815 http://www.teamwiess.com:80/pow.html]", "undated", "The Acabowl"),
     # --- Terraces / Toke
     ("photos-outside/bacaterrace.jpg", "terraces",
      "The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is named 'bacaterrace'.",
-     UNREC, "", "undated", "The terraces"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated", "The terraces"),
     ("photos-outside/fourthterrace.jpg", "terraces",
      "The fourth-floor balcony (the Bacaterrace of the 2014–17 books): benches and rail, the playing fields beyond.",
-     UNREC, "", "undated", "The terraces"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated", "The terraces"),
     ("photos-outside/terrace-sky.jpg", "terraces",
      "Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor balcony.",
-     UNREC, "", "undated", "The terraces"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "undated", "The terraces"),
     ("photos-people/wiessicles.jpg", "terraces",
      "TOKE painted on a graffiti-covered table: an O-Week photograph of 2022, the earliest written trace of the name.",
      "teamwiess.com, O-Week 2022", "[@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg]", "2022", "The terraces"),
@@ -183,10 +193,10 @@ P = [
      "The Campanile 1985, p.283", "[@campanile-1985]", "1984-10-26", "Night of Decadence"),
     ("nod/1983.jpg", "nod",
      "Dancing at NOD, c.1983 (date from the file name).",
-     UNREC, "", "c.1983", "Night of Decadence"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "c.1983", "Night of Decadence"),
     ("nod/1998-lg.jpg", "nod",
      "Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).",
-     UNREC, "", "1998", "Night of Decadence"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "1998", "Night of Decadence"),
     # --- Gazilchers
     ("photos-outside/1970-wiess-water-fight.jpg", "gazilchers",
      "Water balloons launched from the west wing of Old Wiess. The file is dated 1970; an alumnus who was there dates it c.1961–62.",
@@ -200,7 +210,7 @@ P = [
      "riceinfo Wiess site, 2000", "[@wb 20000526190203 http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/index.html]", "by 2000", "War Pig"),
     ("photos/10-copy.jpg", "warpig",
      "The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy screens of New Wiess behind.",
-     UNREC, "[@warpig-core-deck slide 32]", "2002–04", "War Pig"),
+     SOURCE_NOT_RECORDED_CREDIT, "[@warpig-core-deck slide 32]", "2002–04", "War Pig"),
     # --- Jock Row, Norse Night
     ("photos/weiss-jocks-nd-047.jpg", "jockrow",
      "A banner in the Old Wiess Commons supporting the Wiess jocks. Undated; commenters guess the 1960s or early 1970s.",
@@ -220,7 +230,7 @@ P = [
      "teamwiess.com, by January 2023", "[@wb 20230114010426 http://teamwiess.com/images/beer-bike-low.jpg]", "by 2023", "Beer Bike"),
     ("photos-summit/2024.jpg", "summit",
      "Summit 2024: the college on the beach (date from the file name).",
-     UNREC, "", "2024", "Summit"),
+     SOURCE_NOT_RECORDED_CREDIT, "", "2024", "Summit"),
     ("photos-oweek/2771146179-5e6a847fb9-c.jpg", "oweek",
      "O-Week, late 2000s: skateboarding in a goldenrod shirt.",
      "Flickr; photographer not recorded", "", "c.2008", "O-Week"),
@@ -324,8 +334,9 @@ P = [
      "First Wiess website, People pages, 1998–2000", "[@riceinfo-masters]", "1998–2000", "Core Team"),
 ]
 
-# gallery key -> (page path relative to docs, label for the Photographs index)
-PAGES = {
+# gallery_key -> (page_path relative to docs/, heading for the gallery's section on the Photographs page).
+# Order here is the order of sections on the Photographs page. Two keys may share a page.
+GALLERY_PAGES = {
     "oldwiess": ("places/old-wiess.md", "Old Wiess"),
     "oldwiess1999": ("places/old-wiess.md", "Old Wiess, wing by wing (1999)"),
     "commons": ("places/commons.md", "The Commons and UpCo"),

@@ -7,7 +7,7 @@ title: Wanted—documents we need and can't find
 A hit list for Historians and their helpers. Everything here is a document we know exists (or must have existed) but don't have yet. The obvious next place to look is the Woodson Research Center's Wiess College Records, 34.75 linear feet of papers [@woodson-ua0079]; open questions are tracked in `issues/open-questions.tsv` and as GitHub issues.
 
 !!! abstract "TL;DR"
-    - **Read this next:** the 1979 Thresher series "Wiess College: The First Fifteen Years", four parts, 1–22 February 1979 [@thresher-1979-wiess-first-fifteen-years].
+    - **Read this next:** the 1979 Thresher series "Wiess College: The First Fifteen Years", four parts, 1–22 February 1979; Part II (8 Feb) is still to be read [@thresher-1979-wiess-first-fifteen-years].
     - Old stuff is mostly at Fondren's **Woodson Research Center**. Newer stuff is with the **College Coordinator**, Cabinet, or past officers.
     - Found something? Scan it, open a "Source this" issue, then strike the row here (~~like this~~) and link the issue.
 
@@ -15,7 +15,7 @@ A hit list for Historians and their helpers. Everything here is a document we kn
 
 | Item | Where | Why it matters |
 |---|---|---|
-| "Wiess College: The First Fifteen Years", a four-part Thresher series, 1, 8, 15 and 22 Feb 1979 (pp.6, 14, 14, 12) [@thresher-1979-wiess-first-fifteen-years] | Portal to Texas History (or the digital.library.unt.edu OCR pages); found in the October 2026 sweep but not yet read in full | Presidents and masters from the 1950s to about 1972, how the Acabowl got its name, the founding of Table Top Theater, the Talmage, Pfeiffer and Rudee masterships → [Magisters](../people/magisters.md), [Acabowl](../places/acabowl.md), [Tabletop](../traditions/tabletop-theatre.md) |
+| "Wiess College: The First Fifteen Years", a four-part Thresher series, 1, 8, 15 and 22 Feb 1979 (pp.6, 14, 14, 12) [@thresher-1979-wiess-first-fifteen-years] | Portal to Texas History (or the digital.library.unt.edu OCR pages); Parts I, III and IV (1, 15 and 22 Feb 1979) are read; Part II (8 Feb 1979, metapth245395 p.14) remains | Presidents and masters from the 1950s to about 1972, how the Acabowl got its name, the founding of Table Top Theater, the Talmage, Pfeiffer and Rudee masterships → [Magisters](../people/magisters.md), [Acabowl](../places/acabowl.md), [Tabletop](../traditions/tabletop-theatre.md) |
 | The c.1990 collection of student papers on Rice history that includes "Strength of Identity", a history of Wiess, reviewed in the Thresher on 9 Nov 1990 [@thresher-1990-11-09-strength-of-identity] | Fondren Library or the Woodson (title of the collection not yet known) | The earliest source for the Dangle, and a NOD-punch story older than the one now cited → [The Dangle](../traditions/retired/the-dangle.md), [Night of Decadence](../traditions/night-of-decadence.md) |
 
 ## Pending

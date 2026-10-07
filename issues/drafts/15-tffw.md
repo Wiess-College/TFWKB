@@ -6,7 +6,6 @@ page: docs/traditions/tffw.md
 
 An oral account (shared with the maintainers, October 2026) says:
 
-- TFFW is expanded several ways in 2026: "Team Family Friday Wiess", "Team Friday Fun Wiess", "Team Family Friday Fun Wiess" and others.
 - TFFWs are Wiess's own Friday events, held in place of the KITQ/FITQ of other colleges.
 - An Associates' blog post of January 2017 was titled "Team Fun Friday Wiess 1/20".
 

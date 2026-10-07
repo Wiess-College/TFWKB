@@ -29,6 +29,10 @@ One "room" on the Backabowl ledge was actually a restroom. "Because it is used s
 
 Every Old Wiess room opened onto a balcony or the grass [@handbook-1972]. Students sat on the brick rails as early as about 1965 [@rhc 2016-05-24 hanging-out-at-wiess]; more on [Old Wiess](old-wiess.md). The third floor was also home to [the Dangle](../traditions/retired/the-dangle.md), already a thing of the past by 1997 [@riceinfo-traditions-1997].
 
+### Wall-mates and the Black Hole
+
+Old Wiess walls were so thin that "the term wall-mate was peculiar to Wiess" [@portal metapth245394 p.6]. Room 228, a freshman room known as the Black Hole, was renamed the Handball Court once air-conditioning came in, around the mid-1960s [@portal metapth245396 p.14].
+
 ### A nine-foot surprise
 
 The only stairwell story on record: a Wiessman of the 1980s "jumped over a stairwell railing in a fit of excitement," expecting three feet and finding nine [@rhc 2012-12-05 wiess-hall-dedication-1950 comment by marmer01, 6 Dec 2012].
@@ -67,7 +71,9 @@ This one is Hanszen's custom, not ours. Wiessmen usually cut through the Hanszen
 
     | When | What | Evidence |
     |---|---|---|
+    | mid-1960s | With air-conditioning, "Notorious Room 228 at Wiess, known at [as] the Black Hole, became at least habitable and was renamed the Handball Court", kept as a freshman room [@portal metapth245396 p.14] | [R] |
     | 1972 | "All rooms open directly onto these grassy areas or onto balconies overlooking them" [@handbook-1972] | [P] |
+    | 1979-02-01 | "The term wall-mate was peculiar to Wiess", the walls were so thin [@portal metapth245394 p.6] | [R] |
     | 1994 | Acatramp, "the purple and black trampoline majestically situated in the middle of the Acabowl" [@handbook-1994] | [P] |
     | 1997 | "Dangling" already a thing of the past [@riceinfo-traditions-1997] | [P] |
     | 1999-07 | "The tower" and the "O/C Bathroom" of Old Wiess [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html] [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html] | [P] |

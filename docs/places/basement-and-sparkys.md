@@ -22,6 +22,8 @@ A Thresher letter that December called it "the 'Sparky' incident." The administr
 
 ## The Old Wiess basement
 
+The basement came with the 1963–64 enlargement of the center wing, with a library, a game room and "space for the colored boob-tube" [@portal metapth245396 p.14]. The sources disagree on the date: the 2003 O-Week book puts "a public basement area and a library" in the 1957 conversion, the 1979 Thresher serial in 1963–64 [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2] [@portal metapth245396 p.14].
+
 The basement sat under the central wing. It held the washers and dryers and the game room, "Sparky's," with "the wide-screen TV and VCR" [@handbook-1994]. By 1986 the Thresher called it "Sparky's Underground Repertory Cinema Theater" [@thresher-1986-09-19-big-bang]. [FilmFest](../traditions/filmfest.md) happened down there [@handbook-1994].
 
 By 1999 it had a pool table and ping-pong too. The college website said it was called Sparky's only "at least in the distant past" [@wb 19990219085339 http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html].
@@ -45,6 +47,7 @@ By 2020 the darkroom gear is gone from the Bylaws and "shirt-screening equipment
     | When | What | Evidence |
     |---|---|---|
     | c.1957 | With the conversion to a college, "Wiess received its Commons as well as a huge addition, which included more room, a public basement area and a library" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]; "a basement were added later" [@oweek-2006 p.36] | [R] |
+    | 1963–64 | The center wing is enlarged, adding "a long-needed basement with library, game-room, and space for the colored boob-tube" [@portal metapth245396 p.14] | [R] |
     | c.1980 | "Sparky", a decoration built for NOD, appears on the Houston Post sports page at a Rice football game, per George Hall (College Idiot 1979–82); the basement game room takes his name [@handbook-1994] | [R] |
     | 1981-10-30 | Student Senate report: complaints about the Rice section at the Texas A&M Homecoming game, "specifically … the display of a phallic symbol" [@thresher-1981-10-30-a-and-m-game] | [P] |
     | 1981-12-04 | A Brown student's letter: "the 'Sparky' incident at the A&M game" involved "many Wiessmen", and the administration has threatened "to close Wiess College and to convert it temporarily into graduate student housing"—the earliest "Sparky" in print [@thresher-1981-12-04-sparky-letter] | [P] |

@@ -1,0 +1,101 @@
+# Lint settings for the Python in tools/ and hooks/. This file only configures ruff and pylint; it does not
+# make the repo a package. The rules they enforce are explained in tools/STYLE.md.
+#
+#   pip install -r requirements-dev.txt
+#   ruff check
+#   pylint tools hooks
+#
+# The linters cannot check that a docstring explains why and how, or that it is still true; reviewers do.
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+include = ["tools/**/*.py", "hooks/**/*.py"]
+# Scripts not yet rewritten to tools/STYLE.md. Remove a script from this list, and from pylint's ignore list
+# below, in the same commit that rewrites it. New scripts are linted from the start.
+extend-exclude = [
+    "hooks/citations.py",
+    "tools/build_glossary_series.py",
+    "tools/check_links.py",
+    "tools/diff_glossary.py",
+    "tools/fix_pdf_text.py",
+    "tools/glossary-extraction/**",
+    "tools/html2text.py",
+    "tools/import_governance_changes.py",
+    "tools/make_web_photos.py",
+    "tools/pdfpage.py",
+]
+
+[tool.ruff.lint]
+select = [
+    "D",       # every module, class and function has a docstring, laid out the standard way
+    "N",       # snake_case functions and variables, CapWords classes (pylint checks UPPER_CASE constants)
+    "E741",    # no names that look like digits (l, O, I)
+    "E501",    # lines of at most line-length characters
+    "E401",    # one import per line
+    "E702",    # one statement per line
+    "ERA001",  # no commented-out code
+    "SIM115",  # files opened in a with-block
+    "C901",    # at most 10 branches in a function (cyclomatic complexity)
+    "PLR0915", # at most 40 statements in a function
+    "ANN001",  # every argument has a type hint
+    "ANN002",  # *args has a type hint
+    "ANN003",  # **kwargs has a type hint
+    "ANN201",  # every function has a return type hint (ANN202 covers _private ones)
+    "ANN202",
+]
+# The docstring's first line says what calling the function does: "Return ...", "Write ...", "Check ...".
+extend-select = ["D401"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10
+
+[tool.ruff.lint.pylint]
+max-statements = 40
+
+[tool.ruff.lint.per-file-ignores]
+# Editor-owned data: one caption per line reads better than wrapped text.
+"tools/photo_placements.py" = ["E501"]
+
+[tool.pylint.main]
+# pylint is used only for what ruff cannot do: a minimum name length and a list of banned abbreviations.
+disable = "all"
+enable = ["invalid-name", "disallowed-name"]
+recursive = true
+# Same list as ruff's extend-exclude above, by file or folder name.
+ignore = [
+    "citations.py",
+    "build_glossary_series.py",
+    "check_links.py",
+    "diff_glossary.py",
+    "fix_pdf_text.py",
+    "glossary-extraction",
+    "html2text.py",
+    "import_governance_changes.py",
+    "make_web_photos.py",
+    "pdfpage.py",
+]
+
+[tool.pylint.basic]
+# snake_case whole words, at least 3 characters: "page_text" and "row" pass; "t", "fh" and "e" do not.
+variable-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+argument-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+attr-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+inlinevar-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+function-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$"
+# Classes: CapWords, at least 3 characters.
+class-rgx = "^[A-Z][a-zA-Z0-9]{2,}$"
+# NamedTuple fields are class attributes: same rule as variables, or UPPER_CASE for class constants.
+class-attribute-rgx = "^(?=_?[a-z0-9_]{3,}$)_?[a-z][a-z0-9]*(_[a-z0-9]+)*$|^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$"
+# Module constants: UPPER_SNAKE_CASE, and a one-word constant needs 4 letters or more (ROOT passes; P does not).
+const-rgx = "^[A-Z][A-Z0-9]*(_[A-Z0-9]+)+$|^[A-Z][A-Z0-9]{3,}$|^__[a-z]+__$"
+# "_" is the only short name allowed. It marks a value that is deliberately unused.
+good-names = ["_"]
+# Abbreviations that are long enough to pass the rule above. Add one when review finds it more than once.
+bad-names = [
+    "rel", "idx", "cand", "pat", "fh", "ln", "kw", "tmp", "cap", "desc", "attr",
+    "src", "dst", "res", "ret", "val", "obj", "img", "sha", "ext", "exts",
+]

@@ -16,7 +16,7 @@ The Dangle, "the third-floor dangle," was one of Wiess's early "unorthodox custo
 
 ## What it was
 
-We haven't found the rules written down. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their master from the third floor" [@thresher-1990-11-09-strength-of-identity]. (The master, now called the [Magister](../../people/magisters.md), is the professor who lives next door and looks out for the college.)
+We haven't found the rules written down. The best clue is a 1990 Thresher review of "Strength of Identity," a student-written history of Wiess. It says "Wiessmen dangled their [[Magister](../../people/magisters.md)] from the third floor" [@thresher-1990-11-09-strength-of-identity].
 
 Old Wiess had "outside balconies connecting all rooms" [@riceinfo-history]. So picture someone held over a third-floor railing. That part is a guess from the name and the floor, not a record.
 
@@ -24,7 +24,7 @@ The word was in use even earlier. In 1976 a Wiess reply in the Thresher personal
 
 ## Why it stopped
 
-The O-Week books put it in the 1950s–60s and give one line: "the dangle disappeared as human life became more valuable" [@oweek-2006 p.37] [@oweek-2017 p.12]. Every book from 2003 to 2017 repeats it [@oweek-2003 35-44 wiess.pdf p.3].
+The O-Week books put it in the 1950–60s and give one line: "the dangle disappeared as human life became more valuable" [@oweek-2006 p.37] [@oweek-2017 p.12]. Every book from 2003 to 2017 repeats it [@oweek-2003 35-44 wiess.pdf p.3].
 
 The 1997 website sounded relieved, and hinted it wasn't *that* long ago: "Ask somebody who's already graduated, young ones" [@riceinfo-traditions-1997].
 

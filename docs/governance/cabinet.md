@@ -200,6 +200,8 @@ Former presidents of Wiess, with the year they were elected. To comply with FERP
  - Mathias F. Gorges (1957)  
  - John R. Gorman (1957)  
 
+The 1979 Thresher serial "Wiess College: The First Fifteen Years" matches this list for 1963–1971 with two exceptions: it has Don Lamb as president in 1965–66 and Charles King in 1966–67, the reverse of the order here, and it spells the 1970–71 president "John Hays" [@portal metapth245396 p.14] [@portal metapth245397 p.12].
+
 ## Chief Justices
 Former chief justices of Wiess, with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
  - Ben Bridges (2025)  

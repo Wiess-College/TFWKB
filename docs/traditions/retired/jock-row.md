@@ -2,7 +2,7 @@
 title: Jock Row
 status: draft
 last_reviewed: 2026-10-04
-reviewed_by: unreviewed
+reviewed_by: lm
 ---
 
 # Jock Row
@@ -25,7 +25,7 @@ We haven't found why yet. By 1994 it was "defunct," and the later books and webs
 
 ## Photographs
 
-The one picture we have: a bedsheet banner cheering on the Wiess jocks [@rhc 2016-05-20 friday-follies-go-wiess-jocks].
+The one picture we have: a creatively shaped bedsheet banner cheering "we support our jocks" [@rhc 2016-05-20 friday-follies-go-wiess-jocks].
 
 <!-- GALLERY:jockrow -->
 <div class="grid photo-grid" markdown>
