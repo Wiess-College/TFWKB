@@ -19,9 +19,49 @@ The Commons is Wiess's dining hall and its biggest room, on one edge of the [Aca
 
 The 1949 dorm had only "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]. The real Commons came with the switch to a college around 1957 [@delany-about-wiess-2002]. A 1979 Thresher history called it "a breathtakingly functional Commons" [@portal metapth245394 p.6].
 
-In 1964–65, while the Thresher editor was suspended, "The Commons at Wiess became the all-campus forum" [@portal metapth245396 p.14]. It saw some famous guests. Muhammad Ali visited in 1967, wearing a Wiess tie [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons]. Barbara Jordan spoke there in 1977 [@rhc 2016-03-07 barbara-jordan-1977].
+In 1964–65, while the Thresher editor was suspended, "The Commons at Wiess became the all-campus forum" [@portal metapth245396 p.14]. It also drew well-known visitors; see [Visitors](#visitors).
 
 Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. The 1970s decor? "It really was decorated in purple and lime green" [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016]. By 1994 it was black and gold, and "the current decor is apparently much better than what it used to be" [@handbook-1994].
+
+## Visitors { #visitors }
+
+Scientists, politicians, writers and performers have come to the Commons as guests of the college, often for a College Night or one of Wiess's lecture series. The list below is drawn from the Rice Thresher, 1957–2012, and from Rice History Corner. Where the Thresher only announced a visit, the entry says so.
+
+**In the Commons**
+
+- **Niels Bohr**, Nobel physicist, spoke at the Rice Associates' banquet "in the Wiess College Commons", 17 December 1957 [@portal metapth231073 p.2] [@portal metapth231075 p.1].
+- **Arnold Toynbee**, historian, and **Sir George Thomson**, Nobel physicist, led discussions "following the noon meal in the Wiess Commons" during Rice's semicentennial, October 1962 [@portal metapth231215 p.8].
+- **Frank Vandiver**, historian, lectured in the Wiess Commons, May 1962, after speaking at a 1961 College Night [@portal metapth231208 p.5] [@thresher-1961-03-17-college-night].
+- **Norman Thomas**, Socialist Party leader, was photographed "eating in the Wiess commons", March 1963 [@portal metapth231232 p.1].
+- **Bernard Burke**, radio astronomer, was the guest at a College Night "after dinner in the commons", February 1964 [@portal metapth244908 p.4].
+- **Roy Wilkins**, head of the NAACP, was announced for dinner in the Wiess Commons before his campus lecture, March 1965 [@portal metapth244938 p.1].
+- **André Kole**, illusionist, was announced to perform in the Wiess Commons, February 1966 [@portal metapth244965 p.8].
+- **Muhammad Ali** spoke "to a standing-room-only crowd in the Wiess commons", 20 January 1967, and was photographed in a Wiess tie [@portal metapth244990 p.5] [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons].
+- **Ronald Reagan**, then Governor of California, was heard but not seen: his 1967 Houston speech was piped into the Wiess Commons [@portal metapth245011 p.12].
+- **William A. Rusher**, publisher of *National Review*, was announced to speak in the Wiess Commons, March 1970 [@portal metapth245079 p.1].
+- **Sir Fred Hoyle**, astrophysicist, was announced for a round-table discussion in the Wiess Commons, November 1973 [@portal metapth245177 p.11].
+- **Curt Michel**, former NASA scientist-astronaut, opened Wiess's "Far Out!" lecture series in the Commons, January 1976 [@portal metapth245275 p.1].
+- **Barbara Jordan** spoke "to a nearly-full Wiess Commons", March 1977 [@portal metapth245330 p.1] [@rhc 2016-03-07 barbara-jordan-1977].
+- **Billie Carr**, Harris County Democratic chair, was announced to speak in the Wiess Commons, October 1978 [@portal metapth245383 p.15].
+- **Marvin Zindler**, KTRK consumer reporter, spoke at Wiess, announced for the Commons, January 1979 [@portal metapth245392 p.16] [@portal metapth245394 p.8].
+- **Lamar Muse**, airline founder and chairman of Muse Air, "spoke Tuesday evening in Wiess Commons", February 1984 [@portal metapth245554 p.8].
+
+**Elsewhere at Wiess**
+
+- **Bill Hobby**, later Lieutenant Governor of Texas, spoke at a Wiess College Night, February 1960 [@portal metapth231140 p.8] [@portal metapth231141 p.5].
+- **Albert Thomas**, Houston's Congressman, was announced as a College Night speaker "in Wiess College", November 1961 [@portal metapth231189 p.1].
+- **George Carmack**, editor of the *Houston Press*, spoke at a College Night, February 1962 [@portal metapth231201 p.4].
+- **George Lincoln Rockwell**, head of the American Nazi Party, came as "a guest of Wiess College" in January 1966 and spoke in the Chemistry Lecture Hall [@portal metapth244961 p.1] [@portal metapth244962 p.6].
+- **James Dickey**, poet, stayed at Wiess and gave a reading in the Wiess lounge, May 1966 [@portal metapth244974 p.1].
+- **James Forman**, of the Student Nonviolent Coordinating Committee, spoke in the "From the Wiess Rostrum" series, fall 1966 [@portal metapth244980 p.9].
+- **Larry McMurtry**, novelist, then on the Rice English faculty, led a discussion in the Wiess lounge, April 1968 [@portal metapth245026 p.1].
+- **Louie Welch**, Mayor of Houston, "met with some fifty Rice students Tuesday night at Wiess", October 1969 [@portal metapth245064 p.4].
+- **Ron Paul**, Congressman, was announced to speak at Wiess, March 1979 [@portal metapth245399 p.16].
+- **John A. Wheeler**, physicist, spoke to the Society of Physics Students in the Wiess PDR, March 1980 [@portal metapth245432 p.20].
+- **Roger Penrose**, later a Nobel laureate, came to dinner several times while Joan Rea was master (1984–89), according to her 2013 recollection [@rhc 2013-05-22 roger-penrose-at-rice-1983-87 comment by Joan Rea, 27 May 2013].
+- **Erlan Idrissov**, Kazakhstan's ambassador to the United States, spoke at Wiess, September 2009 [@portal metapth443170 p.7].
+
+Visitors after 2012 haven't been gathered yet. If you know of one, [add your story](../about/contribute.md).
 
 ## The New Wiess Commons
 
