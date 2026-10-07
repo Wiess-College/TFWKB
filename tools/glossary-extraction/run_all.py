@@ -17,8 +17,8 @@ arguments for every book, or with labels for only those books:
     python3 run_all.py
     python3 run_all.py 2011 2014
 
-extract_layout.py's messages are passed on to standard error. OWEEK_TEXT_ROOT is the build environment's
-corpus folder (/home/claude/corpus/...); edit it on another machine. A label that matches no row runs
+extract_layout.py's messages are passed on to standard error. OWEEK_TEXT_ROOT is
+teamwiess.com/oweek-books/text/ in the corpus folder, which tools/paths.py finds (see README.md). A label that matches no row runs
 nothing and prints nothing.
 
 The exit status of each extraction is not checked. If one fails, its traceback appears on standard error,
@@ -35,8 +35,12 @@ from typing import NamedTuple
 
 GLOSSARY_EXTRACTION_ROOT = os.path.dirname(os.path.abspath(__file__))
 
-# The build environment's folder of O-Week book text extracts, with its trailing slash. Edit on another machine.
-OWEEK_TEXT_ROOT = "/home/claude/corpus/teamwiess.com/oweek-books/text/"
+# This repository's tools/ folder, for paths.py.
+sys.path.insert(0, os.path.dirname(GLOSSARY_EXTRACTION_ROOT))
+from paths import corpus_folder  # noqa: E402  (needs the sys.path line above)
+
+# The corpus folder of O-Week book text extracts, with its trailing slash.
+OWEEK_TEXT_ROOT = f"{corpus_folder()}/teamwiess.com/oweek-books/text/"
 
 # Header and footer lines of the 2015-2017 books, given to extract_layout.py's --furniture.
 FURNITURE_2015_TO_2017 = [

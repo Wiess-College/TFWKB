@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 /links-report.md
+.venv/
+tfwkb.config.yml
+tools/glossary-extraction/out/

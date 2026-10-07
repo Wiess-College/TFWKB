@@ -10,15 +10,14 @@ lists here means the TSVs can be re-derived without reading the pages again.
 
 It reads one text file per book, with the pages separated by form feeds:
 
-    /home/claude/corpus/historian-collection/text-raw/<year>-oweek-book.txt
+    historian-collection/text-raw/<year>-oweek-book.txt, in the corpus folder
 
 and writes one TSV per book, with the columns term, definition, source_key (oweek-<year>) and locator (p.N):
 
-    /home/claude/TFWKB/sources/glossaries/<year>.tsv
+    sources/glossaries/<year>.tsv, in this repository
 
-for 2019, 2021, 2024 and 2025, in that order. The output folder must already exist. These are the paths of
-the build environment the TSVs were made in (see README.md); on any other machine, change BOOK_TEXT_ROOT and
-GLOSSARIES_ROOT before running. (finalize.py writes to a "familykb" checkout instead.)
+for 2019, 2021, 2024 and 2025, in that order. The output folder must already exist. tools/paths.py finds
+the corpus folder (see README.md).
 
 Run it from anywhere:
 
@@ -42,13 +41,18 @@ are not. Fix the cause and run it again.
     IndexError: list index out of range                     a page number is beyond the end of that book's text.
 """
 
+import os
 import re
 import sys
 from typing import NamedTuple
 
-# Paths in the build environment the TSVs were made in; see the module docstring.
-BOOK_TEXT_ROOT = "/home/claude/corpus/historian-collection/text-raw"
-GLOSSARIES_ROOT = "/home/claude/TFWKB/sources/glossaries"
+# This repository's tools/ folder, for paths.py.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from paths import REPOSITORY_ROOT, corpus_folder  # noqa: E402  (needs the sys.path line above)
+
+# The book text in the corpus, and where the TSVs go; see the module docstring.
+BOOK_TEXT_ROOT = f"{corpus_folder()}/historian-collection/text-raw"
+GLOSSARIES_ROOT = f"{REPOSITORY_ROOT}/sources/glossaries"
 
 # Running heads, section headings and page footers, removed before terms are looked for. Each is matched
 # against a whole line, after runs of spaces and tabs in it are collapsed to one space.
@@ -191,6 +195,14 @@ TERMS_BY_PAGE_BY_YEAR = {
         ],
     },
 }
+
+# Students from the 2023-24 academic year on are not named on the site (STYLE.md, rule 7). In these entries
+# the names are matched by the words around them, so the names themselves never appear in this file.
+STUDENT_NAMES_PATTERN_BY_YEAR_AND_TERM = {
+    ("2024", "Head Fellows"): r"(?<=since January: ).*?(?=\. Say hello)",
+    ("2025", "Head Fellows"): r"(?<=since January: ).*?(?=\. Say hello)",
+}
+STUDENT_NAMES_PLACEHOLDER = "[three names omitted]"
 
 # Column splits and extraction artefacts, each checked against the layout text of the page: the term's
 # definition is replaced by this one.
@@ -353,8 +365,17 @@ def split_entries(
     for term, first_line, end_line in zip(terms_in_page_order, first_lines, end_lines):
         definition = read_definition(term, lines[first_line:end_line])
         definition = DEFINITION_FIXES_BY_YEAR.get(year, {}).get(term, definition)
+        definition = withhold_student_names(year, term, definition)
         entries.append(GlossaryEntry(term, definition, f"p.{page_number}"))
     return entries
+
+
+def withhold_student_names(year: str, term: str, definition: str) -> str:
+    """Return the definition with any current students' names replaced, per STUDENT_NAMES_PATTERN_BY_YEAR_AND_TERM."""
+    names_pattern = STUDENT_NAMES_PATTERN_BY_YEAR_AND_TERM.get((year, term))
+    if names_pattern is None:
+        return definition
+    return re.sub(names_pattern, STUDENT_NAMES_PLACEHOLDER, definition, count=1)
 
 
 def read_definition(term: str, entry_lines: list[str]) -> str:

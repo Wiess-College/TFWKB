@@ -4,9 +4,23 @@ The scripts that produced `sources/glossaries/<year>.tsv` from the O-Week book t
 (October 2026). They are kept so the TSVs can be re-derived or extended when a missing book
 turns up. `run_all.py` drives the others; `extract_layout.py` splits two-column layouts;
 `decode2011.py` and `decode2014.py` undo the glyph-order ciphers of those two books;
-`finalize.py` normalises terms and writes the TSVs. Paths inside point at the corpus
-(`/home/claude/corpus/...` in the build environment; `~/projects/wiess-archive/` on the
-maintainer's machine)—adjust before running.
+`finalize.py` normalises terms and writes the TSVs. They find the corpus with
+`tools/paths.py`: set it once with `./setup.sh` (which writes `tfwkb.config.yml`), or for one run with
+`TFWKB_CORPUS=/path/to/wiess-archive`. The TSVs are written straight into `sources/glossaries/`, so
+check `git diff sources/glossaries` afterwards. Run them in this order (`run_all.py` needs an `out/`
+folder here, which git ignores):
+
+```
+mkdir -p tools/glossary-extraction/out
+python3 tools/glossary-extraction/run_all.py
+python3 tools/glossary-extraction/finalize.py
+python3 tools/glossary-extraction/extract_2019_2025.py
+```
+
+On an unchanged corpus this rewrites the committed TSVs byte for byte (checked October 2026).
+That includes two hand edits now made in code: closed-up em dashes in the 2003–2011 books
+(`CLOSED_UP_DASH_GLOSSARIES` in `finalize.py`) and current students' names withheld in 2024 and 2025
+(`STUDENT_NAMES_PATTERN_BY_YEAR_AND_TERM` in `extract_2019_2025.py`).
 
 For a new book whose text comes out garbled, don't write another decoder: run
 `tools/fix_pdf_fonts.py repair` on the PDF and extract text from the repaired copy. It identifies each

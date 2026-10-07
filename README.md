@@ -25,19 +25,37 @@ sources/
   manifests/               what the maintainer's 2 GB corpus contains and how to rebuild it from the Wayback Machine  
   governance-versions.md   generated from the governance repo's tags  
 hooks/citations.py         turns [@key p.N] into links at build time; unknown keys fail the build  
-tools/                     stdlib-only helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  
+tools/                     helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  
                            import_governance_changes.py, fix_pdf_text.py, pdfpage.py, html2text.py  
+tools/paths.py             finds the corpus and governance folders on this machine (from tfwkb.config.yml)  
+setup.sh                   sets up a new machine: .venv/, tfwkb.config.yml, a first build  
 tools/STYLE.md             how to write those helpers (names, docstrings, linting); pyproject.toml holds the lint rules  
 ```
 
 ## Installing locally
 
+macOS or Linux, with git and Python 3.12 or newer. Once per machine:
+
 ```
-pip install -r requirements.txt
+./setup.sh
+```
+
+It makes a virtual environment in `.venv/`, installs `requirements.txt` into it, asks where your research
+corpus (`wiess-archive`) and governance checkout are and writes them to `tfwkb.config.yml`, lists any optional
+tools that are missing (it doesn't install them), and builds the site once. Run it again whenever
+`requirements.txt` changes. The site itself builds without the corpus; only some tools in `tools/` read it.
+
+Then, in each new terminal:
+
+```
+source .venv/bin/activate
 mkdocs serve            # http://127.0.0.1:8000
 mkdocs build --strict   # what CI runs; an unknown citation key fails here
 python3 tools/check_links.py --limit 20   # do the permalinks still resolve (network)
 ```
+
+`tfwkb.config.yml` is yours and isn't committed; `tfwkb.config.example.yml` shows the format. For one run,
+`TFWKB_CORPUS=/path/to/wiess-archive` or `TFWKB_GOVERNANCE_REPO=/path/to/governance` overrides it.
 
 Read `docs/contributing/citing.md` and `docs/contributing/page-template.md` before writing. Conflicts between sources go in the page, under **Variants & disputes**.
 

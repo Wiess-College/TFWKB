@@ -14,19 +14,19 @@ strip_furniture, the five parse functions and write_tsv:
     write_tsv(tsv_file, rows)
 
 Only write_tsv writes a file, the one it is given. Importing this file needs tools/fix_pdf_text.py on
-the import path. The path added below is the build environment's (/home/claude/familykb/tools); on any
-other machine, edit it or put tools/ on PYTHONPATH, or the import stops with ModuleNotFoundError.
+the import path; the line below adds this repository's tools/ folder, found from this file's own place.
 
 A text file is read as UTF-8, with bytes that are not UTF-8 replaced by "�". Text the parse functions
 cannot place is dropped (lines before the first term) or added to the previous definition.
 """
 
+import os
 import re
 import sys
 from typing import NamedTuple
 
-# The build environment's copy of tools/. Change this to the repo's tools/ folder on another machine.
-sys.path.insert(0, "/home/claude/familykb/tools")
+# This repository's tools/ folder, one level up from this file's folder.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # fix_line is not used here. The import is kept so that importing this file still needs fix_pdf_text.py,
 # and fails without it, as it always has.
 from fix_pdf_text import fix_line

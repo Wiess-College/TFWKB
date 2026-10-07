@@ -171,6 +171,10 @@ in `pyproject.toml`, with the reason beside it.
 - **Type-hint every function signature**, with built-in generics: `list[PhotoPlacement]`,
   `dict[str, GalleryPage]`. The hints document what a parameter holds better than an `Args:` entry can.
 - **Open files with `with`.**
+- **Never write one machine's path into a script.** Folders outside this repository (the research corpus, the
+  governance checkout) come from `tools/paths.py`: `corpus_folder()`, `governance_folder()`. Folders inside it are
+  found from `REPOSITORY_ROOT` there, or from the script's own `__file__`. CI fails on `/home/`, `/Users/` or
+  `/mnt/` in `tools/` and `hooks/`.
 - **Lines are at most 120 characters.** Wrap long text with implicit string concatenation. Hand-edited data files
   such as `photo_placements.py` are exempt.
 - **Standard library, plus what `requirements.txt` installs for the site** (MkDocs, PyYAML), on Python 3.12.

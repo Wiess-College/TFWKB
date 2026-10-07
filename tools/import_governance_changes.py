@@ -13,13 +13,15 @@ A page can include the table with `--8<-- "governance-versions.md"` (pymdownx.sn
 sources/); no page does yet, and the "Versions reviewed" table on the Governance page is kept by hand, so
 running this script does not change the site.
 
-Give it the checkout's folder, or set GOVERNANCE_REPO, and run it after a new version is tagged:
+Give it the checkout's folder, set TFWKB_GOVERNANCE_REPO, or put `governance_repo:` in tfwkb.config.yml
+(see tools/paths.py), and run it after a new version is tagged:
 
     python3 tools/import_governance_changes.py ~/projects/wiess-archive/wiess-governance
-    GOVERNANCE_REPO=../governance python3 tools/import_governance_changes.py
+    TFWKB_GOVERNANCE_REPO=../governance python3 tools/import_governance_changes.py
 
-A relative folder is relative to where you run it. The folder on the command line wins over GOVERNANCE_REPO,
-even when it is an empty string, and any further arguments are ignored. On success it prints
+A relative folder is relative to where you run it (in tfwkb.config.yml, to the repository root). The folder
+on the command line wins over everything else, even when it is an empty string, and any further arguments
+are ignored. GOVERNANCE_REPO, the variable's older name, still works when TFWKB_GOVERNANCE_REPO is not set. On success it prints
 "wrote <file> (<count> versions)".
 
 Without a checkout it prints "no governance checkout given; keeping the committed table" to stderr, leaves
@@ -55,6 +57,8 @@ import subprocess
 import sys
 from typing import NamedTuple
 
+from paths import governance_folder
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VERSIONS_TABLE_FILE = os.path.join(REPO_ROOT, "sources", "governance-versions.md")
 
@@ -86,8 +90,13 @@ def main(arguments: list[str]) -> None:
 
 
 def find_governance_checkout(arguments: list[str]) -> str:
-    """Return the checkout folder from the command line or GOVERNANCE_REPO, or "" if it has no .git folder."""
-    governance_repo = arguments[0] if arguments else os.environ.get("GOVERNANCE_REPO", "")
+    """Return the checkout folder from the command line, environment or config, or "" if it has no .git folder."""
+    if arguments:
+        governance_repo = arguments[0]
+    elif os.environ.get("GOVERNANCE_REPO") and not os.environ.get("TFWKB_GOVERNANCE_REPO"):
+        governance_repo = os.environ["GOVERNANCE_REPO"]
+    else:
+        governance_repo = str(governance_folder() or "")
     if governance_repo and os.path.isdir(os.path.join(governance_repo, ".git")):
         return governance_repo
     return ""

@@ -11,19 +11,17 @@ newly found book added, without redoing that work.
 It reads these files:
 
     out/<year>.tsv    the raw extraction of each book, in the folder of this script; written by run_all.py
-    /home/claude/corpus/riceinfo.rice.edu-wiess/text/college__gloss.html__20001207053100.md
+    riceinfo.rice.edu-wiess/text/college__gloss.html__20001207053100.md, in the corpus folder
                       the riceinfo transcription of the 1994 Freshman Handbook glossary
 
 and writes one TSV per glossary, with the columns term, definition, source_key and locator, creating the
 folder first if it is missing:
 
-    /home/claude/familykb/sources/glossaries/<year>.tsv
+    sources/glossaries/<year>.tsv, in this repository
 
 The glossaries are written in this order: 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017,
-2016-owlmanac, 1994. The corpus and output paths are those of the build environment the TSVs were made in
-(see README.md); on any other machine, change GLOSSARIES_ROOT and HANDBOOK_1994_FILE before running.
-GLOSSARIES_ROOT names a "familykb" checkout, not a "TFWKB" one as extract_2019_2025.py does, so check it
-points at this repository.
+2016-owlmanac, 1994. tools/paths.py finds the corpus folder
+(see README.md); the output folder is always this repository's.
 
 Run it after run_all.py, from anywhere:
 
@@ -53,9 +51,16 @@ import re
 import sys
 from typing import NamedTuple
 
-# Paths in the build environment the TSVs were made in; see the module docstring.
-GLOSSARIES_ROOT = "/home/claude/familykb/sources/glossaries"
-HANDBOOK_1994_FILE = "/home/claude/corpus/riceinfo.rice.edu-wiess/text/college__gloss.html__20001207053100.md"
+# This repository's tools/ folder, for paths.py.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from paths import REPOSITORY_ROOT, corpus_folder  # noqa: E402  (needs the sys.path line above)
+
+# Where the TSVs go, and the 1994 handbook glossary in the corpus; see the module docstring.
+GLOSSARIES_ROOT = f"{REPOSITORY_ROOT}/sources/glossaries"
+HANDBOOK_1994_FILE = f"{corpus_folder()}/riceinfo.rice.edu-wiess/text/college__gloss.html__20001207053100.md"
+
+# Books whose spaced em dashes (" — ") are written closed up ("—") in the TSVs, as they were edited by hand.
+CLOSED_UP_DASH_GLOSSARIES = {"2003", "2006", "2007", "2008", "2010", "2011"}
 
 # run_all.py writes the raw extraction of each book here, as <year>.tsv.
 RAW_EXTRACTIONS_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
@@ -736,6 +741,10 @@ def write_glossary(glossary_name: str, rows: list[dict[str, str]]) -> None:
         if cleaned_term in cleaned_terms_seen and cleaned_term == "college night":
             row["term"] = clean_term(row["term"]) + " [Rice speak]"
         cleaned_terms_seen.add(cleaned_term)
+
+    if glossary_name in CLOSED_UP_DASH_GLOSSARIES:
+        for row in rows:
+            row["definition"] = row["definition"].replace(" — ", "—")
 
     glossary_file = f"{GLOSSARIES_ROOT}/{glossary_name}.tsv"
     with open(glossary_file, "w", encoding="utf-8") as glossary:

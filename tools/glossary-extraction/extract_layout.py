@@ -30,9 +30,8 @@ The options (run_all.py shows which book uses which):
     --decode FILE   undo a cipher with decode2011.py or decode2014.py, column by column
     --fix29         decode +29 font-shifted runs with tools/fix_pdf_text.py
 
-Importing gloss.py needs tools/fix_pdf_text.py, and the path added for it below is the build
-environment's (/home/claude/familykb/tools). On another machine, edit it or put tools/ on PYTHONPATH,
-or it stops at once with ModuleNotFoundError.
+Importing gloss.py needs tools/fix_pdf_text.py; the line below adds this repository's tools/ folder,
+found from this file's own place.
 
 The TSV is written only at the end, so if it stops early no TSV has been written or changed. A text
 file or --decode file that cannot be read, or a malformed --skip, --bounds or --smart-pages value,
@@ -44,13 +43,14 @@ found (or of the last line), so check pages in the review output.
 
 import argparse
 import functools
+import os
 import sys
 from collections.abc import Callable
 from typing import NamedTuple
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
-# The build environment's copy of tools/, for fix_pdf_text.py. Change it on another machine.
-sys.path.insert(0, "/home/claude/familykb/tools")
+# This repository's tools/ folder, for fix_pdf_text.py.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from fix_pdf_text import fix_line
 from gloss import (
     GlossaryEntry,
