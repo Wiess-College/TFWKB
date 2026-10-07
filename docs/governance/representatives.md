@@ -28,9 +28,7 @@ A dot means the position is on that year's list. The lists are the college websi
 
 Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives]; 2010 [@wb 20100826015923 http://teamwiess.com/reps.php]; 2012 [@wb 20120817225627 http://teamwiess.com/people.php?who=reps]; 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]; 2015 [@wb 20150612230047 http://teamwiess.com/reps.html]; 2017 [@wb 20170421224822 http://teamwiess.com/reps.html] (each rep with a "Vision" and "First Acts"); 2020–21 [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wb 20210806232236 http://teamwiess.com/government/representatives]; 2023 [@wb 20230114021659 http://teamwiess.com/government/representatives] [@wiess-rice-edu-representatives-2023]; 2025 [@oweek-2025 p.44] and the Constitution [@constitution-hate-speech Art. VII §1].
 
-| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
-|---|---|---|---|---|---|---|---|---|---|
-| At-Large Rep (elected to Cabinet until 2016) | ● | ● | ● |  ●|  |  |  |  |  |
+| At-Large (elected to Cabinet until 2016) | ● | ● | ● |  ●|  |  |  |  |  |
 | Audio/Visual |  | ● | ● | ● | ● | ● |  |  |  |
 | Baker 13 Defense (Defense Minister 2005–06; Captains from 2012; also a Secretary of Defense 2014) | ● |  | ● | ● | ● | ● |  |  |  |
 | Baker Institute Ambassador |  | ● | ● |  |  |  |  |  |  |
@@ -43,19 +41,23 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Campanile Editors | ● | ● | ● | ● | ● | ● |  |  |  |
 | Candy (Board of Directors; Candy/Snacks Board 2014) | ● | ● | ● | ● | ● |  |  |  |  |
 | Chalkboard |  |  |  |  |  |  | ● | ● | ● (Constitution) |
+| Chug Captains
 | Coffeehouse (Coffeehaus 2010; Coffee Rep 2017) | ● | ● | ● | ● |  | ● |  |  |  |
 | College Course Coordinator | ● |  |  |  |  |  |  |  |  |
 | College Night | ● | ● | ● | ● |  | ● | ● | ● | ● (Constitution) |
 | Community Service | ● | ● | ● | ● |  |  |  |  |  |
 | Computer Room |  |  |  |  |  |  |  | ● |  |
+| Cornhole |  |  |  |  |  | ● |  |  |  |
 | Cultural | ● | ● | ● | ● | ● |  |  |  |  |
 | Cute Dog |  |  |  |  |  | ● |  |  |  |
 | Decorations (& Creativity 2014; Decorations Room 2023) |  |  |  | ● | ● |  |  | ● |  |
-| EcoRep (Recycling Rep 2005–06) | ● | ● | ● |  |  |  |  |  |  |
+| Defense Minister
+| Eco (Recycling Rep 2005–06)  | ● | ● | ● |  |  |  | ● |  |  |  |
 | Election | ● | ● | ● | ● | ● | ● | ● | ● | ● (Constitution) |
 | Film / Movie (Movie Night 2023) | ● | ● | ● | ● | ● | ● | ● | ● |  |
 | Firepit |  |  |  |  |  |  |  |  | ● |
 | Food | ● | ● | ● | ● | ● | ● | ● | ● |  |
+| Gameroom |  |  |  |  |  | ● |  |  |  |
 | Games (& Activities 2014) | ● | ● | ● | ● | ● | ● | ● |  |  |
 | Hair (Haircutting 2020–21) |  |  |  |  |  |  | ● | ● |  |
 | Health (Health Rep 2005–06; Rice Health Advisors 2012) | ● |  | ● |  |  |  |  |  |  |
@@ -69,10 +71,6 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Laundry | ● | ● | ● | ● | ● |  | ● | ● |  |
 | Librarian |  |  |  |  |  |  | ● | ● |  |
 | Lilie |  |  |  |  |  |  | ● |  |  |
-| Eco |  |  |  |  |  | ● |  |  |  |
-| Tap |  |  |  |  |  | ● |  |  |  |
-| Cornhole |  |  |  |  |  | ● |  |  |  |
-| Gameroom |  |  |  |  |  | ● |  |  |  |
 | Listserv | ● | ● | ● | ● | ● | ● | ● |  |  |
 | Master's Search Committee Chair | ● |  |  |  |  |  |  |  |  |
 | Mentors (Program Coordinator 2005–06; Head Mentors 2012); Head Peer Academic Advisors (2012) | ● |  | ● |  |  |  |  |  |  |
@@ -80,6 +78,7 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Music |  |  |  |  |  |  |  | ● |  |
 | Newsletter | ● | ● | ● | ● | ● | ● |  |  |  |
 | Nose Smoke |  |  |  | ● |  |  |  |  |  |
+| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
 | Positive Reinforcement / Affirmation |  |  |  |  |  |  | ● | ● |  |
 | Rec Center Advisory Council | ● |  |  |  |  |  |  |  |  |
 | Remote |  |  |  |  |  |  | ● |  |  |
@@ -101,6 +100,7 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Webmasters / Website Editors (and an Assistant Webmaster, 2017) | ● | ● | ● | ● | ● | ● | ● | ● | ● (Constitution) |
 | Wiess Cream |  |  |  |  |  |  | ● | ● |  |
 | Yeah Wiess ("T-Shirt Screening Representative", 2014) |  | ● | ● | ● | ● | ● |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
 
 Some positions on the 2005–06 list (Historian, Parliamentarian, Capital Improvements) were Cabinet offices and are on [Cabinet](cabinet.md).
 
