@@ -28,6 +28,7 @@ A dot means the position is on that year's list. The lists are the college websi
 
 Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives]; 2010 [@wb 20100826015923 http://teamwiess.com/reps.php]; 2012 [@wb 20120817225627 http://teamwiess.com/people.php?who=reps]; 2014 [@wb 20140627224604 http://teamwiess.com/representatives.html]; 2015 [@wb 20150612230047 http://teamwiess.com/reps.html]; 2017 [@wb 20170421224822 http://teamwiess.com/reps.html] (each rep with a "Vision" and "First Acts"); 2020–21 [@wb 20201009232352 http://teamwiess.com/government/representatives.html] [@wb 20210806232236 http://teamwiess.com/government/representatives]; 2023 [@wb 20230114021659 http://teamwiess.com/government/representatives] [@wiess-rice-edu-representatives-2023]; 2025 [@oweek-2025 p.44] and the Constitution [@constitution-hate-speech Art. VII §1].
 
+| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
 | At-Large (elected to Cabinet until 2016) | ● | ● | ● |  ●|  |  |  |  |  |
 | Audio/Visual |  | ● | ● | ● | ● | ● |  |  |  |
 | Baker 13 Defense (Defense Minister 2005–06; Captains from 2012; also a Secretary of Defense 2014) | ● |  | ● | ● | ● | ● |  |  |  |
@@ -78,7 +79,6 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Music |  |  |  |  |  |  |  | ● |  |
 | Newsletter | ● | ● | ● | ● | ● | ● |  |  |  |
 | Nose Smoke |  |  |  | ● |  |  |  |  |  |
-| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
 | Positive Reinforcement / Affirmation |  |  |  |  |  |  | ● | ● |  |
 | Rec Center Advisory Council | ● |  |  |  |  |  |  |  |  |
 | Remote |  |  |  |  |  |  | ● |  |  |
