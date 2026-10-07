@@ -17,9 +17,9 @@ The Commons is Wiess's dining hall and its biggest room, on one edge of the [Aca
 
 ## The Old Wiess Commons
 
-The 1949 dorm had only "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]. The real Commons came with the switch to a college around 1957 [@delany-about-wiess-2002].
+The 1949 dorm had only "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]. The real Commons came with the switch to a college around 1957 [@delany-about-wiess-2002]. A 1979 Thresher history called it "a breathtakingly functional Commons" [@portal metapth245394 p.6].
 
-It saw some famous guests. Muhammad Ali visited in 1967, wearing a Wiess tie [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons]. Barbara Jordan spoke there in 1977 [@rhc 2016-03-07 barbara-jordan-1977].
+In 1964–65, while the Thresher editor was suspended, "The Commons at Wiess became the all-campus forum" [@portal metapth245396 p.14]. It saw some famous guests. Muhammad Ali visited in 1967, wearing a Wiess tie [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons]. Barbara Jordan spoke there in 1977 [@rhc 2016-03-07 barbara-jordan-1977].
 
 Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. The 1970s decor? "It really was decorated in purple and lime green" [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016]. By 1994 it was black and gold, and "the current decor is apparently much better than what it used to be" [@handbook-1994].
 
@@ -52,14 +52,6 @@ A popular arrangement for tables in commons is one or two tables with chairs on 
 Friday music has been somebody's job for a long time, [@oweek-2016 p.31] recently the music reps have born the weight of this responsibility. One O-Week Fellow had "the high-pressure job of being Wiess' resident Friday music player, taking your requests and waking you up at 4 am on Beer Bike" [@oweek-2016 p.58]. [TFFW](../traditions/tffw.md) opens with "It's Friday! There's music on the stacks" [@oweek-2016 p.31].
 
 The 2023 representatives list has three Music reps, job not described [@wb 20230114021659 http://teamwiess.com/government/representatives]. Wiess isn't alone: in 2006, Brown's "speakers blast Happy Friday music all over the north side" [@oweek-2006 p.53].
-
-## The Old Wiess Commons
-
-The 1949 dorm had only "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]. The real Commons came with the switch to a college around 1957 [@delany-about-wiess-2002].
-
-It saw some famous guests. Muhammad Ali visited in 1967, wearing a Wiess tie [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons]. Barbara Jordan spoke there in 1977 [@rhc 2016-03-07 barbara-jordan-1977].
-
-Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. The 1970s decor? "It really was decorated in purple and lime green" [@rhc 2016-03-07 barbara-jordan-1977 comment by Walter Underwood, 7 Mar 2016]. By 1994 it was black and gold, and "the current decor is apparently much better than what it used to be" [@handbook-1994].
 
 ## Photographs
 
@@ -94,7 +86,8 @@ Around 1974 it got a mezzanine and a wall of windows, by one alum's memory [@rhc
     | When | What | Evidence |
     |---|---|---|
     | 1949 | The dormitory opened with "a small lobby that was later known as the Outer Commons" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2] | [R] |
-    | c.1957 | "The new commons area and master's house, built as part of the conversion from dorm to college, broke from the motel motif" [@delany-about-wiess-2002]; "Wiess received its Commons as well as a huge addition" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2] | [R] |
+    | c.1957 | "The new commons area and master's house, built as part of the conversion from dorm to college, broke from the motel motif" [@delany-about-wiess-2002]; "Wiess received its Commons as well as a huge addition" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.2]; "Except for the master's house, nothing but a breathtakingly functional Commons was added to Wiess" (1957) [@portal metapth245394 p.6] | [R] |
+    | 1964–65 | When the Thresher editor was suspended, "The Commons at Wiess became the all-campus forum" [@portal metapth245396 p.14] | [R] |
     | 1967-01 | Muhammad Ali photographed in the Wiess Commons wearing a Wiess tie, with the Thresher's report of the visit [@rhc 2013-03-11 muhammad-ali-in-the-wiess-commons] | [P] |
     | c.1974 | Commons remodelled one summer: "greatly enlarged to include a mezzanine recreation area. One side was pushed out and enclosed in large windows"; said to be a class project by two Wiess architecture students; furniture chosen by the Master [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016] | [T] |
     | 1977 (spring) | Barbara Jordan speaks in "the old Wiess Commons" [@rhc 2016-03-07 barbara-jordan-1977]; "I was there… It was Wiess Commons" [@rhc 2016-03-07 barbara-jordan-1977 comment by Kathleen Boyd, 7 Mar 2016] | [P] |

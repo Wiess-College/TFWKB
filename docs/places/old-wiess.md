@@ -19,11 +19,13 @@ Nobody ever called Old Wiess pretty. Its own 1972 handbook said it was built "in
 
 ## A dorm shaped like a W
 
-Old Wiess was "the first new dormitory in thirty-two years" at Rice. It had about 200 spaces, "outside balconies connecting all rooms," and "cross-ventilation (no rooms were then air-conditioned)" [@riceinfo-history]. Rooms were about 10 by 20 feet, in two-room suites sharing a bath [@riceinfo-rooms].
+Old Wiess was "the first new dormitory in thirty-two years" at Rice. It had about 200 spaces, "outside balconies connecting all rooms," and "cross-ventilation (no rooms were then air-conditioned)" [@riceinfo-history]. Rooms were about 10 by 20 feet, in two-room suites sharing a bath [@riceinfo-rooms]. Every room had its own outside entrance, and no more than four men shared a bath. The walls were thin enough that "the term wall-mate was peculiar to Wiess" [@portal metapth245394 p.6].
 
 "Wiess is shaped like a giant W," with five wings [@wb 19990501150106 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/index.html]. Wings added over the years split the college in two: "the Acabowl where the action was, and the Backabowl, where a quieter atmosphere prevailed" [@oweek-2006 p.36].
 
-The [Commons](commons.md) and the Master's house came with the 1957 switch to a college [@delany-about-wiess-2002]. The basement held the laundry and the game room, [Sparky's](basement-and-sparkys.md) [@handbook-1994]. The Magisters (the professors who live next door and look after the college) lived in [Wiess House](wilson-house.md), "a small house attached to the college" [@riceinfo-masters].
+The [Commons](commons.md) and the Master's house came with the 1957 switch to a college [@delany-about-wiess-2002] [@portal metapth245394 p.6]. The basement held the laundry and the game room, [Sparky's](basement-and-sparkys.md) [@handbook-1994]. The Magisters (the professors who live next door and look after the college) lived in [Wiess House](wilson-house.md), "a small house attached to the college" [@riceinfo-masters].
+
+In 1963–64 the center wing was enlarged with three storeys of suites, a music room, quarters for a resident faculty associate, and a basement with a library and game room [@portal metapth245396 p.14]. A patio with a terrace and barbecue followed in 1964–65, designed by the college president, architecture student Bill McGregor [@portal metapth245396 p.14]. Around the mid-1960s air-conditioning came in, and Room 228, a freshman room known as the Black Hole, was renamed the Handball Court [@portal metapth245396 p.14].
 
 ## "The best motel tradition"
 
@@ -33,7 +35,7 @@ Rice's archivist agreed: "It looks to me, honestly, like a motel" [@rhc 2012-12-
 
 ## Why it came down
 
-Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37]. Delany saw it differently: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. Both can be true: permanent, but cheap and fast.
+Was it temporary housing for the GI Bill crowd? "Like most Rice myths, this one sounds good enough to believe, but contains no actual truth. Old Wiess was built to last, and it did, though 2002" [@oweek-2006 p.37]. Delany saw it differently: "Thrown together quickly, Wiess was a maintenance nightmare" [@edesigns-old-wiess-2002]. A 1979 Thresher serial called it the newest of the pre-1957 dormitories, "hastily erected at the end of World War II" for the post-war influx [@portal metapth245394 p.6]. Both can be true: permanent, but cheap and fast.
 
 But it had problems: "plumbing, electricity, or the foundation itself" [@riceinfo-news-2000-lundin]. By the '90s, "Old Wiess was literally sinking into the ground" [@oweek-2015 p.10]. Alum Colin Delany '91 said it was "too poorly constructed to be worth saving… It will be a good Wiess, but it won't be OUR Wiess" [@edesigns-old-wiess-2002].
 
@@ -225,9 +227,13 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
     | 1950 (spring) | Dedicated "late on a Sunday afternoon"; President Houston spoke, then Edgar Odell Lovett, whose remarks the archivist reproduces [@rhc 2012-12-05 wiess-hall-dedication-1950]; "named Wiess Hall in honor of Harry Carothers Wiess in 1950" [@riceinfo-history] | [R] |
     | 1957-03 | The move into the colleges happened over a week at the end of March 1957 [@rhc 2016-08-16 moving-in-the-rain-1957]; "And so, Wiess Hall became Wiess College" [@riceinfo-history]; first Magister Dr. Roy Talmage [@oweek-2006 p.36] | [R] |
     | c.1957 | "The new commons area and master's house, built as part of the conversion from dorm to college, broke from the motel motif" [@delany-about-wiess-2002] | [R] |
+    | 1963–64 | The center wing is enlarged: "three stories of extra suites, the music room, quarters for a resident faculty associate, and a long-needed basement with library, game-room, and space for the colored boob-tube", funded through college president Jan Lodal [@portal metapth245396 p.14] | [R] |
+    | 1964–65 | "The patio with its shrubbery, terrace, and barbecue facilities", designed and promoted by president Bill McGregor, "the first architecture student to hold that office at Wiess" [@portal metapth245396 p.14] | [R] |
+    | mid-1960s | Air-conditioning installed; "Notorious Room 228 at Wiess, known at [as] the Black Hole, became at least habitable and was renamed the Handball Court", kept as a freshman room [@portal metapth245396 p.14] | [R] |
     | 1972 | Handbook: "In every respect of design it is utilitarian, and two generations of heavy use have done little to mute its intrinsic ugliness" [@handbook-1972] | [P] |
     | c.1974 | Commons remodelled one summer: enlarged, a mezzanine recreation area, one wall pushed out into large windows; design said to be a class project by two Wiess architecture students [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016] | [T] |
     | 1975 | A plaque on the building, "Wiess College, established in memory of Harry Carothers Wiess (1887–1948)… Anno Domini 1975", carrying the Plutarch/Socrates line also used on the 1994 "Man" page; photographed by Delany in 2002 and transcribed below [@edesigns-old-wiess-2002] | [P] |
+    | 1979-02-01 | Thresher serial, part I: the newest of the pre-1957 dormitories, "hastily erected at the end of World War II"; "every room having its outside entrance and no more than four men sharing a bath"; "the term wall-mate was peculiar to Wiess"; in 1957 "nothing but a breathtakingly functional Commons was added", besides the master's house [@portal metapth245394 p.6] | [R] |
     | 1995 | Rooms "approximately 10' by 20'"; two-room suites sharing a bath; two 80"×39" beds per room; "You must contact Southwestern Bell yourself to arrange for telephone service" [@riceinfo-rooms] | [P] |
     | 1997 | The college's own site calls the building "Motel Wiess" [@riceinfo-associates] | [P] |
     | early 1990s | Metal handrails added on top of the brick balcony rails, ending the habit of sitting on them [@rhc 2016-05-24 hanging-out-at-wiess comment by George Webb, 24 May 2016] | [T] |
