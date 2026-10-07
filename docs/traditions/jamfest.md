@@ -152,4 +152,8 @@ A 2006 Thresher feature called that year's show the 38th JamFest, which would da
 !!! quote "O-Week book, 2010"
     "…a more modern version of Wiess's beloved Jamfest." [@oweek-2010 p.39]
 
+## Footage
+
+Some footage from 2008 is preserved on YouTube. You can find it [here](https://www.youtube.com/watch?v=8HBVfn1CkSw), [here](https://www.youtube.com/watch?v=m7qrEeBnFyc), and [here](https://www.youtube.com/watch?v=D_-JLwJ9A30).
+
 <div class="reviewed" markdown>Last reviewed 2026-10-06 by unreviewed · [Edit this page](#)</div>
