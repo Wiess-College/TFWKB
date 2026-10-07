@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # How the Constitution changed
 
-The Constitution is Wiess's rulebook. The current text, last amended on 23 February 2026, sets up [Cabinet](cabinet.md) and the [Court](court.md), and has the Bylaws folded in [@constitution-2026 Art. IV §1; Art. VIII §1] [@constitution-hate-speech].
+The current text, last amended on 23 February 2026, sets up [Cabinet](cabinet.md) and the [Court](court.md), and has the Bylaws folded in [@constitution-2026 Art. IV §1; Art. VIII §1] [@constitution-hate-speech].
 
 This page is how it got there from 1993 onward: from a twelve-article document to a much, much larger sixteen-article one in 2026.
 

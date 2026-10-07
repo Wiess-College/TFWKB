@@ -20,7 +20,7 @@ Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. Peop
 
 In 1972 the handbook joked that the dining hall, lounge and office were "all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972].
 
-Five years later, Wiess threw a [Night of Decadence](night-of-decadence.md) (NOD, its big fall party) called "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
+Five years later, Wiess threw a [Night of Decadence](night-of-decadence.md) called "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
 
 ## Then Hanszen piled on
 

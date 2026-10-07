@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # No-Theme Wiess
 
-No-Theme Wiess was a Wiess tradition named on the college website's tradition lists in 1997 and 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. Three words on two lists: we haven't found a description of it yet.
+No-Theme Wiess was a Wiess tradition named on the college website's tradition lists in 1997 and 1999 [@riceinfo-traditions-1997] [@riceinfo-traditions-1999]. 
 
 !!! abstract "TL;DR"
     - In 1997 "No-Theme Wiess" was listed as "Sadly Seem To Be Dying Out" [@riceinfo-traditions-1997].
@@ -16,7 +16,7 @@ No-Theme Wiess was a Wiess tradition named on the college website's tradition li
 
 ## What it might have been
 
-Our best guess, and it is only a guess: a party or College Night with no theme, on purpose. The same website bragged in 1999 that other colleges "seem to enjoy coming up with 'fun' themes for each one - which isn't necessarily bad, but Wiess' College Night is better" [@riceinfo-collegenight].
+Our best guess, and it is only a guess: College Night with no theme, on purpose. The same website bragged in 1999 that other colleges "seem to enjoy coming up with 'fun' themes for each one - which isn't necessarily bad, but Wiess' College Night is better" [@riceinfo-collegenight]. It could also be a reference to the fact that Wiess O-Week "themes" are always Wiess, with a subtle twist each time, but always goldenrod and black.
 
 It could also have been a party or Beer Bike entry that pointedly had no theme. No source we've found connects the name to anything.
 

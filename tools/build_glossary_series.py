@@ -1,29 +1,82 @@
 #!/usr/bin/env python3
-"""Build docs/traditions/glossary-series.md from sources/glossaries/<year>.tsv.
+"""Build the glossary-by-year page and the year-to-year diff from the O-Week glossary tables.
 
-Each TSV has a header and columns: term, definition, source_key, locator
-(e.g. "War Pig\tThe Wiess mascot…\toweek-2006\tp.84"). Terms are matched across years
-case-insensitively after light normalisation ("The Ubangee" = "Ubangee"; "War pig" = "War Pig").
+Every O-Week book ends with a glossary of Wiess words. Editors type each book's glossary into a table
+in sources/glossaries/, and this script lines the tables up by term, so a reader can follow one word
+through the years and an editor can see what each book added, dropped or reworded. The page is
+generated: fixing it by hand would be overwritten on the next run, so fixes go in the tables.
 
-Output: one section per term that appears in two or more years (the series), then a
-section listing terms that appear in only one year (the one-offs), each definition cited.
-Also writes sources/glossaries/_diff.md: what each year added, dropped and reworded versus
-the previous one—the raw material for the Changes pages.
+It reads every sources/glossaries/<year>.tsv except files whose names start with "_". Each has a
+header row and the columns term, definition, source_key and locator:
+
+    War Pig<TAB>The Wiess mascot...<TAB>oweek-2006<TAB>p.84
+
+A "year" is the file name without .tsv, so it may carry a suffix ("2016-owlmanac"). Years are put in
+order by their leading four digits, then by the rest of the name, so "2016-owlmanac" follows "2016";
+a name that does not start with four digits goes last.
+
+Terms are matched across years after normalising them: lower case, keeping only the letters a-z,
+digits and spaces, with the spellings listed in TERM_ALIASES mapped to one term ("The Ubangee" and
+"Ubangee" are one term; so are "War pig" and "War Pig"). A book that renamed something is grouped
+under one term the same way. Each term is shown under the spelling of the first year it appears in.
+
+It writes two files, replacing them completely:
+
+    docs/traditions/glossary-series.md   one section per term found in two or more years, then the
+                                         terms found in only one year, each definition with its citation
+    sources/glossaries/_diff.md          for each pair of neighbouring years, the terms added, dropped
+                                         and reworded (the raw material for the Changes pages)
+
+Run it after editing any glossary table. CI runs it before every site build
+(.github/workflows/pages.yml), so the published page always matches the tables:
 
     python3 tools/build_glossary_series.py
+
+It prints one line naming both files and counting the terms. If it stops instead:
+
+    "no sources/glossaries/*.tsv yet"    no tables were found; nothing written.
+    a Python traceback                   nothing written. KeyError: 'definition' means a table has no
+                                         definition column; an AttributeError on None means a row has
+                                         a term but no definition (only one column). ModuleNotFoundError:
+                                         markdown means MkDocs is not installed
+                                         (pip install -r requirements.txt).
+
+Some input is skipped without a message: rows with an empty term, every row of a table with no term
+column, and the earlier of two rows in one table whose terms normalise the same (the later row is
+used). A table with no source_key column, or a row with an empty or missing source_key, gives entries
+without citations; with no locator column, or none in the row, the citation has no page ("[@oweek-2006]").
 """
+
 import csv
 import glob
 import os
 import re
-from collections import OrderedDict, defaultdict
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-GLOSS = os.path.join(ROOT, "sources", "glossaries")
-OUT = os.path.join(ROOT, "docs", "traditions", "glossary-series.md")
-DIFF = os.path.join(GLOSS, "_diff.md")
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+GLOSSARIES_ROOT = os.path.join(REPO_ROOT, "sources", "glossaries")  # tools/diff_glossary.py reads it too
+GLOSSARY_FILES_GLOB = os.path.join(GLOSSARIES_ROOT, "*.tsv")
+SERIES_PAGE_FILE = os.path.join(REPO_ROOT, "docs", "traditions", "glossary-series.md")
+DIFF_FILE = os.path.join(GLOSSARIES_ROOT, "_diff.md")
 
-ALIASES = {
+# The front matter of the generated page. last_reviewed is fixed text: running the script does not change it.
+SERIES_PAGE_FRONT_MATTER = (
+    "---\n"
+    "title: How we described ourselves, by year\n"
+    "status: generated\n"
+    "last_reviewed: 2026-10-04\n"
+    "reviewed_by: tools/build_glossary_series.py\n"
+    "---\n"
+)
+
+# A glossary file name: a four-digit year, then anything ("2016-owlmanac" gives "2016" and "-owlmanac").
+GLOSSARY_FILE_NAME_PATTERN = re.compile(r"(?P<year>\d{4})(?P<suffix>.*)")
+
+# Normalised spellings (see normalise_term) mapped to the one term they all mean. Every term on the right
+# also lets a leading "the" be dropped from what the books print, so "the team wiess" becomes "team wiess";
+# that is all an entry mapped to itself does. Keys still holding punctuation ("team wiess!",
+# "nod (night of decadence)") never match, because normalising removes it first; their forms without
+# punctuation are listed too.
+TERM_ALIASES = {
     # same thing, different spelling / punctuation / abbreviation across the books
     "warpig": "war pig", "the war pig": "war pig",
     "the ubangee": "ubangee", "ubangeee": "ubangee",
@@ -39,7 +92,8 @@ ALIASES = {
     "gofer": "gopher", "gophers": "gopher",
     "freshman oneacts": "freshmen oneacts", "freshman service points": "freshmen service points",
     "wiess house": "wiess master house", "wilson house wiess master house": "wiess master house",
-    "wiess master house wilson house": "wiess master house", "wilson house wiess magisters house": "wiess master house",
+    "wiess master house wilson house": "wiess master house",
+    "wilson house wiess magisters house": "wiess master house",
     "backaterrace": "acaterrace",
     "club 13": "baker 13",
     "early 80s": "80s party",
@@ -67,60 +121,98 @@ ALIASES = {
     "housing jack": "room draw", "piggy week": "willy week", "changeover": "turnover",
 }
 
-
-def norm(term: str) -> str:
-    t = re.sub(r"[^a-z0-9 ]+", "", term.lower()).strip()
-    t = re.sub(r"\s+", " ", t)
-    t = ALIASES.get(t, t)
-    if t.startswith("the ") and t[4:] in ALIASES.values():
-        t = t[4:]
-    return t
+# One row of a glossary table, keyed by the header: term, definition, source_key, locator. The hint says
+# every value is a string, but csv.DictReader fills the fields missing from a short row with None, not "",
+# and keeps extra columns as a list under the key None.
+GlossaryEntry = dict[str, str]
 
 
-def load():
-    years = OrderedDict()
-    # sort by the leading year, then by name, so "2016-owlmanac" follows "2016"
-    def ykey(p):
-        b = os.path.splitext(os.path.basename(p))[0]
-        m = re.match(r"(\d{4})(.*)", b)
-        return (int(m.group(1)), m.group(2)) if m else (9999, b)
-    for path in sorted(glob.glob(os.path.join(GLOSS, "*.tsv")), key=ykey):
-        year = os.path.splitext(os.path.basename(path))[0]
+def main() -> None:
+    """Read every glossary table, then write the series page and the year-to-year diff."""
+    glossaries = load_glossaries()
+    if not glossaries:
+        raise SystemExit("no sources/glossaries/*.tsv yet")
+    years = list(glossaries)
+    entries_by_term, display_name_by_term = group_entries_by_term(glossaries)
+    recurring_terms, one_off_terms = sort_terms_by_recurrence(entries_by_term, display_name_by_term)
+
+    # The whole page is rendered before anything is written, so a bad row stops the script with both
+    # files untouched.
+    page_lines = (
+        [SERIES_PAGE_FRONT_MATTER]
+        + render_introduction(years)
+        + render_recurring_terms(recurring_terms, entries_by_term, display_name_by_term, years)
+        + render_one_off_terms(one_off_terms, entries_by_term, years)
+    )
+    write_lines(SERIES_PAGE_FILE, page_lines)
+    write_lines(DIFF_FILE, render_year_to_year_diff(glossaries, display_name_by_term))
+
+    print(
+        f"wrote {SERIES_PAGE_FILE} ({len(recurring_terms)} series terms, {len(one_off_terms)} one-offs) "
+        f"and {DIFF_FILE}"
+    )
+
+
+def load_glossaries() -> dict[str, dict[str, GlossaryEntry]]:
+    """Return each year's glossary entries by normalised term, with the years in order."""
+    glossaries = {}
+    for glossary_file in sorted(glob.glob(GLOSSARY_FILES_GLOB), key=rank_glossary_file):
+        year = os.path.splitext(os.path.basename(glossary_file))[0]
         if year.startswith("_"):
             continue
-        rows = {}
-        with open(path, encoding="utf-8", newline="") as fh:
-            for r in csv.DictReader(fh, delimiter="\t"):
-                if not r.get("term"):
-                    continue
-                rows[norm(r["term"])] = r
-        years[year] = rows
-    return years
+        glossaries[year] = read_glossary_file(glossary_file)
+    return glossaries
 
 
-def cite(r):
-    loc = (r.get("locator") or "").strip()
-    return f"[@{r['source_key']}{(' ' + loc) if loc else ''}]" if r.get("source_key") else ""
+def rank_glossary_file(glossary_file: str) -> tuple[int, str]:
+    """Return a sort key that orders glossary files by year, then suffix; a name without a year sorts last."""
+    file_name = os.path.splitext(os.path.basename(glossary_file))[0]
+    file_name_parts = GLOSSARY_FILE_NAME_PATTERN.match(file_name)
+    if file_name_parts:
+        return (int(file_name_parts["year"]), file_name_parts["suffix"])
+    return (9999, file_name)
 
 
-def main():
-    years = load()
-    if not years:
-        raise SystemExit("no sources/glossaries/*.tsv yet")
-    terms = defaultdict(dict)  # norm → {year: row}
-    display = {}
-    for y, rows in years.items():
-        for n, r in rows.items():
-            terms[n][y] = r
-            display.setdefault(n, r["term"].strip())
-    series = sorted([n for n, ys in terms.items() if len(ys) >= 2], key=lambda n: display[n].lower())
-    oneoffs = sorted([n for n, ys in terms.items() if len(ys) == 1], key=lambda n: display[n].lower())
-    ylist = list(years)
+def group_entries_by_term(
+    glossaries: dict[str, dict[str, GlossaryEntry]],
+) -> tuple[dict[str, dict[str, GlossaryEntry]], dict[str, str]]:
+    """Return each term's entry for every year it appears in, and the spelling to show it under.
 
-    out = []
-    out.append("---\ntitle: How we described ourselves, by year\nstatus: generated\nlast_reviewed: 2026-10-04\nreviewed_by: tools/build_glossary_series.py\n---\n")
-    out.append("# How we described ourselves, by year\n")
-    out.append(
+    The spelling is the one printed in the first year that has the term, so a term keeps its oldest
+    name and later renames appear beside their years.
+    """
+    entries_by_term: dict[str, dict[str, GlossaryEntry]] = {}  # term → {year: that year's entry}
+    display_name_by_term: dict[str, str] = {}
+    for year, entry_by_term in glossaries.items():
+        for term, entry in entry_by_term.items():
+            entries_by_term.setdefault(term, {})[year] = entry
+            display_name_by_term.setdefault(term, entry["term"].strip())
+    return entries_by_term, display_name_by_term
+
+
+def sort_terms_by_recurrence(
+    entries_by_term: dict[str, dict[str, GlossaryEntry]],
+    display_name_by_term: dict[str, str],
+) -> tuple[list[str], list[str]]:
+    """Return the terms found in two or more years, and those found in one, each sorted by display name.
+
+    Display names are compared ignoring case, so a term a book printed in lower case sorts among the rest.
+    """
+    recurring_terms = sorted(
+        (term for term, entry_by_year in entries_by_term.items() if len(entry_by_year) >= 2),
+        key=lambda term: display_name_by_term[term].lower(),
+    )
+    one_off_terms = sorted(
+        (term for term, entry_by_year in entries_by_term.items() if len(entry_by_year) == 1),
+        key=lambda term: display_name_by_term[term].lower(),
+    )
+    return recurring_terms, one_off_terms
+
+
+def render_introduction(years: list[str]) -> list[str]:
+    """Return the page's title and opening paragraphs, which name every year the page is built from."""
+    return [
+        "# How we described ourselves, by year\n",
         "Every O-Week book ends with a glossary of Wiess words, written by that year's O-Week team for that year's "
         "freshmen. Line them up by year and you can watch the college change its mind.\n\n"
         "!!! abstract \"TL;DR\"\n"
@@ -129,68 +221,161 @@ def main():
         "and \"the giant wooden pig built by the Class of 2012\" from 2014.\n"
         "    - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.\n\n"
         "**How it works.** This page is built by a script from "
-        f"{len(ylist)} glossaries ({', '.join(ylist)}). Want to fix something? Edit `sources/glossaries/*.tsv`, "
+        f"{len(years)} glossaries ({', '.join(years)}). Want to fix something? Edit `sources/glossaries/*.tsv`, "
         "then run `tools/build_glossary_series.py`. Don't edit this page by hand.\n\n"
         "**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
         "Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. "
-        "The newer name shows in italics next to its year.\n"
-    )
-    out.append(f"\n## Terms that recur ({len(series)})\n")
-    out.append("\n| Term | Years present |\n|---|---|")
-    for n in series:
-        ys = [y for y in ylist if y in terms[n]]
-        out.append(f"| [{display[n]}](#{slug(display[n])}) | {', '.join(ys)} |")
-    out.append("")
-    for n in series:
-        out.append(f"\n### {display[n]}\n")
-        for y in ylist:
-            r = terms[n].get(y)
-            if not r:
+        "The newer name shows in italics next to its year.\n",
+    ]
+
+
+def render_recurring_terms(
+    recurring_terms: list[str],
+    entries_by_term: dict[str, dict[str, GlossaryEntry]],
+    display_name_by_term: dict[str, str],
+    years: list[str],
+) -> list[str]:
+    """Return the table of terms found in two or more years, then one section per term, year by year.
+
+    Each table row links to its term's section. A year whose book printed the term differently (ignoring
+    case) from the section heading shows that spelling in italics, which is how renames become visible.
+    """
+    lines = [f"\n## Terms that recur ({len(recurring_terms)})\n", "\n| Term | Years present |\n|---|---|"]
+    for term in recurring_terms:
+        display_name = display_name_by_term[term]
+        years_present = [year for year in years if year in entries_by_term[term]]
+        lines.append(f"| [{display_name}](#{slugify_heading(display_name)}) | {', '.join(years_present)} |")
+    lines.append("")
+
+    for term in recurring_terms:
+        display_name = display_name_by_term[term]
+        lines.append(f"\n### {display_name}\n")
+        for year in years:
+            entry = entries_by_term[term].get(year)
+            if not entry:
                 continue
-            d = r["definition"].strip().replace("\n", " ")
-            printed = r["term"].strip()
-            label = f" (*{printed}*)" if printed.lower() != display[n].lower() else ""
-            out.append(f"- **{y}**{label}—{d} {cite(r)}")
-    out.append(f"\n## Terms that appear in only one glossary ({len(oneoffs)})\n")
-    out.append("\nThese are often the best ones: a joke that lasted one semester, a staff member everyone knew, a rivalry that burned out.\n")
-    for y in ylist:
-        ones = [n for n in oneoffs if y in terms[n]]
-        if not ones:
-            continue
-        out.append(f"\n### {y}\n")
-        for n in ones:
-            r = terms[n][y]
-            d = r["definition"].strip().replace("\n", " ")
-            out.append(f"- **{r['term'].strip()}**—{d} {cite(r)}")
-    with open(OUT, "w", encoding="utf-8") as fh:
-        fh.write("\n".join(out) + "\n")
-
-    # diff file
-    dl = ["# Glossary diffs, year to year\n", "Generated by tools/build_glossary_series.py. Feed for the Changes pages.\n"]
-    prev = None
-    for y in ylist:
-        if prev:
-            a, b = set(years[prev]), set(years[y])
-            added, dropped = sorted(b - a), sorted(a - b)
-            changed = sorted(n for n in a & b if norm_def(years[prev][n]["definition"]) != norm_def(years[y][n]["definition"]))
-            dl.append(f"\n## {prev} → {y}\n")
-            dl.append(f"- added ({len(added)}): " + ", ".join(display[n] for n in added))
-            dl.append(f"- dropped ({len(dropped)}): " + ", ".join(display[n] for n in dropped))
-            dl.append(f"- reworded ({len(changed)}): " + ", ".join(display[n] for n in changed))
-        prev = y
-    with open(DIFF, "w", encoding="utf-8") as fh:
-        fh.write("\n".join(dl) + "\n")
-    print(f"wrote {OUT} ({len(series)} series terms, {len(oneoffs)} one-offs) and {DIFF}")
+            printed_term = entry["term"].strip()
+            renamed_label = f" (*{printed_term}*)" if printed_term.lower() != display_name.lower() else ""
+            lines.append(f"- **{year}**{renamed_label}—{flatten_definition(entry)} {format_citation(entry)}")
+    return lines
 
 
-def norm_def(d: str) -> str:
-    return re.sub(r"\W+", " ", d.lower()).strip()
+def slugify_heading(heading: str) -> str:
+    """Return the anchor MkDocs gives a heading, so the table's links land on the term's section.
 
-
-def slug(s: str) -> str:
-    # match Python-Markdown's toc slugify so in-page links resolve
+    The site's toc extension uses Python-Markdown's default slugify (mkdocs.yml sets no other), so
+    calling that same function gives the same anchor. This assumes every heading on the page is unique.
+    If two slugify the same (or a term's name matches a year heading such as "2016"), toc adds a suffix
+    such as _1 to the later one, and the link opens the first.
+    """
+    # Python-Markdown is installed with MkDocs (requirements.txt). It is imported only when a link is made.
     from markdown.extensions.toc import slugify
-    return slugify(s, "-")
+
+    return slugify(heading, "-")
+
+
+def render_one_off_terms(
+    one_off_terms: list[str],
+    entries_by_term: dict[str, dict[str, GlossaryEntry]],
+    years: list[str],
+) -> list[str]:
+    """Return the terms found in only one year, under a heading for each year that has any."""
+    lines = [
+        f"\n## Terms that appear in only one glossary ({len(one_off_terms)})\n",
+        "\nThese are often the best ones: a joke that lasted one semester, a staff member everyone knew, "
+        "a rivalry that burned out.\n",
+    ]
+    for year in years:
+        terms_of_year = [term for term in one_off_terms if year in entries_by_term[term]]
+        if not terms_of_year:
+            continue
+        lines.append(f"\n### {year}\n")
+        for term in terms_of_year:
+            entry = entries_by_term[term][year]
+            lines.append(f"- **{entry['term'].strip()}**—{flatten_definition(entry)} {format_citation(entry)}")
+    return lines
+
+
+def write_lines(output_file: str, lines: list[str]) -> None:
+    """Replace output_file with the lines, joined by newlines and ending in one."""
+    with open(output_file, "w", encoding="utf-8") as output:
+        output.write("\n".join(lines) + "\n")
+
+
+def render_year_to_year_diff(
+    glossaries: dict[str, dict[str, GlossaryEntry]],
+    display_name_by_term: dict[str, str],
+) -> list[str]:
+    """Return, for each year and the year before it, the terms added, dropped and reworded.
+
+    A term counts as reworded when its definition changed by more than case, punctuation and spacing
+    (see normalise_definition). Terms are listed in order of their normalised form.
+    """
+    lines = [
+        "# Glossary diffs, year to year\n",
+        "Generated by tools/build_glossary_series.py. Feed for the Changes pages.\n",
+    ]
+    years = list(glossaries)
+    for previous_year, year in zip(years, years[1:]):
+        previous_terms, terms = set(glossaries[previous_year]), set(glossaries[year])
+        added, dropped = sorted(terms - previous_terms), sorted(previous_terms - terms)
+        reworded = sorted(
+            term
+            for term in previous_terms & terms
+            if normalise_definition(glossaries[previous_year][term]["definition"])
+            != normalise_definition(glossaries[year][term]["definition"])
+        )
+        lines.append(f"\n## {previous_year} → {year}\n")
+        lines.append(f"- added ({len(added)}): " + ", ".join(display_name_by_term[term] for term in added))
+        lines.append(f"- dropped ({len(dropped)}): " + ", ".join(display_name_by_term[term] for term in dropped))
+        lines.append(f"- reworded ({len(reworded)}): " + ", ".join(display_name_by_term[term] for term in reworded))
+    return lines
+
+
+def read_glossary_file(glossary_file: str) -> dict[str, GlossaryEntry]:
+    """Return one glossary table's entries by normalised term, skipping rows with no term.
+
+    Also used by tools/diff_glossary.py. When two rows normalise to the same term, the later one wins.
+    """
+    with open(glossary_file, encoding="utf-8", newline="") as glossary:
+        return {
+            normalise_term(entry["term"]): entry
+            for entry in csv.DictReader(glossary, delimiter="\t")
+            if entry.get("term")
+        }
+
+
+def normalise_term(printed_term: str) -> str:
+    """Return the form of a term used to match it across years.
+
+    The term is lower-cased, stripped of everything but the letters a-z, digits and spaces (so accented
+    letters are dropped), with runs of spaces collapsed, and looked up in TERM_ALIASES. A leading "the "
+    is then dropped if what follows is a term some alias maps to.
+    """
+    term = re.sub(r"[^a-z0-9 ]+", "", printed_term.lower()).strip()
+    term = re.sub(r"\s+", " ", term)
+    term = TERM_ALIASES.get(term, term)
+    if term.startswith("the ") and term[len("the "):] in TERM_ALIASES.values():
+        term = term[len("the "):]
+    return term
+
+
+def normalise_definition(definition: str) -> str:
+    """Return a definition lower-cased with punctuation and spacing collapsed, to spot real rewording."""
+    return re.sub(r"\W+", " ", definition.lower()).strip()
+
+
+def flatten_definition(entry: GlossaryEntry) -> str:
+    """Return an entry's definition on one line, so it stays inside its Markdown list item."""
+    return entry["definition"].strip().replace("\n", " ")
+
+
+def format_citation(entry: GlossaryEntry) -> str:
+    """Return the entry's citation, such as "[@oweek-2006 p.84]", or "" if it has no source_key."""
+    locator = (entry.get("locator") or "").strip()
+    if not entry.get("source_key"):
+        return ""
+    return f"[@{entry['source_key']}{(' ' + locator) if locator else ''}]"
 
 
 if __name__ == "__main__":

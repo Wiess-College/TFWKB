@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Norse Night
 
-Norse Night was a dinner when the whole [Commons](../../places/commons.md) (the dining hall) ate at "Viking tables": no forks, food on the tablecloth, napkins on heads [@riceinfo-norse] [@handbook-1994].
+Norse Night was a dinner when the whole [Commons](../../places/commons.md) ate at "Viking tables": no forks, food on the tablecloth, napkins on heads [@riceinfo-norse] [@handbook-1994].
 
 !!! abstract "TL;DR"
     - The only dated one is "Norse Night '91," which took an hour and a half to clean up [@riceinfo-norse].

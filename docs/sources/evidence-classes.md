@@ -19,7 +19,7 @@ This page explains the evidence letters in our timelines. Every timeline row has
 
 ## How to weigh them
 
-An O-Week book is primary evidence of *what the college told its freshmen that year*. It's weak evidence about events years earlier. The 2006 book proves that in 2006 the college called the War Pig a "former" mascot; it tells you little about 1986.
+An O-Week book primary evidence, but only of *what the college told its freshmen that year*. It's weak evidence about events years earlier, and written in a casual hyperbolic style. The 2006 book proves that in 2006 the college called the War Pig a "former" mascot; it tells you little about 1986.
 
 Old text gets copied. The War Pig glossary entry ran unchanged for six years, and NOD's "last Friday of October" stayed in print years after the party moved to Saturday.
 
@@ -37,4 +37,4 @@ A source that gets its own history wrong (like the college misdating its own cha
 
 ## What isn't evidence
 
-A search result. An AI summary. This site, or another page on it (link to it instead). "Everyone knows." If you can't cite it, it goes in an open question (`issues/open-questions.tsv`) or the Commons (see the [page template](../contributing/page-template.md)).
+A search result. AI. This site, or another page on it (link to it instead). "Everyone knows." If you can't cite it, it goes in an open question (`issues/open-questions.tsv`) or the Commons (see the [page template](../contributing/page-template.md)).

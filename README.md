@@ -1,6 +1,6 @@
 # Team Family Knowledgebase (Wiess)
 
-The sourced history of Wiess College, Rice University—traditions, places, people, governance and how they changed—with every claim cited to a permalink that resolves without us.
+The sourced history of Wiess College—traditions, places, people, governance and how they changed—with every claim cited to a permalink that resolves without us.
 
 **Site:** https://wiess-college.github.io/TFWKB/. 
 **Commons (wiki):** the easy place to say something. 
@@ -27,6 +27,7 @@ sources/
 hooks/citations.py         turns [@key p.N] into links at build time; unknown keys fail the build  
 tools/                     stdlib-only helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  
                            import_governance_changes.py, fix_pdf_text.py, pdfpage.py, html2text.py  
+tools/STYLE.md             how to write those helpers (names, docstrings, linting); pyproject.toml holds the lint rules  
 ```
 
 ## Installing locally
