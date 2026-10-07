@@ -88,7 +88,7 @@ The yearbook. archive.org has only 1916–1939 and 1988. Rice's own repository (
 
 web.archive.org, texashistory.unt.edu and scholarship.rice.edu refuse connections from cloud build environments; they work from a personal machine and a browser. repository.rice.edu blocks every automated route. Plan digs accordingly: the browser is the instrument of record for the Portal, the Wayback Machine the bulk source, and a personal machine the place to run both.
 
-??? info "The corpus layout (working corpus, `~/projects/wiess-archive/`)"
+??? info "A layout for your working copy"
     ```
     <site>/index.tsv                      timestamp, url, status, mimetype, digest, local path
     <site>/cdx/*.tsv                      raw CDX lists
@@ -102,4 +102,4 @@ web.archive.org, texashistory.unt.edu and scholarship.rice.edu refuse connection
     offsite/{edesigns…, machado-silvetti.com, portfolio-cloudfront, rice-subdomains, wiesscooks.rice.edu}
     ```
 
-    `tools/cite.py <path>` turns any corpus path into its citation; `fetch_generic.sh <name> <cdx-query>` rebuilds any mirror from the Wayback Machine. The manifests in this repository (`sources/manifests/`) make the whole corpus reproducible.
+    This is the layout the 2026 working copy used. It's a convention, not a requirement, but `tools/cite.py <path>` reads citations straight from paths laid out this way: a mirrored file's path holds its Wayback timestamp and original URL. `tools/fetch_working_copy.py` downloads every file the manifests list from archive.org into this layout. It takes hours, so stop and restart it as you like; it picks up where it left off. To fetch a single file by hand, take its URL from `sources/manifests/<site>/index.tsv` and add `id_` after the timestamp (`web.archive.org/web/<timestamp>id_/<url>`), which gives the original file without the Wayback banner.

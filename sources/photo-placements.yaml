@@ -1,0 +1,1043 @@
+# Every photograph shown on a Record page, with its caption, credit and date.
+#
+# This is the one place to change a photo's caption or move it to another page. After any change, run
+#
+#     python3 tools/apply_photos.py
+#
+# which copies it onto the Record pages, the Photographs page and docs/assets/photos/manifest.tsv.
+# Editing those by hand does not last: the next run overwrites them from here.
+#
+# Each photo is one block starting with "- photo:". Copy a block to add a photo. Its fields:
+#
+#     photo      the file, relative to docs/assets/photos/ (make_web_photos.py makes it and its manifest row)
+#     gallery    which gallery it goes in: one of the names under "galleries:" below
+#     caption    what the photo shows, in plain text (no links); it is also the lightbox title
+#     credit     who made or published it, in plain text
+#     citation   the citation shown after the credit, such as "[@rhc 2012-12-04 ...]", or "" for none
+#     date       as precise as the evidence allows: "1949-03-01", "1969-09", "c.1983"
+#     topic      a short subject for the manifest, such as "Old Wiess, 2002"
+#
+# Writing the text:
+#
+#   - The caption goes on the lines after "caption: >-", indented to line up. Write it as ordinary text
+#     with no quotation marks around it, and wrap it over as many lines as you like: the lines are joined
+#     with spaces. A blank line inside a caption is an error.
+#   - Every other value goes in double quotation marks, as below. A double quotation mark inside the text
+#     is written \" (a straight one; curly quotes need nothing special).
+#   - Indent with spaces, never tabs, and keep each field lined up with the ones around it.
+#   - A line starting with # is a note for editors, like this one, and is ignored.
+#
+# Text used by many photos is kept once, under "reusable:", and a photo uses it by writing its name after a
+# "*", such as  credit: *credit-source-not-recorded  . Correcting the text there corrects every photo that
+# uses it. Typing the text out in full works just as well.
+
+reusable:
+  credit-woodson-via-rice-history-corner: &credit-woodson-via-rice-history-corner "Rice University, Woodson Research Center, via Rice History Corner"
+  credit-colin-delany-2002: &credit-colin-delany-2002 "Colin Delany '91, 'wiess college | abandoned', August 2002"
+  credit-source-not-recorded: &credit-source-not-recorded "TFWKB photo collection; source not recorded"
+  citation-wiess-hall-construction-post: &citation-wiess-hall-construction-post "[@rhc 2012-12-04 wiess-hall-construction-1949]"
+
+# The galleries, in the order of their sections on the Photographs page. Two galleries may share a page.
+galleries:
+  oldwiess:
+    page: places/old-wiess.md
+    heading: "Old Wiess"
+  oldwiess1999:
+    page: places/old-wiess.md
+    heading: "Old Wiess, wing by wing (1999)"
+  commons:
+    page: places/commons.md
+    heading: "The Commons and UpCo"
+  newwiess:
+    page: places/new-wiess.md
+    heading: "New Wiess"
+  acabowl:
+    page: places/acabowl.md
+    heading: "The Acabowl"
+  terraces:
+    page: places/terraces.md
+    heading: "The terraces and Toke"
+  rooms:
+    page: places/rooms-and-spaces.md
+    heading: "Rooms and spaces of New Wiess"
+  teamwiess:
+    page: traditions/team-wiess.md
+    heading: "Team Wiess and TFW"
+  symbols:
+    page: traditions/symbols.md
+    heading: "Crest, colors and symbols"
+  nod:
+    page: traditions/retired/night-of-decadence.md
+    heading: "Night of Decadence"
+  gazilchers:
+    page: traditions/retired/gazilchers.md
+    heading: "Gazilchers"
+  warpig:
+    page: traditions/warpig.md
+    heading: "The War Pig"
+  jockrow:
+    page: traditions/retired/jock-row.md
+    heading: "Jock Row"
+  norse:
+    page: traditions/retired/norse-night.md
+    heading: "Norse Night"
+  b13:
+    page: traditions/baker-13-defense-force.md
+    heading: "Baker 13 Defense Force"
+  powderpuff:
+    page: traditions/battle-sows-powderpuff.md
+    heading: "Battle Sows & Powderpuff"
+  beerbike:
+    page: traditions/beer-bike.md
+    heading: "Beer Bike"
+  summit:
+    page: traditions/summit.md
+    heading: "Summit"
+  oweek:
+    page: traditions/o-week.md
+    heading: "O-Week"
+  coreteam:
+    page: people/core-team.md
+    heading: "The Core Team"
+
+photos:
+
+  # --- Old Wiess: construction (1949-50)
+
+  - photo: photos-old-wiess-construction/wiess-construction-1.jpg
+    gallery: oldwiess
+    caption: >-
+      1 March 1949: the site staked out with batter boards on open grass, a crane and site hut beyond. The
+      label reads 'Wm. M. Rice Institute Dormitory Building, Staub & Rather, Architects, W. S. Bellows
+      Construction Corp., Contractors'.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1949-03-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/photography-wiesshallconstruction-4-1-49.jpg
+    gallery: oldwiess
+    caption: >-
+      1 April 1949: footings and forms, with a baseball game against A&M in the background.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: "[@rhc 2012-12-04 wiess-hall-construction-1949] [@rhc 2012-12-04 wiess-hall-construction-1949 comment by almadenmike, 5 Dec 2012]"
+    date: "1949-04-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/wiess-construction-2.jpg
+    gallery: oldwiess
+    caption: >-
+      1 April 1949 (no. 2): the foundation forms across the site.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1949-04-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/wiess-construction-4.jpg
+    gallery: oldwiess
+    caption: >-
+      1 August 1949: the steel frame of the walkway roofs.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1949-08-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/photography-wiesshallconstruction-11-1-49.jpg
+    gallery: oldwiess
+    caption: >-
+      1 November 1949: along a finished walkway.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1949-11-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/wiess1949.jpg
+    gallery: oldwiess
+    caption: >-
+      1 December 1949: a two-storey wing complete, its balconies open to the yard; the ground still bare.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1949-12-01"
+    topic: "Old Wiess, construction"
+
+  - photo: photos-old-wiess-construction/moritz-wiesshallcompletion-3-10-50.jpg
+    gallery: oldwiess
+    caption: >-
+      'Wiess Hall completion', 10 March 1950 (date from the file's title): the finished building behind a
+      lone pine.
+    credit: *credit-woodson-via-rice-history-corner
+    citation: *citation-wiess-hall-construction-post
+    date: "1950-03-10"
+    topic: "Old Wiess, construction"
+
+  # --- Old Wiess: later views
+
+  - photo: photos-outside/wiess-and-west-halls-nov-2-1950-gift-of-pender-turnbull-438.jpg
+    gallery: oldwiess
+    caption: >-
+      Wiess and West Halls from above, 2 November 1950 (date and 'gift of Pender Turnbull' from the file
+      name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "1950-11-02"
+    topic: "Old Wiess"
+
+  - photo: photos-outside/oldwiesscollege-9-69.jpg
+    gallery: oldwiess
+    caption: >-
+      Old Wiess College across an open field, September 1969 (date from the file name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "1969-09"
+    topic: "Old Wiess"
+
+  - photo: photos-outside/aerialviewgymnasium-1969.jpg
+    gallery: oldwiess
+    caption: >-
+      Aerial view of the campus around the gymnasium, 1969 (date and subject from the file name); Old
+      Wiess's west wing stood next to the gym.
+    credit: *credit-source-not-recorded
+    citation: "[@riceinfo-history]"
+    date: "1969"
+    topic: "Old Wiess"
+
+  # --- Old Wiess: Delany, Aug 2002
+
+  - photo: photos-old-wiess/details-photo6.jpg
+    gallery: oldwiess
+    caption: >-
+      The 1975 plaque: 'Wiess College, established in memory of Harry Carothers Wiess (1887–1948)', with
+      the Plutarch line on Socrates. Transcribed on the Old Wiess page.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/spaces-photo13.jpg
+    gallery: oldwiess
+    caption: >-
+      The entrance under the WIESS COLLEGE lettering, abandoned, August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/hallways-photo2.jpg
+    gallery: oldwiess
+    caption: >-
+      Two storeys of rooms opening onto balconies over a courtyard, August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/hallways-photo1.jpg
+    gallery: oldwiess
+    caption: >-
+      An outdoor balcony walkway, August 2002: every Old Wiess room opened onto one.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/spaces-photo1.jpg
+    gallery: oldwiess
+    caption: >-
+      'Between commons and backabowl' (Delany's caption), August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/spaces-photo3.jpg
+    gallery: oldwiess
+    caption: >-
+      A glass-walled common room with yellow chairs, seen from outside, August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/spaces-photo5.jpg
+    gallery: oldwiess
+    caption: >-
+      A paved patio with benches under the trees, August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  - photo: photos-old-wiess/windows-photo3.jpg
+    gallery: oldwiess
+    caption: >-
+      Steel-framed windows in the brick, August 2002.
+    credit: *credit-colin-delany-2002
+    citation: "[@edesigns-old-wiess-2002]"
+    date: "2002-08"
+    topic: "Old Wiess, 2002"
+
+  # --- Commons
+
+  - photo: photos-old-wiess/jello-night-weiss-college-c1996-3-008-commons.jpg
+    gallery: commons
+    caption: >-
+      Jello Night in the Old Wiess Commons, c.1996 (date and event from the file name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "c.1996"
+    topic: "The Commons"
+
+  - photo: photos/commons.jpg
+    gallery: commons
+    caption: >-
+      The New Wiess Commons: long tables, yellow chairs, the glass wall onto the Acabowl.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224839 http://teamwiess.com/newstudents/rooms/commons.jpg]"
+    date: "by 2017"
+    topic: "The Commons"
+
+  - photo: photos-outside/family.jpg
+    gallery: commons
+    caption: >-
+      TEAM FAMILY WIESS painted across the Commons windows, with 'Welcome' beside it.
+    credit: "teamwiess.com, 'acapics', by 2019"
+    citation: "[@wb 20190928044413 http://teamwiess.com/acapics/family.jpg]"
+    date: "by 2019"
+    topic: "The Commons"
+
+  - photo: photos-outside/commons-2.jpg
+    gallery: commons
+    caption: >-
+      The New Wiess Commons from the Acabowl lawn: two storeys of glass behind a sunscreen, a tree in
+      front.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated (after 2002)"
+    topic: "The Commons"
+
+  # --- New Wiess
+
+  - photo: photos-outside/rescolleges.jpg
+    gallery: newwiess
+    caption: >-
+      The Commons across the Acabowl lawn and path.
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224855 http://teamwiess.com/res/rescolleges.jpg]"
+    date: "by 2016"
+    topic: "New Wiess"
+
+  - photo: photos-outside/pink.jpg
+    gallery: newwiess
+    caption: >-
+      The Commons lit up at dusk, seen from the Acabowl.
+    credit: "teamwiess.com, 'acapics', 2017"
+    citation: "[@wb 20170602224647 http://teamwiess.com/acapics/pink.jpg]"
+    date: "by 2017"
+    topic: "New Wiess"
+
+  - photo: photos-outside/wing.jpg
+    gallery: newwiess
+    caption: >-
+      A residential wing over the Acabowl at dusk, ivy on its screens, a tower beyond.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated"
+    topic: "New Wiess"
+
+  - photo: photos-outside/darkhall.jpg
+    gallery: newwiess
+    caption: >-
+      An open-air corridor behind the ivy-covered metal screens, at dusk.
+    credit: "teamwiess.com, 'acapics', 2017"
+    citation: "[@wb 20170602224650 http://teamwiess.com/acapics/darkhall.jpg]"
+    date: "by 2017"
+    topic: "New Wiess"
+
+  - photo: photos-outside/dark-aisle-4.jpg
+    gallery: newwiess
+    caption: >-
+      Another corridor at dusk: brick on one side, screen and ivy on the other.
+    credit: "teamwiess.com, 'acapics', 2017"
+    citation: "[@wb 20170602225337 http://teamwiess.com/acapics/dark-aisle.jpg]"
+    date: "by 2017"
+    topic: "New Wiess"
+
+  - photo: photos-outside/upper.jpg
+    gallery: newwiess
+    caption: >-
+      The glazed upper storey of the Commons at dusk, seen from an upper floor.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated"
+    topic: "New Wiess"
+
+  - photo: photos-outside/snow-1.jpg
+    gallery: newwiess
+    caption: >-
+      Snow on the Acabowl lawn and picnic tables.
+    credit: "teamwiess.com, 'acapics', by February 2018"
+    citation: "[@wb 20180223224559 http://teamwiess.com/acapics/snow.jpg]"
+    date: "by 2018-02"
+    topic: "New Wiess"
+
+  # --- Acabowl
+
+  - photo: photos-outside/wiess-four-square-1991.jpg
+    gallery: acabowl
+    caption: >-
+      Four-square on the paved court of the Old Wiess Acabowl, 1991 (date from the file name), balconies
+      behind.
+    credit: *credit-source-not-recorded
+    citation: "[@handbook-1994]"
+    date: "1991"
+    topic: "The Acabowl"
+
+  - photo: photos-outside/acabowl-2017.jpg
+    gallery: acabowl
+    caption: >-
+      The New Wiess Acabowl: lawn, a picnic table and the ivy-hung wing.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224834 http://teamwiess.com/newstudents/rooms/acabowl.jpg]"
+    date: "by 2017"
+    topic: "The Acabowl"
+
+  - photo: photos/aca-slide.jpg
+    gallery: acabowl
+    caption: >-
+      A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed
+      Wiess Acaslide'.
+    credit: *credit-source-not-recorded
+    citation: "[@wb 20021013235815 http://www.teamwiess.com:80/pow.html]"
+    date: "undated"
+    topic: "The Acabowl"
+
+  # --- Terraces / Toke
+
+  - photo: photos-outside/bacaterrace.jpg
+    gallery: terraces
+    caption: >-
+      The large paved terrace on the South Servery roof, with its shade structure, at sunset. The file is
+      named 'bacaterrace'.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated"
+    topic: "The terraces"
+
+  - photo: photos-outside/fourthterrace.jpg
+    gallery: terraces
+    caption: >-
+      The fourth-floor balcony (the Bacaterrace of the 2014–17 books): benches and rail, the playing
+      fields beyond.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated"
+    topic: "The terraces"
+
+  - photo: photos-outside/terrace-sky.jpg
+    gallery: terraces
+    caption: >-
+      Sunset over the playing fields from an upper-floor balcony rail, probably the same fourth-floor
+      balcony.
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "undated"
+    topic: "The terraces"
+
+  - photo: photos-people/wiessicles.jpg
+    gallery: terraces
+    caption: >-
+      TOKE painted on a graffiti-covered table: an O-Week photograph of 2022, the earliest written trace
+      of the name.
+    credit: "teamwiess.com, O-Week 2022"
+    citation: "[@wb 20220709040142 http://teamwiess.com/images/oweek2022/wiessicles.jpg]"
+    date: "2022"
+    topic: "The terraces"
+
+  # --- Rooms
+
+  - photo: photos-inside-rooms/alcove.jpg
+    gallery: rooms
+    caption: >-
+      A suite alcove off the corridor, with a bench.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224838 http://teamwiess.com/newstudents/rooms/alcove.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  - photo: photos/freshmanroomnew.jpg
+    gallery: rooms
+    caption: >-
+      Plan of a double: two bedrooms, a common room and a bathroom.
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224916 http://teamwiess.com/res/freshmanroomnew.png]"
+    date: "by 2016"
+    topic: "Rooms and spaces"
+
+  - photo: photos-inside-rooms/commonroom.jpg
+    gallery: rooms
+    caption: >-
+      An empty suite common room, doors to the two bedrooms.
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224917 http://teamwiess.com/res/commonroom.png]"
+    date: "by 2016"
+    topic: "Rooms and spaces"
+
+  - photo: photos/beds.jpg
+    gallery: rooms
+    caption: >-
+      A double bedroom, two beds and two desks.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224845 http://teamwiess.com/newstudents/rooms/beds.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  - photo: photos-inside-rooms/desks.jpg
+    gallery: rooms
+    caption: >-
+      Wardrobes and dresser in a bedroom.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224844 http://teamwiess.com/newstudents/rooms/desks.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  - photo: photos-inside-rooms/onedesk.jpg
+    gallery: rooms
+    caption: >-
+      Desks under the window.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224846 http://teamwiess.com/newstudents/rooms/onedesk.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  - photo: photos-inside-rooms/bathroom-copy.jpg
+    gallery: rooms
+    caption: >-
+      A suite bathroom: two sinks, a large mirror, the shower.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224848 http://teamwiess.com/newstudents/rooms/bathroom.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  - photo: photos-outside/hall.jpg
+    gallery: rooms
+    caption: >-
+      The corridor outside the suites: doors and windows on one side, the Acabowl on the other.
+    credit: "teamwiess.com, 'New students: rooms', 2017"
+    citation: "[@wb 20170714224842 http://teamwiess.com/newstudents/rooms/hall.jpg]"
+    date: "by 2017"
+    topic: "Rooms and spaces"
+
+  # --- Team Wiess
+
+  - photo: photos-people/teammerh.jpg
+    gallery: teamwiess
+    caption: >-
+      The TEAM / FAMILY / WIESS paper banners in the Commons, hung in a descending diagonal, behind an
+      O-Week skit (video still, 2017).
+    credit: "teamwiess.com, O-Week videos, 2017"
+    citation: "[@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png]"
+    date: "2017"
+    topic: "Team Wiess"
+
+  - photo: photos-outside/family-med.jpg
+    gallery: teamwiess
+    caption: >-
+      TEAM FAMILY WIESS on the Commons windows.
+    credit: "teamwiess.com, 'acapics', by 2019"
+    citation: "[@wb 20190928044413 http://teamwiess.com/acapics/family.jpg]"
+    date: "by 2019"
+    topic: "Team Wiess"
+
+  - photo: photos-people/daa.jpg
+    gallery: teamwiess
+    caption: >-
+      Jumping over the letters T F W, for the new students' pages.
+    credit: "teamwiess.com, new students, 2019"
+    citation: "[@wb 20190802225456 http://teamwiess.com/newstudents/thumbnails/daa.jpg]"
+    date: "by 2019"
+    topic: "Team Wiess"
+
+  # --- Symbols
+
+  - photo: graphics/wiessshield1.jpg
+    gallery: symbols
+    caption: >-
+      The Wiess arms in color: a griffin counterchanged on a shield divided black over gold, a helmet with
+      mantling, an owl on top.
+    credit: "teamwiess.com, 2014"
+    citation: "[@wb 20140627224637 http://teamwiess.com/images/wiessshield1wtrans-u213-fr.png]"
+    date: "by 2014"
+    topic: "Crest and colors"
+
+  - photo: graphics/crestbw.jpg
+    gallery: symbols
+    caption: >-
+      The crest in black and white.
+    credit: "teamwiess.com, 2015"
+    citation: "[@wb 20150612230209 http://teamwiess.com/assets/crestbw.gif]"
+    date: "by 2015"
+    topic: "Crest and colors"
+
+  - photo: graphics/wiess60-crest.jpg
+    gallery: symbols
+    caption: >-
+      The 60th-anniversary crest, 'Wiess College 60th Anniversary 1957–2017'.
+    credit: "teamwiess.com/60, 2017"
+    citation: "[@wb 20170602224644 http://teamwiess.com/60/Wiess60-crest-with-date-small.png]"
+    date: "2017"
+    topic: "Crest and colors"
+
+  - photo: graphics/wiess60-banner.jpg
+    gallery: symbols
+    caption: >-
+      The 60th-anniversary banner.
+    credit: "teamwiess.com/60, 2017"
+    citation: "[@wb 20170602224639 http://teamwiess.com/60/Wiess60-banner.png]"
+    date: "2017"
+    topic: "Crest and colors"
+
+  # --- NOD
+
+  - photo: nod/themes-graphic.jpg
+    gallery: nod
+    caption: >-
+      'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table
+      above.
+    credit: "Image of unknown origin, in the TFWKB NOD images"
+    citation: ""
+    date: "c.2011–12"
+    topic: "Night of Decadence"
+
+  - photo: nod/1985-3.jpg
+    gallery: nod
+    caption: >-
+      NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at
+      top left.
+    credit: "The Campanile 1985, p.283"
+    citation: "[@campanile-1985]"
+    date: "1984-10-26"
+    topic: "Night of Decadence"
+
+  - photo: nod/1983.jpg
+    gallery: nod
+    caption: >-
+      Dancing at NOD, c.1983 (date from the file name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "c.1983"
+    topic: "Night of Decadence"
+
+  - photo: nod/1998-lg.jpg
+    gallery: nod
+    caption: >-
+      Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "1998"
+    topic: "Night of Decadence"
+
+  # --- Gazilchers
+
+  - photo: photos-outside/1970-wiess-water-fight.jpg
+    gallery: gazilchers
+    caption: >-
+      Water balloons launched from the west wing of Old Wiess. The file is dated 1970; an alumnus who was
+      there dates it c.1961–62.
+    credit: "Rice History Corner, 6 May 2011"
+    citation: "[@rhc 2011-05-06 friday-afternoon-follies-plus-a-campus-quiz] [@rhc 2011-05-06 friday-afternoon-follies-plus-a-campus-quiz comment by Dagobert Brito (Wiess '63), 7 May 2011]"
+    date: "c.1961–70"
+    topic: "Gazilchers"
+
+  - photo: photos-outside/1970-water-fight.jpg
+    gallery: gazilchers
+    caption: >-
+      The same battery from the side: a stretched launcher on the Old Wiess stair landing.
+    credit: "Rice History Corner, 6 May 2011"
+    citation: "[@rhc 2011-05-06 friday-afternoon-follies-plus-a-campus-quiz]"
+    date: "c.1961–70"
+    topic: "Gazilchers"
+
+  # --- War Pig
+
+  - photo: photos/warpig1.jpg
+    gallery: warpig
+    caption: >-
+      A black pig lettered TEAM WIESS: the picture beside 'The mighty War Pig' on the first website's
+      traditions page.
+    credit: "riceinfo Wiess site, 2000"
+    citation: "[@wb 20000526190203 http://riceinfo.rice.edu:80/projects/colleges/wiess/traditions/index.html]"
+    date: "by 2000"
+    topic: "War Pig"
+
+  - photo: photos/10-copy.jpg
+    gallery: warpig
+    caption: >-
+      The orange commercial pig, TEAM WIESS, tethered in the New Wiess Acabowl over the Acatramp; the ivy
+      screens of New Wiess behind.
+    credit: *credit-source-not-recorded
+    citation: "[@warpig-core-deck slide 32]"
+    date: "2002–04"
+    topic: "War Pig"
+
+  # --- Jock Row, Norse Night
+
+  - photo: photos/weiss-jocks-nd-047.jpg
+    gallery: jockrow
+    caption: >-
+      A banner in the Old Wiess Commons supporting the Wiess jocks. Undated; commenters guess the 1960s or
+      early 1970s.
+    credit: "Rice History Corner, 20 May 2016"
+    citation: "[@rhc 2016-05-20 friday-follies-go-wiess-jocks]"
+    date: "undated (1960s–70s?)"
+    topic: "Jock Row"
+
+  - photo: photos/norse1small.jpg
+    gallery: norse
+    caption: >-
+      The Campanile photograph on the 1999 Norse Night page: a Viking-table diner, napkin on head.
+    credit: "riceinfo Wiess site, 1999 (a Campanile photograph)"
+    citation: "[@riceinfo-norse]"
+    date: "before 1999"
+    topic: "Norse Night"
+
+  # --- Baker 13, Powderpuff, Beer Bike, Summit, O-Week
+
+  - photo: photos-people/baker13defense.jpg
+    gallery: b13
+    caption: >-
+      The Baker 13 Defense Force representatives' photograph: suits, sunglasses and a water gun.
+    credit: "teamwiess.com, representatives, 2017"
+    citation: "[@wb 20170421224913 http://teamwiess.com/profiles/reps/baker13defense.jpg]"
+    date: "2017"
+    topic: "Baker 13 Defense Force"
+
+  - photo: photos/powderpuff-low.jpg
+    gallery: powderpuff
+    caption: >-
+      The Wiess powderpuff team at night, in black jerseys.
+    credit: "teamwiess.com, by January 2023"
+    citation: "[@wb 20230114010452 http://teamwiess.com/images/powderpuff-low.jpg]"
+    date: "by 2023"
+    topic: "Battle Sows & Powderpuff"
+
+  - photo: photos-people/beer-bike-low.jpg
+    gallery: beerbike
+    caption: >-
+      Wiess at Beer Bike in that year's maroon team shirts, faces painted, under the live oaks.
+    credit: "teamwiess.com, by January 2023"
+    citation: "[@wb 20230114010426 http://teamwiess.com/images/beer-bike-low.jpg]"
+    date: "by 2023"
+    topic: "Beer Bike"
+
+  - photo: photos-summit/2024.jpg
+    gallery: summit
+    caption: >-
+      Summit 2024: the college on the beach (date from the file name).
+    credit: *credit-source-not-recorded
+    citation: ""
+    date: "2024"
+    topic: "Summit"
+
+  - photo: photos-oweek/2771146179-5e6a847fb9-c.jpg
+    gallery: oweek
+    caption: >-
+      O-Week, late 2000s: skateboarding in a goldenrod shirt.
+    credit: "Flickr; photographer not recorded"
+    citation: ""
+    date: "c.2008"
+    topic: "O-Week"
+
+  - photo: photos-oweek/2771950998-1fd704d707-c.jpg
+    gallery: oweek
+    caption: >-
+      O-Week, late 2000s: goldenrod shirts at a run.
+    credit: "Flickr; photographer not recorded"
+    citation: ""
+    date: "c.2008"
+    topic: "O-Week"
+
+  - photo: photos-oweek/2771989234-70da638bbe-c.jpg
+    gallery: oweek
+    caption: >-
+      O-Week, late 2000s: on the slip-and-slide.
+    credit: "Flickr; photographer not recorded"
+    citation: ""
+    date: "c.2008"
+    topic: "O-Week"
+
+  - photo: photos-people/coords.jpg
+    gallery: oweek
+    caption: >-
+      The 2021 O-Week coordinators ('coords' in the file name) in front of Lovett Hall, in YEAH WIESS
+      shirts.
+    credit: "teamwiess.com, O-Week 2021"
+    citation: "[@wb 20210619003837 http://teamwiess.com/images/oweek2021/coords.jpg]"
+    date: "2021"
+    topic: "O-Week"
+
+  # --- Core Team
+
+  - photo: photos/hutchinson.jpg
+    gallery: coreteam
+    caption: >-
+      John and Paula Hutchinson (Magisters c.1990–2001), in academic dress, from the Associates page.
+    credit: "teamwiess.com, Associates, 2021"
+    citation: "[@wb 20210806235829 http://teamwiess.com/images/associates/hutchinson.png]"
+    date: "by 2021"
+    topic: "Core Team"
+
+  - photo: photos-people/hudlow.jpg
+    gallery: coreteam
+    caption: >-
+      Doward and Christie Hudlow (RAs 2002–2008), from the Associates page.
+    credit: "teamwiess.com, Associates, 2021"
+    citation: "[@wb 20210806235826 http://teamwiess.com/images/associates/hudlow.png]"
+    date: "by 2021"
+    topic: "Core Team"
+
+  - photo: photos-people/masters2-1.jpg
+    gallery: coreteam
+    caption: >-
+      Mike Gustin and Denise Klein (Magisters 2006–2011), on the 2008 website.
+    credit: "teamwiess.com, 2008"
+    citation: "[@wb 20080709214750 http://teamwiess.com/images/people/masters2.jpg]"
+    date: "by 2008"
+    topic: "Core Team"
+
+  - photo: photos-people/byrd.jpg
+    gallery: coreteam
+    caption: >-
+      Alexander and Jeanette Byrd (Magisters 2011–2016) with their family.
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224920 http://teamwiess.com/res/byrd.png]"
+    date: "by 2016"
+    topic: "Core Team"
+
+  - photo: photos-people/renata-and-lenin-gavin235x156-1.jpg
+    gallery: coreteam
+    caption: >-
+      Renata Ramos and Lenin Terrazas (RAs 2011–2018) with their son.
+    credit: "teamwiess.com; capture not identified"
+    citation: ""
+    date: "2011–18"
+    topic: "Core Team"
+
+  - photo: photos-people/emilie.jpg
+    gallery: coreteam
+    caption: >-
+      Dr. Emilie Ringe (RA 2014–2017).
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224923 http://teamwiess.com/res/emilie.png]"
+    date: "by 2016"
+    topic: "Core Team"
+
+  - photo: photos-people/ewart-2.jpg
+    gallery: coreteam
+    caption: >-
+      Ewart G. Jones, Jr. (College Coordinator 2013–2023).
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160506224925 http://teamwiess.com/res/ewart.png]"
+    date: "by 2016"
+    topic: "Core Team"
+
+  - photo: photos-people/schaefers-2.jpg
+    gallery: coreteam
+    caption: >-
+      Drs. Andrew and Laura Schaefer (Magisters 2016–2021) with their family.
+    credit: "teamwiess.com, 2016"
+    citation: "[@wb 20160527224834 http://teamwiess.com/res/schaefers.jpg]"
+    date: "by 2016"
+    topic: "Core Team"
+
+  - photo: photos-people/carissa-nick.jpg
+    gallery: coreteam
+    caption: >-
+      Carissa Zimmerman and Nick Espinosa (RAs from 2018).
+    credit: "teamwiess.com, 2020"
+    citation: "[@wb 20200529230221 http://teamwiess.com/images/carissa-nick.jpg]"
+    date: "by 2020"
+    topic: "Core Team"
+
+  - photo: photos-people/flavio-fabiana.jpg
+    gallery: coreteam
+    caption: >-
+      Flavio Cunha and Fabiana Santos (Magisters from 2021).
+    credit: "teamwiess.com, 2021"
+    citation: "[@wb 20210813231053 http://teamwiess.com/images/ateam/flavio-fabiana.jpeg]"
+    date: "by 2021"
+    topic: "Core Team"
+
+  # --- Old Wiess, wing by wing (first website, 1998-99)
+
+  - photo: riceinfo-1997-2002/views-ten1.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident
+      Associate, Dr. Stan Dodds.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-ten2.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Tennis Court Wing from the Acabowl, with the bike rack on the right.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-acab.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Acabowl Ledge, rooms 111–124: "especially if it's sunny, this ledge is one of the more active
+      areas at Wiess."
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20020116233355 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/acabowl.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-uaca.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The second-floor Acabowl hallway, rooms 211–224 ("even the fire hose is in the same place").
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20020116233355 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/acabowl.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-far.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Acabowl ledges from the intramural fields; the Acabowl was "home to a volleyball court, a few
+      barbeque pits, some benches".
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20020116233355 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/acabowl.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-3mid.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Middle Section, the only part of Old Wiess with a third floor: "the tower" (rooms 135–136,
+      235–236, 335 the computer room and 336 the presidential suite), with the five-man suites beside it.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-mid.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Middle Section from the Bacabowl side, rooms 134 (left) to 129 (right).
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-fbaca.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Bacabowl Ledge, rooms 137/237–148/248, "generally a little bit quieter than the acabowl". Room
+      137 was a restroom, the "O/C Bathroom".
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 20020615221715 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/backabowl.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-fsing.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The Singles Wing from the Bacabowl: "filled mostly with seniors"; Dr. Bill lived on the second
+      floor, last room on the right.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 19991011005025 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/singles.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-sing.jpg
+    gallery: oldwiess1999
+    caption: >-
+      The other side of the Singles Wing, facing Baker.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 19991011005025 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/singles.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  - photo: riceinfo-1997-2002/views-fish-room.jpg
+    gallery: oldwiess1999
+    caption: >-
+      "A typical Wiess freshman room", shot through a window with the last exposure on the roll; about 20
+      by 15 feet.
+    credit: "First Wiess website, 'Pictures of Wiess Rooms' (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999)"
+    citation: "[@wb 19991011000933 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/frosh.html]"
+    date: "1998–1999"
+    topic: "Old Wiess"
+
+  # --- Battle Sows 1999 (first website)
+
+  - photo: riceinfo-1997-2002/sows-dasows.jpg
+    gallery: powderpuff
+    caption: >-
+      The Battle Sows, 1999 Powder Puff champions.
+    credit: "First Wiess website, Battle Sows page, 1999"
+    citation: "[@riceinfo-battlesows]"
+    date: "1999"
+    topic: "Battle Sows"
+
+  - photo: riceinfo-1997-2002/sows-huddle.jpg
+    gallery: powderpuff
+    caption: >-
+      The Sows' huddle, 1999.
+    credit: "First Wiess website, Battle Sows page, 1999"
+    citation: "[@riceinfo-battlesows]"
+    date: "1999"
+    topic: "Battle Sows"
+
+  - photo: riceinfo-1997-2002/sows-whattime.jpg
+    gallery: powderpuff
+    caption: >-
+      Battle Sows, 1999: "What time is it?"
+    credit: "First Wiess website, Battle Sows page, 1999"
+    citation: "[@riceinfo-battlesows]"
+    date: "1999"
+    topic: "Battle Sows"
+
+  # --- Core team portraits (first website)
+
+  - photo: riceinfo-1997-2002/peepul-associates-drbill-tn.jpg
+    gallery: coreteam
+    caption: >-
+      Dr. Bill Wilson, Resident Associate, as pictured on the first website's Associates page.
+    credit: "First Wiess website, People pages, 1998–2000"
+    citation: "[@riceinfo-masters]"
+    date: "1998–2000"
+    topic: "Core Team"
+
+  - photo: riceinfo-1997-2002/peepul-associates-standodds-tn.jpg
+    gallery: coreteam
+    caption: >-
+      Dr. Stan Dodds, Resident Associate.
+    credit: "First Wiess website, People pages, 1998–2000"
+    citation: "[@riceinfo-masters]"
+    date: "1998–2000"
+    topic: "Core Team"
+
+  - photo: riceinfo-1997-2002/peepul-johnhutchinson2.jpg
+    gallery: coreteam
+    caption: >-
+      John Hutchinson, Magister (then Master).
+    credit: "First Wiess website, People pages, 1998–2000"
+    citation: "[@riceinfo-masters]"
+    date: "1998–2000"
+    topic: "Core Team"
+
+  - photo: riceinfo-1997-2002/peepul-paulahutchinson2.jpg
+    gallery: coreteam
+    caption: >-
+      Paula Hutchinson, Magister (then Master).
+    credit: "First Wiess website, People pages, 1998–2000"
+    citation: "[@riceinfo-masters]"
+    date: "1998–2000"
+    topic: "Core Team"

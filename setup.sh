@@ -124,18 +124,25 @@ done
     || report_missing "pymupdf (tools/fix_pdf_fonts.py, and add_glossary.py for books with broken fonts)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
 "$VENV_PYTHON" -c 'import fontTools' 2>/dev/null \
     || report_missing "fonttools (tools/fix_pdf_fonts.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+"$VENV_PYTHON" -c 'import PIL' 2>/dev/null \
+    || report_missing "pillow (tools/make_web_photos.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
 command -v pdftotext >/dev/null 2>&1 \
     || report_missing "pdftotext (tools/add_glossary.py reads O-Week book PDFs with it)" "macOS: brew install poppler; Linux: install poppler-utils"
 command -v gh >/dev/null 2>&1 \
-    || report_missing "gh (tools/file_issues.sh and tools/tsv_to_issues.sh file GitHub issues)" "macOS: brew install gh; Linux: https://github.com/cli/cli#installation"
+    || report_missing "gh (tools/file_issue_drafts.sh and tools/file_open_questions.sh file GitHub issues)" "macOS: brew install gh; Linux: https://github.com/cli/cli#installation"
 [ "$missing" -eq 0 ] && say "  All found."
 
 heading "Building the site once (mkdocs build --strict)"
-if .venv/bin/mkdocs build --strict --quiet; then
+# Not --quiet: with it, MkDocs stops counting warnings, so --strict passes a build that CI would fail.
+# The full log is kept out of the way, and only its warnings and errors are shown if the build fails.
+build_log="$(mktemp)"
+if .venv/bin/mkdocs build --strict >"$build_log" 2>&1; then
     say "Built into site/."
 else
+    grep -E "WARNING|ERROR|Aborted" "$build_log"
     say "The build failed; the messages above say which page or citation. Setup itself is done."
 fi
+rm -f "$build_log"
 
 cat <<'NEXT'
 

@@ -60,3 +60,13 @@ Do not pick silently. Say so in one or two plain sentences in the section where 
 ## Images
 
 Photographs and scans are cited like anything else, and the page says where the original is: a Wayback URL, a Campanile page, a file in the college's `artifacts/` collection. Do not upload third-party images to this repository; see [Rights](rights.md).
+
+## Sources with no public copy
+
+Cite the most permanent public copy you can find. When the only copy is one you hold (a scan, a photo, a book on someone's shelf):
+
+- **The college may share it** (its own O-Week books, governing documents, photographs it owns): upload it to an [archive.org](https://archive.org) item, then cite that item's URL. Give the item the subject tag `Wiess College` so the items can be gathered into one collection later.
+- **Someone else holds the rights** (a Campanile page, a newspaper scan): don't upload it. Write the bibliography entry without a `url`, and add `held_by:` saying who holds the original and where (`held_by: "Wiess College artifacts collection"`). The site shows it in the footnote and the bibliography. An entry with neither `url` nor `held_by` fails the build.
+- **Originals belong at the Woodson Research Center** (University Archives, UA 0079). An archive.org item is the public reading copy, not a substitute.
+
+Either way, the repository gets the bibliography entry, not the source file. The one exception is the web-size copies of photographs the site shows, under the terms in [Rights](rights.md).

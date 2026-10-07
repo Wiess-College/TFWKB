@@ -12,9 +12,9 @@ files. It prints the text of each file in turn, each followed by one newline and
 files' texts are not marked off from each other. A page archived from a site is at corpus/<site>/
 plus the path in the "local" column of sources/manifests/<site>/index.tsv, with any backslash removed:
 
-    python3 tools/html2text.py corpus/teamwiess.com/mirror/teamwiess.com/20010124011100__index.html
-    python3 tools/html2text.py page1.html page2.html > both.txt
-    curl -s <url> | python3 tools/html2text.py
+    python3 tools/convert_html_to_text.py corpus/teamwiess.com/mirror/teamwiess.com/20010124011100__index.html
+    python3 tools/convert_html_to_text.py page1.html page2.html > both.txt
+    curl -s <url> | python3 tools/convert_html_to_text.py
 
 With no file names, or with "-" as one, it reads HTML from standard input; run with no file names, it
 waits for that input rather than printing usage.
@@ -113,9 +113,6 @@ def convert_html_to_text(page_html: str) -> str:
     page_text = re.sub(r"\n\s*\n+", "\n\n", page_text)
     return page_text.strip()
 
-
-# The old name of convert_html_to_text, kept so code that does "from html2text import html2text" still works.
-html2text = convert_html_to_text
 
 
 if __name__ == "__main__":

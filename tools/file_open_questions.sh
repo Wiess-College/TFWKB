@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # File the vetted rows of issues/open-questions.tsv as GitHub issues.
 #
-#   tools/tsv_to_issues.sh -n          dry run: print what would be done, change nothing
-#   tools/tsv_to_issues.sh             create missing labels, then one issue per row with keep=y
-#   tools/tsv_to_issues.sh -n FILE     use another TSV with the same columns
+#   tools/file_open_questions.sh -n          dry run: print what would be done, change nothing
+#   tools/file_open_questions.sh             create missing labels, then one issue per row with keep=y
+#   tools/file_open_questions.sh -n FILE     use another TSV with the same columns
 #
 # Only rows whose `keep` column is y/Y/yes are filed. The issue body is built from the row:
 # detail, then "Pages:" (links to the published site), "Sources:" (the cite keys, verbatim),

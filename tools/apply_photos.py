@@ -1,16 +1,15 @@
-"""Copy the photo decisions in tools/photo_placements.py onto the site.
+"""Copy the photo decisions in sources/photo-placements.yaml onto the site.
 
 Editors decide where each photograph goes, and what its caption and credit say, in one file:
-tools/photo_placements.py. The same caption has to appear in three places, and keeping them in step by
-hand drifts, so this script regenerates all three from that one file. It reads PHOTO_PLACEMENTS and
-GALLERY_PAGES from photo_placements.py, checks the photo files under docs/assets/photos/, and writes
-these files under docs/:
+sources/photo-placements.yaml. The same caption has to appear in three places, and keeping them in step
+by hand drifts, so this script regenerates all three from that one file. It reads the photos and galleries
+listed there, checks the photo files under docs/assets/photos/, and writes these files under docs/:
 
     Record pages                  each <!-- GALLERY:key --> placeholder filled with a photo grid
     gallery/index.md              the Photographs page, rewritten from scratch
     assets/photos/manifest.tsv    caption, credit, date and topic columns updated in existing rows
 
-Run it from anywhere after any change to photo_placements.py:
+Run it from anywhere after any change to photo-placements.yaml:
 
     python3 tools/apply_photos.py
 
@@ -20,8 +19,9 @@ instead of adding a second copy.
 
 If it stops, the message says how far it got. Fix the cause and run it again.
 
+    "photo-placements.yaml: ..."             the file is not valid YAML, or an entry is malformed (the
+                                             message says which); nothing has been written yet.
     "missing photo: ..."                     nothing has been written yet.
-    KeyError: '<key>'                        a photo's gallery_key is not in GALLERY_PAGES; nothing written yet.
     "no placeholder for ... in ..."          pages earlier in GALLERY_PAGES are written; the rest are not.
     "not in manifest: ..."                   all pages and gallery/index.md written; manifest unchanged.
     "tab or newline inside a manifest field" same as above.
@@ -33,11 +33,24 @@ import re
 import sys
 from typing import NamedTuple
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(REPO_ROOT, "tools"))
-from photo_placements import GALLERY_PAGES, PHOTO_PLACEMENTS
+import yaml
 
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS_ROOT = os.path.join(REPO_ROOT, "docs")
+PLACEMENTS_FILE = os.path.join(REPO_ROOT, "sources", "photo-placements.yaml")
+
+# The fields of one photo in photo-placements.yaml, and the PhotoPlacement field each one fills. Editors see
+# the short names on the left; the script uses the longer ones, which say what each value is.
+PHOTO_FIELDS = {
+    "photo": "photo_subpath",
+    "gallery": "gallery_key",
+    "caption": "caption",
+    "credit": "credit_plain",
+    "citation": "credit_citation",
+    "date": "date",
+    "topic": "topic",
+}
+GALLERY_FIELDS = {"page": "page_path", "heading": "heading"}
 
 # Paths relative to docs/, the way pages link to them. Joined with "+" rather than os.path.join so they keep
 # the forward slashes Markdown links and the manifest need. (The tools assume macOS or Linux.)
@@ -53,13 +66,10 @@ GALLERY_INDEX_LAST_REVIEWED = "2026-10-05"
 
 
 class PhotoPlacement(NamedTuple):
-    """One photograph, the gallery it belongs to, and what to say about it.
-
-    Field order matches the tuples in photo_placements.PHOTO_PLACEMENTS, so PhotoPlacement(*row) converts one.
-    """
+    """One photograph, the gallery it belongs to, and what to say about it."""
 
     photo_subpath: str  # relative to docs/assets/photos/, e.g. "nod/1983.jpg"
-    gallery_key: str  # a key of photo_placements.GALLERY_PAGES
+    gallery_key: str  # one of the gallery names in photo-placements.yaml
     caption: str  # plain text; also the lightbox title and the manifest caption
     credit_plain: str  # who made or published the photo, as plain text
     credit_citation: str  # Markdown citations such as "[@rhc 2012-12-04 ...]", or "" when there is nothing to cite
@@ -80,9 +90,7 @@ def main() -> None:
     Every photo file is checked before anything is written, so a misspelt file name stops the run
     while the site is still unchanged. The module docstring lists what each later exit leaves written.
     """
-    placements = [PhotoPlacement(*row) for row in PHOTO_PLACEMENTS]
-    gallery_pages = {gallery_key: GalleryPage(*row) for gallery_key, row in GALLERY_PAGES.items()}
-
+    placements, gallery_pages = read_photo_placements()
     check_every_photo_file_exists(placements)
     placements_by_gallery = group_by_gallery(placements, gallery_pages)
 
@@ -94,6 +102,52 @@ def main() -> None:
         f"placed {len(placements)} photos on {len(gallery_pages)} pages; "
         f"manifest rows updated: {updated_row_count}"
     )
+
+
+def read_photo_placements() -> tuple[list[PhotoPlacement], dict[str, GalleryPage]]:
+    """Return the photos and galleries in photo-placements.yaml, stopping with a message if one is malformed.
+
+    Editors write this file by hand, so a mistake should stop the run with a message naming the photo,
+    before anything is written, rather than with a traceback or a page that is quietly wrong. Each photo
+    and gallery must have exactly its fields, and each photo's gallery must be listed. Galleries keep the
+    order they are listed in, which is the order of sections on the Photographs page.
+    """
+    try:
+        with open(PLACEMENTS_FILE, encoding="utf-8") as placements_yaml:
+            placement_data = yaml.safe_load(placements_yaml)
+    except yaml.YAMLError as yaml_error:
+        # PyYAML's message gives the line and column where reading stopped.
+        sys.exit(f"photo-placements.yaml: not valid YAML: {yaml_error}")
+    gallery_pages = {
+        gallery_key: GalleryPage(**read_fields(gallery, GALLERY_FIELDS, f"gallery {gallery_key}"))
+        for gallery_key, gallery in placement_data["galleries"].items()
+    }
+    placements = []
+    for photo in placement_data["photos"]:
+        photo_name = f"photo {photo.get('photo') if isinstance(photo, dict) else photo}"
+        placement = PhotoPlacement(**read_fields(photo, PHOTO_FIELDS, photo_name))
+        if placement.gallery_key not in gallery_pages:
+            sys.exit(f"photo-placements.yaml: {photo_name}: no gallery named {placement.gallery_key}")
+        placements.append(placement)
+    return placements, gallery_pages
+
+
+def read_fields(entry: dict, field_names: dict[str, str], entry_name: str) -> dict[str, str]:
+    """Return an entry's values as text, keyed by record field name; stop if a field is missing or extra.
+
+    YAML reads some unquoted values as other types: 1969 as a number, 1949-03-01 as a date, and an empty
+    value as nothing. Those are turned back into the text the editor typed (nothing becomes ""), so a
+    forgotten pair of quotation marks does no harm. A list or a set of fields where text belongs stops it.
+    """
+    if not isinstance(entry, dict) or set(entry) != set(field_names):
+        sys.exit(f"photo-placements.yaml: {entry_name}: needs exactly the fields {', '.join(field_names)}")
+    values = {}
+    for yaml_name, field_name in field_names.items():
+        value = entry[yaml_name]
+        if isinstance(value, (list, dict)):
+            sys.exit(f"photo-placements.yaml: {entry_name}: {yaml_name} should be text")
+        values[field_name] = "" if value is None else str(value)
+    return values
 
 
 def check_every_photo_file_exists(placements: list[PhotoPlacement]) -> None:
@@ -239,7 +293,7 @@ def update_manifest(
     header = rows[0]
     column_position = {column_name: position for position, column_name in enumerate(header)}
 
-    # If photo_placements lists the same file twice, the later entry wins.
+    # If photo-placements.yaml lists the same file twice, the later entry wins.
     placement_by_web_path = {WEB_PATH_PREFIX + placement.photo_subpath: placement for placement in placements}
     updated_web_paths = set()
     for row in rows[1:]:

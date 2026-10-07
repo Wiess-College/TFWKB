@@ -1,0 +1,341 @@
+# Governance: constitutions, bylaws and rules, and the roster and minutes pages that record changes.
+# The texts also live as tagged commits in the governance repo (Wiess-College/governance); cite the archived
+# original here, or the tag as [@gov-repo v2013-02-08]. Single page captures are cited inline as [@wb <timestamp> <url>].
+
+# --- Constitutions, bylaws and rules with a public copy
+
+- key: gov-repo
+  title: Wiess College governing documents as a git lineage (governance repo)
+  type: governing-document
+  date: 1991–2026
+  url: https://github.com/Wiess-College/governance
+  local: wiess-governance/
+  evidence: P
+  notes: >
+    One tagged commit per ratified version—rules-1991, v1993-08-05, v2007-02-06, bylaws-2010,
+    rules-2012, housing-2013, v2013-02-08, v2016-01-26, v2017-03-29, v2020-02-12, v2025-spring (undated; date estimated), v2026-02-23—text reflowed one
+    paragraph per line so `git diff --word-diff` shows substance. CHANGES.md narrates the differences.
+  gaps: Constitutions 1957–1993; anything between 1993 and 2007; the individual amendments of 2017–20; anything between February 2020 and early 2025 (including the fall-2021 hate-speech amendment text); bylaws 2016–2020.
+
+- key: rules-1991
+  title: Rules of Wiess College, as amended 23 September / 1 October 1991
+  type: governing-document
+  date: 1991-10-01
+  url: https://web.archive.org/web/20010219002037/http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/rules.html
+  local: riceinfo.rice.edu-wiess/text/rules__rules.html__20010219002037.md
+  evidence: P
+  notes: Posted on the 1997 riceinfo site under the webmaster's note "These rules are extremely out of date."
+
+- key: constitution-1993
+  title: Constitution and Bylaws of Wiess College, 5 August 1993
+  type: governing-document
+  date: 1993-08-05
+  url: https://web.archive.org/web/20010219002844/http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/constitution.html
+  local: riceinfo.rice.edu-wiess/text/rules__constitution.html__20010219002844.md
+  evidence: P
+  notes: >
+    Bylaws at web.archive.org/web/20010219002624/http://riceinfo.rice.edu:80/projects/colleges/wiess/rules/bylaws.html.
+    Describes itself as a rewrite triggered by "the accumulation of ten amendments", so the pre-1993 lineage is in Woodson.
+
+- key: constitution-2007
+  title: Constitution of Wiess College, revised 6 February 2007
+  type: governing-document
+  format: pdf
+  date: 2007-02-06
+  url: https://web.archive.org/web/20100826020024/http://teamwiess.com/downloads/WiessConstitution2-2010.pdf
+  local: teamwiess.com/oweek-books/2010-wiess-constitution.pdf
+  evidence: P
+  notes: Posted 2010 and 2011 (also web.archive.org/web/20110729230946/http://teamwiess.com/downloads/WiessConstitution.pdf); the text itself is dated 2007.
+
+- key: bylaws-2010
+  title: Bylaws of Wiess College (undated; first seen 26 August 2010)
+  type: governing-document
+  format: pdf
+  date: 2010
+  url: https://web.archive.org/web/20100826020026/http://teamwiess.com/downloads/WiessBylaws2-2010.pdf
+  local: teamwiess.com/oweek-books/2010-wiess-bylaws.pdf
+  evidence: P
+
+- key: housing-rules-2010
+  title: Wiess Housing Rules (as posted 2010; image-only PDF)
+  type: governing-document
+  format: pdf
+  date: 2010
+  url: https://web.archive.org/web/20100826020028/http://teamwiess.com/downloads/Wiess%20Housing%20Rules.pdf
+  local: teamwiess.com/oweek-books/2010-wiess-housing-rules.pdf
+  evidence: P
+  notes: Byte-identical to the PDF created 31 October 2008 [housing-rules-2008], which has been OCR'd; the 2011 copy (web.archive.org/web/20110729230950/http://teamwiess.com/downloads/WiessHousingRules.pdf) is the same file.
+
+- key: college-rules-2012
+  title: Wiess College Rules, last amended 28 August 2012
+  type: governing-document
+  format: pdf
+  date: 2012-08-28
+  url: https://web.archive.org/web/20160506224946/http://teamwiess.com/assets/WiessCollegeRules2012.pdf
+  local: teamwiess.com/oweek-books/2012-wiess-college-rules.pdf
+  evidence: P
+
+- key: housing-rules-2013
+  title: Wiess College Housing Rules, last amended 6 February 2013
+  type: governing-document
+  format: pdf
+  date: 2013-02-06
+  url: https://web.archive.org/web/20140704225158/http://teamwiess.com/assets/wiess-college-housing-rules-2_6_2013.pdf
+  local: teamwiess.com/oweek-books/2013-wiess-housing-rules.pdf
+  evidence: P
+
+- key: constitution-2013
+  title: Constitution of Wiess College, last amended 8 February 2013
+  type: governing-document
+  format: pdf
+  date: 2013-02-08
+  url: https://web.archive.org/web/20140704225200/http://teamwiess.com/assets/wiess-constitution2-8-13.pdf
+  local: teamwiess.com/oweek-books/2013-wiess-constitution.pdf
+  evidence: P
+
+- key: constitution-2016
+  title: Constitution and Bylaws of Wiess College, last amended 26 January 2016
+  type: governing-document
+  format: pdf
+  date: 2016-01-26
+  url: https://web.archive.org/web/20170303225219/http://teamwiess.com/assets/Constitution2017.pdf
+  local: teamwiess.com/oweek-books/2017-wiess-constitution.pdf
+  evidence: P
+  notes: Bylaws at web.archive.org/web/20170303225230/http://teamwiess.com/assets/Bylaws2017.pdf. Filenames say 2017; the "last amended" line says 26 Jan 2016.
+
+- key: constitution-2017
+  title: Constitution of Wiess College, amendment of 29 March 2017
+  type: governing-document
+  format: pdf
+  date: 2017-03-29
+  url: https://web.archive.org/web/20170331225025/http://teamwiess.com/assets/constitution3-29-2017.pdf
+  local: teamwiess.com/oweek-books/2017-03-29-wiess-constitution.pdf
+  evidence: P
+  notes: One-paragraph change (appointed Cabinet members selected by the Cabinet). The "Last Amended" line was not updated; dated from the filename.
+
+- key: constitution-2026
+  title: Complete Guiding Documents of Wiess College, last amended 23 February 2026
+  type: governing-document
+  format: pdf
+  date: 2026-02-23
+  url: https://web.archive.org/web/20260312113026/https://wiess.rice.edu/images/general/Wiess%20Constitution.pdf
+  local: teamwiess.com/oweek-books/2026-02-23-wiess-complete-guiding-documents.pdf
+  evidence: P
+  notes: Bylaws merged into a 16-article Constitution; Masters → Magisters; new articles on Residential Associates, Representatives, Budget, Hate Speech.
+
+- key: budget-2014-15
+  title: Wiess College public budget 2014–15
+  type: governing-document
+  format: pdf
+  date: 2014
+  url: https://web.archive.org/web/20140919225319/http://teamwiess.com/assets/public-2014-2015-budget---sheet1.pdf
+  local: teamwiess.com/oweek-books/2014-2015-public-budget.pdf
+  evidence: P
+
+# --- From the initial maintainer's collection (the tfwdb folder). No public copy known, so no url;
+# held_by says who holds them. Their texts are also tagged commits in the governance repo.
+
+- key: constitution-2020
+  title: The Constitution of Wiess College, last amended 12 February 2020
+  type: governing-document
+  format: docx
+  date: 2020-02-12
+  local: historian-collection/governance/2020-wiess-constitution.docx
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known. Original filename
+    "Wiess Constitution 2020.docx"; Word file created and last saved 12 February 2020 by Timothy
+    Thomas II. Eleven articles; ends "Last Amended February 12, 2020 / Tim Thomas II and Drew Keefer".
+    Text: historian-collection/text/2020-wiess-constitution.txt; governance repo tag v2020-02-12.
+
+- key: bylaws-2020
+  title: The Bylaws of Wiess College, last amended 12 February 2020
+  type: governing-document
+  format: docx
+  date: 2020-02-12
+  local: historian-collection/governance/2020-wiess-bylaws.docx
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known. Original filename
+    "Wiess Bylaws 2020.docx"; ten articles; same "Last Amended" line and signatures as the 2020
+    Constitution. The last separate Bylaws text known. Governance repo tag v2020-02-12.
+
+- key: constitution-hate-speech
+  title: Complete Guiding Documents of Wiess College (undated; Google Docs export of c. early 2025)
+  type: governing-document
+  format: pdf
+  date: c. 2025 (estimated)
+  local: historian-collection/governance/undated-wiess-constitution-hate-speech.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known. Original filename
+    "Wiess ConstitutionND.pdf"; 20 pp; sixteen articles including Article XV Stance on Hate Speech;
+    no "Last Amended" line. Dated by its PDF producer string, "Skia/PDF m134 Google Docs Renderer"
+    (the 2026 PDF says m147, the 2017 Google exports m58), which places the export around
+    January–March 2025. Word for word the 23 February 2026 text without its Executive Cabinet section
+    (Art. IV §14), its Election Representatives section (Art. XI §14) and the Last Amended line. Not the
+    2021–22 hate-speech amendment as ratified, though it carries that clause's descendant.
+    Governance repo tag v2025-spring (commit date 2025-02-15, an estimate).
+
+- key: housing-rules-2008
+  title: Wiess Housing Rules (undated; PDF created 31 October 2008)
+  type: governing-document
+  format: pdf
+  date: 2008-10-31
+  local: historian-collection/governance/undated-wiess-housing-rules-2008.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known under this name, but the
+    file is byte-identical to the image-only PDF posted on teamwiess.com in 2010 and 2011
+    [housing-rules-2010]. Two pages, image only; OCR'd 2026-10-05 (tesseract) to
+    historian-collection/text/undated-wiess-housing-rules-2008.txt. Eleven sections, from "Housing
+    pecking order" to "Housing Committee"; ends with the initials "MMM, BVA, LMH".
+
+# --- Roster, minutes and site pages used by docs/governance/ and docs/changes/
+
+- key: riceinfo-rules-index-1997
+  title: "'The Rules of Wiess College' index page, riceinfo site (Cunningham, 11 Aug 1997; capture 31 Jan 1998)"
+  type: website
+  date: 1997-08-11
+  url: https://web.archive.org/web/19980131012150/http://riceinfo.rice.edu/projects/colleges/wiess/rules/index.html
+  local: riceinfo.rice.edu-wiess/text/rules__index.html__19980131012150.md
+  evidence: P
+  notes: >
+    Links the 1993 Constitution, the 1991 Rules and the 1993 Bylaws under the webmaster's note
+    "These rules are extremely out of date. I'm working on getting a recent copy."—the only
+    contemporary statement that newer texts existed in 1997.
+
+- key: riceinfo-cabinet-1998
+  title: "'Cabinet' roster and office descriptions, riceinfo site (Joe Abraham, 19 Jul 1998; capture 19 Feb 1999)"
+  type: website
+  date: 1998-07-19
+  url: https://web.archive.org/web/19990219085339/http://riceinfo.rice.edu/projects/colleges/wiess/people/cabinet.html
+  local: riceinfo.rice.edu-wiess/text/people__cabinet.html__19990219085339.md
+  evidence: P
+  notes: >
+    "Consisting of twelve elected and three appointed offices, it sets college policy and determines
+    how funds will be spent." Names the 1998–99 officers, a Game Room Chairman, an $18,000 annual
+    budget, and meetings "alternating Wednesdays in the outer commons".
+
+- key: riceinfo-court-1998
+  title: "'The College Court' roster, riceinfo site (Joe Abraham, 19 Jul 1998; capture 19 Feb 1999)"
+  type: website
+  date: 1998-07-19
+  url: https://web.archive.org/web/19990219095220/http://riceinfo.rice.edu/projects/colleges/wiess/people/court.html
+  local: riceinfo.rice.edu-wiess/text/people__court.html__19990219095220.md
+  evidence: P
+  notes: >
+    Chief Justice and four Associate Justices listed; "two Assistant Justices elected sometime in the
+    Fall. Everyone (except freshmen) is eligible to run." The page pairs names with room numbers and
+    phone numbers; do not reproduce those.
+
+- key: riceinfo-minutes-1999
+  title: "'Cabinet Minutes' placeholder page, riceinfo site (Cunningham, 11 Aug 1997; captures 1999)"
+  type: website
+  date: 1997-08-11
+  url: https://web.archive.org/web/19990507193831/http://riceinfo.rice.edu/projects/colleges/wiess/news/minutes/index.html
+  local: riceinfo.rice.edu-wiess/text/news__minutes__index.html__19990507193831.md
+  evidence: P
+  notes: >
+    No minutes were ever posted: "Eventually I will get my act together and put cabinet minutes
+    here." The news index of the same site promises minutes "brought to you by our beloved
+    'Cabinet Secretary'".
+
+- key: riceinfo-homepage-2000
+  title: "Wiess homepage, riceinfo site, with the 18 May 2000 move announcement and the 29 Dec 1999 'We Goofed' note (capture 18 Aug 2000)"
+  type: website
+  date: 2000-05-18
+  url: https://web.archive.org/web/20000818090739/http://riceinfo.rice.edu/projects/colleges/wiess/
+  local: riceinfo.rice.edu-wiess/text/index.html__20000818090739.md
+  evidence: P
+  notes: >
+    Ray Wagner ("RSW") introduces Michael Leggett as co-webmaster and says the site "will also be
+    moved to its new location, www.teamwiess.com"—the earliest dated reference to the domain.
+
+- key: teamwiess-cabinetminutes-2010
+  title: "'Cabinet Minutes' page, teamwiess.com, with the 'Silly Hats Cabinet Minutes' of 9 Sep 2009 (capture 26 Aug 2010)"
+  type: website
+  date: 2009-09-09
+  url: https://web.archive.org/web/20100826015906/http://teamwiess.com/cabinetminutes.php
+  local: teamwiess.com/mirror/teamwiess.com/cabinetminutes.php/teamwiess.com/20100826015906__cabinetminutes.php.html
+  evidence: P
+  notes: >
+    Comedy minutes continue (a new Capital Improvements Rep approved by motion). Earlier captures of
+    the same page (27 Aug, 3 Sep, 17 Sep 2009) carry only the links.
+
+- key: teamwiess-cabinet-2020
+  title: "Cabinet page, teamwiess.com/government (capture 2 Oct 2020)"
+  type: website
+  date: 2020-10-02
+  url: https://web.archive.org/web/20201002233832/http://teamwiess.com/government/cabinet.html
+  local: teamwiess.com/mirror/teamwiess.com/government/cabinet.html/teamwiess.com/government/20201002233832__cabinet.html
+  evidence: P
+  notes: >
+    Office list already includes Treasurer and Apprentice Treasurer, Senior and Junior
+    Representatives and Diversity Chairs—none of which are in the 2017 constitution text.
+    "View Constitution" and "View Bylaws" link to Google Drive files
+    (drive.google.com/file/d/1FGC5j8igrT5EGbOJeqYLqhiAQVy_5LaZ and 1RdnCgfVHw0T7OFxbiz_fPOuPSwKLEvWE),
+    not captured.
+  gaps: The linked Drive files would hold the 2020–21 constitution and bylaws.
+
+- key: teamwiess-cabinet-2021
+  title: "Cabinet roster, teamwiess.com/government (capture 24 Sep 2021)"
+  type: website
+  date: 2021-09-24
+  url: https://web.archive.org/web/20210924231319/http://teamwiess.com/government/cabinet
+  local: teamwiess.com/mirror/teamwiess.com/government/cabinet/teamwiess.com/government/20210924231319__cabinet.html
+  evidence: P
+  notes: >
+    Fall-2021 roster: Varun Kukunoor, President (the President quoted by the Thresher on the
+    hate-speech clause), two Diversity Chairs, Historians, Parliamentarian, SA Senator; meetings
+    "every Wednesday in the Upper Commons or Large Classroom (and now on Zoom!)".
+
+- key: wiess-rice-edu-cabinet-2023
+  title: "Cabinet roster, wiess.rice.edu/government/cabinet (capture 15 Sep 2023)"
+  type: website
+  date: 2023-09-15
+  url: https://web.archive.org/web/20230915232631/https://wiess.rice.edu/government/cabinet
+  local: wiess.rice.edu/mirror/wiess.rice.edu/government/20230915232631__cabinet.html
+  evidence: P
+  notes: >
+    "Cabinet is Wiess' governing body, which holds open meetings every Wednesday in the Upper
+    Commons or Large Classroom." Lists the 2023–24 officers by office; "View Constitution" links a
+    Google Doc (docs.google.com/document/d/1qbvMy553nreKAKAUgoLXazVCsHW0O-9FT_FoGfq4PbM), not captured.
+
+- key: wiess-rice-edu-court-2023
+  title: "Court roster, wiess.rice.edu/government/court (capture 1 Sep 2023)"
+  type: website
+  date: 2023-09-01
+  url: https://web.archive.org/web/20230901235203/https://wiess.rice.edu/government/court
+  local: wiess.rice.edu/mirror/wiess.rice.edu/government/20230901235203__court.html
+  evidence: P
+  notes: >
+    "Wiess Court is an elected student body responsible for communicating and upholding the
+    college's expectations for appropriate student behavior. Wiess Court is not a punitive force."
+    Chief Justice, six Associate Justices, Deputy Justice "TBD"; a "Report a College Infraction" link.
+
+- key: wiess-rice-edu-representatives-2023
+  title: "Representatives page, wiess.rice.edu/government/representatives (capture 29 Sep 2023)"
+  type: website
+  date: 2023-09-29
+  url: https://web.archive.org/web/20230929231918/https://wiess.rice.edu/government/representatives
+  local: wiess.rice.edu/mirror/wiess.rice.edu/government/20230929231918__representatives.html
+  evidence: P
+  notes: >
+    "The Wiess Reps Program"—Birthday, Chalkboard, College Night, Computer Room, Decorations Room,
+    Election, Food, Hair, International Student Ambassadors, Intramural Sports, Kitchen, Laundry,
+    Librarian, Merch, Movie Night, Mop & Vacuum, Music and more.
+
+- key: wiess-rice-edu-nod-2025
+  title: "wiess.rice.edu/nod/—Wayback capture of 23 Jan 2025 (512 bytes; content not held)"
+  type: website
+  date: 2025-01-23
+  url: https://web.archive.org/web/20250123193910/https://wiess.rice.edu/nod/
+  local: wiess.rice.edu/cdx/all.tsv (CDX row only; the page is not in the mirror)
+  evidence: P
+  notes: The only NOD-specific URL on the current site in the CDX inventory; a 512-byte HTML response, probably a shell or redirect. Nothing on a 2026 NOD decision is in the corpus.
+  gaps: Fetch and read the capture; look for later captures of /nod/.

@@ -14,15 +14,13 @@ include = ["tools/**/*.py", "hooks/**/*.py"]
 # Scripts not yet rewritten to tools/STYLE.md. Remove a script from this list, and from pylint's ignore list
 # below, in the same commit that rewrites it. New scripts are linted from the start.
 extend-exclude = [
-    "hooks/citations.py",
     "tools/build_glossary_series.py",
     "tools/check_links.py",
     "tools/diff_glossary.py",
+    "tools/find_pdf_page.py",
     "tools/fix_pdf_text.py",
-    "tools/html2text.py",
     "tools/import_governance_changes.py",
     "tools/make_web_photos.py",
-    "tools/pdfpage.py",
 ]
 
 [tool.ruff.lint]
@@ -55,10 +53,6 @@ max-complexity = 10
 [tool.ruff.lint.pylint]
 max-statements = 40
 
-[tool.ruff.lint.per-file-ignores]
-# Editor-owned data: one caption per line reads better than wrapped text.
-"tools/photo_placements.py" = ["E501"]
-
 [tool.pylint.main]
 # pylint is used only for what ruff cannot do: a minimum name length and a list of banned abbreviations.
 disable = "all"
@@ -66,15 +60,13 @@ enable = ["invalid-name", "disallowed-name"]
 recursive = true
 # Same list as ruff's extend-exclude above, by file or folder name.
 ignore = [
-    "citations.py",
     "build_glossary_series.py",
     "check_links.py",
     "diff_glossary.py",
+    "find_pdf_page.py",
     "fix_pdf_text.py",
-    "html2text.py",
     "import_governance_changes.py",
     "make_web_photos.py",
-    "pdfpage.py",
 ]
 
 [tool.pylint.basic]

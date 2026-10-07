@@ -38,7 +38,7 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ta
 | The 1968 *Wiess Crack* and any later issues | 1968– | [The WiessCrack](../traditions/retired/wiesscrack.md) |
 | 1989 *Sallyport* "day in the life" of Dr. Bill | 1989 | [Core team](../people/core-team.md) |
 | Report of the 2011 Wilson House dedication (Thresher / Rice News) | 2011 | Whether Wilson House is a new building or a renaming → [Wilson House](../places/wilson-house.md) |
-| ~~Housing Rules 2010 and 2011 (we hold image-only PDFs; needs OCR, or the originals)~~ Found 2026-10-05: the same file as the 2008 PDF in the TFWKB collection, now OCR'd [@housing-rules-2008] | 2010–11 | [Rules](../governance/rules.md) |
+| ~~Housing Rules 2010 and 2011 (we hold image-only PDFs; needs OCR, or the originals)~~ Found 2026-10-05: the same file as the 2008 PDF in the initial maintainer's collection, now OCR'd [@housing-rules-2008] | 2010–11 | [Rules](../governance/rules.md) |
 | The 1999 Presidential Committee on NOD's full report, and the 2024 Alcohol Policy Advisory Committee (APAC) report | 1999, 2024 | [Night of Decadence](../traditions/retired/night-of-decadence.md), [NOD decision](../decisions/nod-2026.md) |
 | Thresher, Oct 2025: "'The spirit of success': Drinking in Rice history" (the website blocks automated readers; Fondren's digital Thresher should have it) | 2025 | A dated history of Rice alcohol policy → [NOD](../traditions/retired/night-of-decadence.md) |
 

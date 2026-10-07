@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Make web-size copies and thumbnails of the maintainer's photo folders, and list them in manifest.tsv.
+"""Make web-size copies and thumbnails of a folder of original photos, and list them in manifest.tsv.
 
 The original photographs are too large to serve on the site, and their file names are whatever the camera or
 scanner chose. This script makes the small copies the site actually shows, gives them predictable names, and
 records in docs/assets/photos/manifest.tsv where each copy came from, so that every photo on the site can be
-traced back to its original. It needs Pillow (pip install pillow), which requirements.txt does not install.
+traced back to its original. It needs Pillow, which requirements-dev.txt installs (requirements.txt does not).
 
 Run it from the repo root whenever originals are added to the photo folders, before listing the new photos in
-tools/photo_placements.py and running tools/apply_photos.py (which needs their manifest rows):
+sources/photo-placements.yaml and running tools/apply_photos.py (which needs their manifest rows):
 
     python3 tools/make_web_photos.py <source-root> [--out docs/assets/photos]
 
@@ -31,7 +31,7 @@ change; see read_manifest()) and adding one per new image, with these tab-separa
 web_path and thumb_path are the --out folder joined with the paths above, so with the default --out they are
 relative to the repo root. source_path is relative to <source-root>. width and height are the web copy's
 size, and sha256 is the checksum of the original. caption/credit/date/topic start empty; for photos placed on
-a page, tools/apply_photos.py fills them from tools/photo_placements.py.
+a page, tools/apply_photos.py fills them from sources/photo-placements.yaml.
 
 Re-running skips images already done (matched by the original's sha256), so it is safe to repeat. Originals
 are never modified; keep them (and an Internet Archive copy) as the preservation masters.

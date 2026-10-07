@@ -9,8 +9,8 @@ The sourced history of Wiess College—traditions, places, people, governance an
 ## What is here
 
 ```
-docs/                     markdown pages following a fixed template with every claim cited  
-  traditions/             current and retired traditions  
+docs/                        markdown pages following a fixed template with every claim cited  
+  traditions/                current and retired traditions  
   places/  
   people/  
   governance/  
@@ -20,17 +20,15 @@ docs/                     markdown pages following a fixed template with every c
   sources/  
   contributing/
 sources/
-  bibliography/*.yaml      every source the pages cite (key, permalink, corpus path, evidence class, notes)  
-  glossaries/<year>.tsv    1,288 definitions from 12 O-Week glossaries, 1994–2017  
-  manifests/               what the maintainer's 2 GB corpus contains and how to rebuild it from the Wayback Machine  
-  governance-versions.md   generated from the governance repo's tags  
-hooks/citations.py         turns [@key p.N] into links at build time; unknown keys fail the build  
-tools/                     helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  
-                           import_governance_changes.py, fix_pdf_text.py, pdfpage.py, html2text.py  
-tools/add_glossary.py      adds a newly found O-Week book's glossary from its PDF, as a draft to check  
-tools/paths.py             finds the repo root, and the governance checkout (from tfwkb.config.yml)  
-setup.sh                   sets up a new machine: .venv/, tfwkb.config.yml, a first build  
-tools/STYLE.md             how to write those helpers (names, docstrings, linting); pyproject.toml holds the lint rules  
+  bibliography/*.yaml        every source the pages cite (key, permalink or held_by, evidence class, notes)  
+  glossaries/<key>.tsv       1,672 definitions from 16 glossaries, 1994–2025, one file per source  
+  manifests/                 where each examined file came from (contributors' working copies are not in the repo)  
+  governance-versions.md     generated from the governance repo's tags  
+  photo-placements.yaml      every photo's page, caption, credit and date; tools/apply_photos.py puts them on the site  
+hooks/citations.py           turns [@key p.N] into links at build time; unknown keys fail the build  
+tools/                       maintainer scripts; tools/README.md says what each does and when to run it  
+setup.sh                     sets up a new machine: .venv/, tfwkb.config.yml, a first build  
+tools/STYLE.md               how to write those helpers (names, docstrings, linting); pyproject.toml holds the lint rules  
 ```
 
 ## Installing locally

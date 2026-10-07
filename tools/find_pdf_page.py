@@ -8,7 +8,7 @@ tools/fix_pdf_text.py), so a phrase on a page whose font is shifted still matche
 
 It writes no files. Give it the text file and the phrase:
 
-    python3 tools/pdfpage.py corpus/teamwiess.com/oweek-books/text/2006-oweek-book.txt "War pig"
+    python3 tools/find_pdf_page.py corpus/teamwiess.com/oweek-books/text/2006-oweek-book.txt "War pig"
 
 It prints one line for each matching line, the page number (counting from 1, the first page of the PDF)
 and then the line, decoded, trimmed and cut to 160 characters:

@@ -2,8 +2,13 @@
 # each machine has its own paths. Only the tools in tools/ read it; the site builds without it.
 #
 # A relative path is relative to this repository's root folder. "~" means your home folder.
-# TFWKB_GOVERNANCE_REPO in the environment overrides it (see tools/paths.py).
+# An environment variable overrides each setting (see tools/repository_folders.py).
 
 # A checkout of github.com/Wiess-College/governance. Used by tools/import_governance_changes.py.
 # Leave it out, or empty, if you don't have one.
 governance_repo: ../governance
+
+# Your working copy: where tools/fetch_working_copy.py puts the archived sources it downloads, and where
+# you keep other source files you work from. Several GB; keep it outside this repository.
+# TFWKB_WORKING_COPY in the environment overrides it. Leave it out if you don't fetch sources.
+# working_copy: ~/tfwkb-working-copy

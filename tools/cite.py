@@ -34,7 +34,7 @@ rice.edu-projects-wiess/text/).
 
 Since it writes nothing, a failed run leaves nothing to clean up. A path or key it does not recognise
 is not an error: that line of output reads "(no rule for ...)" or "(unknown key ...)". A bibliography
-entry with no url reads "(no url; local: ...)", naming its copy in the corpus. A citation the site
+entry with no url reads "(no url; held by ...)", saying who holds the source. A citation the site
 would warn about, such as "@wb" with a timestamp but no URL, prints the site's warning and stops with
 exit status 1; so does --url with no citation, or with text that is not one ("not a citation: ...").
 --url needs PyYAML, which requirements.txt installs for the site; corpus paths need nothing beyond
@@ -101,7 +101,7 @@ def find_citation_url(citation: str) -> str:
     The citation may leave out its square brackets and its "@". The address comes from
     hooks/citations.py's resolve_citation, with the bibliography and Portal issue dates loaded the way
     the hook loads them when the site builds. A bibliography entry with no url gives
-    "(no url; local: ...)", naming its copy in the corpus.
+    "(no url; held by ...)", saying who holds the source.
     """
     # Imported here so that corpus paths work without PyYAML, which the hook needs.
     sys.path.insert(0, os.path.join(REPO_ROOT, "hooks"))
@@ -123,7 +123,7 @@ def find_citation_url(citation: str) -> str:
         sys.exit(1)  # malformed; the hook has printed its warning, such as "bad Wayback citation ..."
     if resolved.url:
         return resolved.url
-    return f"(no url; local: {citations.BIBLIOGRAPHY[citation_key].get('local')})"
+    return f"(no url; held by {citations.BIBLIOGRAPHY[citation_key].get('held_by')})"
 
 
 def cite_corpus_path(corpus_path: str) -> str:

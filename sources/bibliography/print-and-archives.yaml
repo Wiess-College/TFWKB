@@ -58,6 +58,7 @@
   type: yearbook
   date: 1984
   local: artifacts/campanile-pages/campanile1984_p371_zweig-warpig-1984-martinez-battle-sow.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
   notes: Earliest print appearance of the word "Warpig". Scan held by the college; Rice's repository copy not publicly reachable.
 
@@ -66,6 +67,7 @@
   type: yearbook
   date: 1985
   local: artifacts/campanile-pages/campanile1985_p283pdf_NOD-1984-animal-farm-12-foot-pig.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
   notes: Earliest photograph of a War Pig effigy (the chicken-wire NOD pig of 26 Oct 1984).
 
@@ -74,6 +76,7 @@
   type: yearbook
   date: 1987
   local: artifacts/campanile-pages/campanile1987_p320_pre-flight-for-the-battle-sow.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-1988
@@ -90,6 +93,7 @@
   type: yearbook
   date: 1989
   local: artifacts/campanile-pages/campanile1989_p302_inside-the-wiess-pig-rebirth.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-1991
@@ -97,6 +101,7 @@
   type: yearbook
   date: 1991
   local: artifacts/campanile-pages/campanile1991_p281_the-war-pig-flies.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-1993
@@ -104,6 +109,7 @@
   type: yearbook
   date: 1993
   local: artifacts/campanile-pages/campanile1993_p261_the-war-pig.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-1996
@@ -111,6 +117,7 @@
   type: yearbook
   date: 1996
   local: artifacts/campanile-pages/campanile1996_p321_helium-trash-bags-duct-tape.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-1999
@@ -118,6 +125,7 @@
   type: yearbook
   date: 1999
   local: artifacts/campanile-pages/campanile1999_p238_wiess-style-essay.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: campanile-2012
@@ -125,6 +133,7 @@
   type: yearbook
   date: 2012
   local: artifacts/campanile-pages/campanile2012_p172_trojan-warpig.pdf
+  held_by: "Wiess College artifacts collection (scan of the college's copy)"
   evidence: P
 
 - key: rhc
@@ -160,6 +169,7 @@
   type: artifact
   date: 2024
   local: artifacts/warpigtedtalk/ (slides.md, captions.tsv, images/)
+  held_by: "Wiess College artifacts collection (given by the War Pig core team)"
   evidence: T
   notes: Photographs 1991–2024 (Greenbriar Lot 1991; Old Wiess Acabowl build; the 2002 orange balloon; the 2024 inflatable) and the 2024 build story. Testimony with photographs; the deck's dates are checked against print in the War Pig page.
 
@@ -168,12 +178,14 @@
   type: artifact
   date: 1989–2016
   local: artifacts/photos/
+  held_by: "Wiess College artifacts collection"
   evidence: P
 
 - key: warpig-note-loryn
   title: "Note inside the current wooden War Pig, signed 'Loryn H. \\'21'"
   type: artifact
   date: c.2017–2021
+  held_by: "Inside the current wooden War Pig (not yet photographed)"
   evidence: P
   notes: '"If you decide to rebuild this pig, do NOT just copy each piece. They are not equal.. It is a nightmare." Physical object; to be photographed.'
 

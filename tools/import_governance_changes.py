@@ -14,9 +14,9 @@ sources/); no page does yet, and the "Versions reviewed" table on the Governance
 running this script does not change the site.
 
 Give it the checkout's folder, set TFWKB_GOVERNANCE_REPO, or put `governance_repo:` in tfwkb.config.yml
-(see tools/paths.py), and run it after a new version is tagged:
+(see tools/repository_folders.py), and run it after a new version is tagged:
 
-    python3 tools/import_governance_changes.py ~/projects/wiess-archive/wiess-governance
+    python3 tools/import_governance_changes.py ../governance
     TFWKB_GOVERNANCE_REPO=../governance python3 tools/import_governance_changes.py
 
 A relative folder is relative to where you run it (in tfwkb.config.yml, to the repository root). The folder
@@ -57,7 +57,7 @@ import subprocess
 import sys
 from typing import NamedTuple
 
-from paths import governance_folder
+from repository_folders import governance_folder
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VERSIONS_TABLE_FILE = os.path.join(REPO_ROOT, "sources", "governance-versions.md")

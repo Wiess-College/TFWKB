@@ -15,8 +15,8 @@ the page it belongs on.
 ## Filing them
 
 ```sh
-tools/file_issues.sh -n   # dry run: show what would be created
-tools/file_issues.sh      # create the labels, open one issue per draft, move each draft to filed/
+tools/file_issue_drafts.sh -n   # dry run: show what would be created
+tools/file_issue_drafts.sh      # create the labels, open one issue per draft, move each draft to filed/
 ```
 
 The script needs the GitHub CLI (`gh`) authenticated with write access to `Wiess-College/TFWKB`. It is safe to
@@ -40,13 +40,13 @@ Columns: `id`, `keep` (empty until vetted), `title`, `type` (question, disagreem
 2. Dry run, to see the labels and each issue body without changing anything:
 
    ```sh
-   tools/tsv_to_issues.sh -n
+   tools/file_open_questions.sh -n
    ```
 
 3. File them:
 
    ```sh
-   tools/tsv_to_issues.sh
+   tools/file_open_questions.sh
    ```
 
 Only `keep=y` rows are filed. The script creates any missing labels, and skips a row whose title already exists

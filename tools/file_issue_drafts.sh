@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # File the "Story to source" issue drafts in issues/drafts/ as GitHub issues.
 #
-#   tools/file_issues.sh        create the labels, file every draft, move each filed draft to issues/filed/
-#   tools/file_issues.sh -n     dry run: print what would be done, change nothing
+#   tools/file_issue_drafts.sh        create the labels, file every draft, move each filed draft to issues/filed/
+#   tools/file_issue_drafts.sh -n     dry run: print what would be done, change nothing
 #
 # Each draft is Markdown with YAML front matter (title, labels, page); the body after the front matter
 # becomes the issue body. The script is idempotent: a draft already in issues/filed/ is never seen again,

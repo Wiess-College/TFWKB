@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Add one O-Week book's glossary to sources/glossaries/ from its PDF, as a draft to check by hand.
 
-Every O-Week book ends with a glossary of Wiess words, and sources/glossaries/<year>.tsv keeps one table per
+Every O-Week book ends with a glossary of Wiess words, and sources/glossaries/<source key>.tsv keeps one table per
 book, with the columns term, definition, source_key and locator. tools/build_glossary_series.py lines the
 tables up into the glossary page. When a book turns up that has no table yet, give this script its PDF and
 the pages its glossary is on:
@@ -18,7 +18,7 @@ It walks the whole job:
        columns, finding how many there are on each page
     4. reads the entries: it tries each way a book has set out its glossary (see LAYOUTS) and keeps the one
        that reads best, or the one given with --layout
-    5. writes sources/glossaries/<year>.tsv, with the page each term is on, and prints every entry for
+    5. writes sources/glossaries/oweek-<year>.tsv, with the page each term is on, and prints every entry for
        checking against the PDF, marking the ones that look wrong
     6. prints what changed since the previous book's glossary (tools/diff_glossary.py), which also shows up
        a misread entry, and rebuilds the glossary page (tools/build_glossary_series.py)
@@ -38,8 +38,8 @@ one row, "What to call people from…".
 
     --pages 24-27        the PDF's own page numbers, counting the cover as 1 (what a PDF viewer shows),
                          not the numbers printed on the pages; "24" alone is one page
-    --year 2026          names the table, sources/glossaries/2026.tsv; any label works ("2016-owlmanac")
-    --source-key KEY     the bibliography key each row cites; oweek-<year> if not given
+    --year 2026          the book's year; the table is sources/glossaries/<source key>.tsv, oweek-2026.tsv
+    --source-key KEY     the bibliography key each row cites, and the table's file name; oweek-<year> if not given
     --locator-prefix P   put before each "p.N", for a book in parts: --locator-prefix "part 7 "
     --layout NAME        how entries are set out, if the guess is wrong; one of the LAYOUTS names below
     --columns N          columns on every page (1, 2 or 3), if the guess is wrong
@@ -50,7 +50,7 @@ It needs pdftotext (macOS: brew install poppler; Linux: poppler-utils). Repairin
 and fontTools: pip install -r requirements-dev.txt. It checks for each before it needs it, and stops with a
 message saying what to install.
 
-It writes only sources/glossaries/<year>.tsv and what tools/build_glossary_series.py writes, and only after
+It writes only sources/glossaries/<source key>.tsv and what tools/build_glossary_series.py writes, and only after
 the entries are read, so a run that stops early changes nothing. If the source key is not in
 sources/bibliography/, it says so and prints an entry to add: the site build fails on an unknown key.
 Students from the 2023-24 academic year on are not named on the site (STYLE.md, rule 7), and this script
@@ -82,7 +82,8 @@ from glossary_layouts import (
     strip_furniture,
     write_tsv,
 )
-from paths import REPOSITORY_ROOT
+from build_glossary_series import find_glossary_files, label_glossary
+from repository_folders import REPOSITORY_ROOT
 
 GLOSSARIES_ROOT = os.path.join(REPOSITORY_ROOT, "sources", "glossaries")
 BIBLIOGRAPHY_FILES_GLOB = os.path.join(REPOSITORY_ROOT, "sources", "bibliography", "*.yaml")
@@ -208,7 +209,9 @@ class GlossaryRow(NamedTuple):
 def main(arguments: list[str]) -> None:
     """Read one book's glossary pages, write its table, and show what to check."""
     options = parse_arguments(arguments)
-    glossary_file = os.path.join(GLOSSARIES_ROOT, f"{options.year}.tsv")
+    # The table is named for its source, so a glossary from another kind of book (--source-key
+    # owlmanac-2016) sits beside the O-Week books without clashing with them.
+    glossary_file = os.path.join(GLOSSARIES_ROOT, f"{options.source_key}.tsv")
     check_can_write(glossary_file, options.replace)
     check_command_installed("pdftotext", "macOS: brew install poppler; Linux: install poppler-utils")
 
@@ -224,7 +227,7 @@ def main(arguments: list[str]) -> None:
     write_tsv(glossary_file, [(row.term, row.definition, options.source_key, row.locator) for row in rows])
     print_review(rows, layout_name, glossary_file)
     check_source_key(options.source_key, options.year)
-    show_changes_since_previous_glossary(options.year)
+    show_changes_since_previous_glossary(options.source_key)
     run_tool("build_glossary_series.py")
 
 
@@ -236,7 +239,7 @@ def parse_arguments(arguments: list[str]) -> argparse.Namespace:
     )
     parser.add_argument("pdf_file", help="the book's PDF")
     parser.add_argument("--pages", required=True, help='PDF page numbers of the glossary, such as "24-27"')
-    parser.add_argument("--year", required=True, help="names the table: sources/glossaries/<year>.tsv")
+    parser.add_argument("--year", required=True, help="the book's year; also sets the default --source-key")
     parser.add_argument("--source-key", help="bibliography key each row cites (default oweek-<year>)")
     parser.add_argument("--locator-prefix", default="", help='put before each "p.N", such as "part 7 "')
     parser.add_argument("--layout", choices=list(LAYOUTS), help="how entries are set out, if the guess is wrong")
@@ -589,17 +592,17 @@ def check_source_key(source_key: str, year: str) -> None:
     )
 
 
-def show_changes_since_previous_glossary(year: str) -> None:
-    """Print what the new glossary added, dropped and reworded since the book before it, if there is one."""
-    years = sorted(
-        os.path.basename(glossary_file)[: -len(".tsv")]
-        for glossary_file in glob.glob(os.path.join(GLOSSARIES_ROOT, "*.tsv"))
-        if not os.path.basename(glossary_file).startswith("_")
-    )
-    earlier_years = [other_year for other_year in years if other_year < year]
-    if earlier_years:
+def show_changes_since_previous_glossary(source_key: str) -> None:
+    """Print what the new glossary added, dropped and reworded since the table before it, if there is one.
+
+    Tables are labelled and ordered as the glossary page orders them (build_glossary_series.py).
+    """
+    labels = list(find_glossary_files())
+    label = label_glossary(source_key)
+    position = labels.index(label)
+    if position > 0:
         print()
-        run_tool("diff_glossary.py", earlier_years[-1], year)
+        run_tool("diff_glossary.py", labels[position - 1], label)
 
 
 def run_tool(tool_name: str, *arguments: str) -> None:

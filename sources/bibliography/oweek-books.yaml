@@ -1,7 +1,9 @@
-# O-Week books and handbooks—the student-written record.
-# Every entry: key, title, type, date, url (permalink), local (path in the historian's corpus,
-# ~/projects/wiess-archive/), evidence (P/R/T), notes, gaps. Pages cite as [@key p.N].
+# O-Week books and handbooks: the student-written record.
+# Every entry: key, title, type, date, url (permalink) or held_by, local (where the file sat in a contributor's
+# working copy; not shown on the site), evidence (P/R/T), notes, gaps. Pages cite as [@key p.N], N = the PDF page.
 # Wayback URLs without "id_" open the archived PDF in the browser; "#page=N" is added by the hook when a page is cited.
+
+# --- Books with a public copy
 
 - key: handbook-1994
   title: Wiess College Freshman Handbook 1994 (as transcribed on the 1997–2000 riceinfo site)
@@ -228,3 +230,67 @@
   url: https://web.archive.org/web/20171110225611/http://teamwiess.com/60/faq/faq2.pdf
   local: teamwiess.com/oweek-books/2017-60th-faq2.pdf
   evidence: P
+
+# --- From the initial maintainer's collection (the tfwdb folder). No public copy known, so no url;
+# held_by says who holds them. The printed folio is usually two lower than the PDF page.
+
+- key: oweek-2019
+  title: Wiess O-Week Book 2019
+  type: oweek-book
+  format: pdf
+  date: 2019
+  pages: 73
+  local: historian-collection/oweek-books/2019-oweek-book.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known.
+    Head Fellows Riley, Erica and Olasina; the last book in the corpus with the Schaefers as
+    Magisters, "Willy Week", "the A-Team" and a NOD page (the cover still carries the template's
+    "O-WEEK 2016"). Printed folios run two behind the PDF page.
+
+- key: oweek-2021
+  title: Wiess O-Week Book 2021
+  type: oweek-book
+  format: pdf
+  date: 2021
+  pages: 78
+  local: historian-collection/oweek-books/2021-oweek-book.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known.
+    Head Fellows Serena, Aditi and Chichi; the first book to say "Core Team", "Piggy Week" and
+    "Changeover", the first with affinity letters, and the first with Flavio Cunha and Fabiana
+    Santos as Magisters. The contents page's running head still reads "O-WEEK 2020", and the
+    thanks name 2020's Head Fellows.
+
+- key: oweek-2024
+  title: Wiess O-Week Book 2024
+  type: oweek-book
+  format: pdf
+  date: 2024
+  pages: 61
+  local: historian-collection/oweek-books/2024-oweek-book.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known.
+    Three Head Fellows; a redesigned book (Core Team section, Beer Bike page,
+    Rice Speak by category) with no NOD anywhere in it, Lach and Kari Mullen in their "second year
+    as Wiess RAs" and Jenny Toups as College Coordinator.
+
+- key: oweek-2025
+  title: Wiess O-Week Book 2025
+  type: oweek-book
+  format: pdf
+  date: 2025
+  pages: 62
+  local: historian-collection/oweek-books/2025-oweek-book.pdf
+  held_by: "TFWKB initial maintainer's collection (the tfwdb folder)"
+  evidence: P
+  notes: >
+    From the initial maintainer's collection (tfwdb folder); no public copy known.
+    Three Head Fellows; built on the 2024 template (the cover still reads
+    "2024 Wiess College O-Week"), with Community Facilitators in place of Diversity Facilitators
+    and Carissa Zimmerman and Nick Espinosa back for an "eighth (!!) year".

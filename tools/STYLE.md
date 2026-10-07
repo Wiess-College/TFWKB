@@ -62,7 +62,11 @@ or in the docstring of the function that takes it.
 - `_` is the only short name allowed. It marks a value you deliberately ignore.
 - Don't start function names with `_`. These scripts aren't libraries, and the docstring check skips `_names`.
 
-These rules cover hand-edited data files such as `photo_placements.py` too.
+**File names follow the same rule.** A script you run is named for what it does, verb first:
+`add_glossary.py`, `apply_photos.py`, `find_pdf_page.py`, `file_issue_drafts.sh`. A module that other scripts
+import and nobody runs is named for what it holds, as a noun: `repository_folders.py`, `glossary_layouts.py`,
+`hooks/citations.py`. Say what the thing is about, not just its kind: `repository_folders.py`, not `paths.py`.
+`cite.py` keeps its short name because editors type it most.
 
 ## 2. Docstrings
 
@@ -172,14 +176,15 @@ in `pyproject.toml`, with the reason beside it.
   `dict[str, GalleryPage]`. The hints document what a parameter holds better than an `Args:` entry can.
 - **Open files with `with`.**
 - **Never write one machine's path into a script.** Folders outside this repository (the governance checkout)
-  come from `tools/paths.py`: `governance_folder()`; add a function like it for another. Folders inside it are
+  come from `tools/repository_folders.py`: `governance_folder()`; add a function like it for another. Folders inside it are
   found from `REPOSITORY_ROOT` there, or from the script's own `__file__`. CI fails on `/home/`, `/Users/` or
   `/mnt/` in `tools/` and `hooks/`.
-- **Lines are at most 120 characters.** Wrap long text with implicit string concatenation. Hand-edited data files
-  such as `photo_placements.py` are exempt.
+- **Lines are at most 120 characters.** Wrap long text with implicit string concatenation. Data that editors
+  change by hand, such as photo captions, belongs in a YAML file under `sources/`, not in a Python file.
 - **Standard library, plus what `requirements.txt` installs for the site** (MkDocs, PyYAML), on Python 3.12.
-  Anything else, such as Pillow for `make_web_photos.py`, is named in the module docstring. If only one mode of
-  a script needs an extra package, import it inside the function that uses it, with a comment saying why.
+  Anything else, such as Pillow for `make_web_photos.py`, goes in `requirements-dev.txt` and is named in the
+  module docstring. If only one mode of a script needs an extra package, import it inside the function that uses
+  it, with a comment saying why.
 
 ## 5. What the linters check, and what review checks
 

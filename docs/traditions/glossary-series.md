@@ -14,7 +14,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
     - Watch words drift: the War Pig is "the Wiess mascot" in 1994, "**Former** Wiess mascot" from 2006, and "the giant wooden pig built by the Class of 2012" from 2014.
     - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.
 
-**How it works.** This page is built by a script from 16 glossaries (1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025). Want to fix something? Edit `sources/glossaries/*.tsv`, then run `tools/build_glossary_series.py`. Don't edit this page by hand.
+**How it works.** This page is built by a script from 16 glossaries (1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025). Want to fix something? Edit `sources/glossaries/*.tsv`, then run `tools/build_glossary_series.py`. Don't edit this page by hand.
 
 **Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. The newer name shows in italics next to its year.
 
@@ -28,14 +28,14 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [2FK/3FK](#2fk3fk) | 2019, 2021 |
 | [45, 90, 180](#45-90-180) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acababy](#acababy) | 2014, 2015, 2016, 2017 |
-| [Acabowl](#acabowl) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [Acabowl](#acabowl) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Academ](#academ) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Academic Quad](#academic-quad) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acaglider](#acaglider) | 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acagrill](#acagrill) | 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Acahammock](#acahammock) | 2003, 2006, 2007, 2008, 2010 |
 | [Acatoddler](#acatoddler) | 2015, 2016, 2017 |
-| [Acatramp](#acatramp) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
+| [Acatramp](#acatramp) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
 | [Affiliates](#affiliates) | 2015, 2016, 2017, 2019, 2021 |
 | [Archi (ar-kee)](#archi-ar-kee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [ASB](#asb) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
@@ -48,9 +48,9 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Baker](#baker) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Baker Institute](#baker-institute) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Bakerite](#bakerite) | 2014, 2016-owlmanac |
-| [Basement](#basement) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
+| [Basement](#basement) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019 |
 | [Basement auction](#basement-auction) | 2003, 2006 |
-| [Battle Sows](#battle-sows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Battle Sows](#battle-sows) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [BC](#bc) | 2010, 2011, 2014 |
 | [Beer-Bike](#beer-bike) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Benjamin and Jenna](#benjamin-and-jenna) | 2011, 2014 |
@@ -75,10 +75,10 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Coffeehouse](#coffeehouse) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Coffeehouse Night](#coffeehouse-night) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Cohen House](#cohen-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
-| [College Idiot](#college-idiot) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
+| [College Idiot](#college-idiot) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [College night](#college-night) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [College night [Rice speak]](#college-night-rice-speak) | 2003, 2006, 2007, 2008, 2010, 2011 |
-| [Commons](#commons) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Commons](#commons) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Convenience Store](#convenience-store) | 2003, 2006, 2007 |
 | [Corner](#corner) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Cozy Corner](#cozy-corner) | 2019, 2021, 2024, 2025 |
@@ -88,14 +88,14 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Denise](#denise) | 2006, 2007, 2008, 2010, 2011 |
 | [DMC](#dmc) | 2014, 2015, 2016, 2016-owlmanac, 2017 |
 | [Doward](#doward) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
-| [Dr. Bill](#dr-bill) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
+| [Dr. Bill](#dr-bill) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Dr. Byrd](#dr-byrd) | 2011, 2014 |
 | [Duncan](#duncan) | 2010, 2011 |
 | [Duncaroo](#duncaroo) | 2014, 2016-owlmanac |
 | [Early ’80s](#early-80s) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Esperanza](#esperanza) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
-| [Fellows](#fellows) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
-| [Filmfest](#filmfest) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
+| [Fellows](#fellows) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Filmfest](#filmfest) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017 |
 | [Five-man](#five-man) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Fondren](#fondren) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Forman](#forman) | 2006, 2007, 2008 |
@@ -103,7 +103,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Freshmen Service Points](#freshmen-service-points) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Frog Wall](#frog-wall) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [FWIS](#fwis) | 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
-| [Gofer](#gofer) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
+| [Gofer](#gofer) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Goldenrod](#goldenrod) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [GSA](#gsa) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [H&D](#hd) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
@@ -146,7 +146,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Murt](#murt) | 2014, 2016-owlmanac |
 | [Musi (Moo-zee)](#musi-moo-zee) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Nancy](#nancy) | 2008, 2010, 2011 |
-| [Night of Decadence](#night-of-decadence) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
+| [Night of Decadence](#night-of-decadence) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [O-Week](#o-week) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [OC](#oc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [OC Lounge](#oc-lounge) | 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
@@ -155,13 +155,13 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [PAA](#paa) | 2015, 2016, 2017, 2019, 2021 |
 | [Parish Grants](#parish-grants) | 2010, 2011 |
 | [PCA](#pca) | 2015, 2016, 2017, 2019, 2021 |
-| [PDR](#pdr) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
+| [PDR](#pdr) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Powderpuff](#powderpuff) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Pre-Reqs](#pre-reqs) | 2015, 2016, 2017, 2019, 2021 |
 | [Private Party](#private-party) | 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Pub](#pub) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Public Party](#public-party) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
-| [Pumpkin Caroling](#pumpkin-caroling) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [Pumpkin Caroling](#pumpkin-caroling) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Pumpkin grades](#pumpkin-grades) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Q-Card](#q-card) | 2015, 2016, 2017, 2019, 2021 |
 | [Quad](#quad) | 2003, 2006, 2007, 2008, 2010, 2011, 2016-owlmanac |
@@ -193,11 +193,11 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Sparky’s](#sparkys) | 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Squirrels](#squirrels) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Stacks](#stacks) | 2014, 2015, 2016, 2017, 2019, 2021 |
-| [Sue](#sue) | 1994, 2003, 2006, 2007, 2008 |
+| [Sue](#sue) | 1994-handbook, 2003, 2006, 2007, 2008 |
 | [Summit](#summit) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Tabletop](#tabletop) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021 |
 | [TC](#tc) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2016-owlmanac |
-| [TEAM WIESS](#team-wiess) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [TEAM WIESS](#team-wiess) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Tetra Points](#tetra-points) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [TFFW](#tffw) | 2019, 2021, 2024, 2025 |
 | [TFW](#tfw) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
@@ -208,19 +208,19 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 | [Turnover](#turnover) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [TV room](#tv-room) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [U. Blue](#u-blue) | 2003, 2006, 2007, 2008 |
-| [Ubangee](#ubangee) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Ubangee](#ubangee) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Ultimate](#ultimate) | 2003, 2006, 2007, 2008, 2010, 2011, 2014 |
 | [Upper Commons](#upper-commons) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Valhalla](#valhalla) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021 |
 | [Village](#village) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Virgin’s Walk](#virgins-walk) | 2003, 2006, 2007 |
-| [War Pig](#war-pig) | 1994, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
+| [War Pig](#war-pig) | 1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [What to call people from…](#what-to-call-people-from) | 2015, 2016, 2017, 2019, 2021 |
 | [Whataburger](#whataburger) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Wiess](#wiess) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
 | [Wiess Day](#wiess-day) | 2014, 2015, 2016, 2017, 2019, 2021 |
 | [Wiess House](#wiess-house) | 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2024, 2025 |
-| [Wiessmen](#wiessmen) | 1994, 2003, 2006, 2007, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
+| [Wiessmen](#wiessmen) | 1994-handbook, 2003, 2006, 2007, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
 | [Will Rice](#will-rice) | 2003, 2006, 2007, 2008, 2010, 2011 |
 | [Will Ricer](#will-ricer) | 2014, 2016-owlmanac |
 | [Willy Week](#willy-week) | 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025 |
@@ -262,7 +262,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Acabowl
 
-- **1994**—The westernmost courtyard of the College. Specifically, the patio area where "four-square" is played, TG's are held, etc. Equivalent areas are termed "quads" in other colleges, but that's just 'cause they suck. (From "Academic Bowl," a football game played annually at the site during the 1960's, in which reportedly only "academs" had time to take part.) [@handbook-1994]
+- **1994-handbook**—The westernmost courtyard of the College. Specifically, the patio area where "four-square" is played, TG's are held, etc. Equivalent areas are termed "quads" in other colleges, but that's just 'cause they suck. (From "Academic Bowl," a football game played annually at the site during the 1960's, in which reportedly only "academs" had time to take part.) [@handbook-1994]
 - **2003**—1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying. [@oweek-2003 p.3]
 - **2006**—1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying. [@oweek-2006 p.83]
 - **2007**—1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying. [@oweek-2007 p.83]
@@ -341,7 +341,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Acatramp
 
-- **1994**—The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jumps. [@handbook-1994]
+- **1994-handbook**—The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jumps. [@handbook-1994]
 - **2003**—1. A trampoline, in the Acabowl. [@oweek-2003 p.3]
 - **2006**—1. A trampoline, in the Acabowl. [@oweek-2006 p.83]
 - **2007**—1. A trampoline, in the Acabowl. [@oweek-2007 p.83]
@@ -490,7 +490,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Basement
 
-- **1994**—The collection of rooms under the central wing where washers and dryers are located. Usually used in reference to the gameroom (Sparky's) which contains the wide-screen TV and VCR. Recently repainted and rededcorated in black and gold. [@handbook-1994]
+- **1994-handbook**—The collection of rooms under the central wing where washers and dryers are located. Usually used in reference to the gameroom (Sparky's) which contains the wide-screen TV and VCR. Recently repainted and rededcorated in black and gold. [@handbook-1994]
 - **2003**—1. A hard-to-get to area under the servery used for storage. [@oweek-2003 p.3]
 - **2006**—1. A hard-to-get to area under the servery used for storage. [@oweek-2006 p.83]
 - **2007**—1. A hard-to-get to area under the servery used for storage. [@oweek-2007 p.83]
@@ -510,7 +510,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Battle Sows
 
-- **1994**—Affectionate name for Wiess' dauntless Powder-Puff football team, and most other women's college sports teams. [@handbook-1994]
+- **1994-handbook**—Affectionate name for Wiess' dauntless Powder-Puff football team, and most other women's college sports teams. [@handbook-1994]
 - **2003** (*Battlesows*)—1. Affectionate name for the back-to-back defending champion Wiess powderpuff football team. [@oweek-2003 p.3]
 - **2006** (*Battlesows*)—1. Affectionate name for the back-to-back defending champion Wiess powderpuff football team. [@oweek-2006 p.83]
 - **2007** (*Battlesows*)—1. Affectionate name for the back-to-back defending champion Wiess powderpuff football team. [@oweek-2007 p.83]
@@ -788,7 +788,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### College Idiot
 
-- **1994**—An honorary office conferred upon one deserving Wiess member each year (or more, if each are deserving in their own unique way). The monetary prize is not as large as in years past, but the awesome responsibility of donning the Great Pumpkin guise on Halloween night remains. [@handbook-1994]
+- **1994-handbook**—An honorary office conferred upon one deserving Wiess member each year (or more, if each are deserving in their own unique way). The monetary prize is not as large as in years past, but the awesome responsibility of donning the Great Pumpkin guise on Halloween night remains. [@handbook-1994]
 - **2003**—1. An honorary office conferred upon one deserving Wiessmen each year. The awesome responsibility of donning the Great Pumpkin guise on Halloween night remains the greatest part of this position, but a penchant for general mischief and mayhem are helpful character traits. [@oweek-2003 p.3]
 - **2006**—1. An honorary office conferred upon one deserving Wiessmen each year. The awesome responsibility of donning the Great Pumpkin guise on Halloween night remains the greatest part of this position, but a penchant for general mischief and mayhem are helpful character traits. [@oweek-2006 p.83]
 - **2007**—1. An honorary office conferred upon one deserving Wiessmen each year. The awesome responsibility of donning the Great Pumpkin guise on Halloween night remains the greatest part of this position, but a penchant for general mischief and mayhem are helpful character traits. [@oweek-2007 p.83]
@@ -824,7 +824,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Commons
 
-- **1994**—Main eating room at Wiess (and most other colleges). Has been known for its unusual color schemes throughout history (the current decor is apparently much better than what it used to be...). Reputed as the best room for a BIG party on campus. Scene of the infamous "Night of Decadence", as well as Tabletop productions and most other college functions. Also used as a group study area most weeknights. [@handbook-1994]
+- **1994-handbook**—Main eating room at Wiess (and most other colleges). Has been known for its unusual color schemes throughout history (the current decor is apparently much better than what it used to be...). Reputed as the best room for a BIG party on campus. Scene of the infamous "Night of Decadence", as well as Tabletop productions and most other college functions. Also used as a group study area most weeknights. [@handbook-1994]
 - **2003**—1. The place to be. You will eat here, study here, act here, play here, party here, hangout here and well, live here. [@oweek-2003 p.3]
 - **2006**—1. The place to be. You will eat here, study here, act here, play here, party here, hangout here and well, live here. [@oweek-2006 p.83]
 - **2007**—1. The place to be. You will eat here, study here, act here, play here, party here, hangout here and well, live here. [@oweek-2007 p.83]
@@ -924,7 +924,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Dr. Bill
 
-- **1994**—Senior Resident Associate and interim master in Spring '83. Officially Dr. William Wilson, Dr. Bill is a great friend and mentor to all Wiess members. (see also "Happy Hour") [@handbook-1994]
+- **1994-handbook**—Senior Resident Associate and interim master in Spring '83. Officially Dr. William Wilson, Dr. Bill is a great friend and mentor to all Wiess members. (see also "Happy Hour") [@handbook-1994]
 - **2003**—1. Wiess RA. Electrical Engineering Professor Dr. William Wilson. A great friend and mentor to all Wiessmen. Catch him setting up Tabletop sets, recording things on campus and taking pictures wherever he goes. [@oweek-2003 p.3]
 - **2006**—1. The Man. The Legend. Ask any Wiessman and he will be glad to tell of this extraordinary friend and mentor. [@oweek-2006 p.83]
 - **2007**—1. The Man. The Legend. Ask any Wiessman and he will be glad to tell of this extraordinary friend and mentor. [@oweek-2007 p.83]
@@ -978,7 +978,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Fellows
 
-- **1994**—Freshman advisors of Wiess College. Make sure they keep in touch with you once Freshman week is over - and don't let them run to Mexico with freshman group money. [@handbook-1994]
+- **1994-handbook**—Freshman advisors of Wiess College. Make sure they keep in touch with you once Freshman week is over - and don't let them run to Mexico with freshman group money. [@handbook-1994]
 - **2003**—1. Peer advisors for new students of Wiess College. They are awesome! [@oweek-2003 p.3]
 - **2006**—1. Peer advisors for new students of Wiess College. They are awesome! [@oweek-2006 p.83]
 - **2007**—1. Peer advisors for new students of Wiess College. They are awesome! [@oweek-2007 p.83]
@@ -996,7 +996,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Filmfest
 
-- **1994**—Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester. (That's what the book says. I don't recall it ever happening more than once a year, myself...) [@handbook-1994]
+- **1994-handbook**—Twenty-four-hour movie marathon in the Wiess Basement. Generally occurs once a semester. (That's what the book says. I don't recall it ever happening more than once a year, myself...) [@handbook-1994]
 - **2003** (*Filmest*)—1. A 24-hour film marathon held during Dead Week. 2. The best way to waste time when you should be studying. [@oweek-2003 p.4]
 - **2006**—1. A 24-hour film marathon held during Dead Week. 2. The best way to waste time when you should be studying. [@oweek-2006 p.83]
 - **2007**—1. A 24-hour film marathon held during Dead Week. 2. The best way to waste time when you should be studying. [@oweek-2007 p.83]
@@ -1088,7 +1088,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Gofer
 
-- **1994**—The "Fellows'" flunkies. You'll see them running around a lot during O-Week, trying to make up for all the things the Fellows started and forgot to finish. [@handbook-1994]
+- **1994-handbook**—The "Fellows'" flunkies. You'll see them running around a lot during O-Week, trying to make up for all the things the Fellows started and forgot to finish. [@handbook-1994]
 - **2003** (*Gopher*)—1. Assistants to the fellows. [@oweek-2003 p.4]
 - **2006** (*Gopher*)—1. Assistants to the fellows. [@oweek-2006 p.84]
 - **2007** (*Gopher*)—1. Assistants to the fellows. [@oweek-2007 p.84]
@@ -1516,7 +1516,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Night of Decadence
 
-- **1994**—Otherwise known as "NOD." Held at Wiess traditionally at the end of October, NOD was the first and still is the major all-school party featuring a live band and the infamous NOD punch (originally strong enough to remove the sea varnish from an oar!). [@handbook-1994]
+- **1994-handbook**—Otherwise known as "NOD." Held at Wiess traditionally at the end of October, NOD was the first and still is the major all-school party featuring a live band and the infamous NOD punch (originally strong enough to remove the sea varnish from an oar!). [@handbook-1994]
 - **2003** (*Night of Decadence (NOD)*)—1. The best party at Rice. Held at Wiess on the last Friday of October, it features a live band, interesting decorations and creative costumes. [@oweek-2003 p.4]
 - **2006** (*Night of Decadence (NOD)*)—1. The biggest party at Rice. Held at Wiess on the last Friday of October, it features a live band, interesting decorations and creative costumes. [@oweek-2006 p.84]
 - **2007** (*Night of Decadence (NOD)*)—1. The biggest party at Rice. Held at Wiess on the last Friday of October, it features a live band, interesting decorations and creative costumes. [@oweek-2007 p.84]
@@ -1624,7 +1624,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### PDR
 
-- **1994**—Private Dining Room. Smaller room to the east of the Commons, recently a few years ago. Used for luncheon meetings, quiet study at night, and as the dressing-room for Tabletop productions. [@handbook-1994]
+- **1994-handbook**—Private Dining Room. Smaller room to the east of the Commons, recently a few years ago. Used for luncheon meetings, quiet study at night, and as the dressing-room for Tabletop productions. [@handbook-1994]
 - **2003**—1. Private dining room. A smaller room attached to the Commons. Used for studying and as a dressing room during Tabletop productions. [@oweek-2003 p.4]
 - **2006**—1. Private dining room. A smaller room attached to the Commons. Used for studying and as a dressing room during Tabletop productions. [@oweek-2006 p.84]
 - **2007**—1. Private dining room. A smaller room attached to the Commons. Used for studying and as a dressing room during Tabletop productions. [@oweek-2007 p.84]
@@ -1696,7 +1696,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Pumpkin Caroling
 
-- **1994**—Wiess' spreading of good Halloween cheer. Favorite songs include "You Better Watch Out" and "I'm Dreaming of the Great Pumpkin." (...with every pumpkin card I write...) [@handbook-1994]
+- **1994-handbook**—Wiess' spreading of good Halloween cheer. Favorite songs include "You Better Watch Out" and "I'm Dreaming of the Great Pumpkin." (...with every pumpkin card I write...) [@handbook-1994]
 - **2003**—1. The spreading of Halloween cheer, led by the College Idiot. Features Halloween songs, candles and a visit to the Gillis home. [@oweek-2003 p.4]
 - **2006**—1. The spreading of Halloween cheer, led by the College Idiot. Features Halloween songs, candles and a visit to the other colleges. [@oweek-2006 p.84]
 - **2007**—1. The spreading of Halloween cheer, led by the College Idiot. Features Halloween songs, candles and a visit to the other colleges. [@oweek-2007 p.84]
@@ -2047,7 +2047,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Sue
 
-- **1994**—Secretary of Wiess College. She handles the mail, and will take messages through the College Office. Sue just started at the beginning of summer, but she's doing a fantastic job. Be nice to her--we want her to stay for a long time. Make a point of getting to know her early in the year. [@handbook-1994]
+- **1994-handbook**—Secretary of Wiess College. She handles the mail, and will take messages through the College Office. Sue just started at the beginning of summer, but she's doing a fantastic job. Be nice to her--we want her to stay for a long time. Make a point of getting to know her early in the year. [@handbook-1994]
 - **2003**—1. Coordinator of Wiess College. She handles not only the mail, but also many of the nuts and bolts of Wiess. 2. A continous supply of candy. [@oweek-2003 p.4]
 - **2006**—1. Coordinator of Wiess College. She handles not only the mail, but also many of the nuts and bolts of Wiess. 2. Lover of chocolate and owner of a never-ending candy supply. [@oweek-2006 p.84]
 - **2007**—1. Ex-College Coordinator who is still really awesome and loves chocolate. [@oweek-2007 p.84]
@@ -2098,7 +2098,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### TEAM WIESS
 
-- **1994**—Cheer used in support of any Wiess team, especially at Beer-Bike. (Or, really, at any other random time...) [@handbook-1994]
+- **1994-handbook**—Cheer used in support of any Wiess team, especially at Beer-Bike. (Or, really, at any other random time...) [@handbook-1994]
 - **2003**—1. The most powerful cheer on campus. 2. The embodiment of everything that makes Wiess College cool. [@oweek-2003 p.4]
 - **2006**—1. The most powerful cheer on campus. 2. The embodiment of everything that makes Wiess College cool. [@oweek-2006 p.84]
 - **2007**—1. The most powerful cheer on campus. 2. The embodiment of everything that makes Wiess College cool. [@oweek-2007 p.84]
@@ -2235,7 +2235,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Ubangee
 
-- **1994**—A unique Wiess mass celebration of life. [@handbook-1994]
+- **1994-handbook**—A unique Wiess mass celebration of life. [@handbook-1994]
 - **2003**—1. A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessmen. [@oweek-2003 p.4]
 - **2006**—1. A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessmen. [@oweek-2006 p.84]
 - **2007**—1. A unique Wiess celebration of life. If you have any questions, just ask a friendly Wiessmen. [@oweek-2007 p.84]
@@ -2313,7 +2313,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### War Pig
 
-- **1994**—The Wiess mascot, an enormous inflatable pig made from plastic and duct tape, "flown" at Beer-Bike to the amazement of all. [@handbook-1994]
+- **1994-handbook**—The Wiess mascot, an enormous inflatable pig made from plastic and duct tape, "flown" at Beer-Bike to the amazement of all. [@handbook-1994]
 - **2003**—1. The Wiess mascot. Embodied by an enormous, inflatable pig. Has its own cheer: The Pig Will Fly! [@oweek-2003 p.4]
 - **2006**—1. Former Wiess mascot. Embodied by an enormous, inflatable pig. Has its own cheer: The Pig Will Fly! [@oweek-2006 p.84]
 - **2007**—1. Former Wiess mascot. Embodied by an enormous, inflatable pig. Has its own cheer: The Pig Will Fly! [@oweek-2007 p.84]
@@ -2391,7 +2391,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Wiessmen
 
-- **1994**—The inclusive term for the women and men of Wiess College (Deal with it, ACLU). [@handbook-1994]
+- **1994-handbook**—The inclusive term for the women and men of Wiess College (Deal with it, ACLU). [@handbook-1994]
 - **2003**—1. The inclusive term for the women and men of Wiess College. This includes you. [@oweek-2003 p.4]
 - **2006**—1. The inclusive term for the women and men of Wiess College. This includes you. [@oweek-2006 p.84]
 - **2007**—1. The inclusive term for the women and men of Wiess College. This includes you. [@oweek-2007 p.84]
@@ -2464,7 +2464,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 These are often the best ones: a joke that lasted one semester, a staff member everyone knew, a rivalry that burned out.
 
 
-### 1994
+### 1994-handbook
 
 - **Backabowl**—The playing field opposite the Acabowl between the singles wing and the three story wing. Where most of the amateur and shy sun-bathers can be found. [@handbook-1994]
 - **Black and Gold**—Official Wiess colors (also the main reason for the color scheme in the Commons) [@handbook-1994]

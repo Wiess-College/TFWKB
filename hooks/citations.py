@@ -38,6 +38,7 @@ publishing workflow uses, the build then fails at the end. The warnings:
 
     "bibliography entry without key in ..."   the entry is left out of the bibliography.
     "duplicate bibliography key ..."          the entry from the later file, in alphabetical order, is used.
+    "bibliography entry ... has no url ..."   it needs a url, parts or held_by; it is still used, without a link.
     "<page>: unknown citation key ..."        the key is not in sources/bibliography/*.yaml.
     "<page>: bad Wayback citation ..."        [@wb] needs a timestamp and a URL.
     "<page>: bad Portal citation ..."         [@portal] needs an ARK id.
@@ -272,6 +273,8 @@ def load_bibliography() -> dict[str, dict]:
     """Return every bibliography entry by its key, warning about entries with no key and keys used twice.
 
     Files are read in alphabetical order, so when a key is used twice the entry from the later file wins.
+    It also warns about an entry with no public copy (no url or parts) that doesn't say who holds the
+    source (held_by), since a reader would then have no way to check it.
     """
     bibliography: dict[str, dict] = {}
     for bibliography_file in sorted(glob.glob(BIBLIOGRAPHY_FILES_GLOB)):
@@ -284,6 +287,8 @@ def load_bibliography() -> dict[str, dict]:
                 continue
             if citation_key in bibliography:
                 LOGGER.warning("duplicate bibliography key %r (%s)", citation_key, bibliography_file)
+            if not (entry.get("url") or entry.get("parts") or entry.get("held_by")):
+                LOGGER.warning("bibliography entry %r has no url and no held_by (%s)", citation_key, bibliography_file)
             entry["_file"] = os.path.basename(bibliography_file)  # nothing reads this at present
             bibliography[citation_key] = entry
     return bibliography
@@ -353,8 +358,9 @@ def render_bibliography() -> str:
 def render_bibliography_entry(entry: dict) -> str:
     """Return one bibliography entry as a <dt> (key, linked title, date, author, evidence) and a <dd>.
 
-    The <dt>'s id is the key, so a page can link straight to an entry. The <dd> holds the notes, then the
-    corpus copy, page count and gaps on one line, and is left out when there are none.
+    The <dt>'s id is the key, so a page can link straight to an entry. The <dd> holds the notes, then who
+    holds a source with no public copy, the page count and the gaps on one line, and is left out when there
+    are none. "local:" (where a file sat in one contributor's working copy) is not shown: no reader has it.
     """
     citation_key = entry["key"]
     title = html.escape(str(entry.get("title", citation_key)))
@@ -380,8 +386,8 @@ def render_bibliography_entry(entry: dict) -> str:
     if entry.get("notes"):
         description.append(html.escape(str(entry["notes"]).strip()))
     holdings = []
-    if entry.get("local"):
-        holdings.append(f'corpus: <code>{html.escape(str(entry["local"]))}</code>')
+    if entry.get("held_by"):
+        holdings.append(f'held by: {html.escape(str(entry["held_by"]))}')
     if entry.get("pages"):
         holdings.append(f'{html.escape(str(entry["pages"]))} pp.')
     if entry.get("gaps"):
@@ -897,7 +903,8 @@ def resolve_fondren_citation(citation: re.Match, page_path: str) -> ResolvedCita
     url = item_address if item_address.startswith("http") else (
         "https://digitalcollections.rice.edu/" + item_address.lstrip("/")
     )
-    label = (label_words[0] if label_words else "Fondren Library Digital Collections item") + " (Fondren Digital Collections)"
+    item_label = label_words[0] if label_words else "Fondren Library Digital Collections item"
+    label = item_label + " (Fondren Digital Collections)"
     return ResolvedCitation(url, label, "Fondren Library Digital Collections, Rice University", True)
 
 
@@ -918,7 +925,8 @@ def resolve_bibliography_citation(citation_key: str, locator: str, page_path: st
 
     An entry with "parts:" (a book split into several files) links the part the locator names, if it
     names one. A PDF link gets "#page=N" when the locator says "p.N"; an entry is a PDF if it says
-    "format: pdf" or its url ends in ".pdf". The url is None when the entry has none.
+    "format: pdf" or its url ends in ".pdf". The url is None when the entry has none; the label then
+    says who holds the source, from held_by, so the reader knows where to look.
     """
     entry = BIBLIOGRAPHY.get(citation_key)
     if not entry:
@@ -938,6 +946,8 @@ def resolve_bibliography_citation(citation_key: str, locator: str, page_path: st
     title = str(entry.get("title", citation_key))
     date = entry.get("date", "")
     label = title + (f", {locator}" if locator else "")
+    if not entry_url and entry.get("held_by"):
+        label += f" (held by {entry['held_by']})"
     return ResolvedCitation(entry_url, label, title + (f" ({date})" if date else ""), True)
 
 

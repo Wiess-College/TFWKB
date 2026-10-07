@@ -1,6 +1,10 @@
-# Linters for tools/ and hooks/ (see pyproject.toml and tools/STYLE.md). Not needed to build the site.
+# What tools/ and hooks/ need beyond the site build (see tools/README.md). Kept out of requirements.txt,
+# which every site deploy installs.
+# Linters (see pyproject.toml and tools/STYLE.md).
 ruff==0.16.10
 pylint==4.1.2
-# PDF font repair (tools/fix_pdf_fonts.py). Kept out of requirements.txt, which every site deploy installs.
+# PDF font repair (tools/fix_pdf_fonts.py)
 pymupdf>=1.28
 fonttools>=4.66
+# Web copies and thumbnails of photos (tools/make_web_photos.py)
+pillow>=10

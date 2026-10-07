@@ -33,4 +33,4 @@ An issue from the template `handoff.md`, closed when all are done:
 
 ## Off-platform copies
 
-A GitHub Action, on every release: saves the published site to the Wayback Machine; uploads a tarball of the repository to an archive.org item; and once a year hands a snapshot to the Woodson. If GitHub disappears, the Markdown, the manifests and the citations are enough to rebuild everything.
+**Planned, not yet built:** a GitHub Action that, on every release, saves the published site to the Wayback Machine and uploads a tarball of the repository to an archive.org item. Until it exists, do both by hand at each handover. Once a year, hand a snapshot to the Woodson. If GitHub disappears, the Markdown, the manifests and the citations are enough to rebuild everything.
