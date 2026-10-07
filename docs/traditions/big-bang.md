@@ -48,7 +48,7 @@ It's coming.
         | 2015–2016 | Big Bang absent from the glossary and the traditions section; the Internal VP's events are "Summit and Pumpkin Caroling" [@oweek-2015 p.16] [@oweek-2016 p.24] | [P] |
         | 2017 | Internal VP "coordinating Summit, Wiess Shark Tank, Pumpkin Caroling, and Big Bang, whatever that is" [@oweek-2017 p.25] | [P] |
         | 2019–2025 | Absent again from the O-Week books of 2019, 2021, 2024 and 2025—glossary, traditions and calendar; the Internal VP is "in charge of appointing and managing the Wiess Reps, as well as coordinating Summit and Pumpkin Caroling" (2019, 2021), and the 2024–25 books list no Internal VP duties [@oweek-2019 p.25] [@oweek-2021 p.28] [@oweek-2024 p.33] [@oweek-2025 p.34] | [P] |
-        | 2024-06-05 | NOD cancelled permanently [@thresher-2024-06-05-nod-canceled]; see [Night of Decadence](night-of-decadence.md) | [P] |
+        | 2024-06-05 | NOD cancelled permanently [@thresher-2024-06-05-nod-canceled]; see [Night of Decadence](retired/night-of-decadence.md) | [P] |
         | 2026-02-23 | Constitution: Internal VP shall "Plan Wiess College Summit and Big Bang. i. Big Bang is to be planned with the Head Fellow(s)" [@constitution-2026 p.6]; "Big Bang shall be a collaborative effort between the Head Fellows and the Internal Vice President" [@constitution-2026 p.14] | [P] |
 
     ??? quote "In the college's own words"

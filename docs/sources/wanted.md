@@ -16,7 +16,7 @@ A hit list for Historians and their helpers. Everything here is a document we kn
 | Item | Where | Why it matters |
 |---|---|---|
 | "Wiess College: The First Fifteen Years", a four-part Thresher series, 1, 8, 15 and 22 Feb 1979 (pp.6, 14, 14, 12) [@thresher-1979-wiess-first-fifteen-years] | Portal to Texas History (or the digital.library.unt.edu OCR pages); Parts I, III and IV (1, 15 and 22 Feb 1979) are read; Part II (8 Feb 1979, metapth245395 p.14) remains | Presidents and masters from the 1950s to about 1972, how the Acabowl got its name, the founding of Table Top Theater, the Talmage, Pfeiffer and Rudee masterships → [Magisters](../people/magisters.md), [Acabowl](../places/acabowl.md), [Tabletop](../traditions/tabletop-theatre.md) |
-| The c.1990 collection of student papers on Rice history that includes "Strength of Identity", a history of Wiess, reviewed in the Thresher on 9 Nov 1990 [@thresher-1990-11-09-strength-of-identity] | Fondren Library or the Woodson (title of the collection not yet known) | The earliest source for the Dangle, and a NOD-punch story older than the one now cited → [The Dangle](../traditions/retired/the-dangle.md), [Night of Decadence](../traditions/night-of-decadence.md) |
+| The c.1990 collection of student papers on Rice history that includes "Strength of Identity", a history of Wiess, reviewed in the Thresher on 9 Nov 1990 [@thresher-1990-11-09-strength-of-identity] | Fondren Library or the Woodson (title of the collection not yet known) | The earliest source for the Dangle, and a NOD-punch story older than the one now cited → [The Dangle](../traditions/retired/the-dangle.md), [Night of Decadence](../traditions/retired/night-of-decadence.md) |
 
 ## Pending
 
@@ -39,8 +39,8 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ta
 | 1989 *Sallyport* "day in the life" of Dr. Bill | 1989 | [Core team](../people/core-team.md) |
 | Report of the 2011 Wilson House dedication (Thresher / Rice News) | 2011 | Whether Wilson House is a new building or a renaming → [Wilson House](../places/wilson-house.md) |
 | ~~Housing Rules 2010 and 2011 (we hold image-only PDFs; needs OCR, or the originals)~~ Found 2026-10-05: the same file as the 2008 PDF in the TFWKB collection, now OCR'd [@housing-rules-2008] | 2010–11 | [Rules](../governance/rules.md) |
-| The 1999 Presidential Committee on NOD's full report, and the 2024 Alcohol Policy Advisory Committee (APAC) report | 1999, 2024 | [Night of Decadence](../traditions/night-of-decadence.md), [NOD decision](../decisions/nod-2026.md) |
-| Thresher, Oct 2025: "'The spirit of success': Drinking in Rice history" (the website blocks automated readers; Fondren's digital Thresher should have it) | 2025 | A dated history of Rice alcohol policy → [NOD](../traditions/night-of-decadence.md) |
+| The 1999 Presidential Committee on NOD's full report, and the 2024 Alcohol Policy Advisory Committee (APAC) report | 1999, 2024 | [Night of Decadence](../traditions/retired/night-of-decadence.md), [NOD decision](../decisions/nod-2026.md) |
+| Thresher, Oct 2025: "'The spirit of success': Drinking in Rice history" (the website blocks automated readers; Fondren's digital Thresher should have it) | 2025 | A dated history of Rice alcohol policy → [NOD](../traditions/retired/night-of-decadence.md) |
 
 ## With the College Coordinator, the Cabinet, or the Magisters
 
@@ -82,7 +82,7 @@ Ask for the **Wiess College Records, UA 0079**. Bring a camera; most of these ta
 | The rendered wiess.rice.edu pages: about/history, about/traditions, government/coreteam | the live site (React; every Wayback capture is an empty shell) | The only direct 2026 statement of which traditions are alive, and of the current Core Team |
 | hanszen.rice.edu/about/traditions | live, never captured | [Hanszen](../traditions/hanszen-rivalry.md) |
 | wiessassociates.rice.edu (83 URLs), wiessmentors.rice.edu (37), wiess.wordpress.com (52) | Wayback | Retired sites; queued for mirroring |
-| Thresher pieces not found yet: the RWRC "Breathing Room" letter (Oct 2014); "The only lack of dignity at NOD was Chi Alpha's" (Nov 2017); the CTIS and unwanted-sexual-experience survey reports (2015) | ricethresher.org (blocks automated readers) | [NOD](../traditions/night-of-decadence.md) |
+| Thresher pieces not found yet: the RWRC "Breathing Room" letter (Oct 2014); "The only lack of dignity at NOD was Chi Alpha's" (Nov 2017); the CTIS and unwanted-sexual-experience survey reports (2015) | ricethresher.org (blocks automated readers) | [NOD](../traditions/retired/night-of-decadence.md) |
 | Thresher ark ids for pages cited by date only (1986–2007 War Pig pages) | Portal to Texas History | Turns date-only citations into page links |
 
 The full search trail behind this list is in the [search log](search-log.md); the raw data for the Core Team rows is `sources/wanted-core-team.tsv`.

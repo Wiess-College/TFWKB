@@ -20,7 +20,7 @@ Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. Peop
 
 In 1972 the handbook joked that the dining hall, lounge and office were "all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972].
 
-Five years later, Wiess threw a [Night of Decadence](night-of-decadence.md) called "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
+Five years later, Wiess threw a [Night of Decadence](retired/night-of-decadence.md) called "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
 
 ## Then Hanszen piled on
 
@@ -43,7 +43,7 @@ The old building is gone, but New Wiess kept the outdoor corridors and balconies
     | 1972 | Freshman Handbook, "The Architecture of Wiess": "in the best motel tradition… the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972] | [P] |
     | 1970s | A Hanszenite remembers "a temporary facility that was remiscent of a Motel 6" [@rhc 2016-05-24 hanging-out-at-wiess comment by Steve Lukingbeal, 25 May 2016]; a Wiess man of 1975: "functional and practical. Kinda Motel Sexy" [@rhc 2016-05-24 hanging-out-at-wiess comment by Buddy Chuoke '75, 25 May 2016] | [T] |
     | 1977-10-13 | Thresher, on that year's NOD: "Wiess Palms, the Six Dollar Motel. Oct. 21, 8:30" [@thresher-1977-10-13-wiess-palms] | [P] |
-    | 1977 (printed "1997") | NOD theme "Wiess Palms Motel 6: Sanitized for your protection", on the undated "Themes through the decades" graphic (see [Night of Decadence](night-of-decadence.md#themes-year-by-year)) | [R] |
+    | 1977 (printed "1997") | NOD theme "Wiess Palms Motel 6: Sanitized for your protection", on the undated "Themes through the decades" graphic (see [Night of Decadence](retired/night-of-decadence.md#themes-year-by-year)) | [R] |
     | early 1980s | "At Hanszen in the early 80s, we referred to the Wiess architecture as 'Early Motel 6'" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012] | [T] |
     | late 1980s | Hanszen's plane over a Rice football game, towing "Motel Wiess: Hourly Rates Available" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012]; "And that same year, Wiess adopted 'Motel Wiess' as the theme for Night of Decadence. 'Sanitized for your protection!'" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]; the themes graphic gives "Motel Wiess" for 1988 | [T] |
     | 1998-07 | The Associates page: Stan Dodds, "his sixth year living at Motel Wiess" [@riceinfo-associates]; the sentence was carried onto the rice.edu mirror (2003) and the teamwiess.com associates page (2007) [@wb 20030912173857 http://www.rice.edu:80/projects/colleges/wiess/people/associates.html] [@wb 20070709183119 http://teamwiess.com/index.php?module=page&page=associates] | [P] |

@@ -395,7 +395,7 @@ On [Crest, colors and symbols](../traditions/symbols.md#photographs).
 
 ## Night of Decadence
 
-On [Night of Decadence](../traditions/night-of-decadence.md#photographs).
+On [Night of Decadence](../traditions/retired/night-of-decadence.md#photographs).
 
 <div class="grid photo-grid" markdown>
 

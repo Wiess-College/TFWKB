@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # JamFest
 
-JamFest was Wiess's spring music festival: a day of live bands in the [Acabowl](../places/acabowl.md), usually on a Friday in mid-April [@oweek-2003 p.4] [@portal metapth246567 p.15]. It began in 1987 as a talent show in the [Commons](../places/commons.md), grew into an all-day concert with touring headliners in the 2000s, and gave way to [Wiess Day](wiess-day.md) around 2010 [@thresher-1987-03-20-jamfest] [@oweek-2010 p.91] [@oweek-2014 p.37].
+JamFest was Wiess's spring music festival: a day of live bands in the [Acabowl](../../places/acabowl.md), usually on a Friday in mid-April [@oweek-2003 p.4] [@portal metapth246567 p.15]. It began in 1987 as a talent show in the [Commons](../../places/commons.md), grew into an all-day concert with touring headliners in the 2000s, and gave way to [Wiess Day](wiess-day.md) around 2010 [@thresher-1987-03-20-jamfest] [@oweek-2010 p.91] [@oweek-2014 p.37].
 
 <div class="facts" markdown>
 
@@ -27,7 +27,7 @@ At its largest, from 2005 to 2007, the show ran from the afternoon until 2 a.m. 
 
 The date usually fell on Owl Weekend, when admitted students visit Rice [@oweek-2003 p.4].
 
-[Dr. Bill Wilson](../people/associates.md), a longtime Wiess resident associate, ran the sound and lent students his equipment [@portal metapth443181 p.1] [@portal metapth443018 p.6]. In 2007 a [Dr. Bill Wilson Student Initiative Grant](https://drbillgrant.rice.edu/recipient-history/) paid for "Wiess JamFest Audio Equipment".
+[Dr. Bill Wilson](../../people/associates.md), a longtime Wiess resident associate, ran the sound and lent students his equipment [@portal metapth443181 p.1] [@portal metapth443018 p.6]. In 2007 a [Dr. Bill Wilson Student Initiative Grant](https://drbillgrant.rice.edu/recipient-history/) paid for "Wiess JamFest Audio Equipment".
 
 ## Who played
 

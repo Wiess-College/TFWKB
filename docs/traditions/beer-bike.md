@@ -24,7 +24,7 @@ The week before is for jacks (pranks on other colleges) and filling water balloo
 
 ## The War Pig at Beer Bike
 
-The pig has its own page: [The War Pig](warpig.md). Short version: the first balloon floated off in 1986, one flew on helium in 1991, and a store-bought one floated away in 2004 [@maxham-pig-document] [@campanile-1991] [@thresher-2004-03-26 p.9]. Since 2012 the pig is wooden and "the pig will roll" [@oweek-2014 p.37]. Wiess's parade build in 2001–02 was [Fort Wiess](fort-wiess.md).
+The pig has its own page: [The War Pig](warpig.md). Short version: the first balloon floated off in 1986, one flew on helium in 1991, and a store-bought one floated away in 2004 [@maxham-pig-document] [@campanile-1991] [@thresher-2004-03-26 p.9]. Since 2012 the pig is wooden and "the pig will roll" [@oweek-2014 p.37]. Wiess's parade build in 2001–02 was [Fort Wiess](retired/fort-wiess.md).
 
 ## Beer Bike hair
 
@@ -107,7 +107,7 @@ In 1975 Wiess won the men's title and broke out the "Wiess Team!" chant [@thresh
     | 2000-04 | Mylar pig-head balloons released; "The pig will fly!" chant noted [@thresher-portal 2000-04-07 p.12] | [P] |
     | 2001-04 | "Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon" [@thresher-portal 2001-04-06 p.29] | [P] |
     | c.2001 | The Jones bike jack: a Wiessman in a Jones Beer Bike shirt is let into the Jones bike closet; that night Wiess hangs "all of Jones's bikes … about 15 feet off the ground in front of Fondren with an enormous banner that read 'Who wins now, Jones?'"—"about five years ago" in 2006 [@oweek-2006 p.52] | [R] |
-    | 2002-04 | "Team Wiess's battle sow flying high in the sky" over the Wiess fort [@thresher-portal 2002-04-05 p.6]—see [Fort Wiess](fort-wiess.md) | [P] |
+    | 2002-04 | "Team Wiess's battle sow flying high in the sky" over the Wiess fort [@thresher-portal 2002-04-05 p.6]—see [Fort Wiess](retired/fort-wiess.md) | [P] |
     | 2003 | Glossary: "A competitive inter-college race held in the spring in which ten bikers and ten chuggres from each collge compete … 2. A day full of events, including the race, a parade and a water balloon fight." [@oweek-2003 p.5] | [P] |
     | 2004-03-20 | The commercial pig balloon's cord is cut at Beer Bike; it floats away [@thresher-2004-03-26 p.9] | [P] |
     | 2006 | O-Week book: Willy Week, "the Beer Debates", jacks, "ten bikers and ten chuggers that alternate between the chuggers chugging water and the bikers doing laps" [@oweek-2006 p.51] | [P] |

@@ -41,7 +41,7 @@ The only stairwell story on record: a Wiessman of the 1980s "jumped over a stair
 
 Old Wiess was "in the best motel tradition" back in 1972 [@handbook-1972]. Hanszen called it "Early Motel 6" in the early 1980s [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012]. One 1998 RA was in "his sixth year living at Motel Wiess" [@riceinfo-associates]. An alum said it "had more in common with contemporary motel design than it did with the rest of the Rice campus" [@delany-about-wiess-2002].
 
-Every O-Week book from 2006 to 2025 praises "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" [@oweek-2006 p.37] [@oweek-2025 p.24]. New Wiess kept the open-air hallways on purpose [@machado-silvetti-wiess]. But no source calls *New* Wiess "Motel 6." Full story: [Motel 6 / Motel Wiess](../traditions/motel-6.md). (NOD used motel themes in 1977 and 1988; see [Night of Decadence](../traditions/night-of-decadence.md#themes-year-by-year).)
+Every O-Week book from 2006 to 2025 praises "the unique 'Motel 6' design with outdoor hallways and wrap-around balconies" [@oweek-2006 p.37] [@oweek-2025 p.24]. New Wiess kept the open-air hallways on purpose [@machado-silvetti-wiess]. But no source calls *New* Wiess "Motel 6." Full story: [Motel 6 / Motel Wiess](../traditions/motel-6.md). (NOD used motel themes in 1977 and 1988; see [Night of Decadence](../traditions/retired/night-of-decadence.md#themes-year-by-year).)
 
 ## New Wiess lore
 

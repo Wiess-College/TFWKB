@@ -25,7 +25,7 @@ The wooden pig has been rebuilt at least once, around 2017–21. A builder left 
 
 In spring 1982, a Wiess student (Class of '84) started calling Wiessmen "War Pigs," after the Black Sabbath song [@maxham-pig-document]. By fall 1983 freshmen were trained to squeal, and the women became "Battle Sows" [@maxham-pig-document]. See [Battle Sows & Powderpuff](battle-sows-powderpuff.md).
 
-The first real pig was tiny: an 8–10-inch pig-iron statue carried around the college [@maxham-pig-document] [@rice-magazine-2016-wiess-traditions]. The first *big* one was a 12-foot chicken-wire pig at [Night of Decadence](night-of-decadence.md) 1984. Sid Rich guys tore it apart the same night [@portal metapth245573 p.27] [@campanile-1985 p.283].
+The first real pig was tiny: an 8–10-inch pig-iron statue carried around the college [@maxham-pig-document] [@rice-magazine-2016-wiess-traditions]. The first *big* one was a 12-foot chicken-wire pig at [Night of Decadence](retired/night-of-decadence.md) 1984. Sid Rich guys tore it apart the same night [@portal metapth245573 p.27] [@campanile-1985 p.283].
 
 ## The pigs that (mostly) didn't fly
 
@@ -35,7 +35,7 @@ For decades the pig was supposed to fly. Mostly, it didn't. That never stopped a
 
 **1991:** Pig #3 finally flew, on six helium weather balloons, paid for by a $500 grant from an alumnus professor [@thresher-portal 5 Apr 1991 p.16]. "The War Pig flies!" said the yearbook [@campanile-1991 p.281]. By 1997 the website admitted it had "seen better days" [@riceinfo-beerbike].
 
-By 1999, twenty-five students still woke at 4:30 a.m. to inflate "a giant pig made of garbage bags in the futile hope that it will fly" [@campanile-1999 p.238]. Wiess's wooden parade build in 2001–02 was [Fort Wiess](fort-wiess.md), not a pig [@thresher-2002-04-05 pp.6, 27].
+By 1999, twenty-five students still woke at 4:30 a.m. to inflate "a giant pig made of garbage bags in the futile hope that it will fly" [@campanile-1999 p.238]. Wiess's wooden parade build in 2001–02 was [Fort Wiess](retired/fort-wiess.md), not a pig [@thresher-2002-04-05 pp.6, 27].
 
 ## The pig that got away
 
@@ -97,7 +97,7 @@ For the next six years, the O-Week books called the pig a "**Former** Wiess masc
     | 1997–98 | Mylar rebuild (a George Fotinos project); a hydrogen idea vetoed by Dr. Bill Wilson; the pig later flew away [@rhc 2021-12-10 im-pissed-no-date comments, Dec 2021] | [T] |
     | 1998–99 | The Wiess attitude "inspires twenty-five students to wake up at 4:30 a.m. to inflate a giant pig made of garbage bags in the futile hope that it will fly above the Beer Bike track" [@campanile-1999 p.238] | [P] |
     | 2000-04 | Dozens of mylar pig-head balloons released; "The pig will fly!" chant noted [@thresher-portal 7 Apr 2000 p.12] | [P] |
-    | 2001-04 | "Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon" [@thresher-2001-04-06 p.29]. Wiess's wooden parade build of 2001–02 was [Fort Wiess](fort-wiess.md), not a pig | [P] |
+    | 2001-04 | "Wiess's War Pig finally took to the skies in the form of a giant Macy's parade-style balloon" [@thresher-2001-04-06 p.29]. Wiess's wooden parade build of 2001–02 was [Fort Wiess](retired/fort-wiess.md), not a pig | [P] |
     | 2001-12 | Dedication planning for New Wiess: "Have both war pigs flying first thing in the morning!"—two balloons by late 2001 [@wb 20011212095214 http://teamwiess.com:80/wiess_dedication.html] | [P] |
     | 2002-04 | "Team Wiess's battle sow flying high in the sky" over the Wiess fort [@thresher-2002-04-05 pp.6, 27]. Photograph: the **orange** commercial pig, "TEAM WIESS," tethered over the New Wiess Acabowl [@warpig-core-deck slide 32] | [P] |
     | before 2002-08 | A $4,500 commercial pig balloon bought with capital-improvement funds [@thresher-2004-03-26 p.9] | [P] |

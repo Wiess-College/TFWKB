@@ -16,7 +16,7 @@ Sparky's is Wiess's game-and-hangout room, up on the fourth floor of New Wiess, 
 
 ## Who was Sparky?
 
-Sparky was a decoration built for [Night of Decadence](../traditions/night-of-decadence.md), and not a polite one. At the 1981 Texas A&M Homecoming game, the Rice section got complaints about "the display of a phallic symbol" [@thresher-1981-10-30-a-and-m-game].
+Sparky was a decoration built for [Night of Decadence](../traditions/retired/night-of-decadence.md), and not a polite one. At the 1981 Texas A&M Homecoming game, the Rice section got complaints about "the display of a phallic symbol" [@thresher-1981-10-30-a-and-m-game].
 
 A Thresher letter that December called it "the 'Sparky' incident." The administration threatened "to close Wiess College" over it [@thresher-1981-12-04-sparky-letter]. The college survived. The name stuck.
 

@@ -100,17 +100,13 @@ nav:
       - The War Pig: traditions/warpig.md
       - Team Wiess (the chant): traditions/team-wiess.md
       - The Ubangee: traditions/ubangee.md
-      - Night of Decadence: traditions/night-of-decadence.md
       - Beer Bike: traditions/beer-bike.md
       - Tabletop Theatre: traditions/tabletop-theatre.md
       - Pumpkin Caroling: traditions/pumpkin-caroling.md
       - Battle Sows & Powderpuff: traditions/battle-sows-powderpuff.md
       - Summit: traditions/summit.md
       - FilmFest: traditions/filmfest.md
-      - JamFest: traditions/jamfest.md
-      - Wiess Day: traditions/wiess-day.md
       - College Night: traditions/college-night.md
-      - Fort Wiess: traditions/fort-wiess.md
       - Off the books: traditions/off-the-books.md
       - Big Bang: traditions/big-bang.md
       - O-Week: traditions/o-week.md
@@ -143,6 +139,10 @@ nav:
           - No-Theme Wiess: traditions/retired/no-theme-wiess.md
           - The Acatramp: traditions/retired/acatramp.md
           - Family style & freshman waiting: traditions/retired/formal-dinner.md
+          - Night of Decadence: traditions/retired/night-of-decadence.md
+          - JamFest: traditions/retired/jamfest.md
+          - Wiess Day: traditions/retired/wiess-day.md
+          - Fort Wiess: traditions/retired/fort-wiess.md
   - Places:
       - places/index.md
       - Old Wiess (1949–2002): places/old-wiess.md

@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Night of Decadence
 
-NOD was Wiess's Halloween costume party, held in the [Commons](../places/commons.md) and the Acabowl on a weekend at the end of October, from around 1972 until it was cancelled for good on 5 June 2024 [@handbook-1994] [@oweek-2015 p.24] [@thresher-1975-11-03-nod-fourth-annual] [@thresher-2024-06-05-nod-canceled].
+NOD was Wiess's Halloween costume party, held in the [Commons](../../places/commons.md) and the Acabowl on a weekend at the end of October, from around 1972 until it was cancelled for good on 5 June 2024 [@handbook-1994] [@oweek-2015 p.24] [@thresher-1975-11-03-nod-fourth-annual] [@thresher-2024-06-05-nod-canceled].
 
 !!! abstract "TL;DR"
     - It started in 1972: the Thresher called the 1975 party the "fourth annual" [@thresher-1975-11-03-nod-fourth-annual] [@rice-magazine-2016-wiess-traditions].
@@ -18,7 +18,7 @@ NOD was Wiess's Halloween costume party, held in the [Commons](../places/commons
 
 For about fifty years, NOD was the biggest party at Rice.
 
-Every year had a theme, from "Fall of Rome" in 1976 to "NODie Dreamhouse" in 2023 [@thresher-2023-10-50-years] [@thresher-2023-10-sex-doll]. The War Pig's first big effigy hung at the "Animal Farm" NOD in 1984 [@portal metapth245573 p.27]. See [The War Pig](warpig.md).
+Every year had a theme, from "Fall of Rome" in 1976 to "NODie Dreamhouse" in 2023 [@thresher-2023-10-50-years] [@thresher-2023-10-sex-doll]. The War Pig's first big effigy hung at the "Animal Farm" NOD in 1984 [@portal metapth245573 p.27]. See [The War Pig](../warpig.md).
 
 It got big. Almost a thousand people came in 2003; "upwards of 1400" in 2014; "around 1200" by 2019 [@wb 20041204030907 http://www.teamwiess.com/nod/] [@oweek-2014 p.44] [@oweek-2019 p.33]. Wiess students ran their own security force: at least 50 in 1998, around 200 later [@thresher-1998-10-30-nod-security] [@oweek-2019 p.33].
 
@@ -78,7 +78,7 @@ After that came years of op-eds, about alcohol, ambulance transports and the par
 
 On 5 June 2024, the Dean of Undergraduates and the Wiess Magister cancelled NOD permanently. They pointed to "large numbers of hospital transports due to excessive hard alcohol consumption" [@thresher-2024-06-05-nod-canceled]. The Dean said the idea came from the Wiess Magisters [@thresher-2024-06-05-nod-canceled].
 
-Wiess could still throw a "radically different" public, just not with NOD's name, theme or dress code [@thresher-2024-06-05-nod-canceled]. Students voted on a new theme. "Masquerade After Dark," outdoors and semi-formal, ran on 25 January 2025 [@thresher-2024-10-mad-announced] [@thresher-2025-01-mad-reviews]. The decision record is [NOD 2026](../decisions/nod-2026.md).
+Wiess could still throw a "radically different" public, just not with NOD's name, theme or dress code [@thresher-2024-06-05-nod-canceled]. Students voted on a new theme. "Masquerade After Dark," outdoors and semi-formal, ran on 25 January 2025 [@thresher-2024-10-mad-announced] [@thresher-2025-01-mad-reviews]. The decision record is [NOD 2026](../../decisions/nod-2026.md).
 
 In October 2025 the Thresher set NOD's transports, including the 2012 and 2023 surges, in a longer history of drinking at Rice [@thresher-2025-10-29-spirit-of-success].
 
@@ -137,22 +137,22 @@ An old graphic, "Themes through the decades," lists a theme for every year from 
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../assets/photos/nod/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the TFWKB NOD images · c.2011–12" data-gallery="nod" }
+  !['Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above.](../../assets/photos/nod/themes-graphic.jpg){ loading=lazy data-title="&#x27;Themes through the decades&#x27;, 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above." data-description="Image of unknown origin, in the TFWKB NOD images · c.2011–12" data-gallery="nod" }
   <figcaption>'Themes through the decades', 1973–75 to 2011: a graphic of unknown origin, transcribed in the table above. <small>Image of unknown origin, in the TFWKB NOD images</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left.](../assets/photos/nod/1985-3.jpg){ loading=lazy data-title="NOD &#x27;Animal Farm&#x27;, 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left." data-description="The Campanile 1985, p.283 · 1984-10-26" data-gallery="nod" }
+  ![NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left.](../../assets/photos/nod/1985-3.jpg){ loading=lazy data-title="NOD &#x27;Animal Farm&#x27;, 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left." data-description="The Campanile 1985, p.283 · 1984-10-26" data-gallery="nod" }
   <figcaption>NOD 'Animal Farm', 26 October 1984: paper pigs and animals hung over the crowd, the 12-foot pig at top left. <small>The Campanile 1985, p.283 [@campanile-1985]</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Dancing at NOD, c.1983 (date from the file name).](../assets/photos/nod/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="TFWKB photo collection; source not recorded · c.1983" data-gallery="nod" }
+  ![Dancing at NOD, c.1983 (date from the file name).](../../assets/photos/nod/1983.jpg){ loading=lazy data-title="Dancing at NOD, c.1983 (date from the file name)." data-description="TFWKB photo collection; source not recorded · c.1983" data-gallery="nod" }
   <figcaption>Dancing at NOD, c.1983 (date from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../assets/photos/nod/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="TFWKB photo collection; source not recorded · 1998" data-gallery="nod" }
+  ![Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name).](../../assets/photos/nod/1998-lg.jpg){ loading=lazy data-title="Three costumes at NOD 1998, &#x27;Silver Anniversary: NOD&#x27;s Greatest Hits&#x27; (date from the file name)." data-description="TFWKB photo collection; source not recorded · 1998" data-gallery="nod" }
   <figcaption>Three costumes at NOD 1998, 'Silver Anniversary: NOD's Greatest Hits' (date from the file name). <small>TFWKB photo collection; source not recorded</small></figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ An old graphic, "Themes through the decades," lists a theme for every year from 
     | 1975-11-03 | "Wiess College will inflict the campus with its fourth annual Night of Decadence this Friday, November 7", the first in "the new Wiess Commons"; fourth in 1975 puts the first in 1972 [@thresher-1975-11-03-nod-fourth-annual] | [P] |
     | 1977-10-21 | Theme in print: "Wiess Palms, the Six Dollar Motel. Oct. 21, 8:30" (the graphic's "1997" Wiess Palms Motel 6) [@thresher-1977-10-13-wiess-palms] | [P] |
     | c.1980 | Sparky, "an eight foot long paper mache dildo built (and well built) for NOD in ~1980", photographed in the Houston Post bobbing in the student section at a Rice football game—per George Hall, College Idiot 1979–82 [@handbook-1994] | [R] |
-    | 1984-10-26 | "Animal Farm": a chicken-wire-and-newspaper pig hung in the Commons and torn apart by Sid men; "the pig was the symbol of the night, the decadent farm animal, the war-pig" [@portal metapth245573 p.27]. The Campanile: "Attractions range from the heavy petting zoo to a 12-foot pig with more than lifelike features" [@campanile-1985]—see [The War Pig](warpig.md) | [P] |
+    | 1984-10-26 | "Animal Farm": a chicken-wire-and-newspaper pig hung in the Commons and torn apart by Sid men; "the pig was the symbol of the night, the decadent farm animal, the war-pig" [@portal metapth245573 p.27]. The Campanile: "Attractions range from the heavy petting zoo to a 12-foot pig with more than lifelike features" [@campanile-1985]—see [The War Pig](../warpig.md) | [P] |
     | mid-1980s | "By the mid-eighties, NOD had evolved into a huge themed costume party open to the Houston public. It was at that time that it made Playboy Magazine's list of top ten college parties in the nation." [@ricenod-site-2005]; "Wiess gained national recognition through their appearance on Playboy's top ten college parties list with the annual Halloween NOD celebration" [@wb 20050526073749 http://www.teamwiess.com/view.php?Page=history.php] | [R] |
     | 1990-11-09 | A review of "Strength of Identity", a student history of Wiess, repeats the story of a NOD punch "which took the varnish off the oar used to stir it" [@thresher-1990-11-09-strength-of-identity] | [R] |
     | 1994 | Glossary: "Held at Wiess traditionally at the end of October, NOD was the first and still is the major all-school party featuring a live band and the infamous NOD punch (originally strong enough to remove the sea varnish from an oar!)." The Commons is "Scene of the infamous 'Night of Decadence'" [@handbook-1994] | [P] |

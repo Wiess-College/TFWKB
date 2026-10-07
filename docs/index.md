@@ -21,7 +21,7 @@ Every tradition, where it came from, and the receipts.
 
 [:material-pig-variant: The War Pig](traditions/warpig.md){ .tfw-tile .tfw-tile--gold }
 [:material-sort-alphabetical-ascending: Traditions A–Z](traditions/index.md){ .tfw-tile }
-[:material-party-popper: NOD](traditions/night-of-decadence.md){ .tfw-tile }
+[:material-party-popper: NOD](traditions/retired/night-of-decadence.md){ .tfw-tile }
 [:material-bicycle: Beer Bike](traditions/beer-bike.md){ .tfw-tile }
 [:material-home-city: Old Wiess vs New Wiess](places/index.md){ .tfw-tile }
 [:material-account-group: The Core Team](people/core-team.md){ .tfw-tile }

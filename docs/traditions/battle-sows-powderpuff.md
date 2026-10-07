@@ -86,7 +86,7 @@ The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@cam
     | 1997-08-11 | "The Battle Sows!" listed under "Traditions We'd Sure Like To See Continue" [@riceinfo-traditions-1997] | [P] |
     | 1999 | Champions again; Ray Wagner adds a page, "The Wiess Battle Sows: 1999 Powder Puff Champions", with four photographs ("The Battle Sows", "The Sows huddle", "Kathy hauls", "Loyal Sows fans") [@riceinfo-battlesows] | [P] |
     | 2001-12 | Plan for the New Wiess dedication, 7 Sep 2002: "Powderpuff scrimmage around 3:00" [@wb 20011212095214 http://teamwiess.com/wiess_dedication.html] | [P] |
-    | 2002-04-05 | Thresher Beer Bike photograph: "Team Wiess's battle sow flying high in the sky"—the balloon, over [Fort Wiess](fort-wiess.md) [@thresher-2002-04-05 p.6] | [P] |
+    | 2002-04-05 | Thresher Beer Bike photograph: "Team Wiess's battle sow flying high in the sky"—the balloon, over [Fort Wiess](retired/fort-wiess.md) [@thresher-2002-04-05 p.6] | [P] |
     | 2001, 2002 | "The back-to-back defending champions—known as the Battlesows" [@oweek-2003 35-44 wiess.pdf p.7]; glossary: "back-to-back defending champion Wiess powderpuff football team" [@oweek-2003 p.3] | [P] |
     | 2004 (fall) | Season schedule on teamwiess.com: eight games 12 Sep – 7 Nov ("Wiess v. Hanszen" 18 Sep), semifinals 14 Nov, final 20 Nov [@wb 20041207030444 http://www.teamwiess.com/view.php?Page=ppuff.php] | [P] |
     | 2006 | "In the past six years, the Wiess powderpuff team (aka the Battlesows) has earned the league champion title four times. Four times!" [@oweek-2006 p.41] | [R] |
