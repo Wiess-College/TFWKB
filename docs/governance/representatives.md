@@ -30,7 +30,7 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 
 | Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
 |---|---|---|---|---|---|---|---|---|---|
-| At-Large Rep (elected to Cabinet until 2016) | ● |  |  |  |  |  |  |  |  |
+| At-Large Rep (elected to Cabinet until 2016) | ● | ● | ● |  ●|  |  |  |  |  |
 | Audio/Visual |  | ● | ● | ● | ● | ● |  |  |  |
 | Baker 13 Defense (Defense Minister 2005–06; Captains from 2012; also a Secretary of Defense 2014) | ● |  | ● | ● | ● | ● |  |  |  |
 | Baker Institute Ambassador |  | ● | ● |  |  |  |  |  |  |
@@ -48,6 +48,7 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | College Night | ● | ● | ● | ● |  | ● | ● | ● | ● (Constitution) |
 | Community Service | ● | ● | ● | ● |  |  |  |  |  |
 | Computer Room |  |  |  |  |  |  |  | ● |  |
+| Cultural | ● | ● | ● | ● | ● |  |  |  |  |
 | Cute Dog |  |  |  |  |  | ● |  |  |  |
 | Decorations (& Creativity 2014; Decorations Room 2023) |  |  |  | ● | ● |  |  | ● |  |
 | EcoRep (Recycling Rep 2005–06) | ● | ● | ● |  |  |  |  |  |  |
@@ -68,12 +69,17 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Laundry | ● | ● | ● | ● | ● |  | ● | ● |  |
 | Librarian |  |  |  |  |  |  | ● | ● |  |
 | Lilie |  |  |  |  |  |  | ● |  |  |
+| Eco |  |  |  |  |  | ● |  |  |  |
+| Tap |  |  |  |  |  | ● |  |  |  |
+| Cornhole |  |  |  |  |  | ● |  |  |  |
+| Gameroom |  |  |  |  |  | ● |  |  |  |
 | Listserv | ● | ● | ● | ● | ● | ● | ● |  |  |
 | Master's Search Committee Chair | ● |  |  |  |  |  |  |  |  |
 | Mentors (Program Coordinator 2005–06; Head Mentors 2012); Head Peer Academic Advisors (2012) | ● |  | ● |  |  |  |  |  |  |
 | Merchandise |  |  |  |  | ● |  | ● | ● | ● (Constitution) |
 | Music |  |  |  |  |  |  |  | ● |  |
 | Newsletter | ● | ● | ● | ● | ● | ● |  |  |  |
+| Nose Smoke |  |  |  | ● |  |  |  |  |  |
 | Positive Reinforcement / Affirmation |  |  |  |  |  |  | ● | ● |  |
 | Rec Center Advisory Council | ● |  |  |  |  |  |  |  |  |
 | Remote |  |  |  |  |  |  | ● |  |  |

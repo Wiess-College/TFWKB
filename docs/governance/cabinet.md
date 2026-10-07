@@ -68,23 +68,26 @@ Appointed (nv): ?1993-now
 Appointed (2,nv): ?1993-now
 [Treasurer]
 Head (e): ?1993-now
-Assistant (e): 2013-2024; Apprentice: 2025-now.
+Assistant (e): 2013-2024; Apprentice: 2025-now
 [Representitives]
 First-year (2,e): ?1993-now
 Sophmore (2, e): ?1993-now
 Junior (e): ?1993-now
 Senior (e): ?1993-now
 Off-Campus (2,e): ?1993-now
-Cultural: ?1993-2017
-At-Large: ?1993-2017
 Capital Improvement (nv): ?1993-now 
 Housing (a,nv):
-Election (2,nv):
+Election (2,nv): ?1993-now
 Merchandise (nv):
-College Night (>2,nv)
-Webmaster (nv):
-Chalkboard (nv)
-Birthday (nv)
+College Night (>2,nv): ?2021-now
+Webmaster (nv): ?1997-now
+Chalkboard (nv)? ?2020-now
+Birthday (nv): ?2009-now
+[Beer Bike (nv)]
+Captains (bike, beer/chug): ?1966-
+Bike chairman: 1982
+Coordinators: ?1990-
+Pit crew captain: ?2011-
 [Chairs]
 Academics and Career (nv): 2013-now
 Diversity (2,e): 2020-now
