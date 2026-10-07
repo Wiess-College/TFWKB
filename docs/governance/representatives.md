@@ -28,7 +28,8 @@ A dot means the position is on that year's list. The lists are the college websi
 
 Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=page&page=representatives]; 2010 [@wb 20100826015923 http://teamwiess.com/reps.php]; 2012 [@wb 20120817225627 http://te[...]
 
-| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |
+| Position | 2005–06 | 2010 | 2012 | 2014 | 2015 | 2017 | 2020–21 | 2023 | 2025 |  
+|---|---|---|---|---|---|---|---|---|---|
 | At-Large (elected to Cabinet until 2016) | ● | ● | ● | ● |  |  |  |  |  |
 | Audio/Visual |  | ● | ● | ● | ● | ● |  |  |  |
 | Baker 13 Defense (Defense Minister 2005–06; Captains from 2012; also a Secretary of Defense 2014) | ● |  | ● | ● | ● | ● |  |  |  |
