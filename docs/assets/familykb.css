@@ -321,3 +321,10 @@ a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outli
   .md-typeset .tl-seg-text { display: none; }
   .md-typeset .tl-seg-list { display: block; color: var(--md-default-fg-color--light); font-size: 0.9em; }
 }
+.md-typeset .tl-clipped { border-top-left-radius: 0; border-bottom-left-radius: 0; }
+.md-typeset .tl-clipped::before { content: "‹"; position: absolute; right: 100%; padding-right: 0.2em; color: var(--tl-ink); font-size: 0.9em; line-height: 1; }
+.md-typeset .tl-top .tl-label { font-weight: 700; font-size: 0.95em; }
+.md-typeset .tl-top { margin-top: 0.5em; }
+/* rows with a segment too short for its label: list the segments under the row label instead */
+.md-typeset .tl-tight .tl-seg-text { display: none; }
+.md-typeset .tl-tight .tl-seg-list { display: block; color: var(--md-default-fg-color--light); font-size: 0.9em; }

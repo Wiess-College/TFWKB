@@ -107,7 +107,9 @@ Notes on the shape:
   bar for what the sources show; a leading `?` (`?1987-1992`) adds a fade before the first mention found, a
   trailing `?` (`2010-2011?`) a fade after the last; something still going ends in an arrow: write `2012-now`, `2012-current` or just `2012-`; `* Label: 2005` is a single
   marker. Group rows under a heading with `[Vice Presidents]`. One row can hold several labelled segments,
-  separated by semicolons: `Internal VP: ?1993-2006 Executive; 2007-2015 Executive (Internal); 2016- Internal`. Keep the dates exactly as the timeline table and sources give them.
+  separated by semicolons, written either way round: `Internal VP: ?1993-2006 Executive; 2016- Internal` or
+  `Assistant: ?2020-2024; Apprentice: 2025-now`. `[Parliamentarian]: ?1993-now` is a one-row group. A bar that starts
+  before `from:` is cut at the left edge and marked ‹. Keep the dates exactly as the timeline table and sources give them.
 - **No TL;DR box.** The lead and the key facts do that job.
 - **Citations** are written inline as `[@key]` and render as numbered footnotes with a References list at the
   bottom (built automatically).

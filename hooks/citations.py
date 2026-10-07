@@ -355,10 +355,12 @@ def render_timeline(body: str, page_path: str) -> str:
             else:
                 hi = _year(m.group(2), now)
             continue
-        g = re.match(r"^(?:group\s*:|\[)\s*(.*?)\]?\s*$", line, re.I)
-        if g and (line.lower().startswith("group") or line.startswith("[")):
-            rows.append({"group": g.group(1).strip()})
+        g = re.match(r"^(?:group\s*:\s*(.+?)|\[\s*([^\]]+?)\s*\])\s*$", line, re.I)
+        if g:
+            rows.append({"group": (g.group(1) or g.group(2)).strip()})
             continue
+        top = bool(re.match(r"^\[\s*[^\]]+?\s*\]\s*:", line)) or not any("group" in r for r in rows)
+        line = re.sub(r"^\[\s*([^\]]+?)\s*\]\s*:", r"\1:", line)  # "[Name]: 1993-" is a group-level row
         mark = line.startswith("*")
         if mark:
             line = line[1:].strip()
@@ -367,8 +369,14 @@ def render_timeline(body: str, page_path: str) -> str:
             continue
         label, spec = line.split(":", 1)
         segs = []
-        for part in re.split(r"[;,]\s*(?=\??\s*\d{4})", spec.strip()):
-            sm = SEG_RE.match(part.strip())
+        for part in re.split(r";\s*|,\s*(?=\??\s*\d{4})", spec.strip()):
+            part = part.strip()
+            if not part:
+                continue
+            named = re.match(r"^(.*?):\s*(\??\s*\d{4}.*)$", part)
+            if named and not re.match(r"^\??\s*\d{4}", part):
+                part = f"{named.group(2)} {named.group(1)}"  # "Apprentice: 2025-now" -> "2025-now Apprentice"
+            sm = SEG_RE.match(part)
             parsed = _parse_span(sm.group(1), now) if sm else None
             if not parsed:
                 log.warning("%s: bad timeline span %r", page_path, raw)
@@ -377,7 +385,7 @@ def render_timeline(body: str, page_path: str) -> str:
             segs.append(dict(y0=y0, y1=y1, fade_in=fi, fade_out=fo, open_end=oe,
                              point=point or mark, text=(sm.group(2) or '').strip().strip('"')))
         if segs:
-            rows.append(dict(label=label.strip(), segs=segs))
+            rows.append(dict(label=label.strip(), segs=segs, top=top))
     bars = [sg for r in rows if "segs" in r for sg in r["segs"]]
     if not bars:
         return ""
@@ -413,7 +421,10 @@ def render_timeline(body: str, page_path: str) -> str:
                 note = (" (first found; may be older)" if sg["fade_in"] else "") + (" (last seen; may have continued)" if sg["fade_out"] else "")
                 cls = "tl-bar" + (" tl-alt" if k % 2 else "") + (" tl-fade-in" if sg["fade_in"] else "") \
                     + (" tl-fade-out" if sg["fade_out"] else "") + (" tl-open" if sg["open_end"] else "")
-                left, width = pct(sg["y0"]), pct(sg["y1"] + 1) - pct(sg["y0"])
+                y0c = max(sg["y0"], lo)
+                if y0c > sg["y0"]:
+                    cls += " tl-clipped"
+                left, width = pct(y0c), pct(min(sg["y1"], hi) + 1) - pct(y0c)
                 text = html.escape(sg["text"])
                 tip = f'{lab}{": " + text if text else ""} {when}{note}'
                 inner = f'<span class="tl-seg-text">{text}</span>' if text else ""
@@ -424,7 +435,8 @@ def render_timeline(body: str, page_path: str) -> str:
         if len(r["segs"]) > 1:
             seg_list = '<span class="tl-seg-list">' + " · ".join(
                 html.escape(f'{w}{" " + sg["text"] if sg["text"] else ""}') for w, sg in zip(whens, r["segs"])) + "</span>"
-        cls = "tl-row" + (" tl-in-group" if grouped else "")
+        tight = len(r["segs"]) > 1 and any((s2["y1"] - max(s2["y0"], lo) + 1) < 4 and not s2["point"] for s2 in r["segs"])
+        cls = "tl-row" + (" tl-tight" if tight else "") + (" tl-top" if r.get("top") and grouped else "") + (" tl-in-group" if grouped and not r.get("top") else "")
         out.append(f'<div class="{cls}"><span class="tl-label">{lab} <span class="tl-when">{when_all}</span>{seg_list}</span>'
                    f'<span class="tl-track">{grid}{"".join(parts)}</span></div>')
     out.append('<div class="tl-key"><span class="tl-key-solid"></span> in the sources '
