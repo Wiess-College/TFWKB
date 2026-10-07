@@ -51,26 +51,48 @@ Each bar runs from the first to the last constitution found that lists the offic
 
 ```timeline
 from: 1990
-to: current
-[Leaders]
-President: ?1993-
-Executive Cabinet: 2026-
+to: now
+President: 1957-
+Chief Justice (nv): ?1993-now
 [Vice Presidents]
-Executive / Internal VP: ?1993-2006 Executive; 2007-2015 Executive (Internal); 2016- Internal
-External VP: ?1993-
-Social VPs: ?1993-2006 one or two; 2007- two
-[Money and records]
-Treasurer: ?1993-2006 one; 2007-2012 two, jointly; 2013- head and apprentice
-Secretary: ?1993-2017 elected, voting; 2020-2024 appointed; 2025- two
-[Representatives]
-Class Representatives: ?1993-2019 Fr. and Soph.; 2020- + Jr. & Sr.
-Off-Campus Representatives: ?1993-
-Cultural Representatives: ?1993-2017
-At-Large Representative: ?1993-2017
-[Chairs and liaisons]
-Capital Improvements: ?1993-2017 Representative; 2020- Liaison
-Academics and Career Chair: 2013-
-Diversity Chairs: 2020-
+Executive: ?1993-2016
+Internal (e): 2016-now
+External (e): ?1993-now
+Social (2,e): ?1993-now
+[Secretary]
+Elected (e): ?1993-2016
+Appointed (2,nv): 2017-now
+[Parlementarian]: 
+Appointed (nv): ?1993-now
+[Historian]
+Appointed (2,nv): ?1993-now
+[Treasurer]
+Head (e): ?1993-now
+Assistant (e): 2013-2024; Apprentice: 2025-now.
+[Representitives]
+First-year (2,e): ?1993-now
+Sophmore (2, e): ?1993-now
+Junior (e): ?1993-now
+Senior (e): ?1993-now
+Off-Campus (2,e): ?1993-now
+Cultural: ?1993-2017
+At-Large: ?1993-2017
+Capital Improvement (nv): ?1993-now 
+Housing (a,nv):
+Election (2,nv):
+Merchandise (nv):
+College Night (>2,nv)
+Webmaster (nv):
+Chalkboard (nv)
+Birthday (nv)
+[Chairs]
+Academics and Career (nv): 2013-now
+Diversity (2,e): 2020-now
+[Student Association]
+Senator (e,nv): ?1993-now
+[Core Team]
+Magisters (nv, veto): ?1993-2017 Master; 2020-2024 Magisters; 2025-now Magisters, dissent by 2/3
+RAs (nv): ?1993-now
 ```
 
 The table lists the offices each constitution names. "E" means elected by the college (or by a class), "A" appointed, "nv" non-voting.
@@ -102,7 +124,10 @@ The table lists the offices each constitution names. "E" means elected by the co
 Offices outside the constitutional list show from time to time like a Game Room Chairman, "filled by presidential appointees", in 1998 [@riceinfo-cabinet-1998], and two "SA New Student Representatives" in 2021 and 2023 [@teamwiess-cabinet-2021] [@wiess-rice-edu-cabinet-2023].
 
 ## Presidents
-Former presidents of Wiess, with the year they were elected. Officers who may still be students (elected 2023 or later) are not listed.
+Former presidents of Wiess, with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
+ - Grant Wilson (2025)
+ - Christina Chen (2024)
+ - Blaine Samson (2023)
  - Kirsty Leech (2022)
  - Varun Kukunoor (2021)
  - Lauren Biegel (2020)
@@ -173,7 +198,10 @@ Former presidents of Wiess, with the year they were elected. Officers who may st
  - John R. Gorman (1957)
 
 ## Chief Justices
-Former chief justices of Wiess, with the year they were elected. Officers who may still be students (elected 2023 or later) are not listed.
+Former chief justices of Wiess, with the year they were elected. To comply with FERPA, students currently serving in leadership roles are not recorded here publicly.
+ - Ben Bridges (2025)
+ - Ryan Lu (2024)
+ - Renzo Espinoza (2023)
  - Myritney Saint-Cloud (2022)
 
 ## Minutes
@@ -203,7 +231,7 @@ Beside the Cabinet stands a much larger and less consistent body of appointed re
 | 2020-02-12 | Bylaws: proxies must relay information; new or abolished positions take effect at the next annual election; President's Endowment "subject to approval by the Magisters" [@bylaws-2020 Art. II §§5, 8; Art. IV §6] | [P] |
 | 2020-10-02 | Website lists Treasurer and Apprentice Treasurer, Senior and Junior Representatives, Diversity Chairs [@teamwiess-cabinet-2020] | [P] |
 | 2021-09-24 | Roster: President Varun Kukunoor; two Diversity Chairs; two Historians; meetings "every Wednesday… (and now on Zoom!)" [@teamwiess-cabinet-2021] | [P] |
-| 2023-09-15 | Roster on wiess.rice.edu: Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
+| 2023-09-15 | Roster on wiess.rice.edu: President; Chief Justice listed first after the President; two Secretaries; two Historians [@wiess-rice-edu-cabinet-2023] | [P] |
 | c. early 2025 | Undated "Complete Guiding Documents": Voting (Art. V) and Non-Voting (Art. VI) Members as separate articles; Apprentice Treasurer; two Secretaries; quorum "(9)"; a Representatives article (Housing, Election, Merchandise, College Night, Webmaster, Chalkboard, Birthday); Cabinet may dissent from a Magister veto by two-thirds; no Executive Cabinet yet [@constitution-hate-speech Arts. IV–VII] | [P] |
 | 2026-02-23 | "17 voting members" (Article V) and non-voting members (Article VI); quorum "a simple majority (9)… not including proxies"; two unproxied absences grounds for impeachment; an Executive Cabinet; Cabinet may dissent from a Magister veto by two-thirds [@constitution-2026 Arts. IV §§6, 8, 14; V; VI] | [P] |
 
