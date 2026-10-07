@@ -2,11 +2,8 @@
 # each machine has its own paths. Only the tools in tools/ read it; the site builds without it.
 #
 # A relative path is relative to this repository's root folder. "~" means your home folder.
-# TFWKB_CORPUS and TFWKB_GOVERNANCE_REPO in the environment override these (see tools/paths.py).
-
-# The research corpus: saved web pages, O-Week book text and so on. Used by tools/glossary-extraction/.
-corpus: ../wiess-archive
+# TFWKB_GOVERNANCE_REPO in the environment overrides it (see tools/paths.py).
 
 # A checkout of github.com/Wiess-College/governance. Used by tools/import_governance_changes.py.
 # Leave it out, or empty, if you don't have one.
-governance_repo: ../wiess-archive/wiess-governance
+governance_repo: ../governance

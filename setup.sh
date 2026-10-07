@@ -7,7 +7,7 @@
 #
 #   1. checks for git and Python 3.12 or newer, and stops if either is missing
 #   2. makes a virtual environment in .venv/ and installs requirements.txt into it (what the site needs)
-#   3. asks where your research corpus and governance checkout are, and writes tfwkb.config.yml
+#   3. asks where your checkout of the governance repository is, if you have one, and writes tfwkb.config.yml
 #      (it offers to keep the file if there is one already)
 #   4. lists the optional tools that are missing, without installing them, and builds the site once
 #
@@ -67,7 +67,7 @@ fi
 "$VENV_PYTHON" -m pip install --quiet -r requirements.txt || stop "pip could not install requirements.txt; see the messages above."
 say "Installed requirements.txt into .venv/."
 
-heading "3. Where your folders are ($CONFIG_FILE)"
+heading "3. Governance checkout ($CONFIG_FILE)"
 write_config=yes
 if [ -f "$CONFIG_FILE" ]; then
     say "$CONFIG_FILE already says:"
@@ -79,27 +79,15 @@ if [ -f "$CONFIG_FILE" ]; then
 fi
 
 if [ "$write_config" = yes ]; then
-    say "Paths can be absolute, start with ~, or be relative to this repository."
-    say "The site builds without them; only the tools in tools/ use them."
-
-    while :; do
-        corpus="$(ask "Research corpus folder (wiess-archive)" "../wiess-archive")"
-        if [ -d "$(expand_home "$corpus")" ]; then
-            for expected in teamwiess.com historian-collection riceinfo.rice.edu-wiess; do
-                [ -d "$(expand_home "$corpus")/$expected" ] \
-                    || say "  Note: $corpus has no $expected/ folder, which tools/glossary-extraction/ reads."
-            done
-            break
-        fi
-        say "  $corpus is not a folder."
-        case "$(ask "Use it anyway (you can fix $CONFIG_FILE later)?" "n")" in
-            [yY]*) break ;;
-        esac
-        [ -t 0 ] || break
-    done
+    say "tools/import_governance_changes.py reads a checkout of github.com/Wiess-College/governance."
+    say "The site builds without it. A path can be absolute, start with ~, or be relative to this repository."
 
     governance_default=""
-    [ -d "$(expand_home "$corpus")/wiess-governance/.git" ] && governance_default="$corpus/wiess-governance"
+    for candidate in ../governance ../wiess-archive/wiess-governance; do
+        if [ -z "$governance_default" ] && [ -d "$candidate/.git" ]; then
+            governance_default="$candidate"
+        fi
+    done
     while :; do
         governance="$(ask "Governance checkout folder (leave empty if none)" "$governance_default")"
         if [ -z "$governance" ] || [ -d "$(expand_home "$governance")/.git" ]; then
@@ -112,14 +100,14 @@ if [ "$write_config" = yes ]; then
         [ -t 0 ] || { governance=""; break; }
     done
 
-    "$VENV_PYTHON" - "$CONFIG_FILE" "$corpus" "$governance" <<'PYTHON' || stop "could not write $CONFIG_FILE."
+    "$VENV_PYTHON" - "$CONFIG_FILE" "$governance" <<'PYTHON' || stop "could not write $CONFIG_FILE."
 import sys
 import yaml
 
-config_file, corpus, governance_repo = sys.argv[1:]
+config_file, governance_repo = sys.argv[1:]
 with open(config_file, "w", encoding="utf-8") as config:
     config.write("# Written by setup.sh; see tfwkb.config.example.yml. Not committed.\n")
-    yaml.safe_dump({"corpus": corpus, "governance_repo": governance_repo or None}, config, sort_keys=False)
+    yaml.safe_dump({"governance_repo": governance_repo or None}, config, sort_keys=False)
 PYTHON
     say "Wrote $CONFIG_FILE."
 fi
@@ -133,11 +121,11 @@ for linter in ruff pylint; do
         || report_missing "$linter (lints tools/ and hooks/, as CI does)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
 done
 "$VENV_PYTHON" -c 'import fitz' 2>/dev/null \
-    || report_missing "pymupdf (tools/fix_pdf_fonts.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+    || report_missing "pymupdf (tools/fix_pdf_fonts.py, and add_glossary.py for books with broken fonts)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
 "$VENV_PYTHON" -c 'import fontTools' 2>/dev/null \
     || report_missing "fonttools (tools/fix_pdf_fonts.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
 command -v pdftotext >/dev/null 2>&1 \
-    || report_missing "pdftotext (text layers of new O-Week books)" "macOS: brew install poppler; Linux: install poppler-utils"
+    || report_missing "pdftotext (tools/add_glossary.py reads O-Week book PDFs with it)" "macOS: brew install poppler; Linux: install poppler-utils"
 command -v gh >/dev/null 2>&1 \
     || report_missing "gh (tools/file_issues.sh and tools/tsv_to_issues.sh file GitHub issues)" "macOS: brew install gh; Linux: https://github.com/cli/cli#installation"
 [ "$missing" -eq 0 ] && say "  All found."

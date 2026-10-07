@@ -27,7 +27,8 @@ sources/
 hooks/citations.py         turns [@key p.N] into links at build time; unknown keys fail the build  
 tools/                     helpers: cite.py, check_links.py, build_glossary_series.py, diff_glossary.py,  
                            import_governance_changes.py, fix_pdf_text.py, pdfpage.py, html2text.py  
-tools/paths.py             finds the corpus and governance folders on this machine (from tfwkb.config.yml)  
+tools/add_glossary.py      adds a newly found O-Week book's glossary from its PDF, as a draft to check  
+tools/paths.py             finds the repo root, and the governance checkout (from tfwkb.config.yml)  
 setup.sh                   sets up a new machine: .venv/, tfwkb.config.yml, a first build  
 tools/STYLE.md             how to write those helpers (names, docstrings, linting); pyproject.toml holds the lint rules  
 ```
@@ -40,10 +41,10 @@ macOS or Linux, with git and Python 3.12 or newer. Once per machine:
 ./setup.sh
 ```
 
-It makes a virtual environment in `.venv/`, installs `requirements.txt` into it, asks where your research
-corpus (`wiess-archive`) and governance checkout are and writes them to `tfwkb.config.yml`, lists any optional
-tools that are missing (it doesn't install them), and builds the site once. Run it again whenever
-`requirements.txt` changes. The site itself builds without the corpus; only some tools in `tools/` read it.
+It makes a virtual environment in `.venv/`, installs `requirements.txt` into it, asks where your checkout of
+the governance repo is (if you have one) and writes it to `tfwkb.config.yml`, lists any optional tools that
+are missing (it doesn't install them), and builds the site once. Run it again whenever `requirements.txt`
+changes.
 
 Then, in each new terminal:
 
@@ -55,7 +56,11 @@ python3 tools/check_links.py --limit 20   # do the permalinks still resolve (net
 ```
 
 `tfwkb.config.yml` is yours and isn't committed; `tfwkb.config.example.yml` shows the format. For one run,
-`TFWKB_CORPUS=/path/to/wiess-archive` or `TFWKB_GOVERNANCE_REPO=/path/to/governance` overrides it.
+`TFWKB_GOVERNANCE_REPO=/path/to/governance` overrides it.
+
+Found an O-Week book whose glossary isn't in `sources/glossaries/` yet? Give its PDF to `tools/add_glossary.py`
+with the pages the glossary is on. It writes a draft table, marks the entries that look misread, and shows
+what changed since the previous book; you fix the table by hand. `python3 tools/add_glossary.py --help`.
 
 Read `docs/contributing/citing.md` and `docs/contributing/page-template.md` before writing. Conflicts between sources go in the page, under **Variants & disputes**.
 

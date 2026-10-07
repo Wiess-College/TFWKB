@@ -1,20 +1,19 @@
-"""Find the folders outside this repository that the tools read: the research corpus and the governance checkout.
+"""Find this repository's root, and the folders outside it that the tools read.
 
-The site builds from this repository alone, but some tools in tools/ re-derive files from the research corpus
-(the "wiess-archive" folder of saved web pages, O-Week book text and so on) or from a checkout of the Wiess
-governance repository. Where those folders are differs from machine to machine, so no script names them.
-Each script asks this module instead:
+The site builds from this repository alone, but tools/import_governance_changes.py reads a checkout of the
+Wiess governance repository, and where that is differs from machine to machine, so no script names it.
+Scripts ask this module instead:
 
-    from paths import corpus_folder, governance_folder, REPOSITORY_ROOT
+    from paths import REPOSITORY_ROOT, governance_folder
 
-    book_text_folder = corpus_folder() / "historian-collection" / "text-raw"
+    glossaries_root = os.path.join(REPOSITORY_ROOT, "sources", "glossaries")
 
-Each folder is looked up in this order, and the first one set wins:
+A folder outside the repository is looked up in this order, and the first one set wins:
 
     1. a folder given on the script's command line, for scripts that take one (passed in as `given`)
-    2. an environment variable: TFWKB_CORPUS or TFWKB_GOVERNANCE_REPO
-    3. tfwkb.config.yml at the repository root, keys `corpus` and `governance_repo` (setup.sh writes it)
-    4. the default: ../wiess-archive next to this repository for the corpus; nothing for governance
+    2. an environment variable: TFWKB_GOVERNANCE_REPO
+    3. tfwkb.config.yml at the repository root, key `governance_repo` (setup.sh writes it)
+    4. otherwise none
 
 A relative path from the command line or an environment variable is relative to where the script is run.
 A relative path in tfwkb.config.yml is relative to the repository root, so the file still works if the
@@ -23,9 +22,9 @@ repository is run from another folder. "~" is expanded in all of them.
 tfwkb.config.yml is not committed (it is in .gitignore), since each machine has its own paths.
 tfwkb.config.example.yml shows the format.
 
-corpus_folder stops with SystemExit and a message naming the folder if it does not exist, so a script
-fails at once with a clear reason rather than with a FileNotFoundError deep inside. governance_folder
-returns None when nothing is set, and leaves the checks to its caller.
+governance_folder returns None when nothing is set, and leaves the checks to its caller. A tool that needs
+another outside folder (the research corpus, say) adds a function like it, with its own environment
+variable and config key.
 """
 
 import os
@@ -36,18 +35,6 @@ import yaml
 # This file is tools/paths.py, so the repository root is two levels up.
 REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
 CONFIG_FILE = REPOSITORY_ROOT / "tfwkb.config.yml"
-DEFAULT_CORPUS_FOLDER = REPOSITORY_ROOT.parent / "wiess-archive"
-
-
-def corpus_folder(given: str | None = None) -> Path:
-    """Return the research corpus folder, or stop with a message if it is not there."""
-    folder = configured_folder(given, "TFWKB_CORPUS", "corpus") or DEFAULT_CORPUS_FOLDER
-    if not folder.is_dir():
-        raise SystemExit(
-            f"Corpus folder not found: {folder}\n"
-            "Set it in tfwkb.config.yml (run ./setup.sh), or with TFWKB_CORPUS=/path/to/wiess-archive."
-        )
-    return folder
 
 
 def governance_folder(given: str | None = None) -> Path | None:

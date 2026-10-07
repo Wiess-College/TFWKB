@@ -5,7 +5,7 @@ Some PDFs in the corpus embed a font whose glyph codes are offset by 29 from ASC
 comes out as "SODFHDQG": spaces are dropped, and the "fi" and "fl" ligatures become "À" and "Á". A
 search for a word on such a page finds nothing until the run is shifted back. This filter finds those
 runs and decodes them, wrapping each decoded run in "⟨" and "⟩" to mark text whose spaces are lost.
-tools/pdfpage.py and tools/glossary-extraction/ import fix_line from here.
+tools/pdfpage.py imports fix_line from here.
 
 It writes no files. It reads one text file, or standard input, and prints the text with the runs
 decoded:

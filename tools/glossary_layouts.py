@@ -4,32 +4,19 @@
 Every O-Week book ends with a glossary of Wiess words, and sources/glossaries/ keeps one TSV per year.
 The glossary pages are laid out in two or three columns, and each year's book sets out a term and its
 definition differently, so the text layer cannot be read straight down. These helpers do the shared
-work for extract_layout.py, which imports load_pages, the three split_columns functions,
-strip_furniture, the five parse functions and write_tsv:
+work for tools/add_glossary.py, which cuts each page into columns and tries each parse function:
 
-    pages = load_pages(text_file)                    # split on form feeds
-    bounds, columns = split_columns(pages[82])       # bounds = column start offsets, found if not given
-    entries = parse_numbered(lines)                  # 2003-2008: term line, then "1. ..." "2. ..."
-    entries = parse_plain(lines)                     # 2010 on: term line, then sentence lines
+    bounds, columns = split_columns_smart(page_text)  # bounds = column start offsets, found if not given
+    entries = parse_numbered(lines)                   # term line, then "1. ..." "2. ..."
+    entries = parse_plain(lines)                      # term line, then sentence lines
     write_tsv(tsv_file, rows)
 
-Only write_tsv writes a file, the one it is given. Importing this file needs tools/fix_pdf_text.py on
-the import path; the line below adds this repository's tools/ folder, found from this file's own place.
-
-A text file is read as UTF-8, with bytes that are not UTF-8 replaced by "�". Text the parse functions
-cannot place is dropped (lines before the first term) or added to the previous definition.
+Only write_tsv writes a file, the one it is given. Text the parse functions cannot place is dropped
+(lines before the first term) or added to the previous definition.
 """
 
-import os
 import re
-import sys
 from typing import NamedTuple
-
-# This repository's tools/ folder, one level up from this file's folder.
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-# fix_line is not used here. The import is kept so that importing this file still needs fix_pdf_text.py,
-# and fails without it, as it always has.
-from fix_pdf_text import fix_line
 
 # Ligatures and invisible characters in the text layer: each is replaced by its letters, or removed.
 # "¬" is a soft-hyphen mark at a line break, and U+FEFF is a byte-order mark.
@@ -74,13 +61,6 @@ class Segment(NamedTuple):
     text: str  # the words, joined by single spaces
 
 
-def load_pages(text_file: str) -> list[str]:
-    """Return the file's pages, split at form feeds, with ligatures spelled out."""
-    with open(text_file, encoding="utf-8", errors="replace") as text:
-        extract_text = text.read()
-    return [replace_ligatures(page) for page in extract_text.split("\f")]
-
-
 def replace_ligatures(page_text: str) -> str:
     """Return the text with each ligature spelled out and each soft-hyphen mark and byte-order mark removed."""
     for ligature, replacement in LIGATURE_REPLACEMENTS.items():
@@ -99,7 +79,7 @@ def split_columns(
 
     Every line is cut at the same offsets, and each piece is stripped. bounds are the offsets where the
     second and later columns start; if not given they are found by detect_bounds, looking for ncols
-    columns (named like extract_layout.py's --ncols). skip_top and skip_bottom drop that many lines
+    columns. skip_top and skip_bottom drop that many lines
     first. Each column comes back as one string, one line per page line, blank
     where the column was empty, so line numbers still match between columns.
     """
@@ -121,7 +101,7 @@ def split_columns_keep_indent(
 ) -> tuple[list[int], list[str]]:
     """Return the column bounds used and the page cut into columns as split_columns does, keeping indentation.
 
-    parse_indent and decode2011.py tell a term from its definition by how far each line is indented, so
+    parse_indent tells a term from its definition by how far each line is indented, so
     each piece keeps its leading spaces; then each column is shifted left so its least indented line
     starts at 0.
     """
@@ -274,7 +254,8 @@ def looks_like_term(text: str) -> bool:
         return False
     if NUMBERED_DEFINITION_PATTERN.match(text):
         return False
-    if text[-1] in ".,;:!?\"”’)":
+    # A closing bracket ends a term such as "KTRU (KAY-true)"; other closing punctuation ends a sentence.
+    if text[-1] in ".,;:!?\"”’" or (text[-1] == ")" and "(" not in text):
         return False
     if not (text[0].isupper() or text[0].isdigit() or text[0] in TERM_OPENING_CHARACTERS):
         return False
@@ -287,7 +268,9 @@ def looks_like_term(text: str) -> bool:
         or word.lower() in TERM_LOWERCASE_WORDS
         or word[0] in TERM_OPENING_CHARACTERS
     ]
-    return len(title_case_words) == len(words)
+    # A short line of up to three words may have one lowercase word: "Pumpkin caroling", "Beyond the hedges".
+    allowed_lowercase_words = 1 if len(words) <= 3 and len(text) <= 25 else 0
+    return len(words) - len(title_case_words) <= allowed_lowercase_words
 
 
 def parse_indent(lines: list[str]) -> list[GlossaryEntry]:
@@ -333,8 +316,8 @@ def parse_para(text: str, inline: bool = False, max_term_length: int = 45) -> li
     paragraph reads as running text, and the paragraph is added to the previous definition.
 
     With inline=True, the term is the paragraph's first word and the rest is its definition; terms of
-    more than one word are fixed later, by hand (finalize.py). A paragraph starting in lowercase
-    continues the previous entry.
+    more than one word are completed by add_glossary.py from earlier glossaries, or by hand. A paragraph
+    starting in lowercase continues the previous entry.
     """
     entries = []
     for paragraph in PARAGRAPH_BREAK_PATTERN.split(text):
@@ -418,12 +401,6 @@ def write_tsv(tsv_file: str, rows: list[tuple[str, str, str, str]]) -> None:
             term = term.replace("\t", " ").strip()
             definition = definition.replace("\t", " ").strip()
             tsv.write(f"{term}\t{definition}\t{source_key}\t{locator}\n")
-
-
-def show(entries: list[GlossaryEntry]) -> None:
-    """Print each entry as "[term] definition", for checking a parse by eye from a driver script."""
-    for term, definition in entries:
-        print(f"[{term}] {definition}")
 
 
 def trim_and_find_bounds(
