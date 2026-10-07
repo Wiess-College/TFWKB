@@ -1,0 +1,6 @@
+# Linters for tools/ and hooks/ (see pyproject.toml and tools/STYLE.md). Not needed to build the site.
+ruff==0.16.10
+pylint==4.1.2
+# PDF font repair (tools/fix_pdf_fonts.py). Kept out of requirements.txt, which every site deploy installs.
+pymupdf>=1.28
+fonttools>=4.66

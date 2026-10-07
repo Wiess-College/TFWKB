@@ -2,7 +2,7 @@
 title: Gazilchers
 status: draft
 last_reviewed: 2026-10-05
-reviewed_by: unreviewed
+reviewed_by: LM
 ---
 
 # Gazilchers
@@ -28,7 +28,7 @@ Hanszen fired too. One alum remembers shelling Wiess with "the Hanszen College A
 
 ## Why it stopped
 
-Stuff broke. One alum recalls 1970s damage to Wiess's clay roof tiles of "around $1,000 – $2,000 which was serious money in those days" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Richard Miller, 18 Apr 2011]. The slingshots "eventually were suppressed by the administration after they began causing property damage" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011].
+One alum recalls 1970s damage to Wiess's clay roof tiles of "around $1,000 – $2,000 which was serious money in those days" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Richard Miller, 18 Apr 2011]. The slingshots "eventually were suppressed by the administration after they began causing property damage" [@rhc 2011-04-15 friday-afternoon-follies-3 comment by Joseph Lockett ('91), 15 Apr 2011].
 
 ## Photographs
 

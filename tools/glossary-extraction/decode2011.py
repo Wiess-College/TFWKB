@@ -1,5 +1,24 @@
+<<<<<<< Updated upstream
 """Glyph-order cipher used by two subsetted fonts in the 2011 O-Week book (pp.92-96).
 Maps derived by aligning with the 2010 book's identical passages."""
+=======
+"""Decode the glyph-order cipher of two subsetted fonts in the 2011 O-Week book (pp.92-96).
+
+The glossary pages of the 2011 book embed two fonts whose glyph codes are not ASCII, so their text layer
+reads as punctuation: "3#+-"6+"4$0&" is "When we said". Without decoding, those pages give no glossary
+at all. The body text font and the bold heading font each have their own map below, derived by aligning
+the garbled pages with the identical passages in the 2010 book.
+
+extract_layout.py runs this file with exec() when given "--decode decode2011.py", then calls
+decode_column on the lines of each column. decode_column is the only name it looks up. This file reads
+and writes no files. A character missing from a map comes out as "�" followed by the character itself,
+so a gap in the map shows up in the review output.
+
+BODY_TEXT_CIPHER swaps two entries: "`" is really "!" and "a" is really ")", as the glyph outlines show
+(tools/fix_pdf_fonts.py). finalize.py's correction for "Smoothie King (yummy!)" covers the one place it shows.
+"""
+
+>>>>>>> Stashed changes
 import re
 
 A = {  # body text font

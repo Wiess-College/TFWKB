@@ -1,11 +1,53 @@
 #!/usr/bin/env python3
+<<<<<<< Updated upstream
 """Extract a glossary from a layout-order text file.
+=======
+"""Extract a glossary from a layout-order text file, writing one TSV row per term with its page.
+
+sources/glossaries/<year>.tsv holds each source's glossary, and every row must say which page its
+term is on so it can be cited. Some glossary pages are in two or three columns, so the text extract,
+which keeps the layout, has to be cut into columns and parsed in that source's style before the terms
+can be read. This script does that for one source, using the helpers in gloss.py. run_all.py runs it for
+every source with the options that suit each one; its output then goes through finalize.py.
+
+It reads the text file (pages separated by form feeds, numbered from 1 as in the PDF) and writes one
+TSV, replacing any file already there, with the columns term, definition, source_key and locator
+("p.N", after --loc-prefix if given). It prints each entry with its page on standard output, for
+review, and on standard error one "# page N bounds [...]" line per page (the column starts used)
+and a last "# wrote N entries to ..." line.
+>>>>>>> Stashed changes
 
     python3 extract_layout.py <txt> <first_page> <last_page> <source_key> <out.tsv> [--smart] [--plain]
                               [--loc-prefix "part 7 "] [--skip PAGE:N,...] [--furniture REGEX ...]
 
+<<<<<<< Updated upstream
 Pages are 1-based PDF pages. Writes a TSV with term, definition, source_key, locator (p.N).
 Prints each entry with its page for review.
+=======
+The options (run_all.py shows which book uses which):
+
+    --mode          numbered (2003-2008), plain, indent (2010, 2011), para (2014), inline (2015-2017),
+                    colon (2016 Owlmanac); --plain parses as plain, while --mode still picks the splitter
+    --ncols N       columns per page (default 3); 1 reads the page whole and ignores --skip and --bounds
+    --bounds        fixed column starts for some pages, "PAGE:x1/x2,..."; other pages find their own
+    --smart, --smart-pages
+                    split all, or the listed, pages with split_columns_smart, for columns that drift
+    --skip          lines to drop at the top of some pages, "PAGE:N,..."
+    --furniture     more header and footer lines to drop, as regexes matched against the whole line
+    --decode FILE   undo a cipher with decode2011.py or decode2014.py, column by column
+    --fix29         decode +29 font-shifted runs with tools/fix_pdf_text.py
+
+Importing gloss.py needs tools/fix_pdf_text.py, and the path added for it below is the build
+environment's. On another machine, edit it or put tools/ on PYTHONPATH,
+or it stops at once with ModuleNotFoundError.
+
+The TSV is written only at the end, so if it stops early no TSV has been written or changed. A text
+file or --decode file that cannot be read, or a malformed --skip, --bounds or --smart-pages value,
+stops it with a traceback; so does a page past the end of the file, after the bounds lines for the
+pages before it. A first page of 0 is not an error: it reads the last page of the file. A term whose
+line cannot be found again in the column text is given the page of the line after the previous term
+found (or of the last line), so check pages in the review output.
+>>>>>>> Stashed changes
 """
 import argparse
 import re

@@ -2,6 +2,8 @@
 title: Add your story or fix something
 ---
 
+This knowledgebase is a community effort, and it's incomplete without your input. Even if all you have is a recollection, share it and when someone has the time, we can do some research to look into it and make the site better.
+
 # Add your story or fix something
 
 !!! abstract "TL;DR"

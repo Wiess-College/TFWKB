@@ -8,6 +8,12 @@ turns up. `run_all.py` drives the others; `extract_layout.py` splits two-column 
 (`/home/claude/corpus/...` in the build environment; `~/projects/wiess-archive/` on the
 maintainer's machine)—adjust before running.
 
+For a new book whose text comes out garbled, don't write another decoder: run
+`tools/fix_pdf_fonts.py repair` on the PDF and extract text from the repaired copy. It identifies each
+glyph by its outline and writes correct `/ToUnicode` maps, and on the 2011 and 2014 books it reproduces
+these glossaries without `--decode` (October 2026). The two decoders are kept because the corpus text
+files the TSVs were made from still need them.
+
 `extract_2019_2025.py` (October 2026) is separate: it reads the reading-order text layer
 (`historian-collection/text-raw/`) of the four books from the maintainer's collection, with the
 term list for each page given by hand and the few column splits patched in `FIXES`. The 2021

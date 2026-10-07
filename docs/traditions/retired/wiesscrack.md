@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # The WiessCrack
 
-The WiessCrack was Wiess's own joke newspaper; say it out loud: "Wise Crack." By 1994 it was "Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher" [@handbook-1994].
+The WiessCrack was Wiess's own joke newspaper. By 1994 it was "Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher" [@handbook-1994].
 
 !!! abstract "TL;DR"
     - A Wiess paper from at least 1968 [@rhc 2015-01-23 friday-follies-wiess-crack]. The Thresher called it "an underground newspaper" in 1970 [@thresher-1970-09-03-wiess-crack] and "always pretty bad and very funny" in 1972 [@thresher-1972-08-25-wiess-crack].
@@ -16,7 +16,7 @@ The WiessCrack was Wiess's own joke newspaper; say it out loud: "Wise Crack." By
 
 ## What it was
 
-A parody of the *Thresher* (Rice's student newspaper) and of the *Trasher*, the Thresher's own April Fools issue [@riceinfo-crack] [@oweek-2008 part 7 p.7]. How it got made, per 1999: "Throughout the year (the night before it's due out) comedically-skilled Wiessmen put together articles, features and other random shit to put on paper" [@riceinfo-crack].
+A parody of the *Thresher* and of the *Trasher*, the Thresher's own April Fools issue [@riceinfo-crack] [@oweek-2008 part 7 p.7]. How it got made, per 1999: "Throughout the year (the night before it's due out) comedically-skilled Wiessmen put together articles, features and other random shit to put on paper" [@riceinfo-crack].
 
 Some jokes were "pretty damn insulting," so the staff stayed anonymous [@riceinfo-crack].
 
