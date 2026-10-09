@@ -17,12 +17,12 @@ Upward leading we are pleading
 Let this be Great Pumpkin's night  
 
 
-![we the clowns sheet music](/docs/assets/photos/graphics/we-the-clowns_music-sheet-gray.png)
+![we the clowns sheet music](../../assets/photos/graphics/we-the-clowns_music-sheet-gray.png)
 <!-- <img src="/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg" alt="sheet music for we the clowns"/>  -->
 
 
 
 <audio controls autoplay>
-<source src="https://github.com/user-attachments/assets/1134bf51-0084-42b8-8d09-20d7536ff7ad" type="audio/mp4">
+<source src="../../assets/sounds/we-the-clowns-spooky.mp4" type="audio/mp4">
 </audio>
 
