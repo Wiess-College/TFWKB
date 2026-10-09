@@ -1,5 +1,5 @@
 ---
-title: Team Family Knowledge-base
+title: Team Family Wiess Knowledge Base
 hide:
   - navigation
   - toc
@@ -7,7 +7,7 @@ hide:
 
 <div class="tfw-hero" markdown>
 
-# Team Family Knowledge-base { .tfw-hero__title }
+# Team Family Wiess Knowledge Base { .tfw-hero__title }
 
 The history of Wiess College, Rice University, written down and sourced.
 { .tfw-hero__what }

@@ -1,6 +1,6 @@
 # TFWKB style guide
 
-How to write and rewrite pages for Team Family Knowledge-base. Read this before you touch a page under `docs/`.
+How to write and rewrite pages for Team Family Wiess Knowledge Base. Read this before you touch a page under `docs/`.
 
 The readers are mostly college students, often on a phone. Give them the plain facts first and short paragraphs. The timeline and sources are underneath for anyone who wants to check.
 

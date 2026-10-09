@@ -4,7 +4,7 @@ title: From the Commons to the Record
 
 # From the Commons to the Record
 
-Students turn over every four years and memory is unreliable. Team Family Knowledge-base separates the easy place to say something from the careful place to state it, and gives the Historian a bounded job: moving things from one to the other.
+Students turn over every four years and memory is unreliable. Team Family Wiess Knowledge Base separates the easy place to say something from the careful place to state it, and gives the Historian a bounded job: moving things from one to the other.
 
 ## The Commons (the wiki)
 

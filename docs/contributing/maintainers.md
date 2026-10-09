@@ -4,7 +4,7 @@ title: Maintainers
 
 # Maintainers
 
-Team Family Knowledge-base belongs to the `Wiess-College` GitHub organization, alongside [WarPig](https://github.com/Wiess-College/WarPig), [governance](https://github.com/Wiess-College/governance) and the TFW tile widget. Organizations survive people: ownership is a role held by several accounts, not a repository someone has to remember to hand over.
+Team Family Wiess Knowledge Base belongs to the `Wiess-College` GitHub organization, alongside [WarPig](https://github.com/Wiess-College/WarPig), [governance](https://github.com/Wiess-College/governance) and the TFW tile widget. Organizations survive people: ownership is a role held by several accounts, not a repository someone has to remember to hand over.
 
 ## Roles
 

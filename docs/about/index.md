@@ -11,7 +11,7 @@ title: About this site
 
 ## What this is
 
-Team Family Knowledge-base (TFWKB) is the history of Wiess College at Rice University. It covers the traditions, the buildings, the people in college jobs, the rules, and how all of it changed.
+Team Family Wiess Knowledge Base (TFWKB) is the history of Wiess College at Rice University. It covers the traditions, the buildings, the people in college jobs, the rules, and how all of it changed.
 
 Every fact links to where it came from. When sources disagree, the page says so. When we haven't found something yet, the page says that too.
 

@@ -1,6 +1,4 @@
-# Team Family Knowledge-base 💛🖤💛
-
-<img src="https://raw.githubusercontent.com/Wiess-College/TFWKB/refs/heads/main/docs/assets/wiessshield.svg" alt="Large Image" style="max-width: 300px;">
+# Team Family Wiess Knowledge Base 💛🖤💛
 
 The sourced history of Wiess College—traditions, places, people, governance and how they changed—with every claim cited.  
 **TL:DR; if you're just looking for the knowledge-base website, it's here: https://wiess-college.github.io/TFWKB/**

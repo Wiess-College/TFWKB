@@ -1,6 +1,6 @@
 # Citing
 
-Team Family Knowledge-base holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere—in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts.
+Team Family Wiess Knowledge Base holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere—in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts.
 
 ## The short forms
 

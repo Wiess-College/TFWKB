@@ -7,7 +7,7 @@ title: Contributing
 !!! tip "Just want to share a story or fix a mistake?"
     You don't need anything on this page. Use the buttons at the top or bottom of any page, or see [Add your story or fix something](../about/contribute.md).
 
-Team Family Knowledge-base is maintained by Wiess students, alumni and staff on GitHub, in the open. Anyone with a GitHub account can contribute; what differs is where. Rewriting a page? Follow the house style guide, `STYLE.md`, at the root of the repository.
+Team Family Wiess Knowledge Base is maintained by Wiess students, alumni and staff on GitHub, in the open. Anyone with a GitHub account can contribute; what differs is where. Rewriting a page? Follow the house style guide, `STYLE.md`, at the root of the repository.
 
 **Two tiers:** The [Commons](https://github.com/Wiess-College/TFWKB/wiki)—this repository's wiki—is the easy place to *say* something: a memory, a question, a draft, a photograph you can't quite date. No review. Sign with your name and class year, say how you know (I was there / I was told / I read it in…), and strike through rather than delete. The **Record**—these pages—is the careful place to *state* something: every change is a pull request, every claim is cited, and one other maintainer approves before it lands (two for Governance and Decisions pages). The path from one to the other is [Commons → Issue → PR → Record](commons-to-record.md), and walking it is the Historian's job.
 
