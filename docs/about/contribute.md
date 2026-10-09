@@ -2,7 +2,7 @@
 title: Add your story or fix something
 ---
 
-This knowledge-base is a community effort, and it's incomplete without your input. Even if all you have is a recollection, share it and when someone has the time, we can do some research to look into it and make the site better.
+This is a community effort, and it's incomplete without your input. Even if all you have is a memory, share it and when someone has the time, we can do some research to look into it to make the site better.
 
 # Add your story or fix something
 
@@ -51,9 +51,9 @@ Not sure yet? Just want to argue about when Team Wiess started? Start a conversa
 
 ## What happens next
 
-A maintainer reads every form. If your story has something we can source, they go looking (Thresher, O-Week books, old websites) and add it to the page with a citation. If it can't be sourced yet, it goes in the [Commons](https://github.com/Wiess-College/TFWKB/wiki) and the [wanted list](../sources/wanted.md).
+A maintainer weill read every submission and decide what to next. If your story has something we can source, they go looking (Thresher, O-Week books, old websites, Woodson collection) and add it to the page with a citation. If it can't be sourced yet, it goes in the [Commons](https://github.com/Wiess-College/TFWKB/wiki) and the [wanted list](../sources/wanted.md).
 
-Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues). If you know something the site doesn't, that's normal: it draws on a small part of what exists, and the Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079]. Tell us, or tell us where to look.
+Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues). If you know something the site doesn't, that's normal: it draws on a small part of what exists (mostly OSINT), and the Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079]. Tell us, and if you can, tell us where to look.
 
 ## What we can't use
 
@@ -63,7 +63,7 @@ Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/T
 
 ## Comfortable with GitHub?
 
-Edit the page yourself. Click the pencil icon at the top right of any page. GitHub opens the file in your browser, and when you save, it makes a pull request for you. A maintainer checks your sources and merges it.
+Feel free to edit the pages yourself. Click the pencil icon at the top right of any page. GitHub opens the file in your browser, and when you save, it makes a pull request for you. A maintainer checks your sources and merges it.
 
 Read these first:
 
@@ -71,6 +71,3 @@ Read these first:
 - [How to cite](../contributing/citing.md)
 - [Page template](../contributing/page-template.md)
 - [From the Commons to the Record](../contributing/commons-to-record.md)
-
-!!! note "For maintainers"
-    The "Discuss" button points to GitHub Discussions. Turn it on in the repository's Settings → General → Features → Discussions. To point it at the wiki instead, change `extra.discuss_url` in `mkdocs.yml`.

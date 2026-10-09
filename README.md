@@ -1,24 +1,23 @@
-# Team Family Knowledge-base (Wiess)
+# Team Family Knowledge-base
 
-The sourced history of Wiess College—traditions, places, people, governance and how they changed—with every claim cited to a permalink that resolves without us.
+The sourced history of Wiess College—traditions, places, people, governance and how they changed—with every claim cited.  
+**TL/DR; if you're just looking for the knowledge-base website, it's here: https://wiess-college.github.io/TFWKB/**
 
-**Site:** https://wiess-college.github.io/TFWKB/. 
-**Commons (wiki):** the easy place to say something. 
-**Record (this repo):** the cited records.
+## How it works
 
-## What is here
+This repo is divided into a few basic sections:
+ - **docs/**:         where all the markdown files live with all the cited information about Wiess in them
+ - **[sources/](/sources/README.md)**:       this is where the build tools have saved records of all the citations used in the docs. it's ok to add to these manually too.
+ - **[tools/](/tools/README.md)**:         the toolchain used to contribute, since we're citing but not duplicating sources  
+ - **[Actions](https://github.com/Wiess-College/TFWKB/actions)**:        build mkdocs, make the pretty HTML, and serve on GitHub pages **site:** https://wiess-college.github.io/TFWKB/
+ - **[Wiki](https://github.com/Wiess-College/TFWKB/wiki)**:           a place for anyone to share stories, provide links and leads, and collaborate on content. This is the commons and you can comes say anything here.
+ - **[Issues](https://github.com/Wiess-College/TFWKB/issues)**:         a place to report issues: with content, with the sites, or with the code
 
+Within each section there's a bit more detail, and you can view the various README.md files for more information. The mkdocs pages serve up links to GitHub issue templates so in-page corrections can be suggested, but there are also links to the wiki pages as well.
+
+
+### Other locations and tools
 ```
-docs/                        markdown pages following a fixed template with every claim cited  
-  traditions/                current and retired traditions  
-  places/  
-  people/  
-  governance/  
-  changes/  
-  decisions/  
-  web/  
-  sources/  
-  contributing/
 sources/
   bibliography/*.yaml        every source the pages cite (key, permalink or held_by, evidence class, notes)  
   glossaries/<key>.tsv       1,672 definitions from 16 glossaries, 1994–2025, one file per source  
@@ -62,6 +61,6 @@ what changed since the previous book; you fix the table by hand. `python3 tools/
 
 Read `docs/contributing/citing.md` and `docs/contributing/page-template.md` before writing. Conflicts between sources go in the page, under **Variants & disputes**.
 
-## Licence
+## License
 
 Text CC BY-SA 4.0 (`LICENSE`); code MIT (`LICENSE-CODE`). Third-party material is quoted briefly and linked, not re-hosted: `docs/contributing/rights.md`.
