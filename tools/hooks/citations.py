@@ -79,7 +79,7 @@ if TYPE_CHECKING:
 # A child of the "mkdocs" logger, so MkDocs prints these warnings and --strict counts them.
 LOGGER = logging.getLogger("mkdocs.plugins.familykb.citations")
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT = REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 BIBLIOGRAPHY_FILES_GLOB = os.path.join(REPO_ROOT, "sources", "bibliography", "*.yaml")
 # One "<ARK id><tab><YYYY-MM-DD>" line per Thresher issue; other lines, such as the header, are skipped.
 PORTAL_ISSUE_DATES_FILE = os.path.join(REPO_ROOT, "sources", "portal-issue-dates.tsv")

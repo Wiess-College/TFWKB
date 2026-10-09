@@ -4,7 +4,7 @@
 The original photographs are too large to serve on the site, and their file names are whatever the camera or
 scanner chose. This script makes the small copies the site actually shows, gives them predictable names, and
 records in docs/assets/photos/manifest.tsv where each copy came from, so that every photo on the site can be
-traced back to its original. It needs Pillow, which requirements-dev.txt installs (requirements.txt does not).
+traced back to its original. It needs Pillow, which requirements.txt installs (requirements.txt does not).
 
 Run it from the repo root whenever originals are added to the photo folders, before listing the new photos in
 sources/photo-placements.yaml and running tools/apply_photos.py (which needs their manifest rows):

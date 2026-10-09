@@ -118,14 +118,14 @@ report_missing() { say "  missing: $1"; say "      $2"; missing=$((missing + 1))
 
 for linter in ruff pylint; do
     [ -x ".venv/bin/$linter" ] || command -v "$linter" >/dev/null 2>&1 \
-        || report_missing "$linter (lints tools/ and hooks/, as CI does)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+        || report_missing "$linter (lints tools/ and hooks/, as CI does)" "$VENV_PYTHON -m pip install -r requirements.txt"
 done
 "$VENV_PYTHON" -c 'import fitz' 2>/dev/null \
-    || report_missing "pymupdf (tools/fix_pdf_fonts.py, and add_glossary.py for books with broken fonts)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+    || report_missing "pymupdf (tools/fix_pdf_fonts.py, and add_glossary.py for books with broken fonts)" "$VENV_PYTHON -m pip install -r requirements.txt"
 "$VENV_PYTHON" -c 'import fontTools' 2>/dev/null \
-    || report_missing "fonttools (tools/fix_pdf_fonts.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+    || report_missing "fonttools (tools/fix_pdf_fonts.py)" "$VENV_PYTHON -m pip install -r requirements.txt"
 "$VENV_PYTHON" -c 'import PIL' 2>/dev/null \
-    || report_missing "pillow (tools/make_web_photos.py)" "$VENV_PYTHON -m pip install -r requirements-dev.txt"
+    || report_missing "pillow (tools/make_web_photos.py)" "$VENV_PYTHON -m pip install -r requirements.txt"
 command -v pdftotext >/dev/null 2>&1 \
     || report_missing "pdftotext (tools/add_glossary.py reads O-Week book PDFs with it)" "macOS: brew install poppler; Linux: install poppler-utils"
 command -v gh >/dev/null 2>&1 \

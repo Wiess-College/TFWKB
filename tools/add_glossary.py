@@ -47,7 +47,7 @@ one row, "What to call people from…".
     --replace            overwrite a table that is already there; without it, an existing table stops it
 
 It needs pdftotext (macOS: brew install poppler; Linux: poppler-utils). Repairing fonts also needs PyMuPDF
-and fontTools: pip install -r requirements-dev.txt. It checks for each before it needs it, and stops with a
+and fontTools: pip install -r requirements.txt. It checks for each before it needs it, and stops with a
 message saying what to install.
 
 It writes only sources/glossaries/<source key>.tsv and what tools/build_glossary_series.py writes, and only after
@@ -346,7 +346,7 @@ def repair_fonts(pdf_file: str, first_page: int, last_page: int, work_folder: st
         import pymupdf  # noqa: PLC0415  (only a garbled book needs it, and requirements.txt does not install it)
     except ImportError:
         raise SystemExit(
-            "Repairing the fonts needs PyMuPDF and fontTools: pip install -r requirements-dev.txt"
+            "Repairing the fonts needs PyMuPDF and fontTools: pip install -r requirements.txt"
         ) from None
     pages_file = os.path.join(work_folder, "glossary-pages.pdf")
     repaired_file = os.path.join(work_folder, "glossary-pages-repaired.pdf")

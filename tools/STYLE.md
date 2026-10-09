@@ -182,7 +182,7 @@ in `pyproject.toml`, with the reason beside it.
 - **Lines are at most 120 characters:** Wrap long text with implicit string concatenation. Data that editors
   change by hand, such as photo captions, belongs in a YAML file under `sources/`, not in a Python file.
 - **Standard library, plus what `requirements.txt` installs for the site** (MkDocs, PyYAML), on Python 3.12.
-  Anything else, such as Pillow for `make_web_photos.py`, goes in `requirements-dev.txt` and is named in the
+  Anything else, such as Pillow for `make_web_photos.py`, goes in `requirements.txt` and is named in the
   module docstring. If only one mode of a script needs an extra package, import it inside the function that uses
   it, with a comment saying why.
 
@@ -192,9 +192,8 @@ Run the linters before you push. CI (`.github/workflows/lint.yml`) runs the same
 request that touches `tools/`, `hooks/`, the lint settings or the lint workflow.
 
 ```
-pip install -r requirements-dev.txt
-ruff check
-pylint tools hooks
+pip install -r requirements.txt
+cd tools && ruff check && pylint
 ```
 
 | Rule | Checked by |

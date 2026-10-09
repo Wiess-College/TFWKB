@@ -29,8 +29,8 @@ garbled character should be:
     --ref FONT_FILE      also compare against this .ttf, .otf or .ttc file; give it once per file
     --no-installed-fonts compare only against --ref files and the PDF's own fonts
 
-It needs PyMuPDF and fontTools, which requirements-dev.txt installs (requirements.txt, for the site, does not):
-pip install -r requirements-dev.txt.
+It needs PyMuPDF and fontTools, which requirements.txt installs (requirements.txt, for the site, does not):
+pip install -r requirements.txt.
 
 In the report, a glyph written with an unquoted ? matched no reference shape; a repair leaves it as it
 was. "unchecked" means none of the font's glyphs matched a reference, so the script cannot tell whether

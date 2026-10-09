@@ -7,7 +7,7 @@ Maintainer scripts. This page is the map. Each script's docstring is the full re
 - `./setup.sh` makes `.venv/`, installs `requirements.txt`, writes `tfwkb.config.yml`, lists missing optional tools.
 - Python 3.12.
 - `requirements.txt`: site build only (MkDocs, PyYAML). Every deploy installs it, so keep it small.
-- `requirements-dev.txt`: linters, plus PyMuPDF and fontTools (PDF fonts) and Pillow (photos).
+- `requirements.txt`: linters, plus PyMuPDF and fontTools (PDF fonts) and Pillow (photos).
 - External programs:
 
   | Program | Needed by |
@@ -99,7 +99,7 @@ Modules (imported, never run):
 - **Tools run anywhere, on whatever document you have:** Nothing assumes one machine or a shared corpus. Commit the output, not the source document.
 - **Editor data is YAML under `sources/`:** Fields are labelled, and there's no Python syntax to break. Scripts check it and stop with a message naming the entry.
 - **Generated files are never edited by hand:** This covers the Photographs page, Record-page galleries, the glossary series page, `governance-versions.md` and the manifest's caption columns. Edit the source and rerun the tool.
-- **Two requirements files:** `requirements.txt` holds only what the site build needs, since every deploy installs it. Everything else goes in `requirements-dev.txt`.
+- **Two requirements files:** `requirements.txt` holds only what the site build needs, since every deploy installs it. Everything else goes in `requirements.txt`.
 - **No machine-specific paths in code:** Folders outside the repo come from `repository_folders.py`. CI fails on `/Users/`, `/home/` or `/mnt/` in `tools/` and `hooks/`.
 - **Names:** scripts are verb_object (what they do); modules are nouns (what they hold). `cite.py` stays short because editors type it most. See `STYLE.md` §1.
 - **Garbled PDFs are fixed in the PDF, not in the text:**
@@ -113,9 +113,8 @@ Modules (imported, never run):
 
 - Follow `STYLE.md`. `apply_photos.py` is the reference example.
 - Lint:
-  1. `pip install -r requirements-dev.txt`
-  2. `ruff check`
-  3. `pylint tools hooks`
+  1. `pip install -r requirements.txt`
+  2. `cd tools && ruff check && pylint`
 
   CI runs the same on pull requests that touch `tools/` or `hooks/`.
 - Scripts not yet rewritten are listed twice in `pyproject.toml`. To convert one, follow `STYLE.md` §5: compare outputs before and after, then remove it from both lists.

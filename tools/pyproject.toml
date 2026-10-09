@@ -1,26 +1,25 @@
 # Lint settings for the Python in tools/ and hooks/. This file only configures ruff and pylint; it does not
 # make the repo a package. The rules they enforce are explained in tools/STYLE.md.
 #
-#   pip install -r requirements-dev.txt
-#   ruff check
-#   pylint tools hooks
+#   pip install -r requirements.txt
+#   cd tools && ruff check && pylint
 #
 # The linters cannot check that a docstring explains why and how, or that it is still true; reviewers do.
 
 [tool.ruff]
 target-version = "py312"
 line-length = 120
-include = ["tools/**/*.py", "tools/hooks/**/*.py"]
+include = ["**/*.py"]
 # Scripts not yet rewritten to tools/STYLE.md. Remove a script from this list, and from pylint's ignore list
 # below, in the same commit that rewrites it. New scripts are linted from the start.
 extend-exclude = [
-    "tools/build_glossary_series.py",
-    "tools/check_links.py",
-    "tools/diff_glossary.py",
-    "tools/find_pdf_page.py",
-    "tools/fix_pdf_text.py",
-    "tools/import_governance_changes.py",
-    "tools/make_web_photos.py",
+    "build_glossary_series.py",
+    "check_links.py",
+    "diff_glossary.py",
+    "find_pdf_page.py",
+    "fix_pdf_text.py",
+    "import_governance_changes.py",
+    "make_web_photos.py",
 ]
 
 [tool.ruff.lint]

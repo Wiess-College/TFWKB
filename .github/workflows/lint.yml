@@ -3,9 +3,9 @@ name: Lint Python tools
 on:
   push:
     branches: [main]
-    paths: ["tools/**", "hooks/**", "setup.sh", "pyproject.toml", "requirements-dev.txt", ".github/workflows/lint.yml"]
+    paths: ["tools/**", "setup.sh", ".github/workflows/lint.yml"]
   pull_request:
-    paths: ["tools/**", "hooks/**", "setup.sh", "pyproject.toml", "requirements-dev.txt", ".github/workflows/lint.yml"]
+    paths: ["tools/**", "setup.sh", ".github/workflows/lint.yml"]
   workflow_dispatch:
 
 permissions:
@@ -21,12 +21,15 @@ jobs:
           python-version: "3.12"
       - name: No machine-specific paths (use tools/repository_folders.py instead)
         run: |
-          if grep -rnE '/home/|/Users/|/mnt/' --include='*.py' --include='*.sh' tools hooks setup.sh; then
+          if grep -rnE '/home/|/Users/|/mnt/' --include='*.py' --include='*.sh' tools setup.sh; then
             echo '::error::A path from one machine is written into the code above. Find the folder with tools/repository_folders.py.'
             exit 1
           fi
-      - run: pip install -r requirements-dev.txt
+      - run: pip install -r requirements.txt
       - name: ruff (docstrings, naming case, line length, with-blocks, type hints)
+        working-directory: tools
         run: ruff check --output-format=github
       - name: pylint (name length and banned abbreviations)
-        run: pylint tools hooks
+        working-directory: tools
+        run: pylint
+
