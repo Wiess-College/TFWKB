@@ -16,5 +16,4 @@ Star with mystic powers if might
 Upward leading we are pleading
 Let this be Great Pumpkin's night
 
-![music sheet](docs/assets/photos/graphics/we-the-clowns_music-sheet-export.svg)
-
+![music sheet](/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg)
