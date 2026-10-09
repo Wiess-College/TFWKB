@@ -7,7 +7,7 @@ reviewed_by: LM
 
 # Cabinet
 
-Cabinet is Wiess's student government. Under the Constitution it holds the college's legislative power and sets and administers the Rules and Bylaws [@constitution-2026 Art. IV §§1–2]. It meets on Wednesdays [@oweek-2014 p.102] [@teamwiess-cabinet-2021].
+Cabinet is Wiess's government. Under the Constitution it holds the college's legislative power and sets and administers the Rules and Bylaws [@constitution-2026 Art. IV §§1–2]. It meets on Wednesdays [@oweek-2014 p.102] [@teamwiess-cabinet-2021].
 
 <div class="facts" markdown>
 
@@ -37,13 +37,13 @@ Wiessmen who are not members of Cab fill in for members as proxies, debating on 
 
 ## How Cabinet has changed
 
-**Size.** The Constitution has set Cabinet at "fifteen members" (1993), "seventeen" (2007), "nineteen" (2013–2017), and "17 voting members" plus a separate list of non-voting ones (2020 onward) [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4] [@constitution-2013 Art. III §4] [@constitution-2020 Art. III §§12–13] [@constitution-2026 Art. V §1]. The core offices (President, Vice Presidents, Treasurer, Secretary, class representatives, Parliamentarian and Historian) appear in every version.
+**Size:** The Constitution has set Cabinet at "fifteen members" (1993), "seventeen" (2007), "nineteen" (2013–2017), and "17 voting members" plus a separate list of non-voting ones (2020 onward) [@constitution-1993 Art. III §4] [@constitution-2007 Art. III §4] [@constitution-2013 Art. III §4] [@constitution-2020 Art. III §§12–13] [@constitution-2026 Art. V §1]. The core offices (President, Vice Presidents, Treasurer, Secretary, class representatives, Parliamentarian and Historian) appear in every version.
 
-**Voting and non-voting.** The 12 February 2020 text is the first found that counts only voting members and lists non-voting members separately. It is also the first in which the Secretary, Capital Improvements Liaison and Academics and Career Chair are appointed and non-voting [@constitution-2020 Art. III §§12–13]. The Secretary had been an elected, voting officer from 1993 to 2017. The c. 2025 and 2026 texts put the two lists in separate articles, V and VI [@constitution-hate-speech Arts. V–VI] [@constitution-2026 Arts. V–VI].
+**Voting and non-voting:** The 12 February 2020 text is the first found that counts only voting members and lists non-voting members separately. It is also the first in which the Secretary, Capital Improvements Liaison and Academics and Career Chair are appointed and non-voting [@constitution-2020 Art. III §§12–13]. The Secretary had been an elected, voting officer from 1993 to 2017. The c. 2025 and 2026 texts put the two lists in separate articles, V and VI [@constitution-hate-speech Arts. V–VI] [@constitution-2026 Arts. V–VI].
 
-**Attendance.** The rule was "multiple unexcused absences" in 2007 and "more than three" in 2016 [@constitution-2007 Art. III §9] [@constitution-2016 Art. III §10]. The proxy rule and "Two unproxied absences" date from the 2020 text [@constitution-2020 Art. III §7].
+**Attendance:** The rule was "multiple unexcused absences" in 2007 and "more than three" in 2016 [@constitution-2007 Art. III §9] [@constitution-2016 Art. III §10]. The proxy rule and "Two unproxied absences" date from the 2020 text [@constitution-2020 Art. III §7].
 
-**Appointments.** In 1993, 2007 and 2013, "The appointed members shall be selected by the Cabinet in the spring semester"; the At-Large and Capital Improvements Representatives were "nominated by the President and approved by two-thirds majority vote of Cabinet" [@constitution-1993 Art. III §§3–4] [@constitution-2013 Art. III §§3–4]. In 2016 the rule became "selected by the President with the approval of Cabinet" [@constitution-2016 Art. III §3]. In 2017 it went back to "selected by the Cabinet" [@constitution-2017 Art. III §3]. In 2020 it returned to the President, "with the approval of Cabinet" [@constitution-2020 Art. III §§3, 13].
+**Appointments:** In 1993, 2007 and 2013, "The appointed members shall be selected by the Cabinet in the spring semester"; the At-Large and Capital Improvements Representatives were "nominated by the President and approved by two-thirds majority vote of Cabinet" [@constitution-1993 Art. III §§3–4] [@constitution-2013 Art. III §§3–4]. In 2016 the rule became "selected by the President with the approval of Cabinet" [@constitution-2016 Art. III §3]. In 2017 it went back to "selected by the Cabinet" [@constitution-2017 Art. III §3]. In 2020 it returned to the President, "with the approval of Cabinet" [@constitution-2020 Art. III §§3, 13].
 
 ### Offices, constitution by constitution
 
@@ -121,8 +121,8 @@ The table lists the offices each constitution names. "E" means elected by the co
 | Parliamentarian | A, nv | A, nv | A, nv | A, nv | A, nv; "User's Guide to Wiess Government"; three-year review "starting in the fall of 2020" | A, nv; takes attendance, runs the three-year review |
 | Historian | A, nv | A, nv | A, nv | A, nv | A, nv, "Historian(s)", photo album | A, nv, "Historian(s)", also runs social media |
 | Student Association Senator | E, nv, own article | E, nv, own article | E, nv, own article | E, nv, in the Cabinet list | E, nv | E, nv |
-| Chief Justice | "An Associate or Chief Justice… present at all College and Cabinet meetings" | same | same | same | "observing member" | "observing member", elected; in the Executive Cabinet (2026 only) |
-| Magister(s) and Resident Associates | nv; Master has veto | same | same | same | nv; "Magisters" have veto | nv; Magisters have veto; Cabinet may dissent by two-thirds |
+| Chief Justice | "An Associate or Chief Justice… present at all college and Cabinet meetings" | same | same | same | "observing member" | "observing member", elected; in the Executive Cabinet (2026 only) |
+| Magister(s) and resident associates | nv; Master has veto | same | same | same | nv; "Magisters" have veto | nv; Magisters have veto; Cabinet may dissent by two-thirds |
 
 Offices outside the constitutional list show from time to time like a Game Room Chairman, "filled by presidential appointees", in 1998 [@riceinfo-cabinet-1998], and two "SA New Student Representatives" in 2021 and 2023 [@teamwiess-cabinet-2021] [@wiess-rice-edu-cabinet-2023].
 
@@ -222,7 +222,7 @@ Beside the Cabinet stands a much larger and less consistent body of appointed re
 | When | What | Evidence |
 |---|---|---|
 | 1993-08-05 | Constitution: Cabinet of "fifteen members", twelve offices, elected in spring except Freshman Representatives; appointed members "selected by the Cabinet"; Parliamentarian and Historian non-voting [@constitution-1993 Art. III §§3–4, 6] | [P] |
-| 1993-08-05 | Bylaws: minutes "published within one week of the meeting", signed by the Secretary and two other members; meetings announced 24 hours ahead so "all members of the College may attend" [@constitution-1993 Bylaws Art. II §§2, 6] | [P] |
+| 1993-08-05 | Bylaws: minutes "published within one week of the meeting", signed by the Secretary and two other members; meetings announced 24 hours ahead so "all members of the college may attend" [@constitution-1993 Bylaws Art. II §§2, 6] | [P] |
 | 1998-07-19 | Website: "twelve elected and three appointed offices"; an $18,000 annual budget; the Secretary "providing the agenda and minutes of cabinet meetings"; a Game Room Chairman among the appointees [@riceinfo-cabinet-1998] | [P] |
 | 2003 | O-Week glossary: "Governing body of Wiess. Throws great parties—er meetings—every other Wednesday." [@oweek-2003 p.3] | [P] |
 | 2007-02-06 | "Seventeen members": two Social Vice Presidents and two Treasurers; attendance mandatory; Appropriations and Budget committees [@constitution-2007 Art. III §§4, 9; Art. VII] | [P] |

@@ -46,14 +46,14 @@ citation. Where sources disagree, say so here in a sentence:
 
 ## Notes on the sections
 
-**TL;DR first.** Someone who reads only the gold box should leave with the right picture. Do not open with "The history of X is long and storied."
+**TL;DR first:** Someone who reads only the gold box should leave with the right picture. Do not open with "The history of X is long and storied."
 
-**Timeline rows are claims, not prose.** One dated row per claim: ISO dates when known (`1984-10-26`), year-month or year otherwise, `c.` for approximations. Each row carries its own citation and its evidence tag. If a row needs two citations, give it two. If you cannot cite a row yet, leave it out and put it in the Commons or a [GitHub issue](https://github.com/Wiess-College/TFWKB/issues).
+**Timeline rows are claims, not prose:** One dated row per claim: ISO dates when known (`1984-10-26`), year-month or year otherwise, `c.` for approximations. Each row carries its own citation and its evidence tag. If a row needs two citations, give it two. If you cannot cite a row yet, leave it out and put it in the Commons or a [GitHub issue](https://github.com/Wiess-College/TFWKB/issues).
 
-**"In the college's own words" is quotation, not paraphrase.** Short, dated, cited. It is where the humour lives, and it is where drift shows: the War Pig was "the Wiess mascot" in 1994 and 2003, "Former Wiess mascot" from 2006 to 2011, and "embodied by the giant wooden pig built by the Class of 2012" from 2014.
+**"In the college's own words" is quotation, not paraphrase:** Short, dated, cited. It is where the humour lives, and it is where drift shows: the War Pig was "the Wiess mascot" in 1994 and 2003, "Former Wiess mascot" from 2006 to 2011, and "embodied by the giant wooden pig built by the Class of 2012" from 2014.
 
-**Disagreements get a sentence, where they matter.** Don't pick silently, and don't build a separate section for them: one or two plain sentences in the prose, with both citations.
+**Disagreements get a sentence, where they matter:** Don't pick silently, and don't build a separate section for them: one or two plain sentences in the prose, with both citations.
 
-**Open questions don't live on the page.** They are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues), where anyone can pick them up. The "Add your story" and "Suggest a correction" buttons point readers there. What we've gathered is a small part of what exists (the Woodson alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079]), so write "we haven't found it yet," not "nobody wrote it down."
+**Open questions don't live on the page:** They are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues), where anyone can pick them up. The "Add your story" and "Suggest a correction" buttons point readers there. What we've gathered is a small part of what exists (the Woodson alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079]), so write "we haven't found it yet," not "nobody wrote it down."
 
 **Retired traditions** get the same template plus a line near the top on when and why they stopped, if a source says so. Where the sources simply stop, say "last seen in <year>."

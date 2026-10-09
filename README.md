@@ -1,4 +1,4 @@
-# Team Family Knowledgebase (Wiess)
+# Team Family Knowledge-base (Wiess)
 
 The sourced history of Wiess College—traditions, places, people, governance and how they changed—with every claim cited to a permalink that resolves without us.
 

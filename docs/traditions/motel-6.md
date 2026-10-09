@@ -7,30 +7,28 @@ reviewed_by: unreviewed
 
 # Motel 6 / Motel Wiess
 
-"Motel 6" (or "Motel Wiess") is the nickname for Wiess's building, with its outdoor hallways and wrap-around balconies. The O-Week books still use it in 2025 [@oweek-2014 p.36] [@oweek-2025 p.24].
+"Motel 6" (or "Motel Wiess") is the nickname for Wiess's buildings, with their outdoor hallways and wrap-around balconies. O-Week books still used it in 2025 [@oweek-2014 p.36] [@oweek-2025 p.24].
 
 !!! abstract "TL;DR"
-    - Wiess's own 1972 Freshman Handbook said the building was built "in the best motel tradition" [@handbook-1972].
+    - Wiess's own 1972 freshman handbook said the building was built "in the best motel tradition" [@handbook-1972].
     - In 1977 a NOD was themed "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
     - Since 2006 every O-Week book has credited "the unique 'Motel 6' design" with the college's social reputation [@oweek-2006 p.37] [@oweek-2025 p.24].
 
 ## Wiess roasted itself first
 
-Outdoor hallways. Wrap-around balconies. Doors that open onto the open air. People have been calling Wiess a motel for over 50 years, and Wiess decided to own it.
-
-In 1972 the handbook joked that the dining hall, lounge and office were "all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972].
+People have been calling Wiess a motel for over 50 years, and Wiess decided to own it: In 1972 the freshman handbook joked that the dining hall, lounge and office were "all centrally located in the best motel tradition. In fact, the only missing elements are the usual gaudy neon signs and acres of parking lots" [@handbook-1972].
 
 Five years later, Wiess threw a [Night of Decadence](retired/night-of-decadence.md) called "Wiess Palms, the Six Dollar Motel" [@thresher-1977-10-13-wiess-palms].
 
 ## Then Hanszen piled on
 
-Hanszen, next door, called the building "Early Motel 6" in the early 1980s. In the late 1980s it flew a banner over a football game: "Motel Wiess: Hourly Rates Available" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012].
+Hanszen called the building "Early Motel 6" in the early 1980s. In the late 1980s it flew a banner over a football game: "Motel Wiess: Hourly Rates Available" [@rhc 2012-12-04 wiess-hall-construction-1949 comment by James Medford, 5 Dec 2012].
 
 Wiess's answer? A NOD called "Motel Wiess" that same year [@rhc 2012-12-04 wiess-hall-construction-1949 comment by George Webb, 5 Dec 2012]. See [Hanszen](hanszen-rivalry.md) for more of that.
 
 ## From insult to brag
 
-By 1998 the college website had a Resident Associate "living at Motel Wiess" [@riceinfo-associates]. Since 2006 the O-Week books have said the "Motel 6" design "brought instant notoriety" for the college's social life [@oweek-2006 p.37]. In 2014: "At Wiess, architecture truly is destiny" [@oweek-2014 p.36].
+By 1998 the college website had a resident associate "living at Motel Wiess" [@riceinfo-associates]. Since 2006 the O-Week books have said the "Motel 6" design "brought instant notoriety" for the college's social life [@oweek-2006 p.37]. In 2014: "At Wiess, architecture truly is destiny" [@oweek-2014 p.36].
 
 The old building is gone, but New Wiess kept the outdoor corridors and balconies on purpose [@riceinfo-news-2000-lundin]. So the name stuck.
 

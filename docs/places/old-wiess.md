@@ -49,8 +49,8 @@ The three-storey Central Wing, "the tower," already had five-man suites and a pr
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds.](../assets/photos/riceinfo-1997-2002/views-ten1.jpg){ loading=lazy data-title="The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds." data-description="First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) · 1998–1999" data-gallery="oldwiess1999" }
-  <figcaption>The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds. <small>First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) [@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]</small></figcaption>
+  ![The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds.](../assets/photos/riceinfo-1997-2002/views-ten1.jpg){ loading=lazy data-title="The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds." data-description="First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) · 1998–1999" data-gallery="oldwiess1999" }
+  <figcaption>The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds. <small>First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) [@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]</small></figcaption>
 </figure>
 
 <figure markdown="span">

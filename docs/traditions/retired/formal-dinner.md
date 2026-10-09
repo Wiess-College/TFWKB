@@ -37,7 +37,7 @@ An alum of the 1980s put it less politely: Wiess kept waiting "long after all ot
 
 ## Cornering
 
-"**Corner.** 1. To pull up an extra chair at the corner of a table. Frequently occurs during meals, but never at formal occasions" (2003) [@oweek-2003 conclusions p.3]. That rule fits family style: a table sat eight, "seven other Wiessmen" and you [@oweek-2003 wiess p.6], each with a served place.
+"**Corner:** 1. To pull up an extra chair at the corner of a table. Frequently occurs during meals, but never at formal occasions" (2003) [@oweek-2003 conclusions p.3]. That rule fits family style: a table sat eight, "seven other Wiessmen" and you [@oweek-2003 wiess p.6], each with a served place.
 
 "Never" softened to "not" in 2015 [@oweek-2015 p.118]. The formal-occasion part was dropped in 2021 [@oweek-2021 p.18] [@oweek-2025 p.26]. The word survived; the reason for it didn't. Year by year: [Corner](../glossary-series.md#corner).
 
@@ -56,21 +56,21 @@ The 2003 family-style table seated eight [@oweek-2003 wiess p.6], two to a side 
     | 1970s–1980s | At Hanszen, the neighbour, "Freshman serving was definitely in effect in 1980/81… It died out soon after that" [@rhc 2013-02-19 dr-baker-rocks comment by marmer01, 19 Feb 2013]; "We still had Freshman serving in Fall '81, but not in Spring '82" [@rhc 2013-02-19 dr-baker-rocks comment by James Medford, 19 Feb 2013] | [T] |
     | late 1980s | "By the late 1980s, only Wiess had freshman waiting 5 days a week, and some colleges had already abandoned it entirely" [@rhc 2013-03-15 friday-afternoon-follies-one-of-the-best-beanie-shots-of-all-times comment by George Webb, 21 Mar 2013] | [T] |
     | 1991-10-01 | Rules §VI, "Freshman Waiting": "Freshmen shall serve at seated weekday dinners on a rotating basis. Any exceptions will be worked out individually with the headwaiter"; §V gives "The College Court and the Headwaiter" authority to dismiss members from the Commons [@rules-1991 §VI] [@rules-1991 §V] | [P] |
-    | 1994 | Glossary: "**Viking Table.** A chance to eat with your hands and generally make a mess" [@handbook-1994]; the Norse Night page describes the Commons' tables being rearranged "in a 'U' shape" [@riceinfo-norse] | [P] |
+    | 1994 | Glossary: "**Viking Table:** A chance to eat with your hands and generally make a mess" [@handbook-1994]; the Norse Night page describes the Commons' tables being rearranged "in a 'U' shape" [@riceinfo-norse] | [P] |
     | 1998-07 | The Sophomore Reps are "in charge of Freshman Waiting" [@riceinfo-cabinet-1998] | [P] |
     | 2003 | New Wiess, first O-Week book. History: freshmen "were assigned to serve as waiters during family-style dinner (a tradition that proudly lives on today)" [@oweek-2003 wiess p.2]. Cabinet: the Secretary "is in charge of the microphone at family style"; the Sophomore Reps "coordinate freshmen waiting for family style" [@oweek-2003 wiess p.4]. "Family-style dining entails sitting down with seven other Wiessmen around a pseudo-fancy table, complete with a table cloth and real napkins… After O-Week, family-style is held once a week" [@oweek-2003 wiess p.6]. Glossary: Family Style ("The night features entertainment, freshmen waiters, bonding and, if you're lucky, a ubangee"), Moment of Silence, and **Corner** [@oweek-2003 conclusions p.3] [@oweek-2003 conclusions p.4] | [P] |
     | c.2004 | Family style ends: "Until two years ago, Wiess had a long tradition of family-style dinners every Monday through Thursday" (written 2006) [@oweek-2006 p.42] | [R] |
     | 2006 | History: "a family-style dinner (a tradition that lasted almost 50 years)"; "Starting this year, Wiess is instituting a new tradition: themed dinners" with the servery's chef [@oweek-2006 p.37] [@oweek-2006 p.42]. Glossary: "Freshmen Service Points… Four hours of required service for freshmen" [@oweek-2006 p.84]; "Moment of Silence" still defined "at family style" [@oweek-2006 p.84] | [P] |
     | 2010–2014 | "a tradition that died out soon after the move to our current home" (2010); "ended soon after the move" (2014) [@oweek-2010 p.38] [@oweek-2014 p.36] | [R] |
     | 2012-08-28 | Freshman Waiting and the Headwaiter gone from the College Rules [@college-rules-2012] | [P] |
-    | 2014– | "**Associates Night.** Formal dinner held in the commons once a semester to honor Wiess Associates. Every college has their own" [@oweek-2014 p.102]; still in 2025 [@oweek-2025 p.26]; "Each semester there is a barbeque and a formal dinner hosted by the associates" [@oweek-2024 p.28] | [P] |
+    | 2014– | "**Associates Night:** Formal dinner held in the commons once a semester to honor Wiess Associates. Every college has their own" [@oweek-2014 p.102]; still in 2025 [@oweek-2025 p.26]; "Each semester there is a barbeque and a formal dinner hosted by the associates" [@oweek-2024 p.28] | [P] |
     | 2015–2025 | The history keeps "freshmen served upperclassmen a family-style dinner" but drops the clause saying when it ended [@oweek-2015 p.10] [@oweek-2025 p.24] | [R] |
 
 ??? quote "In the college's own words"
 
     "Family-style dining entails sitting down with seven other Wiessmen around a pseudo-fancy table, complete with a table cloth and real napkins… instead of being boring and walking around a serving line with a cafeteria tray like the other, lesser colleges do." [@oweek-2003 wiess p.6]
 
-    "**Family Style.** 1. The faster, funner, better way that Wiessmen choose to eat… The night features entertainment, freshmen waiters, bonding and, if you're lucky, a ubangee." [@oweek-2003 conclusions p.3]
+    "**Family Style:** 1. The faster, funner, better way that Wiessmen choose to eat… The night features entertainment, freshmen waiters, bonding and, if you're lucky, a ubangee." [@oweek-2003 conclusions p.3]
 
     "…while sporting goldenrod and navy beanies to distinguish themselves (a tradition which also, thankfully, died out quickly)." [@oweek-2014 p.36]
 

@@ -1,6 +1,6 @@
 # Citing
 
-Team Family Knowledgebase holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere—in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts—so **every claim carries a permalink that resolves without us.** A page with an unsourced claim is a Commons page, not a Record page.
+Team Family Knowledge-base holds condensed knowledge, not copies of the evidence. The evidence lives elsewhere—in the Wayback Machine, the Portal to Texas History, the Woodson Research Center, the college's own artifacts.
 
 ## The short forms
 

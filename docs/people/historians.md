@@ -7,10 +7,10 @@ reviewed_by: LM
 
 # Historians
 
-The Historian is the [Cabinet](../governance/cabinet.md) officer in charge of "recording, archiving, and presenting the history of the College," including its Facebook and Instagram [@constitution-2026 p.8]. It's an appointed seat without a vote, and there can be more than one [@constitution-2026 Arts. V–VI]. Wiess has had a Historian on paper since at least 1991.
+The Historian is the [Cabinet](../governance/cabinet.md) officer in charge of "recording, archiving, and presenting the history of the college," including its Facebook and Instagram [@constitution-2026 p.8]. It's an appointed seat without a vote, and there can be more than one [@constitution-2026 Arts. V–VI]. Wiess has had a Historian on paper since at least 1991.
 
 !!! abstract "TL;DR"
-    - The 1991 Rules mention "The Historian of the Cabinet" [@rules-1991]. Every Constitution from 1993 to 2017 has "a College Parliamentarian and Historian" [@constitution-1993] [@constitution-2017 p.5].
+    - The 1991 Rules mention "The Historian of the Cabinet" [@rules-1991]. Every Constitution from 1993 to 2017 has "a "Parliamentarian and Historian" [@constitution-1993] [@constitution-2017 p.5].
     - The job, per the O-Week books: "organizes all of the pictures taken by Wiessmen and keeps records of all the random stuff we do" [@oweek-2007 p.39].
     - The 2026 Constitution is the first text we've found that spells the job out [@constitution-2026 p.8].
     - What survives was mostly made by RA Dr. Bill Wilson, now at the Woodson Research Center [@rhc 2021-11-15 secession-1992].
@@ -27,7 +27,7 @@ The college's previous archivist was Dr. Bill Wilson, an RA for some thirty year
 
 Rice's archivist found "hundreds of photographs that were taken by Dr. Bill Wilson" [@rhc 2014-01-24 friday-afternoon-follies-dr-bill-in-a-skirt]. In 2021 his papers arrived with "hundreds of recordings of Rice events" [@rhc 2021-11-15 secession-1992]. The Wiess College Records at the Woodson hold Cabinet minutes and governing documents back to 1950 [@woodson-ua0079]. More on him: [Resident Associates](associates.md).
 
-The student record is the O-Week books, the websites and the glossaries. See [How we described ourselves](../traditions/glossary-series.md) and [The Wiess website through the years](../web/the-wiess-website-through-the-years.md). None of it is specifically credited to a Historian, though the Wiess Historian captures photos and shares them online and oartners with other positions and people in the college to preserve memories for Wiess.
+The student record is the O-Week books, the websites and the glossaries. See [How we described ourselves](../traditions/glossary-series.md) and [The Wiess website through the years](../web/the-wiess-website-through-the-years.md). None of it is specifically credited to a Historian, though the Wiess Historian captures photos and shares them online and partners with other positions and people in the college to preserve memories for Wiess.
 
 ## What should a Historian leave behind?
 
@@ -50,7 +50,7 @@ The student record is the O-Week books, the websites and the glossaries. See [Ho
     | 2020-10 | One Historian on the Cabinet page [@wb 20201002233832 http://teamwiess.com/government/cabinet.html] | [P] |
     | 2021-11 | The Woodson receives Dr. Bill Wilson's papers: "hundreds of recordings of Rice events made by Dr. Bill" [@rhc 2021-11-15 secession-1992] | [R] |
     | 2023-09 | Two Historians on the Cabinet page [@wb 20230915232631 https://wiess.rice.edu/government/cabinet] | [P] |
-    | 2026-02-23 | Constitution, Article VI §4(3): "official Historian(s) of the College who shall: 1. Be appointed by the President with the assent of Cabinet; 2. Apply independently to the position of Historian; 3. Be charged with recording, archiving, and presenting the history of the College; and 4. Be responsible for maintaining Wiess social media pages (excluding the Wiess website) such as the Wiess College Facebook and Instagram" [@constitution-2026 p.8] | [P] |
+    | 2026-02-23 | Constitution, Article VI §4(3): "official Historian(s) of the College who shall: 1. Be appointed by the President with the assent of Cabinet; 2. Apply independently to the position of Historian; 3. Be charged with recording, archiving, and presenting the history of the college; and 4. Be responsible for maintaining Wiess social media pages (excluding the Wiess website) such as the Wiess College Facebook and Instagram" [@constitution-2026 p.8] | [P] |
 
 ??? quote "In the college's own words"
 

@@ -262,7 +262,7 @@ def render_gallery_index_introduction(photo_count: int) -> str:
         "that capture in the Wayback Machine. Where a caption says *source not recorded*, the image reached the "
         "collection without a note of where it was first published, and its date comes from its file name or "
         "its content; treat those dates as provisional.\n\n"
-        "**Preservation.** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. "
+        "**Preservation:** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. "
         "The originals, at full size, are kept by the maintainers, and an Internet Archive collection of them "
         "is planned so that every photograph here has a permanent public home that does not depend on this "
         "site. The list of files, with sizes, checksums and these captions, is "

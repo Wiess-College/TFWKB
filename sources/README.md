@@ -1,6 +1,6 @@
 # sources/
 
-What the site is built from, and records about the evidence. **Not the evidence itself.**
+What the site is built from, and records about the evidence. **Not the evidence itself:**
 
 ## How sources get here
 

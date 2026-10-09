@@ -57,9 +57,9 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Eco (Recycling Rep 2005–06) | ● | ● | ● |  |  |  | ● |  |  |
 | Election | ● | ● | ● | ● | ● | ● | ● | ● | ● (Constitution) |
 | Film / Movie (Movie Night 2023) | ● | ● | ● | ● | ● | ● | ● | ● |  |
-| Firepit |  |  |  |  |  |  |  |  | ● |
+| Fire pit |  |  |  |  |  |  |  |  | ● |
 | Food | ● | ● | ● | ● | ● | ● | ● | ● |  |
-| Gameroom |  |  |  |  |  | ● |  |  |  |
+| Game room |  |  |  |  |  | ● |  |  |  |
 | Games (& Activities 2014) | ● | ● | ● | ● | ● | ● | ● |  |  |
 | Hair (Haircutting 2020–21) |  |  |  |  |  |  | ● | ● |  |
 | Health (Health Rep 2005–06; Rice Health Advisors 2012) | ● |  | ● |  |  |  |  |  |  |
@@ -81,7 +81,7 @@ Sources: 2005–06 [@wb 20070709183121 http://teamwiess.com/index.php?module=pag
 | Newsletter | ● | ● | ● | ● | ● | ● |  |  |  |
 | Nose Smoke |  |  |  | ● |  |  |  |  |  |
 | Positive Reinforcement / Affirmation |  |  |  |  |  |  | ● | ● |  |
-| Rec Center Advisory Council | ● |  |  |  |  |  |  |  |  |
+| Rec. Center Advisory Council | ● |  |  |  |  |  |  |  |  |
 | Remote |  |  |  |  |  |  | ● |  |  |
 | Rice Program Council (RPC) | ● | ● | ● | ● | ● | ● | ● | ● |  |
 | RUPD Student Advisory Committee | ● |  |  |  |  |  |  |  |  |
@@ -118,12 +118,12 @@ Some positions on the 2005–06 list (Historian, Parliamentarian, Capital Improv
     | 2020-10 | "The Wiess Reps Program": new are Boba, Chalkboard, Haircutting, Librarian, Lilie, Positive Reinforcement, Remote, Shower, Social Media, Student Athlete, Student Maintenance and W[...]
     | 2023 | New are Computer Room, Decorations Room, Mop & Vacuum, Music, Positive Affirmation (for Positive Reinforcement), Hair (for Haircutting) and UpCo; Boba, Games, Lilie, Listserv, Remote[...]
     | c. early 2025 | The Constitution's new Article VII, "The Representatives": "an undefined number… include but are not limited to" seven [@constitution-hate-speech Art. VII §1] | [P] |
-    | 2025 | Two O-Week Fellows are "firepit reps" [@oweek-2025 p.44] | [P] |
+    | 2025 | Two O-Week Fellows are "fire pit reps" [@oweek-2025 p.44] | [P] |
     | 2026-02-23 | Article VII kept in the amended Constitution [@constitution-2026 Art. VII §1] | [P] |
 
 ## In the college's own words
 
-> "Our representatives help us manage the responsibility that comes with some of the privilege that we have… Certain people are in charge of scheduling, others may have keys to certain rooms th[...]
+> "Our representatives help us manage the responsibility that comes with some of the privilege that we have… Certain people are in charge of scheduling, others may have keys to certain rooms[...]
 
 > "Have a problem with the height of your bed? Contact the Student Maintence Representative." [@wb 20140627224604 http://teamwiess.com/representatives.html]
 

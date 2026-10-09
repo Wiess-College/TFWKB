@@ -14,7 +14,7 @@ of them.
 
 ## 1. Names
 
-**Whole words that say what the value is.** No single letters and no abbreviations, in loops and comprehensions
+**Whole words that say what the value is:** No single letters and no abbreviations, in loops and comprehensions
 too. Read the line aloud: `for placement in placements` says something; `for e in P` does not.
 
 | Not this | This |
@@ -27,12 +27,12 @@ too. Read the line aloud: `for placement in placements` says something; `for e i
 Long names are fine. `placements_by_gallery` and `record_page_link` are the right length. If a line gets too
 long, wrap it; don't shorten the name.
 
-**Use the source's words.** If the data calls a column `web_path`, the variable is `web_path` or
+**Use the source's words:** If the data calls a column `web_path`, the variable is `web_path` or
 `placement_by_web_path`, not a new term like `manifest_path`. A term the data or the outside world already uses
 may stay short: `url`, `pdf`, an ARK identifier, the citation prefixes `@wb`, `@rhc`, `@oweek-`. Names still need
 three characters, so write `ark_id`, not `id`. Spell out anything the script itself made up.
 
-**One meaning per word in a script.** In `apply_photos.py`, "gallery" means one `GALLERY_PAGES` entry and its
+**One meaning per word in a script:** In `apply_photos.py`, "gallery" means one `GALLERY_PAGES` entry and its
 photos; the HTML rendered for it is a "photo grid", and the lightbox's grouping is a `lightbox_group`.
 `placement` always means one photo entry.
 
@@ -62,7 +62,7 @@ or in the docstring of the function that takes it.
 - `_` is the only short name allowed. It marks a value you deliberately ignore.
 - Don't start function names with `_`. These scripts aren't libraries, and the docstring check skips `_names`.
 
-**File names follow the same rule.** A script you run is named for what it does, verb first:
+**File names follow the same rule:** A script you run is named for what it does, verb first:
 `add_glossary.py`, `apply_photos.py`, `find_pdf_page.py`, `file_issue_drafts.sh`. A module that other scripts
 import and nobody runs is named for what it holds, as a noun: `repository_folders.py`, `glossary_layouts.py`,
 `hooks/citations.py`. Say what the thing is about, not just its kind: `repository_folders.py`, not `paths.py`.
@@ -96,16 +96,16 @@ before the failure notes, since they are what someone asking for help needs firs
 "The photo grid for a page." The sentence must fit on one line (ruff `D205`). If it doesn't, shorten it and move
 the detail into the next paragraph; don't wrap it.
 
-**Then, if the reason isn't obvious, a paragraph on why.** Say what it is for, in terms of the site, the editors
+**Then, if the reason isn't obvious, a paragraph on why:** Say what it is for, in terms of the site, the editors
 or the readers, and what would go wrong without it. Mention anything it relies on: an order, a file another
 script creates, a key that must exist.
 
-**Then, if the method isn't visible from the code, a paragraph on how.** Name the MkDocs plugin that reads the
+**Then, if the method isn't visible from the code, a paragraph on how:** Name the MkDocs plugin that reads the
 output, the format rule, or the trick a reader would miss.
 
 Don't describe the code line by line. If the paragraph could be rebuilt by reading the function, delete it.
 
-**Match the length to the function.** A three-line helper gets one sentence, with the reason folded in:
+**Match the length to the function:** A three-line helper gets one sentence, with the reason folded in:
 
 ```python
 def escape_html_attribute(text: str) -> str:
@@ -159,27 +159,27 @@ in `pyproject.toml`, with the reason beside it.
 
 ## 4. Structure
 
-- **Give tuple records named fields.** Don't index with numbers (`entry[4]`, `PAGES[key][0]`). Turn rows into a
+- **Give tuple records named fields:** Don't index with numbers (`entry[4]`, `PAGES[key][0]`). Turn rows into a
   `typing.NamedTuple` where the script starts, or unpack them into named variables where they're first used.
-- **Name regex groups and read them by name.** Use `(?P<timestamp>...)` and `match["timestamp"]`, not `group(1)`
+- **Name regex groups and read them by name:** Use `(?P<timestamp>...)` and `match["timestamp"]`, not `group(1)`
   or `groups()`, which are numbered indexing too. A regex used in more than one place, or longer than a line,
   becomes a compiled UPPER_CASE constant with a comment.
-- **Order the file top-down.** Imports, then constants, then record types. Then `main()`, then each step's
+- **Order the file top-down:** Imports, then constants, then record types. Then `main()`, then each step's
   function in the order `main()` calls it, each followed by the helpers only it uses. Helpers shared by more
   than one step go at the end.
-- **Make `main()` read like a list of steps.** One call per job, each job a function with a verb name. If the
+- **Make `main()` read like a list of steps:** One call per job, each job a function with a verb name. If the
   script takes arguments, `main(arguments: list[str])` reads them and calls one function per mode. Use
   `argparse` in new scripts.
 - **The `if __name__ == "__main__":` block is one line**, `main()` or `main(sys.argv[1:])`. All work happens in
   functions, where the linters can see it.
 - **Type-hint every function signature**, with built-in generics: `list[PhotoPlacement]`,
   `dict[str, GalleryPage]`. The hints document what a parameter holds better than an `Args:` entry can.
-- **Open files with `with`.**
-- **Never write one machine's path into a script.** Folders outside this repository (the governance checkout)
+- **Open files with `with`:**
+- **Never write one machine's path into a script:** Folders outside this repository (the governance checkout)
   come from `tools/repository_folders.py`: `governance_folder()`; add a function like it for another. Folders inside it are
   found from `REPOSITORY_ROOT` there, or from the script's own `__file__`. CI fails on `/home/`, `/Users/` or
   `/mnt/` in `tools/` and `hooks/`.
-- **Lines are at most 120 characters.** Wrap long text with implicit string concatenation. Data that editors
+- **Lines are at most 120 characters:** Wrap long text with implicit string concatenation. Data that editors
   change by hand, such as photo captions, belongs in a YAML file under `sources/`, not in a Python file.
 - **Standard library, plus what `requirements.txt` installs for the site** (MkDocs, PyYAML), on Python 3.12.
   Anything else, such as Pillow for `make_web_photos.py`, goes in `requirements-dev.txt` and is named in the
@@ -226,7 +226,7 @@ pylint's `ignore`. To convert one:
    step 2's comparison exact. Two changes are allowed: usage text that prints the module docstring, and the
    traceback from bad input. Input that stopped the old version with a traceback must still stop with one,
    with the same exit status, but the exception type and message may change.
-2. **Check that it behaves exactly as before.** Make a second copy of the repo, for example with
+2. **Check that it behaves exactly as before:** Make a second copy of the repo, for example with
    `git worktree add ../tfwkb-before HEAD`. Run the old and new versions on the same arguments: the examples in
    the docstring, real inputs from `docs/` or `sources/`, and at least one unrecognised or malformed input.
    Compare what they print, their exit status, and `diff -r` of any folder they write to (exclude `.git`).

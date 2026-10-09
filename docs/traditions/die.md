@@ -18,12 +18,12 @@ Die (also "beer die" or "snappa") is a table game that Wiess plays: toss a die h
 
 A table, four cups and one very bouncy die. Catch it with one hand or lose the point.
 
-- **The table.** About 4 by 8 feet, often plywood, with a cup on each corner [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
-- **The teams.** Two a side, one player at each corner [@wikipedia-beer-die].
-- **The toss.** The die has to go up high before it comes down. The rule might be 8 feet, the length of the table, or the height of the tallest player [@wikipedia-beer-die] [@wikipedia-beer-die-2017].
-- **The catch.** If the die bounces off your end and you don't catch it, the other team scores. One hand only. No trapping it against your body [@eli-2023-10-21-beer-die] [@wikipedia-beer-die-2017].
-- **Plink and plunk.** "Plink" means the die hit a cup. "Plunk" means it landed in one, which scores extra [@wikipedia-beer-die] [@jhu-newsletter-2002-11-14-beer-die].
-- **Winning.** First to 5, 7 or 11, win by two [@jhu-newsletter-2002-11-14-beer-die] [@eli-2023-10-21-beer-die].
+- **The table:** About 4 by 8 feet, often plywood, with a cup on each corner [@wikipedia-beer-die] [@eli-2023-10-21-beer-die].
+- **The teams:** Two a side, one player at each corner [@wikipedia-beer-die].
+- **The toss:** The die has to go up high before it comes down. The rule might be 8 feet, the length of the table, or the height of the tallest player [@wikipedia-beer-die] [@wikipedia-beer-die-2017].
+- **The catch:** If the die bounces off your end and you don't catch it, the other team scores. One hand only. No trapping it against your body [@eli-2023-10-21-beer-die] [@wikipedia-beer-die-2017].
+- **Plink and plunk:** "Plink" means the die hit a cup. "Plunk" means it landed in one, which scores extra [@wikipedia-beer-die] [@jhu-newsletter-2002-11-14-beer-die].
+- **Winning:** First to 5, 7 or 11, win by two [@jhu-newsletter-2002-11-14-beer-die] [@eli-2023-10-21-beer-die].
 
 Then there are house rules. Lots of them, mostly passed on by word of mouth. A favorite: you can't say "five" or "seven." Say "bizz" and "buzz" instead [@wikipedia-beer-die]. Players also write nicknames on the table and paint tables to hand down [@jhu-newsletter-2002-11-14-beer-die] [@aggie-2019-05-17-beer-die].
 
@@ -43,9 +43,9 @@ For context only: since at least 2013, Rice's alcohol policy has banned "any for
 
 Three stories, none proven [@vinepair-2016-11-09-beer-die] [@wikipedia-beer-die-2017] [@jhu-newsletter-2002-11-14-beer-die]:
 
-1. **University of Maine, 1972.** Four fraternity men tossing a die above a table. This is the Beer Die League's story.
+1. **University of Maine, 1972:** Four fraternity men tossing a die above a table. This is the Beer Die League's story.
 2. **Colby College, 1978**, per Colby's student paper. A 1996 Colby rules sheet is the oldest written rulebook anyone cites [@wikipedia-beer-die].
-3. **The Navy, 1970s.** A "legend" that officers on guard duty played it, and it passed to Santa Clara University.
+3. **The Navy, 1970s:** A "legend" that officers on guard duty played it, and it passed to Santa Clara University.
 
 ??? info "The receipts: timeline"
     | When | What | Evidence |

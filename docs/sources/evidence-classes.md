@@ -33,7 +33,7 @@ Pages say so in a plain sentence where it matters; the full back-and-forth goes 
 
 A source that gets its own history wrong (like the college misdating its own chant) is still the best source for what the college *believed*.
 
-**Dates on documents are claims too.** The 2017 constitutional amendment is dated from a filename, because its "Last Amended" line was never updated. The 2010 Bylaws have no date at all. Say so.
+**Dates on documents are claims too:** The 2017 constitutional amendment is dated from a filename, because its "Last Amended" line was never updated. The 2010 Bylaws have no date at all. Say so.
 
 ## What isn't evidence
 

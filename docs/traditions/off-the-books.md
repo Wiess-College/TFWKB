@@ -37,7 +37,7 @@ The Wiess trace: in 2014 the college website ran a "Dis-O 2014" countdown clock 
 
 ## Toke
 
-For context only: Rice's smoking policy (Policy 839, 2010) bans smoking in student housing and near doors and windows, and says "Colleges may designate smoking areas" [@thresher-2010-09-smoking-policy]. Since 2012, smoking on campus has been limited to 13 designated areas [@thresher-2012-08-30-smoking-policy].
+For context only: Rice's smoking policy (Policy 839, 2010) bans smoking in student housing and near doors and windows, and says "colleges may designate smoking areas" [@thresher-2010-09-smoking-policy]. Since 2012, smoking on campus has been limited to 13 designated areas [@thresher-2012-08-30-smoking-policy].
 
 ## Jacks
 
@@ -49,9 +49,9 @@ Jacks aren't a free-for-all. By 2008 a jack needed approval from a college's jac
 
 ## The rest of the list
 
-- **Baker 13.** Baker's run, and Wiess's buckets. See [Baker 13 Defense Force](baker-13-defense-force.md).
-- **DOME.** A party, as far as the sources show, started (says the legend) by students on the 4th floor [@teamwiess-activities-2009]. See [DOME](dome.md).
-- **Gatsby.** No written source yet. See [Gatsby](gatsby.md).
-- **Die.** A table game; at Wiess, people say, played with water. See [Die](die.md).
+- **Baker 13:** Baker's run, and Wiess's buckets. See [Baker 13 Defense Force](baker-13-defense-force.md).
+- **DOME:** A party, as far as the sources show, started (says the legend) by students on the 4th floor [@teamwiess-activities-2009]. See [DOME](dome.md).
+- **Gatsby:** No written source yet. See [Gatsby](gatsby.md).
+- **Die:** A table game; at Wiess, people say, played with water. See [Die](die.md).
 
 <div class="reviewed" markdown>Last reviewed 2026-10-05 by unreviewed · [Edit this page](#)</div>

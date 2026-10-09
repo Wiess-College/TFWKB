@@ -13,7 +13,7 @@ This section covers how Wiess governs itself: the Constitution, [Cabinet](cabine
     - The **Constitution** is the college's rulebook. It sets up [Cabinet](cabinet.md) (the student government) and the [Court](court.md) (student discipline) [@constitution-2026 Art. IV §1; Art. VIII §1].
     - The oldest text we have is the Rules of 1 October 1991 [@rules-1991]. The newest is the "Complete Guiding Documents", last amended 23 February 2026 [@constitution-2026].
     - Twelve versions have been evaluated in this section, but versions before 1991 haven't been folded in yet [@constitution-2020] [@constitution-hate-speech] [@woodson-ua0079].
-    - To change the Constitution you need two-thirds of Cabinet, then two-thirds of the College [@constitution-2026 Art. XVI §4].
+    - To change the Constitution you need two-thirds of Cabinet, then two-thirds of the college [@constitution-2026 Art. XVI §4].
 
 ## The paperwork
 
@@ -56,14 +56,14 @@ Each text is a tagged version in the college's governance repository, so you can
 
 Anyone on Cabinet can propose an amendment. So can any member of the college, with a petition signed by at least 5% of the college [@constitution-2026 Art. XVI §1]. The Elections Representative checks the signatures within a week [@constitution-2026 Art. XVI §§2–3].
 
-Then it needs two votes: two-thirds of Cabinet, then two-thirds of the College, with at least two-fifths of the College voting [@constitution-2026 Art. XVI §4]. The old and new text must be shown side by side a week before the vote [@constitution-2026 Art. XVI §§5–6].
+Then it needs two votes: two-thirds of Cabinet, then two-thirds of the college, with at least two-fifths of the college voting [@constitution-2026 Art. XVI §4]. The old and new text must be shown side by side a week before the vote [@constitution-2026 Art. XVI §§5–6].
 
 ??? info "How the amendment rules changed"
-    - **Petition size.** 10% from 1993 to at least 2017; 5% by February 2020 and in 2026 [@constitution-1993 Art. XII §1] [@constitution-2017 Art. XI §1] [@constitution-2020 Art. XI §1].
-    - **Two-stage vote.** New in the 2007 revision [@constitution-2007 Art. XII §5]. In 1993 an amendment needed only "at least two thirds of the College members voting", with no minimum turnout, after Cabinet "ratified by two-thirds majority" [@constitution-1993 Art. XII §§1, 4].
-    - **The ten-amendment rewrite.** From 1993 to 2017, once ten amendments piled up, "the Cabinet shall supervise the rewriting of the Constitution" [@constitution-1993 Art. XII §6] [@constitution-2017 Art. XI §6]. By 2020 that rule is gone; amendments are written straight into the text, with the date "recorded at the bottom" [@constitution-2020 Art. XI §7] [@constitution-2026 Art. XVI §6].
-    - **Bylaws and Rules.** Earlier texts needed a simple majority of College members voting to change them [@constitution-2013 Art. XII §5]. The 2026 text says they can be amended but gives no vote threshold for them.
-    - **Check-ups.** The Parliamentarian convenes a committee "to review the effectiveness of the Constitution and Bylaws every 3 years starting in the fall of 2020" [@constitution-2026 Art. XVI §7].
+    - **Petition size:** 10% from 1993 to at least 2017; 5% by February 2020 and in 2026 [@constitution-1993 Art. XII §1] [@constitution-2017 Art. XI §1] [@constitution-2020 Art. XI §1].
+    - **Two-stage vote:** New in the 2007 revision [@constitution-2007 Art. XII §5]. In 1993 an amendment needed only "at least two thirds of the college members voting", with no minimum turnout, after Cabinet "ratified by two-thirds majority" [@constitution-1993 Art. XII §§1, 4].
+    - **The ten-amendment rewrite:** From 1993 to 2017, once ten amendments piled up, "the Cabinet shall supervise the rewriting of the Constitution" [@constitution-1993 Art. XII §6] [@constitution-2017 Art. XI §6]. By 2020 that rule is gone; amendments are written straight into the text, with the date "recorded at the bottom" [@constitution-2020 Art. XI §7] [@constitution-2026 Art. XVI §6].
+    - **Bylaws and Rules:** Earlier texts needed a simple majority of college members voting to change them [@constitution-2013 Art. XII §5]. The 2026 text says they can be amended but gives no vote threshold for them.
+    - **Check-ups:** The Parliamentarian convenes a committee "to review the effectiveness of the Constitution and Bylaws every 3 years starting in the fall of 2020" [@constitution-2026 Art. XVI §7].
 
 ## In the college's own words
 

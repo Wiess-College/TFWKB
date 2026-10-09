@@ -92,7 +92,7 @@ The championship years Wiess can point to: 1995, 1998, 1999, 2001 and 2002 [@cam
     | 2006 | "In the past six years, the Wiess powderpuff team (aka the Battlesows) has earned the league champion title four times. Four times!" [@oweek-2006 p.41] | [R] |
     | 2007 | "In the past 15 years, the Wiess powderpuff team (aka the Battlesows) has earned the league champion title eight times. Eight times!" [@oweek-2007 p.41]; repeated 2008 [@oweek-2008 part 3 p.6] | [R] |
     | 2008-08-28 | Cabinet approves $832.69 "out of non-budget" for new powderpuff jerseys [@wb 20080903215453 http://teamwiess.com/index.php?r=lastnotes] | [P] |
-    | 2010 | "Past champions, Wiess hasn't made it to the finals lately; however, they did beat their biggest on field foe, Sid Richardson College!" [@oweek-2010 p.42] | [P] |
+    | 2010 | "Past champions, Wiess hasn't made it to the finals lately; however, they did beat their biggest on field foe, Sid Richardson" [@oweek-2010 p.42] | [P] |
     | 2014 | "Wiess has won the championship more than any other college, and while we haven't made the playoffs recently, we're a few steps away from winning another!" [@oweek-2014 p.41] | [R] |
     | 2015 | "Powderpuff" enters the Rice-speak glossary: "Women's college flag football… Played during the fall semester" [@oweek-2015 p.122] | [P] |
     | 2019 | "While you may not have dreamed of growing up to be a Battlesow, you may find that playing on the Wiess women's flag football team is the lifelong dream you never knew you had… sport your goldenrod t-shirts (or even better, your Battlesows jersey)"; glossary "Affectionate name for the Wiess powderpuff (football) team" [@oweek-2019 p.31] [@oweek-2019 p.14] | [P] |

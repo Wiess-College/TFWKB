@@ -59,9 +59,9 @@ A 2007 O-Week Advisor had "a penchant for dropping 55 gallon water balloons off 
 
 ### Banners, stairs and tunnels
 
-- **Banners.** TEAM, FAMILY and WIESS paper banners hang in the Commons in a 2017 video still [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png]. See [Team Wiess](../traditions/team-wiess.md#the-banners).
-- **Stairs.** The O-Week maps of 2015–2021 show three stair towers, each labeled just "stairs" [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33]. No nicknames on record.
-- **Tunnels.** In 2000, "Steam and utility tunnels" were dug from "the fringe of the Wiess Backabowl" [@riceinfo-news-2000-lundin]. Rice's steam tunnels are "Strictly off-limits, but it's cool to know they're there" [@owlmanac-2016 p.56].
+- **Banners:** TEAM, FAMILY and WIESS paper banners hang in the Commons in a 2017 video still [@wb 20170908225508 http://teamwiess.com/newstudents/videos/teammerh.png]. See [Team Wiess](../traditions/team-wiess.md#the-banners).
+- **Stairs:** The O-Week maps of 2015–2021 show three stair towers, each labeled just "stairs" [@oweek-2015 p.19] [@oweek-2017 p.28] [@oweek-2019 p.28] [@oweek-2021 p.33]. No nicknames on record.
+- **Tunnels:** In 2000, "Steam and utility tunnels" were dug from "the fringe of the Wiess Backabowl" [@riceinfo-news-2000-lundin]. Rice's steam tunnels are "Strictly off-limits, but it's cool to know they're there" [@owlmanac-2016 p.56].
 
 ## The Wiess Wall
 

@@ -93,9 +93,9 @@ The 2024 and 2025 books dropped the glossary entry, but the courtyard is all ove
 
     "Fortunately, the parking lots have been replaced by large grassy acabowls (courtyards suitable for touch football and other games)." — 1972 Freshman Handbook [@handbook-1972]
 
-    "**Acabowl.** 1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying." — O-Week Book 2003 [@oweek-2003 p.3]
+    "**Acabowl:** 1. The Wiess courtyard. The social epicenter of Wiess, which frequently features people hanging out, playing soccer and studying." — O-Week Book 2003 [@oweek-2003 p.3]
 
-    "**Acaglider.** 1. Giant swinging covered picnic table of glory, in the Acabowl." — O-Week Book 2008 [@oweek-2008 part 7 p.3]
+    "**Acaglider:** 1. Giant swinging covered picnic table of glory, in the Acabowl." — O-Week Book 2008 [@oweek-2008 part 7 p.3]
 
     The full run of Aca- entries, year by year, is in [How we described ourselves, by year](../traditions/glossary-series.md).
 

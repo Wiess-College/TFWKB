@@ -45,9 +45,9 @@ The Portal's search now sits behind an "I'm not a robot" check, which agents mus
 ??? info "Thresher recipes"
     **1916–c.2009: the Portal to Texas History** (texashistory.unt.edu), full run, OCR'd. Ark ids are sequential by issue (Vol. 71 No. 1 = `metapth245533`; Vol. 72 No. 4 = `metapth245566`). Per-page OCR at `/ark:/67531/<id>/m1/<page>/ocr/`. The cheap trick: per-issue hit snippets at `/ark:/67531/<id>/hits/?format=json&q=<query>` return page numbers and highlighted context without opening pages. Phrase search does not stem ("war pig" ≠ "war pigs"). The `/search/` and `/explore/` pages trip a CAPTCHA once per browser session. Cite as `[@portal <ark> p.N]`.
 
-    **c.2009–: ricethresher.org.** Site search renders nothing; `/section/news?page=N&per_page=20` paginates the whole archive by date (page 49 ≈ September 2021) and article slugs end in `-YYYYMMDD`, so listing pages and grepping hrefs finds an article when search engines fail. Author pages carry excerpts.
+    **c.2009–: ricethresher.org:** Site search renders nothing; `/section/news?page=N&per_page=20` paginates the whole archive by date (page 49 ≈ September 2021) and article slugs end in `-YYYYMMDD`, so listing pages and grepping hrefs finds an article when search engines fail. Author pages carry excerpts.
 
-    **The OCR route.** Search and hits are blocked on digital.library.unt.edu too, so only page-by-page OCR works there. Pages without OCR text (about 300 of them in 1956–94) can't be searched, and OCR misses words, so "not found" means "not found in the OCR".
+    **The OCR route:** Search and hits are blocked on digital.library.unt.edu too, so only page-by-page OCR works there. Pages without OCR text (about 300 of them in 1956–94) can't be searched, and OCR misses words, so "not found" means "not found in the OCR".
 
 ## The Woodson Research Center
 

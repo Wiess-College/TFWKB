@@ -30,7 +30,7 @@ Borrowed from the "architecture decision record" software teams use, adapted for
 | **Date** | the date of the vote or decision, ISO format |
 | **Context** | what prompted the decision: the problem, the constraint, the complaint, the opportunity. Cite the Cabinet minutes, the Thresher, the survey. |
 | **Decision** | what was decided, in one or two sentences, in the words of the motion if there was one |
-| **Who decided** | the body (Cabinet, Court, a College vote, the Magisters, Head Fellows, a committee) and the vote if recorded; names only of officers acting in their public roles |
+| **Who decided** | the body (Cabinet, Court, a college vote, the Magisters, Head Fellows, a committee) and the vote if recorded; names only of officers acting in their public roles |
 | **Consequences** | what changes as a result—dates, money, duties, the text of any amendment |
 | **What was preserved** | the parts of the tradition, office or practice that the decision deliberately kept, and why. This heading is the one that distinguishes a college's record from a software team's: traditions are the point. |
 | **Sources** | the minutes, the amendment text, the announcement, with permalinks—the same citation rules as every other page |

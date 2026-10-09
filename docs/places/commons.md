@@ -154,7 +154,7 @@ The 2023 representatives list has three Music reps, job not described [@wb 20230
 
 ??? quote "In the college's own words"
 
-    "**Commons.** Main eating room at Wiess (and most other colleges). Has been known for its unusual color schemes throughout history… Reputed as the best room for a BIG party on campus." — 1994 Freshman Handbook [@handbook-1994]
+    "**Commons:** Main eating room at Wiess (and most other colleges). Has been known for its unusual color schemes throughout history… Reputed as the best room for a BIG party on campus." — 1994 Freshman Handbook [@handbook-1994]
 
     "The Commons are a general hangout for Wiessmen—whether digging into a cinammon roll or doing homework in the wee hours of the morning, there is always at least one friendly face." — teamwiess.com, 2009 [@wb 20090827020025 http://teamwiess.com/areas.php]
 

@@ -34,11 +34,11 @@ We haven't found a source that says. The glossary drops it somewhere between the
 
     | When | What | Evidence |
     |---|---|---|
-    | 1994 | "**Acatramp.** The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jumps" [*sic*] [@handbook-1994] | [P] |
+    | 1994 | "**Acatramp:** The purple and black trampoline majestically situated in the middle of the Acabowl. On any given day, especially those beautiful ones, you'll find a line of Wiessmen waiting to jumps" [*sic*] [@handbook-1994] | [P] |
     | 1997-01-27 | "Trampoline Philanthropy": a freshman's open letter to Bill Gates, posted on the college website. The college "has a long-standing tradition of offering a trampoline (affectionately known as the Acatramp) for all students to enjoy. However, recently our trampoline has fallen apart… The college cabinet… can not purchase a replacement trampoline or trampoline parts due to insurance liability. Thus we are forced to fundraise individually and solicit for donations of trampoline parts." "If Stanford deserves a hall, doesn't Rice at least deserve a trampoline?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]; the news page calls it "the gem" [@wb 19980131012106 http://riceinfo.rice.edu/projects/colleges/wiess/news/index.html] | [P] |
     | 1999–2000 | The 1994 glossary entry on the website's glossary page, unchanged [@wb 19991010171103 http://riceinfo.rice.edu/projects/colleges/wiess/college/gloss.html] [@wb 20001207053100 http://riceinfo.rice.edu/projects/colleges/wiess/college/gloss.html] | [P] |
     | 2002–04 | A trampoline in the New Wiess Acabowl, under the orange commercial War Pig (photograph) [@warpig-core-deck slide 32] | [P] |
-    | 2003 | Glossary: "**Acatramp.** 1. A trampoline, in the Acabowl" [@oweek-2003 conclusions p.3]; the Masters' daughters run "one toward the Acatramp and the other toward the ice cream" [@oweek-2003 intro p.7] | [P] |
+    | 2003 | Glossary: "**Acatramp:** 1. A trampoline, in the Acabowl" [@oweek-2003 conclusions p.3]; the Masters' daughters run "one toward the Acatramp and the other toward the ice cream" [@oweek-2003 intro p.7] | [P] |
     | 2006–2008 | Same glossary entry [@oweek-2006 p.83] [@oweek-2007 p.83] [@oweek-2008 part 7 p.3]; a Fellow "sitting on the beloved acatramp shouting at passersby" [@oweek-2007 p.30]; an O-Week Advisor "dropping 55 gallon water balloons off the 4th floor onto trampolines" [@oweek-2007 p.26]; "the ubangee, the acatramp, and many other sacred Wiess traditions" [@oweek-2008 part 2 p.9] | [P] |
     | 2008–2010 | teamwiess.com: "The Acabowl is home to our acatramp and aca-hammock" [@wb 20080709214811 http://teamwiess.com/index.php?r=placesofinterest] [@wb 20090827020025 http://teamwiess.com/areas.php] | [P] |
     | 2010 | The Head Fellows' welcome: "taking some time to hang out on the Acatramp (see Wiess Speak, p. 88)" [@oweek-2010 p.1]; glossary [@oweek-2010 p.90] | [P] |
@@ -49,7 +49,7 @@ We haven't found a source that says. The glossary drops it somewhere between the
 
 ??? quote "In the college's own words"
 
-    "Members of my residential college (Wiess College) have told me that you are a trampoline aficionado and that you find jumping on a trampoline quite relaxing… If you truly do enjoy trampolines, why not share that enjoyment with hundreds of college students?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]
+    "Members of my residential college ... have told me that you are a trampoline aficionado and that you find jumping on a trampoline quite relaxing… why not share that enjoyment with hundreds of college students?" [@wb 20010209124659 http://riceinfo.rice.edu:80/projects/colleges/wiess/other/trampphilanthropy.html]
 
     "Wiessmen are an inclusive bunch who look out for one another whether it be helping one another with that pesky Orgo problem set or taking some time to hang out on the Acatramp." [@oweek-2010 p.1]
 

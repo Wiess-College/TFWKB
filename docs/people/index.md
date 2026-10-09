@@ -10,7 +10,7 @@ reviewed_by: LM
 This section is about the people of Wiess: the grown-ups who live with the college, its offices, the Idiot, and the man on the sign. Start with the Core Team.
 
 !!! abstract "TL;DR"
-    - Wiess is run with help from Magisters[^magister], Resident Associates and a College Coordinator: the [Core Team](core-team.md) [@wiess-rice-edu-coreteam].
+    - Wiess is run with help from Magisters[^magister], resident associates and a College Coordinator: the [Core Team](core-team.md) [@wiess-rice-edu-coreteam].
     - It also has honorary offices, like the [College Idiot](college-idiot.md), elected by 1977 [@thresher-1977-09-08-college-idiot].
     - The college is named for [Harry Carothers Wiess](the-man.md), a Humble Oil founder and Rice trustee [@riceinfo-theman].
 
@@ -32,7 +32,7 @@ This section is about the people of Wiess: the grown-ups who live with the colle
 
     ---
 
-    The grown-ups who live in the college. Featuring the legendary Dr. Bill.
+    The staff of faculty who live in the college. Featuring the legendary Dr. Bill.
 
 -   :material-crown: **[College Idiot & other offices](college-idiot.md)**
 
@@ -45,12 +45,6 @@ This section is about the people of Wiess: the grown-ups who live with the colle
     ---
 
     Wiess has had a Historian on paper for a long time.
-
--   :material-star-outline: **[Notable alumni](notable-alumni.md)**
-
-    ---
-
-    Wiessmen who went on to public careers.
 
 -   :material-account-tie: **[Harry Carothers Wiess](the-man.md)**
 

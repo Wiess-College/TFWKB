@@ -91,7 +91,7 @@ New Wiess has just one courtyard, [the Acabowl](acabowl.md). So the "back" names
     | 1949–57 | Old Wiess "laid out as an E-shaped building, with three north-south wings, joined on the north ends by a long east-west spine, forming two open quadrangles" [@rice-facilities-first-100-years] | [R] |
     | 1994 | Glossary: Backabowl [@handbook-1994] | [P] |
     | 1999-07 | Photo page "The Bacabowl Ledge": "the bacabowl itself is generally a little bit quieter than the acabowl, and traditionally is not used as much for social functions"; the Singles Wing "from the Bacabowl"; the central wing "divides the acabowl from the bacabowl" [@wb 20020615221715 http://riceinfo.rice.edu:80/projects/colleges/wiess/college/photos/backabowl.html] [@wb 19991011025731 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tower.html] | [P] |
-    | 2000-05 | Construction fences "from the fringe of the Wiess Backabowl to the edge of Hanszen College" while steam and utility tunnels are dug [@riceinfo-news-2000-lundin] | [P] |
+    | 2000-05 | Construction fences "from the fringe of the Wiess Backabowl to the edge of Hanszen " while steam and utility tunnels are dug [@riceinfo-news-2000-lundin] | [P] |
     | 2002-08 | Delany photographs the space "between commons and backabowl" in the abandoned building (spaces, photo 1) [@delany-about-wiess-2002] | [P] |
     | 2002 | South Servery "surmounted by a large public terrace overlooking the nearby playing fields" [@rice-facilities-first-100-years]; "a servery crowned by a large public terrace" [@machado-silvetti-wiess] | [R] |
     | 2003 | Backaterrace enters the glossary [@oweek-2003 p.3]; Jazz Night: "Wiess invities professional and undergraduate jazz musicians to come play on the terrace" [@wb 20040416083807 http://www.teamwiess.com/oweek/35-44%20wiess.pdf p.9] | [P] |
@@ -110,7 +110,7 @@ New Wiess has just one courtyard, [the Acabowl](acabowl.md). So the "back" names
 
 ??? quote "In the college's own words"
 
-    "**Backabowl.** The playing field opposite the Acabowl between the singles wing and the three story wing. Where most of the amateur and shy sun-bathers can be found." — 1994 Freshman Handbook [@handbook-1994]
+    "**Backabowl:** The playing field opposite the Acabowl between the singles wing and the three story wing. Where most of the amateur and shy sun-bathers can be found." — 1994 Freshman Handbook [@handbook-1994]
 
     "Rarely is this area being used, making its offering of tables and chairs useful for those who might want to get some studying done outside, or enjoy the breeze that is often present up-top." — teamwiess.com, 2009 [@wb 20090827020025 http://teamwiess.com/areas.php]
 

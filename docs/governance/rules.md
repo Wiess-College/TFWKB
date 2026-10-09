@@ -7,7 +7,7 @@ reviewed_by: unreviewed
 
 # Rules & Housing Rules
 
-The College Rules and the Housing Rules are Wiess's two short codes, sitting under the Constitution and set by Cabinet [@constitution-2026 Art. IV §2]. The **College Rules** say what you can't do (and what the Court can fine you for). The **Housing Rules** decide who gets which room.
+The college and housing rules are short codes, sitting under the Constitution and set by Cabinet [@constitution-2026 Art. IV §2]. The **College Rules** say what you can't do (and what the Court can fine you for). The **Housing Rules** decide who gets which room.
 
 !!! abstract "TL;DR"
     - We have old versions of the College Rules, 1991 and 2012. They're almost the same length and say almost the same things [@rules-1991] [@college-rules-2012] [@gov-repo CHANGES.md].
@@ -29,9 +29,9 @@ Same skeleton: property, room searches, noise, roofs, the Commons, guests, enfor
 
 What got dropped:
 
-- **Freshman Waiting.** "Freshmen shall serve at seated weekday dinners on a rotating basis." Miss your shift without a sub and you're fined [@rules-1991 §VI]. Gone by 2012.
-- **The tiled roof.** "Any person seen on the tiled roof will be fined, regardless of whether any damages to the tiles were made" [@rules-1991 §IV]. In 2012, just "Unauthorized access to any roof of Wiess College is forbidden," probably just because of the new metal roof [@college-rules-2012 §IV].
-- **Food fights.** "No food or ice will be thrown in the Commons", and the Headwaiter could throw you out [@rules-1991 §V]. By 2012 the Headwaiter is gone, and you must clean up after yourself and "respect both Wiess Commons & Housing & Dining staff" [@college-rules-2012 §V].
+- **Freshman Waiting:** "Freshmen shall serve at seated weekday dinners on a rotating basis." Miss your shift without a sub and you're fined [@rules-1991 §VI]. Gone by 2012.
+- **The tiled roof:** "Any person seen on the tiled roof will be fined, regardless of whether any damages to the tiles were made" [@rules-1991 §IV]. In 2012, just "Unauthorized access to any roof of Wiess College is forbidden," probably just because of the new metal roof [@college-rules-2012 §IV].
+- **Food fights:** "No food or ice will be thrown in the Commons", and the Headwaiter could throw you out [@rules-1991 §V]. By 2012 the Headwaiter is gone, and you must clean up after yourself and "respect both Wiess Commons & Housing & Dining staff" [@college-rules-2012 §V].
 
 ## Freshman Waiting: from serving dinner to service points
 
@@ -40,11 +40,11 @@ In 1976 a student at another college teased that the "'animals' at Wiess still e
 By 2006 the glossary has "Freshmen Service Points… Four hours of required service for freshmen" instead [@oweek-2006 p.84]. The 2007 Constitution has the Sophomore Reps organizing service points, not waiting [@constitution-2007 Art. III §4 I]. More on the dinners: [Formal dinner](../traditions/retired/formal-dinner.md).
 
 ??? info "The details: College Rules, 1991 → 2012"
-    - **Flatware.** "Flatware and silverware shall not leave the commons area" becomes "shall be used in accordance with Housing and Dining Policy" [@rules-1991 §I] [@college-rules-2012 §I G].
-    - **The signed statement.** 1991: every new member "shall receive an orientation from the Chief Justice and sign a statement that he/she has read, understands, and will uphold the rules". 2012: orientation only [@rules-1991 §IX] [@college-rules-2012 §VIII].
-    - **Added in 2012.** Anyone using "a Wiess facility (Private Dining Room, Movie Room, etc.) agrees to follow all rules of the facility, which will be clearly posted"; "Non-Wiessmen who wish to use Wiess facilities must obtain the appropriate approval" [@college-rules-2012 §I H]. The Court "shall recognize University-wide quiet hours as outlined in The Student Handbook" [@college-rules-2012 §III]. Unreported damage costs "up to an extra 50%" instead of a flat 50% [@college-rules-2012 §I E]. The Historian keeps the Rules "online", not "on a bulletin board" [@college-rules-2012 §IX].
-    - **Unchanged.** Penalties set each spring by the incoming Chief Justice and approved by Cabinet; notice within seven class days (in 2012, from "the violation being reported"); debts of $50 or less due in two weeks [@rules-1991 §VIII] [@college-rules-2012 §VII].
-    - **Freshman Waiting's end, in detail.** The 1998 website still had the Sophomore Reps "in charge of Freshman Waiting" [@riceinfo-cabinet-1998]. Service points are in the 2006 glossary and the 2007 Constitution [@oweek-2006 p.84] [@constitution-2007 Art. III §4 I]. A 1981 Thresher debate predicted "Freshman waiting will probably die out in two to three years" [@portal metapth245460 p.1]. It was still going in 1998 [@riceinfo-cabinet-1998].
+    - **Flatware:** "Flatware and silverware shall not leave the commons area" becomes "shall be used in accordance with Housing and Dining Policy" [@rules-1991 §I] [@college-rules-2012 §I G].
+    - **The signed statement:** 1991: every new member "shall receive an orientation from the Chief Justice and sign a statement that he/she has read, understands, and will uphold the rules". 2012: orientation only [@rules-1991 §IX] [@college-rules-2012 §VIII].
+    - **Added in 2012:** Anyone using "a Wiess facility (Private Dining Room, Movie Room, etc.) agrees to follow all rules of the facility, which will be clearly posted"; "Non-Wiessmen who wish to use Wiess facilities must obtain the appropriate approval" [@college-rules-2012 §I H]. The Court "shall recognize University-wide quiet hours as outlined in The Student Handbook" [@college-rules-2012 §III]. Unreported damage costs "up to an extra 50%" instead of a flat 50% [@college-rules-2012 §I E]. The Historian keeps the Rules "online", not "on a bulletin board" [@college-rules-2012 §IX].
+    - **Unchanged:** Penalties set each spring by the incoming Chief Justice and approved by Cabinet; notice within seven class days (in 2012, from "the violation being reported"); debts of $50 or less due in two weeks [@rules-1991 §VIII] [@college-rules-2012 §VII].
+    - **Freshman Waiting's end, in detail:** The 1998 website still had the Sophomore Reps "in charge of Freshman Waiting" [@riceinfo-cabinet-1998]. Service points are in the 2006 glossary and the 2007 Constitution [@oweek-2006 p.84] [@constitution-2007 Art. III §4 I]. A 1981 Thresher debate predicted "Freshman waiting will probably die out in two to three years" [@portal metapth245460 p.1]. It was still going in 1998 [@riceinfo-cabinet-1998].
 
 ??? info "The details: Housing Rules, 2008 (posted 2010 and 2011)"
     "WiessHousingRulesND.pdf" in the initial maintainer's collection is a two-page scan with no text layer, created 31 October 2008 [@housing-rules-2008]. It's byte for byte the file posted on teamwiess.com in August 2010 and July 2011, so it stayed up until at least 2011 [@housing-rules-2010]. OCR'd in October 2026, it has eleven sections and ends "MMM, BVA, LMH" [@housing-rules-2008]:
@@ -58,8 +58,8 @@ By 2006 the glossary has "Freshmen Service Points… Four hours of required serv
     7. **General Room jack**: full suites only, forms from the College Coordinator, $100 fine for pulling out after the deadline, appealable "to the college Masters" [@housing-rules-2008 §VII].
     8. **Leases**: from the College Coordinator "when available from Housing & Dining" [@housing-rules-2008 §VIII].
     9. **Coed suites**: need "approval from the Wiess Masters and have parental consent" [@housing-rules-2008 §IX].
-    10. **Appeals**: in writing "through the College Master" [@housing-rules-2008 §X].
-    11. **Housing Committee**: "a Masters' Committee, consisting of one Resident Associate, the current Wiess president, and three additional students (one from each class)" [@housing-rules-2008 §XI].
+    10. **Appeals**: in writing "through the college Master" [@housing-rules-2008 §X].
+    11. **Housing Committee**: "a Masters' Committee, consisting of one resident associate, the current Wiess president, and three additional students (one from each class)" [@housing-rules-2008 §XI].
 
     **What's different by 2013:** a separate upper freshman drawing for those with "at least four freshman service hours"; 2-man suites join the small-suite jack; leases signed online "on Esther"; no coed-suite section; the President is off the Housing Committee; a Parking Procedures section [@housing-rules-2013 §§II, VI, VIII–XI]. The OCR text isn't yet a tagged version in the governance repository [@gov-repo CHANGES.md].
 
@@ -74,14 +74,14 @@ By 2006 the glossary has "Freshmen Service Points… Four hours of required serv
     6. **2-, 3- and 5-man suites**: their own jack [@housing-rules-2013 §VI].
     7. **General Room Jack**: $100 withdrawal fine, appealable to the Magisters [@housing-rules-2013 §VII].
     8. **Leases**: online "on Esther" [@housing-rules-2013 §VIII].
-    9. **Appeals**: "through the College Master" [@housing-rules-2013 §IX].
+    9. **Appeals**: "through the college Master" [@housing-rules-2013 §IX].
     10. **Housing Committee**: "at least one Resident Associate and three additional students (one from each class)" [@housing-rules-2013 §X].
     11. **Parking**: Wiess's South Lot spaces, seniors first, with spaces held for the president, the housing coordinator, a social VP and the college coordinator [@housing-rules-2013 §XI].
 
     The glossaries match: "Five-man—Rooms in the corner of Wiess that each hold five people"; "Room Draw—The process used to assign rooms for the next year" [@oweek-2014 pp.102–103].
 
 ??? info "The details: 2026"
-    The 2026 Constitution keeps the Rules as a separate thing it doesn't print. Cabinet "shall set and administer the Rules and Bylaws of the College" [@constitution-2026 Art. IV §2]. "All members of Wiess College shall be expected to be familiar with and abide by the Rules", a line carried over from the 1993 Bylaws [@constitution-2026 Art. VIII §7] [@constitution-1993 Bylaws Art. VI]. Candidates "must have read the Constitution, Bylaws, and Rules" [@constitution-2026 Art. XI §3].
+    The 2026 Constitution keeps the Rules as a separate thing it doesn't print. Cabinet "shall set and administer the Rules and Bylaws of the college" [@constitution-2026 Art. IV §2]. "All members of Wiess College shall be expected to be familiar with and abide by the Rules", a line carried over from the 1993 Bylaws [@constitution-2026 Art. VIII §7] [@constitution-1993 Bylaws Art. VI]. Candidates "must have read the Constitution, Bylaws, and Rules" [@constitution-2026 Art. XI §3].
 
     Housing moves from a committee to "Housing Representatives (3)", who also "Choose an Apprentice Housing Representative before the housing jack who shall be a sophomore at the time of their appointment" [@constitution-2026 Art. VII §1]. The PDF has no Rules or Housing Rules; whether they exist separately "is not established" [@gov-repo v2026-02-23].
 

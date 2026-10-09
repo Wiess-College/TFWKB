@@ -8,7 +8,7 @@ reviewed_by: unreviewed
 # Types of Associates
 
 ## University Associates
-There shall be associates who shall be faculty or staff of the university. The magister of Wiess College shall be the highest-ranking faculty associate.
+"There shall be associates who shall be faculty or staff of the university. The magister of Wiess College shall be the highest-ranking faculty associate."
 
 ## Community Associates
 There may be any number of community associates not chosen from the faculty or staff of Rice University, but based on service to the college or community. The associates shall advise and assist the college.
@@ -23,9 +23,9 @@ The associates program is run in tight partnership between the college coordinat
 
 # Associate Roles
 
-Assocuates plan study breaks, engage with students intentionally (community and university associates often times "adopt" an o-week group) and support Wiessmen in their academic and social journey.
+Associates plan study breaks, engage with students intentionally (community and university associates often times "adopt" an o-week group) and support Wiessmen in their academic and social journey.
 
-Associates have joined students for lunch in commons, promoted career networking events, organized game nights, leadg cooking tutorials cheered at intramural games and attended Associate's nights.
+Associates have joined students for lunch in commons, promoted career networking events, organized game nights, leading cooking tutorials cheered at intramural games and attended Associate's nights.
 
 !!! abstract "TL;DR"
     - Wiess got its first two RAs in 1957. One, Dr. John E. Parish, stayed 23 years [@riceinfo-history].
@@ -34,7 +34,7 @@ Associates have joined students for lunch in commons, promoted career networking
 
 ## Dr. Bill, the legend
 
-"**Dr. Bill.** The Man. The Legend" [@oweek-2006 p.83]. He taught electrical engineering and was "a great friend and mentor to all Wiess members" [@handbook-1994]. He was even interim Magister (the professor who heads the college) in spring 1983 [@handbook-1994].
+"**Dr. Bill:** The Man. The Legend" [@oweek-2006 p.83]. He taught electrical engineering and was "a great friend and mentor to all Wiess members" [@handbook-1994]. He was even interim Magister (the professor who heads the college) in spring 1983 [@handbook-1994].
 
 He did everything: "theater to t-shirt screening to taking pictures of almost every Wiess event" [@riceinfo-associates]. In 2003, "Dr. Bill will have the answer to any crazy Wiess lore question you can dream up" [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.8].
 
@@ -74,7 +74,7 @@ The full list of RAs, Magisters and Coordinators, year by year, is on [The Core 
     | 2016-01-26 | Constitution: RAs "recommended by a committee lead by two undergraduate chairmen selected by the President… no fewer than six Wiess members" and "appointed by the administration" [@constitution-2016 p.1] | [P] |
     | 2017 | RAs Renata Ramos, Lenin Terrazas and Esther Fernández [@oweek-2017 p.69] | [P] |
     | 2019 | RAs Carissa and Nick ("super excited for their second year at Wiess") on the third floor and Esther Fernández ("my third at Wiess") on the fourth; the map marks "3: Carissa and Nick's" and "4: Esther's" over the dance room [@oweek-2019 p.21] [@oweek-2019 p.28] | [P] |
-    | 2020–21 | A-Team page: Resident Associates Carissa Zimmerman, Nick (Zimmerman in 2020; Espinosa in 2021) and Esther Fernandez [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20210319233348 http://teamwiess.com/government/ateam] | [P] |
+    | 2020–21 | A-Team page: resident associates Carissa Zimmerman, Nick (Zimmerman in 2020; Espinosa in 2021) and Esther Fernandez [@wb 20201002232553 http://teamwiess.com/government/ateam.html] [@wb 20210319233348 http://teamwiess.com/government/ateam] | [P] |
     | 2021 | Carissa and Nick (with family) in "their fourth year at Wiess"; Esther in "my fifth at Wiess"; the RAs and Magisters now "the Wiess Core Team" [@oweek-2021 p.25] [@oweek-2021 p.6] | [P] |
     | 2021-11 | The Woodson receives "a whole bunch of Dr. Bill Wilson's things… The real treasures in the boxes are the hundreds of recordings of Rice events made by Dr. Bill" [@rhc 2021-11-15 secession-1992] | [R] |
     | 2024 | Two RA households: Lach and Kari Mullen, Rice staff, in "our second year as Wiess RAs", a fourth-floor apartment, and Carissa Zimmerman and Nick Espinosa in "our seventh (and final *cry*) year"; Esther Fernández no longer listed. The book: RAs are "full-time faculty and staff at Rice who live among the students… often inviting students to their 'apartments'" [@oweek-2024 p.30] [@oweek-2024 p.31] [@oweek-2024 p.28] [@oweek-2024 p.59] | [P] |
@@ -83,10 +83,10 @@ The full list of RAs, Magisters and Coordinators, year by year, is on [The Core 
 
 ??? quote "In the college's own words"
 
-    "**Dr. Dodds.** Stan Dodds. Professor of Physics and longtime Wiess Associate starting his third year as a Resident Associate. Often seen working hard on Tabletop sets. Beware of his wry sense of humor." — 1994 Freshman Handbook [@handbook-1994]
+    "**Dr. Dodds:** Stan Dodds. Professor of Physics and longtime Wiess Associate starting his third year as a resident associate. Often seen working hard on Tabletop sets. Beware of his wry sense of humor." — 1994 Freshman Handbook [@handbook-1994]
 
-    "**John (Bennett).** Former Faculty Associate, alumnus of Wiess, and previous Resident Associate. Has gone over to the dark side of the Force. Teller of many Wiess legends. Ask him about the 'Pleasure Palace' sometime." — 1994 Freshman Handbook [@handbook-1994]
+    "**John (Bennett):** Former Faculty Associate, alumnus of Wiess, and previous resident associate. Has gone over to the dark side of the Force. Teller of many Wiess legends. Ask him about the 'Pleasure Palace' sometime." — 1994 Freshman Handbook [@handbook-1994]
 
-    "**Dr. Bill.** The Man. The Legend. Ex-Wiess RA who started the Dr. Bill Grant program at Wiess, shirt screening, and whose section in Fondren Library includes every college theatre production during his time at Rice." — O-Week Book 2014 [@oweek-2014 p.102]
+    "**Dr. Bill:** The Man. The Legend. Ex-Wiess RA who started the Dr. Bill Grant program at Wiess, shirt screening, and whose section in Fondren Library includes every college theatre production during his time at Rice." — O-Week Book 2014 [@oweek-2014 p.102]
 
 <div class="reviewed" markdown>Last reviewed 2026-10-04 by unreviewed · [Edit this page](#)</div>

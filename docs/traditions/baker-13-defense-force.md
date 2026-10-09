@@ -10,7 +10,7 @@ reviewed_by: unreviewed
 The Baker 13 Defense Force is Wiess's welcome for the Baker 13 runners: buckets of water. Every O-Week book glossary from 2003 to 2014 called Baker 13 "A favorite target of Wiessmen with buckets of water" [@oweek-2003 p.5] [@oweek-2014 p.104].
 
 !!! abstract "TL;DR"
-    - Baker 13 is Baker College's run: on the 13th and 31st of the month, runners in shaving cream streak around campus [@oweek-2006 p.53] [@oweek-2010 p.54].
+    - Baker 13 is Baker's run: on the 13th and 31st (or 26th) of the month, runners in shaving cream streak around campus [@oweek-2006 p.53] [@oweek-2010 p.54].
     - By 2017 the college had Baker 13 Defense Force reps, with suits, sunglasses and a water gun [@wb 20170421224913 http://teamwiess.com/profiles/reps/baker13defense.jpg].
     - In 2015 the books swapped the water line for an invitation to run. The latest mention of the water we've found so far is 2014 [@oweek-2014 p.104] [@oweek-2015 p.120].
 

@@ -96,18 +96,18 @@ Modules (imported, never run):
 
 ## Why it's built this way (October 2026)
 
-- **Tools run anywhere, on whatever document you have.** Nothing assumes one machine or a shared corpus. Commit the output, not the source document.
-- **Editor data is YAML under `sources/`.** Fields are labelled, and there's no Python syntax to break. Scripts check it and stop with a message naming the entry.
-- **Generated files are never edited by hand.** This covers the Photographs page, Record-page galleries, the glossary series page, `governance-versions.md` and the manifest's caption columns. Edit the source and rerun the tool.
-- **Two requirements files.** `requirements.txt` holds only what the site build needs, since every deploy installs it. Everything else goes in `requirements-dev.txt`.
-- **No machine-specific paths in code.** Folders outside the repo come from `repository_folders.py`. CI fails on `/Users/`, `/home/` or `/mnt/` in `tools/` and `hooks/`.
+- **Tools run anywhere, on whatever document you have:** Nothing assumes one machine or a shared corpus. Commit the output, not the source document.
+- **Editor data is YAML under `sources/`:** Fields are labelled, and there's no Python syntax to break. Scripts check it and stop with a message naming the entry.
+- **Generated files are never edited by hand:** This covers the Photographs page, Record-page galleries, the glossary series page, `governance-versions.md` and the manifest's caption columns. Edit the source and rerun the tool.
+- **Two requirements files:** `requirements.txt` holds only what the site build needs, since every deploy installs it. Everything else goes in `requirements-dev.txt`.
+- **No machine-specific paths in code:** Folders outside the repo come from `repository_folders.py`. CI fails on `/Users/`, `/home/` or `/mnt/` in `tools/` and `hooks/`.
 - **Names:** scripts are verb_object (what they do); modules are nouns (what they hold). `cite.py` stays short because editors type it most. See `STYLE.md` §1.
-- **Garbled PDFs are fixed in the PDF, not in the text.**
+- **Garbled PDFs are fixed in the PDF, not in the text:**
   - `fix_pdf_fonts.py` identifies each glyph by its outline, matching installed fonts and readable fonts in the same PDF.
   - It replaced per-book cipher tables built by hand. One of those had `!` and `)` swapped.
   - `fix_pdf_text.py` remains only for searching old text extracts.
-- **`convert_html_to_text.py` uses only the standard library.** It's crude, but needs nothing installed; its docstring lists the gaps. The upgrade is PyPI `html2text`; delete ours if you adopt it, because the import names clash.
-- **`hooks/citations.py` stays in `hooks/`.** MkDocs runs it on every build; `tools/` is for scripts run by hand.
+- **`convert_html_to_text.py` uses only the standard library:** It's crude, but needs nothing installed; its docstring lists the gaps. The upgrade is PyPI `html2text`; delete ours if you adopt it, because the import names clash.
+- **`hooks/citations.py` stays in `hooks/`:** MkDocs runs it on every build; `tools/` is for scripts run by hand.
 
 ## Changing a tool
 

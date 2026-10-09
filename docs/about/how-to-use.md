@@ -17,9 +17,9 @@ The big buttons on the [home page](../index.md) go to the most-read pages. The t
 
 Most pages look the same, so you always know where to look.
 
-1. **TL;DR.** A gold box with the short version. If you read nothing else, read this.
-2. **The story.** A few short sections in plain words.
-3. **The receipts.** Fold-out boxes with the full timeline, one dated row per fact. Click to open.
+1. **TL;DR:** A gold box with the short version. If you read nothing else, read this.
+2. **The story:** A few short sections in plain words.
+3. **The receipts:** Fold-out boxes with the full timeline, one dated row per fact. Click to open.
 
 When sources disagree, the page says so in a sentence or two, right where it matters. Open questions, the things we're still looking for, are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues), and anyone can help with **Add your story** or **Suggest a correction**.
 
@@ -41,9 +41,9 @@ The full list of sources is the [bibliography](../sources/bibliography.md).
 
 In the timelines, each fact has a letter that tells you what kind of proof it is.
 
-- <span class="ev ev-P">P</span> **Primary.** Written at the time. The strongest kind.
-- <span class="ev ev-R">R</span> **Retrospective.** Written later by someone looking back.
-- <span class="ev ev-T">T</span> **Testimony.** Someone's memory. Great for leads, but memories drift.
+- <span class="ev ev-P">P</span> **Primary:** Written at the time. The strongest kind.
+- <span class="ev ev-R">R</span> **Retrospective:** Written later by someone looking back.
+- <span class="ev ev-T">T</span> **Testimony:** Someone's memory. Great for leads, but memories drift.
 
 More detail: [Evidence classes](../sources/evidence-classes.md).
 
@@ -55,9 +55,9 @@ Some traditions are surprises for freshmen. Those pages hide everything behind a
 
 At the top and bottom of each page:
 
-- **Suggest a correction.** Something's wrong? Tell us. It opens a short form on GitHub.
-- **Add your story.** You were there? Tell us what happened.
-- **Discuss.** Talk it over with other Wiessmen.
+- **Suggest a correction:** Something's wrong? Tell us. It opens a short form on GitHub.
+- **Add your story:** You were there? Tell us what happened.
+- **Discuss:** Talk it over with other Wiessmen.
 
 You need a free GitHub account to use them. Want more? See [Add your story or fix something](contribute.md).
 

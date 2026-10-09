@@ -2,14 +2,14 @@
 title: Add your story or fix something
 ---
 
-This knowledgebase is a community effort, and it's incomplete without your input. Even if all you have is a recollection, share it and when someone has the time, we can do some research to look into it and make the site better.
+This knowledge-base is a community effort, and it's incomplete without your input. Even if all you have is a recollection, share it and when someone has the time, we can do some research to look into it and make the site better.
 
 # Add your story or fix something
 
 !!! abstract "TL;DR"
     - Pick a button below. Each one opens a short form.
     - You need a free GitHub account.
-    - Say how you know. "I was there" counts.
+    - Say how you know—"I was there" counts.
 
 <div class="tfw-paths" markdown>
 
@@ -17,7 +17,7 @@ This knowledgebase is a community effort, and it's incomplete without your input
 
 ### :material-message-draw: Add your story
 
-You were there, or you heard about it. Tell us what happened, when, and how you know. We'll look for a source and may quote you by class year.
+You were there, or you heard about it. Tell us what happened, when and how you know. We'll look for a source and may quote you by class year.
 
 [Add your story](https://github.com/Wiess-College/TFWKB/issues/new?template=story.yml){ .md-button .md-button--primary }
 

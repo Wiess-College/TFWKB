@@ -18,10 +18,10 @@ Broomball is hockey on ice in shoes instead of skates, with broom-headed sticks 
 
 Hockey, but in sneakers, with brooms. Nobody stays upright for long.
 
-- **The ice.** A rink, or any ice you can book [@wikipedia-broomball].
-- **The feet.** Shoes, not skates. That's most of the fun [@wikipedia-broomball].
-- **The stick.** A broom, or a stick with a broom-shaped head [@wikipedia-broomball].
-- **The goal.** Get the ball into the other team's net. Scoring works like hockey [@wikipedia-broomball].
+- **The ice:** A rink, or any ice you can book [@wikipedia-broomball].
+- **The feet:** Shoes, not skates. That's most of the fun [@wikipedia-broomball].
+- **The stick:** A broom, or a stick with a broom-shaped head [@wikipedia-broomball].
+- **The goal:** Get the ball into the other team's net. Scoring works like hockey [@wikipedia-broomball].
 
 ## Broomball at Rice
 

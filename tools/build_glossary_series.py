@@ -243,10 +243,10 @@ def render_introduction(years: list[str]) -> list[str]:
         "    - Watch words drift: the War Pig is \"the Wiess mascot\" in 1994, \"**Former** Wiess mascot\" from 2006, "
         "and \"the giant wooden pig built by the Class of 2012\" from 2014.\n"
         "    - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.\n\n"
-        "**How it works.** This page is built by a script from "
+        "**How it works:** This page is built by a script from "
         f"{len(years)} glossaries ({', '.join(years)}). Want to fix something? Edit `sources/glossaries/*.tsv`, "
         "then run `tools/build_glossary_series.py`. Don't edit this page by hand.\n\n"
-        "**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
+        "**Renamed things stay together:** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
         "Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. "
         "The newer name shows in italics next to its year.\n",
     ]

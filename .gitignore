@@ -5,3 +5,4 @@ __pycache__/
 /links-report.md
 .venv/
 tfwkb.config.yml
+.vscode/

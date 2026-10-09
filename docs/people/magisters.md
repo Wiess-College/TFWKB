@@ -31,14 +31,14 @@ The Magister can veto Cabinet. Since about 2025, Cabinet can answer with "an off
 
 The list is solid from about 1990 and patchy before. The full table with sources is in the receipts below.
 
-- **1957–1969.** Dr. Roy Talmage, "a conservative and strict gentleman" who required "Wiess blazers (complete with crests) for formal Sunday dinners" [@oweek-2006 p.36]. Chairman of biology, he was one of the first five masters appointed by President W. V. Houston [@portal metapth245394 p.6]. Dr. Paul Pfeiffer was acting master in 1963–64, while Talmage was on leave [@portal metapth245396 p.14]. Talmage retired in spring 1969 [@portal metapth245397 p.12].
-- **1970s.** Lea Rudee, Stephen Baker (acting) and Stewart Baker, known mostly from alumni memories [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016] [@rhc 2013-02-19 dr-baker-rocks comment by Stephen Baker, 19 Feb 2013] [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. Dr. Mervyn Lea Rudee (Materials Science) moved into Wiess House as master in June 1969; Baker was acting master in 1971–72, while Rudee held a Guggenheim Fellowship [@portal metapth245397 p.12]. The sources disagree on Rudee's start: the 1979 Thresher serial says 1969, an alum's memory "a year or two" before 1973 [@portal metapth245397 p.12] [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016].
-- **c.1990–2001.** John and Paula Hutchinson, who "do a damn fine guitar-vocal duet" [@riceinfo-masters].
-- **2001/02–2006.** Katharine Donato and Dan Kalb [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.7].
-- **2006–2011.** Mike Gustin and Denise Klein [@oweek-2006 p.8].
-- **2011–2016.** Alexander and Jeanette Byrd [@oweek-2011 p.92].
-- **2016–2021.** Andrew and Laura Schaefer, both Wiess alums, who met "at (Old) Wiess in 1991" [@oweek-2016 p.19].
-- **2021–2026.** Flavio Cunha and Fabiana Santos [@oweek-2021 p.24] [@oweek-2024 p.29].
+- **1957–1969:** Dr. Roy Talmage, "a conservative and strict gentleman" who required "Wiess blazers (complete with crests) for formal Sunday dinners" [@oweek-2006 p.36]. Chairman of biology, he was one of the first five masters appointed by President W. V. Houston [@portal metapth245394 p.6]. Dr. Paul Pfeiffer was acting master in 1963–64, while Talmage was on leave [@portal metapth245396 p.14]. Talmage retired in spring 1969 [@portal metapth245397 p.12].
+- **1970s:** Lea Rudee, Stephen Baker (acting) and Stewart Baker, known mostly from alumni memories [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016] [@rhc 2013-02-19 dr-baker-rocks comment by Stephen Baker, 19 Feb 2013] [@rhc 2016-03-07 barbara-jordan-1977 comment by Krammit, 7 Mar 2016]. Dr. Mervyn Lea Rudee (Materials Science) moved into Wiess House as master in June 1969; Baker was acting master in 1971–72, while Rudee held a Guggenheim Fellowship [@portal metapth245397 p.12]. The sources disagree on Rudee's start: the 1979 Thresher serial says 1969, an alum's memory "a year or two" before 1973 [@portal metapth245397 p.12] [@rhc 2016-08-16 moving-in-the-rain-1957 comment by Kermit Lancaster, 23 Aug 2016].
+- **c.1990–2001:** John and Paula Hutchinson, who "do a damn fine guitar-vocal duet" [@riceinfo-masters].
+- **2001/02–2006:** Katharine Donato and Dan Kalb [@wb 20040619001755 http://www.teamwiess.com/oweek/01-14%20intro.pdf p.7].
+- **2006–2011:** Mike Gustin and Denise Klein [@oweek-2006 p.8].
+- **2011–2016:** Alexander and Jeanette Byrd [@oweek-2011 p.92].
+- **2016–2021:** Andrew and Laura Schaefer, both Wiess alums, who met "at (Old) Wiess in 1991" [@oweek-2016 p.19].
+- **2021–2026:** Flavio Cunha and Fabiana Santos [@oweek-2021 p.24] [@oweek-2024 p.29].
 - **2026-** 
 
 The Magisters, RAs and Coordinators together: [The Core Team](core-team.md). Their house: [Wilson House](../places/wilson-house.md).
@@ -74,7 +74,7 @@ The Magisters, RAs and Coordinators together: [The Core Team](core-team.md). The
 
     "As Masters, John and Paula function as advocates for the college to the rest of the university, as well as being friends, supporters and advisors to every member of Wiess College." — 1994 Freshman Handbook [@riceinfo-masters]
 
-    "**Dr. Byrd.** Wiess Master and History Professor. Starting off his first year as Wiess Master, he can't wait to join TFW and get to know you!" — O-Week Book 2011 [@oweek-2011 p.92]
+    "**Dr. Byrd:** Wiess Master and History Professor. Starting off his first year as Wiess Master, he can't wait to join TFW and get to know you!" — O-Week Book 2011 [@oweek-2011 p.92]
 
     "The Schaefers feel that the Rice college system (and Wiess in particular) is 'in their DNA'." — O-Week Book 2016 [@oweek-2016 p.19]
 

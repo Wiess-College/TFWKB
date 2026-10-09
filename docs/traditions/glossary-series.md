@@ -14,9 +14,9 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
     - Watch words drift: the War Pig is "the Wiess mascot" in 1994, "**Former** Wiess mascot" from 2006, and "the giant wooden pig built by the Class of 2012" from 2014.
     - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.
 
-**How it works.** This page is built by a script from 16 glossaries (1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025). Want to fix something? Edit `sources/glossaries/*.tsv`, then run `tools/build_glossary_series.py`. Don't edit this page by hand.
+**How it works:** This page is built by a script from 16 glossaries (1994-handbook, 2003, 2006, 2007, 2008, 2010, 2011, 2014, 2015, 2016, 2016-owlmanac, 2017, 2019, 2021, 2024, 2025). Want to fix something? Edit `sources/glossaries/*.tsv`, then run `tools/build_glossary_series.py`. Don't edit this page by hand.
 
-**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. The newer name shows in italics next to its year.
+**Renamed things stay together:** When a book renamed something (Room Draw → Housing Jack, Willy Week → Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. The newer name shows in italics next to its year.
 
 
 ## Terms that recur (202)
@@ -924,7 +924,7 @@ Every O-Week book ends with a glossary of Wiess words, written by that year's O-
 
 ### Dr. Bill
 
-- **1994-handbook**—Senior Resident Associate and interim master in Spring '83. Officially Dr. William Wilson, Dr. Bill is a great friend and mentor to all Wiess members. (see also "Happy Hour") [@handbook-1994]
+- **1994-handbook**—Senior resident associate and interim master in Spring '83. Officially Dr. William Wilson, Dr. Bill is a great friend and mentor to all Wiess members. (see also "Happy Hour") [@handbook-1994]
 - **2003**—1. Wiess RA. Electrical Engineering Professor Dr. William Wilson. A great friend and mentor to all Wiessmen. Catch him setting up Tabletop sets, recording things on campus and taking pictures wherever he goes. [@oweek-2003 p.3]
 - **2006**—1. The Man. The Legend. Ask any Wiessman and he will be glad to tell of this extraordinary friend and mentor. [@oweek-2006 p.83]
 - **2007**—1. The Man. The Legend. Ask any Wiessman and he will be glad to tell of this extraordinary friend and mentor. [@oweek-2007 p.83]
@@ -2468,16 +2468,16 @@ These are often the best ones: a joke that lasted one semester, a staff member e
 
 - **Backabowl**—The playing field opposite the Acabowl between the singles wing and the three story wing. Where most of the amateur and shy sun-bathers can be found. [@handbook-1994]
 - **Black and Gold**—Official Wiess colors (also the main reason for the color scheme in the Commons) [@handbook-1994]
-- **Dr. Dodds**—Stan Dodds. Professor of Physics and longtime Wiess Associate starting his third year as a Resident Associate. Often seen working hard on Tabletop sets. Beware of his wry sense of humor. (Type his name into a word processor and the spelling checker will tell you it's supposed to be "doodads.") [@handbook-1994]
+- **Dr. Dodds**—Stan Dodds. Professor of Physics and longtime Wiess Associate starting his third year as a resident associate. Often seen working hard on Tabletop sets. Beware of his wry sense of humor. (Type his name into a word processor and the spelling checker will tell you it's supposed to be "doodads.") [@handbook-1994]
 - **Foosball**—Popular game at Wiess College, played in the outer commons. Play while you're a freshman, because you won't have time later. [@handbook-1994]
 - **Foursquare**—Wiess' traditional game, played on the Acabowl court for hours on end. An exceptionally skillful volley series is described as "Good Fourplay." I don't recall ever seeing anyone play this during my three ye ars... [@handbook-1994]
 - **Happy Hour**—The summer tradition of Wiess College. Dr. Bill sponsors a weekly get-together for Wiessmen living in Houston over the summer months. A great way to start your weekend a little early. (Also probably the only opportunity you'll ever get to see Bob Truscott drunk, odd as that is...) [@handbook-1994]
-- **John (Bennett)**—Former Faculty Associate, alumnus of Wiess, and previous Resident Associate. Has gone over to the dark side of the Force. Teller of many Wiess legends. Ask him about the"Pleasure Palace" sometime. [@handbook-1994]
+- **John (Bennett)**—Former Faculty Associate, alumnus of Wiess, and previous resident associate. Has gone over to the dark side of the Force. Teller of many Wiess legends. Ask him about the"Pleasure Palace" sometime. [@handbook-1994]
 - **KBG**—Kitchen in the outer commons at Wiess. "Kitchen by George" was built by George Hall in the '70s. However, according to Keith Meehan ('81) According to George Hall (who should know), the letters KBG actually stand for Kolada's Bar & Grill (which I believe serves a famous drink, the Penis Kolada). Although many folks at the time were convinced that Kitchen By George was the true meaning, George himself always maintained that was not the case. George himself was quite an interesting fellow - simultaneously holding the office of President and Wiess College Idiot in 1981. He was also pretty geeky, even by Rice standards, but he did do a good job on the kitchen. [@handbook-1994]
 - **Laundry Room**—Room in the basement that contains the washers and dryers. If they do not work, go bitch to the basement rep. [@handbook-1994]
 - **Mailing Address**—Never include the words Rice University in the address. It will delay an already belated letter: Your name Wiess College 6340 South Main Houston, TX. 77005-1889 [@handbook-1994]
 - **Pace Mannion**—Former star bench-warmer for the Utah Jazz and Wiess' favorite professional athlete. As many as 100 Wiessmen were known to show up at the Summit to cheer their idol off the sidelines and onto the court. Unfortunately, the Utah Jazz management did not agree with Wiess' enthusiasm, and at last report Pace is in Europe playing for the CBA. [@handbook-1994]
-- **Sparky**—A euphemism for phallic symbols common at Wiess near NOD time. According to George Hall (Wiess College President '81, College Idiot '79,'80,'81,'82), Sparky was the name of an eight foot long paper mache dildo built (and well built) for NOD in ~1980. He gained his fame by appearing in the Houston Post sports page bobing up and down in the student section at a Rice football game. [@handbook-1994]
+- **Sparky**—A euphemism for phallic symbols common at Wiess near NOD time. According to George Hall (Wiess College President '81, College Idiot '79,'80,'81,'82), Sparky was the name of an eight foot long Papier-mâché dildo built (and well built) for NOD in ~1980. He gained his fame by appearing in the Houston Post sports page bobing up and down in the student section at a Rice football game. [@handbook-1994]
 - **Viking Table**—A chance to eat with your hands and generally make a mess. Viking people must clean up after they are through. [@handbook-1994]
 - **WiessCrack**—Wiess' annual humor publication, intended to mock the Thresher and improve on the Trasher. Funnier than Letterman. [@handbook-1994]
 

@@ -20,10 +20,10 @@ The college's own description, word for word in the 2021, 2024 and 2025 O-Week b
 
 In practice:
 
-- **Sign up.** An organiser sends an email and an online form a few weeks ahead. You sign up to skate, to drive, or both [@groupme-2025-02-13-wiess-skate] [@groupme-2026-02-02-wiess-skate].
-- **Carpool.** Drivers take everyone else. When there are more riders than seats, the organiser asks for more drivers [@groupme-2025-02-13-wiess-skate].
-- **Skate.** In 2025, skating was free for Wiessmen [@groupme-2025-02-13-wiess-skate]. Expect snacks (pastries, in 2025) and plenty of photos [@groupme-2025-02-25-wiess-skate] [@groupme-2026-02-22-wiess-skate].
-- **Race.** Each class puts up skaters for a speed race. Everyone else watches and yells [@oweek-2025 p.39] [@groupme-2025-02-25-wiess-skate].
+- **Sign up:** An organiser sends an email and an online form a few weeks ahead. You sign up to skate, to drive, or both [@groupme-2025-02-13-wiess-skate] [@groupme-2026-02-02-wiess-skate].
+- **Carpool:** Drivers take everyone else. When there are more riders than seats, the organiser asks for more drivers [@groupme-2025-02-13-wiess-skate].
+- **Skate:** In 2025, skating was free for Wiessmen [@groupme-2025-02-13-wiess-skate]. Expect snacks (pastries, in 2025) and plenty of photos [@groupme-2025-02-25-wiess-skate] [@groupme-2026-02-22-wiess-skate].
+- **Race:** Each class puts up skaters for a speed race. Everyone else watches and yells [@oweek-2025 p.39] [@groupme-2025-02-25-wiess-skate].
 
 In 2025 the night also had O-Week dancing on the ice, and the organiser called it "our highest turnout yet" [@groupme-2025-02-25-wiess-skate].
 
