@@ -65,7 +65,7 @@ or in the docstring of the function that takes it.
 **File names follow the same rule:** A script you run is named for what it does, verb first:
 `add_glossary.py`, `apply_photos.py`, `find_pdf_page.py`, `file_issue_drafts.sh`. A module that other scripts
 import and nobody runs is named for what it holds, as a noun: `repository_folders.py`, `glossary_layouts.py`,
-`hooks/citations.py`. Say what the thing is about, not just its kind: `repository_folders.py`, not `paths.py`.
+`tools/hooks/citations.py`. Say what the thing is about, not just its kind: `repository_folders.py`, not `paths.py`.
 `cite.py` keeps its short name because editors type it most.
 
 ## 2. Docstrings

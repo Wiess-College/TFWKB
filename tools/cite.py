@@ -2,7 +2,7 @@
 """Turn a corpus path into a citation, or a citation into a URL.
 
 Pages cite the archived web corpus with short forms such as [@wb timestamp url], which
-hooks/citations.py turns into links at build time. Working the timestamp and original URL out of a
+tools/hooks/citations.py turns into links at build time. Working the timestamp and original URL out of a
 mirrored file name by hand is slow and easy to get wrong, and so is checking where a citation will
 link. This script does both. It works citations out from corpus paths by their names alone (the
 files need not be present). For --url it reads what the hook reads, sources/bibliography/*.yaml and
@@ -99,7 +99,7 @@ def find_citation_url(citation: str) -> str:
     """Return the address a citation links to on the site, or "(unknown key ...)" if nothing defines its key.
 
     The citation may leave out its square brackets and its "@". The address comes from
-    hooks/citations.py's resolve_citation, with the bibliography and Portal issue dates loaded the way
+    tools/hooks/citations.py's resolve_citation, with the bibliography and Portal issue dates loaded the way
     the hook loads them when the site builds. A bibliography entry with no url gives
     "(no url; held by ...)", saying who holds the source.
     """

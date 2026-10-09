@@ -74,7 +74,7 @@ We hold 2003, 2006–2011 (some in parts), 2014–2017 and the 2016 Owlmanac fro
 
 ## The Campanile
 
-The yearbook. archive.org has only 1916–1939 and 1988. Rice's own repository (repository.rice.edu / scholarship.rice.edu) blocks automated access, so use a browser. The college holds scans of the War Pig pages 1984–2012 in `artifacts/campanile-pages/`, with an index of print and PDF page numbers. The 1960s volumes are the place to look for the Academic Bowl game and Jock Row.
+The yearbook. archive.org has only 1916–1939 and 1988. Rice's own repository (repository.rice.edu / scholarship.rice.edu) blocks automated access, so use a browser. The college holds scans of the War Pig pages 1984–2012 in `campanile-pages/`, with an index of print and PDF page numbers. The 1960s volumes are the place to look for the Academic Bowl game and Jock Row.
 
 ## Other people's archives
 

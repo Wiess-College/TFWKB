@@ -45,7 +45,7 @@ or a page that is not UTF-8. A --limit that is not a whole number stops it with 
 status 2. A --report file that cannot be written stops it with a traceback after every address has been
 checked.
 
-What this checks is not always what a reader's link opens. hooks/citations.py builds the links, and:
+What this checks is not always what a reader's link opens. tools/hooks/citations.py builds the links, and:
 
     the site sends a reader to the Wayback Machine (web.archive.org/web/2/<address>) for any address
     outside the archives it links directly (on_page_content in the hook); this script checks the live address.

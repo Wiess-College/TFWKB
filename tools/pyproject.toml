@@ -10,7 +10,7 @@
 [tool.ruff]
 target-version = "py312"
 line-length = 120
-include = ["tools/**/*.py", "hooks/**/*.py"]
+include = ["tools/**/*.py", "tools/hooks/**/*.py"]
 # Scripts not yet rewritten to tools/STYLE.md. Remove a script from this list, and from pylint's ignore list
 # below, in the same commit that rewrites it. New scripts are linted from the start.
 extend-exclude = [

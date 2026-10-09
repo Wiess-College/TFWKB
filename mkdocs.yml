@@ -78,7 +78,7 @@ plugins:
       caption_position: bottom
 
 hooks:
-  - hooks/citations.py
+  - tools/hooks/citations.py
 
 extra:
   # where the per-page "Discuss" button goes (GitHub Discussions must be enabled;

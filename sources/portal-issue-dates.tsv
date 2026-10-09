@@ -1,4 +1,4 @@
-# Portal to Texas History ark -> Thresher issue date. Used by hooks/citations.py to date [@portal ...] citations.
+# Portal to Texas History ark -> Thresher issue date. Used by tools/hooks/citations.py to date [@portal ...] citations.
 # Built from dated timeline rows and bibliography entries; add rows by hand as needed.
 ark	date
 metapth231056	1957-04-12

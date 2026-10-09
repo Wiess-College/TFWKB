@@ -23,7 +23,7 @@
 
 .md-header, .md-tabs { border-bottom: 3px solid var(--fp-gold); }
 
-/* citations rendered by hooks/citations.py */
+/* citations rendered by tools/hooks/citations.py */
 a.cite, span.cite {
   font-family: var(--md-code-font-family);
   font-size: 0.72em;
@@ -257,7 +257,7 @@ a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outli
 .md-typeset .tfw-path h3 { margin-top: 0.6em; }
 .md-typeset .tfw-path .md-button { margin: 0.2rem 0.3rem 0.2rem 0; }
 
-/* Wikipedia-style citations (hooks/citations.py: footnote_citations) */
+/* Wikipedia-style citations (tools/hooks/citations.py: footnote_citations) */
 .md-typeset sup.cite-ref { font-size: 0.68em; line-height: 0; white-space: nowrap; }
 .md-typeset sup.cite-ref a { color: var(--md-default-fg-color--light); text-decoration: none; }
 .md-typeset sup.cite-ref a:hover { color: var(--md-accent-fg-color); }
@@ -268,7 +268,7 @@ a.tfw-action:focus-visible { outline: 2px solid var(--md-accent-fg-color); outli
 .md-typeset ol.references a.cite-back { font-weight: 700; text-decoration: none; margin-right: 0.15em; }
 .md-typeset sup.cite-ref:target a { background: var(--md-accent-fg-color--transparent); }
 
-/* Timeline bars (hooks/citations.py: render_timeline) */
+/* Timeline bars (tools/hooks/citations.py: render_timeline) */
 .md-typeset .tl { margin: 1.2em 0 1.6em; font-size: 0.72rem; --tl-bar: var(--md-accent-fg-color); --tl-ink: var(--md-default-fg-color--light); }
 .md-typeset .tl-row { display: grid; grid-template-columns: 13rem 1fr; align-items: center; min-height: 1.7em; }
 .md-typeset .tl-label { padding-right: 0.8em; line-height: 1.25; }

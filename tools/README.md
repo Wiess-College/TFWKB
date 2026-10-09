@@ -45,7 +45,7 @@ Modules (imported, never run):
 |---|---|
 | `repository_folders.py` | Repo root; folders outside it: governance checkout, working copy (argument → environment variable → `tfwkb.config.yml`) |
 | `glossary_layouts.py` | Column splitting and entry parsers for `add_glossary.py` |
-| `../hooks/citations.py` | MkDocs hook: citations, timelines, bibliography at build time. `cite.py` imports it. |
+| `../tools/hooks/citations.py` | MkDocs hook: citations, timelines, bibliography at build time. `cite.py` imports it. |
 
 ## Common jobs
 
