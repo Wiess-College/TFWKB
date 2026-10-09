@@ -23,6 +23,6 @@ Let this be Great Pumpkin's night
 
 
 <audio controls autoplay>
-<source src="../../assets/sounds/we-the-clowns-spooky.mp4" type="audio/mp4">
+<source src="/TWFKB/assets/sounds/we-the-clowns-spooky.mp4" type="audio/mp4">
 </audio>
 
