@@ -260,11 +260,8 @@ On [The Acabowl](../places/acabowl.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="TFWKB photo collection; [teamwiess.com/pow.html](https://web.archive.org/web/20021013235815fw_/http://www.teamwiess.com/pow.html) · 'complaments of Karla'" data-gallery="index-acabowl" }
-
-
-
-  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>TFWKB photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
+  ![A rendering of a spiral slide from an upper balcony down to the lawn.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn." data-description="teamwiess.com/pow.html · 'complaments of Karla'" data-gallery="index-acabowl" }
+  <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>TFWKB photo collection; 'complaments of Karla' [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
 </figure>
 
 </div>
