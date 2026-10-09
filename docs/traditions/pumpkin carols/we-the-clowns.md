@@ -17,7 +17,7 @@ Upward leading we are pleading
 Let this be Great Pumpkin's night  
 
 
-![we the clowns sheet music](/docs/traditions/pumpkin carols/we-the-clowns.md)
+![we the clowns sheet music](../assets/photos/graphics/we-the-clowns_music-sheet-white.svg)
 <!-- <img src="/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg" alt="sheet music for we the clowns"/>  -->
 
 
