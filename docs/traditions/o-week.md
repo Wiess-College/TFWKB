@@ -28,6 +28,12 @@ O-Week (Orientation Week) is the week before classes when Wiess, like every Rice
 
 Every year since 2003, the Head Fellows have written an O-Week book for new students [@oweek-2003 intro p.2]. Those books are the backbone of this whole site. They're also where the best quotes come from: "O-Week—1. The best week ever" [@oweek-2003 p.6].
 
+## O-Week Bits
+
+It's common for O-Week families to have their own bits, and for some to be perpetuated by the coords and fellows. Here is a brief list of some examples of bits we try on the new stidents:
+ - Shoes off in upco
+ - Peter's real last name
+
 ## Wiess's theme is Wiess
 
 The book covers said "Team Wiess" from 2006 to 2017 [@oweek-2006 p.1] [@oweek-2017 p.1]. Since 2023 the Thresher lists Wiess's theme as "Team Family Wiess" [@thresher-2023-08-29-every-theme]. By 2024 the book calls it a motto: "Team Family Wiess is our motto" [@oweek-2024 p.2]. Rice News describes the same practice the other way round: Wiess "traditionally doesn't adopt a specific O-Week theme" [@rice-news-2025-08-18-oweek-shirt].

@@ -9,7 +9,7 @@ reviewed_by: unreviewed
 
 Every photograph and graphic placed on a Record page, 97 in all, grouped by the page it illustrates. Click any image to enlarge it; the caption under each says what it shows, where it came from and how we know the date. Where the source is a capture of a college website, the citation opens that capture in the Wayback Machine. Where a caption says *source not recorded*, the image reached the collection without a note of where it was first published, and its date comes from its file name or its content; treat those dates as provisional.
 
-**Preservation:** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. The originals, at full size, are kept by the maintainers, and an Internet Archive collection of them is planned so that every photograph here has a permanent public home that does not depend on this site. The list of files, with sizes, checksums and these captions, is `docs/assets/photos/manifest.tsv`. Photographs are chosen to show places and customs; students are not named in captions unless the [Core Team](../people/core-team.md) table or a public record names them as office-holders, and nothing revealing from Night of Decadence is shown. See [Rights](../contributing/rights.md).
+**Preservation.** These are web-size copies (at most 1,600 pixels on the long side) with thumbnails. The originals, at full size, are kept by the maintainers, and an Internet Archive collection of them is planned so that every photograph here has a permanent public home that does not depend on this site. The list of files, with sizes, checksums and these captions, is `docs/assets/photos/manifest.tsv`. Photographs are chosen to show places and customs; students are not named in captions unless the [Core Team](../people/core-team.md) table or a public record names them as office-holders, and nothing revealing from Night of Decadence is shown. See [Rights](../contributing/rights.md).
 
 ## Old Wiess
 
@@ -116,8 +116,8 @@ On [Old Wiess, wing by wing (1999)](../places/old-wiess.md#photographs).
 <div class="grid photo-grid" markdown>
 
 <figure markdown="span">
-  ![The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds.](../assets/photos/riceinfo-1997-2002/thumbs/views-ten1.jpg){ loading=lazy data-title="The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds." data-description="First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) · 1998–1999" data-gallery="index-oldwiess1999" }
-  <figcaption>The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the resident associate, Dr. Stan Dodds. <small>First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) [@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]</small></figcaption>
+  ![The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds.](../assets/photos/riceinfo-1997-2002/thumbs/views-ten1.jpg){ loading=lazy data-title="The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds." data-description="First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) · 1998–1999" data-gallery="index-oldwiess1999" }
+  <figcaption>The Tennis Court Wing, rooms 101–110 and 201–210; rooms 209–210 were the apartment of the Resident Associate, Dr. Stan Dodds. <small>First Wiess website, &#x27;Pictures of Wiess Rooms&#x27; (set up by Head Fellow Chris Ruehl, 1998; text Ray Wagner, 1999) [@wb 20011112112601 http://riceinfo.rice.edu/projects/colleges/wiess/college/photos/tennis.html]</small></figcaption>
 </figure>
 
 <figure markdown="span">
@@ -260,7 +260,10 @@ On [The Acabowl](../places/acabowl.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="TFWKB photo collection; source not recorded · undated" data-gallery="index-acabowl" }
+  ![A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'.](../assets/photos/photos/thumbs/aca-slide.jpg){ loading=lazy data-title="A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 &#x27;Proposed Wiess Acaslide&#x27;." data-description="TFWKB photo collection; [teamwiess.com/pow.html](https://web.archive.org/web/20021013235815fw_/http://www.teamwiess.com/pow.html) · 'complaments of Karla'" data-gallery="index-acabowl" }
+
+
+
   <figcaption>A rendering of a spiral slide from an upper balcony down to the lawn. Compare the 2002 'Proposed Wiess Acaslide'. <small>TFWKB photo collection; source not recorded [@wb 20021013235815 http://www.teamwiess.com:80/pow.html]</small></figcaption>
 </figure>
 
@@ -635,13 +638,13 @@ On [The Core Team](../people/core-team.md#photographs).
 </figure>
 
 <figure markdown="span">
-  ![Dr. Bill Wilson, resident associate, as pictured on the first website's Associates page.](../assets/photos/riceinfo-1997-2002/thumbs/peepul-associates-drbill-tn.jpg){ loading=lazy data-title="Dr. Bill Wilson, resident associate, as pictured on the first website&#x27;s Associates page." data-description="First Wiess website, People pages, 1998–2000 · 1998–2000" data-gallery="index-coreteam" }
-  <figcaption>Dr. Bill Wilson, resident associate, as pictured on the first website's Associates page. <small>First Wiess website, People pages, 1998–2000 [@riceinfo-masters]</small></figcaption>
+  ![Dr. Bill Wilson, Resident Associate, as pictured on the first website's Associates page.](../assets/photos/riceinfo-1997-2002/thumbs/peepul-associates-drbill-tn.jpg){ loading=lazy data-title="Dr. Bill Wilson, Resident Associate, as pictured on the first website&#x27;s Associates page." data-description="First Wiess website, People pages, 1998–2000 · 1998–2000" data-gallery="index-coreteam" }
+  <figcaption>Dr. Bill Wilson, Resident Associate, as pictured on the first website's Associates page. <small>First Wiess website, People pages, 1998–2000 [@riceinfo-masters]</small></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Dr. Stan Dodds, resident associate.](../assets/photos/riceinfo-1997-2002/thumbs/peepul-associates-standodds-tn.jpg){ loading=lazy data-title="Dr. Stan Dodds, resident associate." data-description="First Wiess website, People pages, 1998–2000 · 1998–2000" data-gallery="index-coreteam" }
-  <figcaption>Dr. Stan Dodds, resident associate. <small>First Wiess website, People pages, 1998–2000 [@riceinfo-masters]</small></figcaption>
+  ![Dr. Stan Dodds, Resident Associate.](../assets/photos/riceinfo-1997-2002/thumbs/peepul-associates-standodds-tn.jpg){ loading=lazy data-title="Dr. Stan Dodds, Resident Associate." data-description="First Wiess website, People pages, 1998–2000 · 1998–2000" data-gallery="index-coreteam" }
+  <figcaption>Dr. Stan Dodds, Resident Associate. <small>First Wiess website, People pages, 1998–2000 [@riceinfo-masters]</small></figcaption>
 </figure>
 
 <figure markdown="span">
