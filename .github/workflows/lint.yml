@@ -31,5 +31,5 @@ jobs:
         run: ruff check --output-format=github
       - name: pylint (name length and banned abbreviations)
         working-directory: tools
-        run: pylint
+        run: pylint tools
 
