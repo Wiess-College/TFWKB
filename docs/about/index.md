@@ -11,9 +11,9 @@ title: About this site
 
 ## What this is
 
-Team Family Wiess Knowledge Base (TFWKB) is the history of Wiess College at Rice University. It covers the traditions, the buildings, the people in college jobs, the rules, and how all of it changed.
+Team Family Knowledgebase is the history of Wiess College at Rice University. It covers the traditions, the buildings, the people in college jobs, the rules, and how all of it changed.
 
-Every fact links to where it came from. When sources disagree, the page says so. When we haven't found something yet, the page says that too.
+Every fact should be cited.
 
 ## Why it exists
 
@@ -23,7 +23,7 @@ Wiess has been telling its own story since at least 1972: in Freshman Handbooks,
 
 ## Small on purpose
 
-This site is condensed knowledge. It says what happened and cites the source. It doesn't re-host whole archives.
+This site is condensed knowledge. It says what happened and cites the source. It doesn't re-host whole archives. This does not replace oral history, in fact it cites it and moves on; it relies on oral history to be relevant.
 
 Click a citation and you go to the real thing: a Thresher page at the Portal to Texas History, a Wayback Machine capture, an O-Week book page. Those archives do the hard work of keeping things forever. We just make them easy to find.
 
@@ -31,7 +31,7 @@ Click a citation and you go to the real thing: a Thresher page at the Portal to 
 
 The [Wiess Historians](../people/historians.md) and a small group of maintainers, all Wiess students, alumni or staff. The jobs rotate at Changeover each spring. See [Maintainers](../contributing/maintainers.md).
 
-Anyone can help. See [Add your story or fix something](contribute.md).
+That said, anyone can help. If you're part of the Wiess community, you own it's history. See [Add your story or fix something](contribute.md).
 
 ## Two places to write
 
@@ -42,7 +42,7 @@ The Historian's job is to move things from the Commons to the Record once they h
 
 ## Where things stand
 
-This is the first version, built in October 2026 from the War Pig research and that fall's web-archive digging. Every page says `draft` until a maintainer checks it against its sources. Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues) and in the [search log](../sources/search-log.md).
+This is the first version, built in October 2026 from the War Pig research, a core-team member's Notiin database and that fall's web-archive digging. Every page says `draft` until a maintainer checks it against its sources. Open questions are tracked as [GitHub issues](https://github.com/Wiess-College/TFWKB/issues) and in the [search log](../sources/search-log.md).
 
 What we've gathered is a small part of what exists. Rice's Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files [@woodson-ua0079], so a missing detail usually just means we haven't found it yet.
 

@@ -1,40 +1,24 @@
 # TFWKB style guide
 
-How to write and rewrite pages for Team Family Wiess Knowledge Base. Read this before you touch a page under `docs/`.
+How to write and rewrite pages for Team Family Knowledgebase. Read this before you touch a page under `docs/`.
 
-The readers are mostly college students, often on a phone. Give them the plain facts first and short paragraphs. The timeline and sources are underneath for anyone who wants to check.
+Assume that readers are mostly college students on their phones or in a hurry. Give them the plain facts first and short paragraphs. The timeline and sources are underneath for anyone who wants to check.
 
 ---
 
 ## 1. Voice
 
-Write like a good reference work about a fun place: plain, exact, and calm. The fun comes from the facts and
-from the sources' own words, not from our sentences.
+Write like a good reference work about a fun place: plain, exact, and calm. The fun comes from the facts and from the sources' own words, not from our sentences.
 
-- **Neutral narrator:** Third person. No "you", "we'll", exclamation marks, jokes or winks in our own sentences.
-  Present tense for things that still happen ("Cabinet meets on Wednesdays"), past tense for things that ended
-  or were last seen long ago ("JamFest was…").
-- **Quote the O-Week books; don't imitate them:** They're written like a hype video. That voice belongs in
-  quotation marks, mostly under "Historic references". In the body, say what happened in flat terms:
-  "Freshmen are drawn at random," not "it's a little bit complicated, but you'll figure it out."
-- **Only details that define the thing:** Ask: would a Wiessman from another decade recognise the thing from
-  this sentence? "A day of live bands in the Acabowl" passes. "Free", "food", "towels on the grass" don't.
-  Side details can live in the timeline.
-- **Short and concrete:** One idea per sentence, most under 20 words. Paragraphs of one to three sentences.
-  Specific nouns and dates ("16 April 1993", "12 to 14 acts"); no filler ("over the years", "it's worth noting",
-  "a variety of").
-- **Explain by linking, not by asides:** Link the first mention of a Wiess word to its page. Avoid parenthetical
-  glosses like "(a grown-up who lives in the college)"; if a gloss is needed, use a short noun phrase:
-  "Dr. Bill Wilson, a longtime resident associate".
-- **Say uncertainty once, plainly:** "The earliest mention found so far is 1987." Don't repeat it in every
-  paragraph, and don't narrate the research ("we dug through…").
-- **Give the record the benefit of the doubt:** What we've gathered is a small part of what exists. Rice's
-  Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files. If we
-  haven't found something, nothing is lost, missing, forgotten or undocumented: it hasn't been found yet.
-- **Disagreements in one sentence:** "The sources disagree: the 2005 site says 1974, the college website 1975."
-  Both citations. Don't pick a winner quietly.
-- **Words to avoid:** "corpus", "attested", "provenance", "extant", "the record shows", "notably", "legendary",
-  "beloved", "iconic", "epic", "super", "vibes", "sadly", "survive(s)" (about documents).
+- **Neutral narrator.** Third person. No "you", "we'll", exclamation marks, jokes or winks in our own sentences. Use Present tense for things that still happen ("Cabinet meets on Wednesdays"), past tense for things that ended or were last seen long ago ("JamFest was…").
+- **Quote a source; don't imitate them.** for example, o-week books are written like a hype video. That voice belongs in quotation marks, mostly under "Historic references". In the body, say what happened in flat terms: "Freshmen are drawn at random," not "it's a little bit complicated, but you'll figure it out."
+- **Only details that define the thing.** Ask: would a Wiessman from another decade recognise the thing from this sentence? "A day of live bands in the Acabowl" passes. "Free", "food", "towel on the grass" don't. Side details can live in the timeline.
+- **Short and concrete.** One idea per sentence, most under 20 words. Paragraphs of one to three sentences. Specific nouns and dates ("16 April 1993", "12 to 14 acts"); no filler ("over the years", "it's worth noting", "a variety of").
+- **Explain by linking, not by asides.** Link the first mention of a Wiess word to its page. Avoid parenthetical glosses like "(a grown-up who lives in the college)"; if a gloss is needed, use a short noun phrase: "Dr. Bill Wilson, a longtime resident associate".
+- **Say uncertainty once, plainly.** "The earliest mention found so far is 1987." Don't repeat it in every paragraph, and don't narrate the research ("we dug through…").
+- **Give the record the benefit of the doubt.** What we've gathered is a small part of what exists. Rice's Woodson Research Center alone holds 34.75 linear feet of Wiess papers, plus 28 GB of digital files. If we haven't found something, nothing is lost, missing, forgotten or undocumented: it hasn't been found yet.
+- **Disagreements in one sentence.** "The sources disagree: the 2005 site says 1974, the college website 1975." Both citations. Don't pick a winner quietly.
+- **Words to avoid:** "corpus", "attested", "provenance", "extant", "the record shows", "notably", "legendary", "beloved", "iconic", "epic", "super", "vibes", "sadly", "survive(s)" (about documents).
 - **Glossary of house terms** (link on first use): Magister → [Magisters](docs/people/magisters.md);
   Commons → [The Commons](docs/places/commons.md); O-Week → [O-Week](docs/traditions/o-week.md);
   Cabinet → [Cabinet](docs/governance/cabinet.md); resident associate (RA) →
@@ -81,7 +65,7 @@ Short evening show: 2010-2011?
 * Two stages, 14 acts: 2005
 ```
 
-Bold run-in labels for eras are fine: **Talent show, 1987–1992:** …
+Bold run-in labels for eras are fine: **Talent show, 1987–1992.** …
 
 <!-- GALLERY:key -->
 ...photos stay visible, untouched...
@@ -111,14 +95,14 @@ Notes on the shape:
   separated by semicolons, written either way round: `Internal VP: ?1993-2006 Executive; 2016- Internal` or
   `Assistant: ?2020-2024; Apprentice: 2025-now`. `[Parliamentarian]: ?1993-now` is a one-row group. A bar that starts
   before `from:` is cut at the left edge and marked ‹. Keep the dates exactly as the timeline table and sources give them.
-- **No TL;DR box:** The lead and the key facts do that job.
+- **No TL;DR box.** The lead and the key facts do that job.
 - **Citations** are written inline as `[@key]` and render as numbered footnotes with a References list at the
   bottom (built automatically).
 - **Timeline** is visible, at the bottom, with its evidence tags. Long pages may collapse it with
   `??? info "Timeline"`.
 - **Historic references** holds the best two to five quotes, each in a `!!! quote "Source, year"` box. This is
   where the O-Week books' voice belongs.
-- **Open questions don't live on the page:** They go in `issues/open-questions.tsv` and from there into GitHub
+- **Open questions don't live on the page.** They go in `issues/open-questions.tsv` and from there into GitHub
   issues (see `issues/README.md`).
 - **Disagreements** get one plain sentence where they matter, with both citations.
 - **Anchors:** if other pages link to a heading, keep it or add `{ #old-anchor }`. The strict build catches
@@ -126,16 +110,16 @@ Notes on the shape:
 
 ## 3. Rules (these are not optional)
 
-1. **Never drop a citation that supports a claim you keep:** Every fact left on the page keeps its `[@…]`. If you cut a fact, you may cut its citation; if you keep a fact, its citation goes with it, even into the key facts.
-2. **Don't invent facts:** Simplify, don't embellish. No new dates, numbers, names or "probably"s that aren't in the page or its sources. If the page says "c.1990", you say "around 1990", not "1990".
+1. **Never drop a citation that supports a claim you keep.** Every fact left on the page keeps its `[@…]`. If you cut a fact, you may cut its citation; if you keep a fact, its citation goes with it, even into the key facts.
+2. **Don't invent facts.** Simplify, don't embellish. No new dates, numbers, names or "probably"s that aren't in the page or its sources. If the page says "c.1990", you say "around 1990", not "1990".
 3. **Evidence tags `[P]` `[R]` `[T]` stay inside the receipts tables**, in the Evidence column. Don't sprinkle them in the prose.
-4. **Gallery blocks stay intact:** Never edit anything between `<!-- GALLERY:key -->` and `<!-- /GALLERY:key -->`, never remove the markers, and never put a gallery inside a collapsed `???` box. Photos stay visible.
-5. **Front matter stays:** Don't change `title`, `status`, `last_reviewed`, `reviewed_by`, `search`, `hide`, or anything else between the `---` lines.
-6. **Big Bang spoiler rule:** Big Bang is a surprise for freshmen. Its page shows only a teaser ("It's coming.") and everything else stays inside the `??? danger "Spoilers ahead…"` box, and the page stays out of search (`search: exclude: true`). On *other* pages, never describe what happens at Big Bang; just link the page. Same goes for anything else a page marks as a spoiler.
-7. **Privacy:** No one who may still be a student is named: anyone whose Wiess or Rice mention dates from the 2023–24 academic year or later is described by role instead ("the Chief Justice", "a Head Fellow"). Naming a current officer can imply academic standing, which is student record information. Older students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
-8. **Disagreements stay visible:** If sources disagree, say so briefly in the prose, with both citations. Don't quietly pick a winner. The full back-and-forth goes in an issue.
-9. **Quotes are for Historic references:** Keep the best short ones (under ~25 words), word-for-word, including odd spelling, with their citations (see Rights). Quote sparingly in the body; never borrow a source's hype as our own wording.
-10. **Build must pass:** `mkdocs build --strict` with no warnings. Unknown citation keys fail the build.
+4. **Gallery blocks stay intact.** Never edit anything between `<!-- GALLERY:key -->` and `<!-- /GALLERY:key -->`, never remove the markers, and never put a gallery inside a collapsed `???` box. Photos stay visible.
+5. **Front matter stays.** Don't change `title`, `status`, `last_reviewed`, `reviewed_by`, `search`, `hide`, or anything else between the `---` lines.
+6. **Big Bang spoiler rule.** Big Bang is a surprise for freshmen. Its page shows only a teaser ("It's coming.") and everything else stays inside the `??? danger "Spoilers ahead…"` box, and the page stays out of search (`search: exclude: true`). On *other* pages, never describe what happens at Big Bang; just link the page. Same goes for anything else a page marks as a spoiler.
+7. **Privacy.** No one who may still be a student is named: anyone whose Wiess or Rice mention dates from the 2023–24 academic year or later is described by role instead ("the Chief Justice", "a Head Fellow"). Naming a current officer can imply academic standing, which is student record information. Older students appear only in their public college roles (officers, authors, people quoted in the Thresher, public commenters). No room numbers, phone numbers, addresses or rosters, even if an old source printed them. Nothing revealing from Night of Decadence. Anyone can ask to be named by role instead. See `docs/contributing/rights.md`.
+8. **Disagreements stay visible.** If sources disagree, say so briefly in the prose, with both citations. Don't quietly pick a winner. The full back-and-forth goes in an issue.
+9. **Quotes are for Historic references.** Keep the best short ones (under ~25 words), word-for-word, including odd spelling, with their citations (see Rights). Quote sparingly in the body; never borrow a source's hype as our own wording.
+10. **Build must pass.** `mkdocs build --strict` with no warnings. Unknown citation keys fail the build.
 
 ## 4. Formatting cheat sheet
 

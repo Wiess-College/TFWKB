@@ -6,16 +6,14 @@ in sources/glossaries/, and this script lines the tables up by term, so a reader
 through the years and an editor can see what each book added, dropped or reworded. The page is
 generated: fixing it by hand would be overwritten on the next run, so fixes go in the tables.
 
-It reads every sources/glossaries/<source key>.tsv except files whose names start with "_". Each has a
+It reads every sources/glossaries/<year>.tsv except files whose names start with "_". Each has a
 header row and the columns term, definition, source_key and locator:
 
     War Pig<TAB>The Wiess mascot...<TAB>oweek-2006<TAB>p.84
 
-A table is named for the bibliography key of its source, so the file says where its words came from:
-oweek-2006.tsv, owlmanac-2016.tsv, handbook-1994.tsv. On the page each table is labelled by its year,
-with the kind of source added for anything but an O-Week book: "2006", "2016-owlmanac", "1994-handbook"
-(see label_glossary). Tables are put in order by year, an O-Week book before another source of the same
-year; a name with no year at its end goes last, labelled by its whole name.
+A "year" is the file name without .tsv, so it may carry a suffix ("2016-owlmanac"). Years are put in
+order by their leading four digits, then by the rest of the name, so "2016-owlmanac" follows "2016";
+a name that does not start with four digits goes last.
 
 Terms are matched across years after normalising them: lower case, keeping only the letters a-z,
 digits and spaces, with the spellings listed in TERM_ALIASES mapped to one term ("The Ubangee" and
@@ -70,8 +68,8 @@ SERIES_PAGE_FRONT_MATTER = (
     "---\n"
 )
 
-# A glossary file name: a bibliography key of the kind of source, a hyphen and a year ("owlmanac-2016").
-GLOSSARY_FILE_NAME_PATTERN = re.compile(r"(?P<kind>.+)-(?P<year>\d{4})")
+# A glossary file name: a four-digit year, then anything ("2016-owlmanac" gives "2016" and "-owlmanac").
+GLOSSARY_FILE_NAME_PATTERN = re.compile(r"(?P<year>\d{4})(?P<suffix>.*)")
 
 # Normalised spellings (see normalise_term) mapped to the one term they all mean. Every term on the right
 # also lets a leading "the" be dropped from what the books print, so "the team wiess" becomes "team wiess";
@@ -113,7 +111,6 @@ TERM_ALIASES = {
     "passfail": "pf", "rice village": "village", "leebron": "leebron and ping",
     "bc lindsay": "bc", "doward christie": "doward", "mike denise": "mike",
     "ironmanironwoman": "ironmanironwoman",
-    # 2019–2025 books (maintainer's collection)
     "acagliders": "acaglider", "acagrills": "acagrill", "afellows": "affiliates",
     "wilson house wiess magister house": "wiess master house",
     "the bookstore": "bookstore", "coffeehouse chaus": "coffeehouse", "fondren fondy": "fondren",
@@ -156,44 +153,23 @@ def main() -> None:
 
 
 def load_glossaries() -> dict[str, dict[str, GlossaryEntry]]:
-    """Return each table's glossary entries by normalised term, keyed by its label, in order."""
-    return {label: read_glossary_file(glossary_file) for label, glossary_file in find_glossary_files().items()}
+    """Return each year's glossary entries by normalised term, with the years in order."""
+    glossaries = {}
+    for glossary_file in sorted(glob.glob(GLOSSARY_FILES_GLOB), key=rank_glossary_file):
+        year = os.path.splitext(os.path.basename(glossary_file))[0]
+        if year.startswith("_"):
+            continue
+        glossaries[year] = read_glossary_file(glossary_file)
+    return glossaries
 
 
-def find_glossary_files() -> dict[str, str]:
-    """Return every glossary table's file by its label ("2006", "2016-owlmanac"), in order of year.
-
-    tools/diff_glossary.py and tools/add_glossary.py use this too, so they label and order the tables the
-    same way as the page.
-    """
-    glossary_files = [
-        glossary_file
-        for glossary_file in glob.glob(GLOSSARY_FILES_GLOB)
-        if not os.path.basename(glossary_file).startswith("_")
-    ]
-    return {
-        label_glossary(os.path.splitext(os.path.basename(glossary_file))[0]): glossary_file
-        for glossary_file in sorted(glossary_files, key=rank_glossary_file)
-    }
-
-
-def label_glossary(source_key: str) -> str:
-    """Return a table's label: its year for an O-Week book, else year and kind ("1994-handbook")."""
-    key_parts = GLOSSARY_FILE_NAME_PATTERN.fullmatch(source_key)
-    if not key_parts:
-        return source_key
-    if key_parts["kind"] == "oweek":
-        return key_parts["year"]
-    return f"{key_parts['year']}-{key_parts['kind']}"
-
-
-def rank_glossary_file(glossary_file: str) -> tuple[int, bool, str]:
-    """Return a sort key: year, then O-Week books before other sources, then name; no year sorts last."""
+def rank_glossary_file(glossary_file: str) -> tuple[int, str]:
+    """Return a sort key that orders glossary files by year, then suffix; a name without a year sorts last."""
     file_name = os.path.splitext(os.path.basename(glossary_file))[0]
-    key_parts = GLOSSARY_FILE_NAME_PATTERN.fullmatch(file_name)
-    if key_parts:
-        return (int(key_parts["year"]), key_parts["kind"] != "oweek", key_parts["kind"])
-    return (9999, True, file_name)
+    file_name_parts = GLOSSARY_FILE_NAME_PATTERN.match(file_name)
+    if file_name_parts:
+        return (int(file_name_parts["year"]), file_name_parts["suffix"])
+    return (9999, file_name)
 
 
 def group_entries_by_term(
@@ -243,10 +219,10 @@ def render_introduction(years: list[str]) -> list[str]:
         "    - Watch words drift: the War Pig is \"the Wiess mascot\" in 1994, \"**Former** Wiess mascot\" from 2006, "
         "and \"the giant wooden pig built by the Class of 2012\" from 2014.\n"
         "    - Skip to the one-year wonders at the bottom for the jokes that lasted a single semester.\n\n"
-        "**How it works:** This page is built by a script from "
+        "**How it works.** This page is built by a script from "
         f"{len(years)} glossaries ({', '.join(years)}). Want to fix something? Edit `sources/glossaries/*.tsv`, "
         "then run `tools/build_glossary_series.py`. Don't edit this page by hand.\n\n"
-        "**Renamed things stay together:** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
+        "**Renamed things stay together.** When a book renamed something (Room Draw → Housing Jack, Willy Week → "
         "Piggy Week, Turnover → Changeover, Commons → Commons Culture), it's grouped under one term. "
         "The newer name shows in italics next to its year.\n",
     ]
