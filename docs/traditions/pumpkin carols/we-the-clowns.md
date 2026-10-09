@@ -15,14 +15,3 @@ Ohhhhhhh, ohhhhhhh Star of horror, star of blight
 Star with mystic powers if might  
 Upward leading we are pleading  
 Let this be Great Pumpkin's night  
-
-
-![we the clowns sheet music](../../assets/photos/graphics/we-the-clowns_music-sheet-gray.png)
-<!-- <img src="/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg" alt="sheet music for we the clowns"/>  -->
-
-
-
-<audio controls autoplay>
-<source src="/TFWKB/assets/sounds/we-the-clowns-spooky.mp4" type="audio/mp4">
-</audio>
-
