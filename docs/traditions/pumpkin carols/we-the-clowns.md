@@ -17,3 +17,8 @@ Upward leading we are pleading
 Let this be Great Pumpkin's night  
   
 ![music sheet](/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg)  
+
+
+
+https://github.com/user-attachments/assets/1134bf51-0084-42b8-8d09-20d7536ff7ad
+
