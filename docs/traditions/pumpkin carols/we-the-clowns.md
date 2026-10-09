@@ -15,8 +15,10 @@ Ohhhhhhh, ohhhhhhh Star of horror, star of blight
 Star with mystic powers if might  
 Upward leading we are pleading  
 Let this be Great Pumpkin's night  
-  
-<img src="/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg" alt="sheet music for we the clowns"/>  
+
+
+![we the clowns sheet music](/docs/traditions/pumpkin carols/we-the-clowns.md)
+<!-- <img src="/docs/assets/photos/graphics/we-the-clowns_music-sheet-white.svg" alt="sheet music for we the clowns"/>  -->
 
 
 
